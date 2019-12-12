@@ -1,0 +1,5 @@
+	title = c_woralla
+	max_settlements = 7
+	culture = roman
+	religion = samaritan
+	b_atitya = tribal

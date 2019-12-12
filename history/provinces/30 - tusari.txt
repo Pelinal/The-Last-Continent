@@ -1,0 +1,5 @@
+	title = c_tusari
+	max_settlements = 4
+	culture = turkish
+	religion = zun_pagan
+	b_nabdipp = tribal

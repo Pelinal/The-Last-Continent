@@ -1,0 +1,5 @@
+	title = c_kupenfan
+	max_settlements = 7
+	culture = daju
+	religion = pagan
+	b_koraoge = tribal

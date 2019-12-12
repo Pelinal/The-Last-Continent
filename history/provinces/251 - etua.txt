@@ -1,0 +1,5 @@
+	title = c_etua
+	max_settlements = 7
+	culture = volhynian
+	religion = finnish_pagan
+	b_waua = tribal

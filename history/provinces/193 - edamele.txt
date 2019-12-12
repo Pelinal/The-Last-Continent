@@ -1,0 +1,5 @@
+	title = c_edamele
+	max_settlements = 6
+	culture = avar
+	religion = hellenic_pagan
+	b_nanjan = tribal

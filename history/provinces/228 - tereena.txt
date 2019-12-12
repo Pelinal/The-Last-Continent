@@ -1,0 +1,5 @@
+	title = c_tereena
+	max_settlements = 4
+	culture = sinhala
+	religion = west_african_pagan
+	b_nataila = tribal

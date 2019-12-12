@@ -1,0 +1,5 @@
+	title = c_qeguri
+	max_settlements = 4
+	culture = nubian
+	religion = zikri
+	b_kerayn = tribal

@@ -1,0 +1,5 @@
+	title = c_abaila
+	max_settlements = 7
+	culture = slovieni
+	religion = miaphysite
+	b_binarak = tribal

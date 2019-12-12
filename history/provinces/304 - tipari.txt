@@ -1,0 +1,5 @@
+	title = c_tipari
+	max_settlements = 2
+	culture = occitan
+	religion = qarmatian
+	b_lanari = tribal

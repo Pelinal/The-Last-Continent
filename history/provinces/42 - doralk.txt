@@ -1,0 +1,5 @@
+	title = c_doralk
+	max_settlements = 5
+	culture = russian
+	religion = interface_skin
+	b_qalamaj = tribal

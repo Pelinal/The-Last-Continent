@@ -1,0 +1,5 @@
+	title = c_negizo
+	max_settlements = 7
+	culture = tamil
+	religion = interface_skin
+	b_eraila = tribal

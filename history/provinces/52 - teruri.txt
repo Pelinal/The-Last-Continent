@@ -1,0 +1,5 @@
+	title = c_teruri
+	max_settlements = 6
+	culture = levantine_arabic
+	religion = zun_pagan_reformed
+	b_rinamaj = tribal

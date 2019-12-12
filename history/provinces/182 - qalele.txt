@@ -1,0 +1,5 @@
+	title = c_qalele
+	max_settlements = 7
+	culture = lettigallish
+	religion = color
+	b_luri = tribal

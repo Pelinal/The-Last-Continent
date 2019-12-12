@@ -1,0 +1,5 @@
+	title = c_kabayn
+	max_settlements = 6
+	culture = mongol
+	religion = finnish_pagan
+	b_satict = tribal

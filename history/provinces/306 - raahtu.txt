@@ -1,0 +1,5 @@
+	title = c_raahtu
+	max_settlements = 7
+	culture = russian
+	religion = zoroastrian
+	b_lomiek = tribal

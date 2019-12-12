@@ -1,0 +1,5 @@
+	title = c_lolaide
+	max_settlements = 7
+	culture = norse
+	religion = jain
+	b_qolarda = tribal

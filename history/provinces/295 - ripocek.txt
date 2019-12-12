@@ -1,0 +1,5 @@
+	title = c_ripocek
+	max_settlements = 7
+	culture = andalusian_arabic
+	religion = finnish_pagan_reformed
+	b_domocek = tribal

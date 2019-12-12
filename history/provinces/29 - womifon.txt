@@ -1,0 +1,5 @@
+	title = c_womifon
+	max_settlements = 7
+	culture = persian
+	religion = mazdaki
+	b_layana = tribal

@@ -1,0 +1,5 @@
+	title = c_bizo
+	max_settlements = 6
+	culture = dutch
+	religion = iconoclast
+	b_kalence = tribal

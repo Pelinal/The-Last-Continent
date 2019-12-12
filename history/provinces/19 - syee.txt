@@ -1,0 +1,5 @@
+	title = c_syee
+	max_settlements = 4
+	culture = mongol
+	religion = lollard
+	b_tukee = tribal

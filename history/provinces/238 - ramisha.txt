@@ -1,0 +1,5 @@
+	title = c_ramisha
+	max_settlements = 7
+	culture = crimean_gothic
+	religion = norse_pagan_reformed
+	b_kataide = tribal

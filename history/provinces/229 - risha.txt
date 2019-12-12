@@ -1,0 +1,5 @@
+	title = c_risha
+	max_settlements = 3
+	culture = samoyed
+	religion = mazdaki
+	b_tabisha = tribal

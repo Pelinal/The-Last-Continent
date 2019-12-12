@@ -1,0 +1,5 @@
+	title = c_duri
+	max_settlements = 7
+	culture = prussian
+	religion = fraticelli
+	b_kerarda = tribal

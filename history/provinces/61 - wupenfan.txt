@@ -1,0 +1,5 @@
+	title = c_wupenfan
+	max_settlements = 7
+	culture = baloch
+	religion = interface_skin
+	b_acyuai = tribal

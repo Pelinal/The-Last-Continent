@@ -1,0 +1,5 @@
+	title = c_tyaah
+	max_settlements = 4
+	culture = assyrian
+	religion = ibadi
+	b_qocanes = tribal

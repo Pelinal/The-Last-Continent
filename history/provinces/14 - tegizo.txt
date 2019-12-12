@@ -1,0 +1,5 @@
+	title = c_tegizo
+	max_settlements = 6
+	culture = zaghawa
+	religion = nestorian
+	b_qolele = tribal

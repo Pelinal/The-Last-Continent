@@ -1,0 +1,5 @@
+	title = c_wohict
+	max_settlements = 7
+	culture = bulgarian
+	religion = baltic_pagan_reformed
+	b_tence = tribal

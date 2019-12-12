@@ -1,0 +1,5 @@
+	title = c_legak
+	max_settlements = 5
+	culture = georgian
+	religion = kharijite
+	b_rizekel = tribal

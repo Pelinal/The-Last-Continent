@@ -1,0 +1,5 @@
+	title = c_lanayn
+	max_settlements = 3
+	culture = persian
+	religion = tengri_pagan
+	b_wohaila = tribal

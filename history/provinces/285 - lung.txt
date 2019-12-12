@@ -1,0 +1,5 @@
+	title = c_lung
+	max_settlements = 7
+	culture = roman
+	religion = jewish
+	b_wetinpal = tribal

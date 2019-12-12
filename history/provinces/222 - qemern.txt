@@ -1,0 +1,5 @@
+	title = c_qemern
+	max_settlements = 3
+	culture = romanian
+	religion = interface_skin
+	b_nereena = tribal

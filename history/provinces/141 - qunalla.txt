@@ -1,0 +1,5 @@
+	title = c_qunalla
+	max_settlements = 7
+	culture = khazar
+	religion = zoroastrian
+	b_tacayak = tribal

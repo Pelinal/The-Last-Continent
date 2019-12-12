@@ -1,0 +1,5 @@
+	title = c_alateena
+	max_settlements = 6
+	culture = norse
+	religion = nestorian
+	b_rataila = tribal

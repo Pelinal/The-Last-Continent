@@ -1,0 +1,5 @@
+	title = c_bipifon
+	max_settlements = 2
+	culture = swedish
+	religion = lollard
+	b_nyana = tribal

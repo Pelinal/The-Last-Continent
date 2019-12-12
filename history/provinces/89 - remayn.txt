@@ -1,0 +1,5 @@
+	title = c_remayn
+	max_settlements = 7
+	culture = bulgarian
+	religion = hurufi
+	b_kisha = tribal

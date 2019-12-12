@@ -1,0 +1,5 @@
+	title = c_kikua
+	max_settlements = 7
+	culture = visigothic
+	religion = jain
+	b_tiaguba = tribal

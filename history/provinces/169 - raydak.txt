@@ -1,0 +1,5 @@
+	title = c_raydak
+	max_settlements = 7
+	culture = bodpa
+	religion = buddhist
+	b_ranevon = tribal

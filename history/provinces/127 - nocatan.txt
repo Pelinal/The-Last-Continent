@@ -1,0 +1,5 @@
+	title = c_nocatan
+	max_settlements = 7
+	culture = bengali
+	religion = hellenic_pagan_reformed
+	b_naymarfa = tribal

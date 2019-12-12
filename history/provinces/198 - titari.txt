@@ -1,0 +1,5 @@
+	title = c_titari
+	max_settlements = 7
+	culture = oriya
+	religion = interface_skin
+	b_qiaguqu = tribal

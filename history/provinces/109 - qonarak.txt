@@ -1,0 +1,5 @@
+	title = c_qonarak
+	max_settlements = 7
+	culture = uyghur
+	religion = baltic_pagan_reformed
+	b_raseorn = tribal

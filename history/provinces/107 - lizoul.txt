@@ -1,0 +1,5 @@
+	title = c_lizoul
+	max_settlements = 7
+	culture = somali
+	religion = hurufi
+	b_raydegh = tribal

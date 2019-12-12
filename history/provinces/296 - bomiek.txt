@@ -1,0 +1,5 @@
+	title = c_bomiek
+	max_settlements = 2
+	culture = finnish
+	religion = interface_skin
+	b_kosaira = tribal

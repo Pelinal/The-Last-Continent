@@ -1,0 +1,5 @@
+	title = c_wawujin
+	max_settlements = 7
+	culture = maghreb_arabic
+	religion = lollard
+	b_ritofan = tribal

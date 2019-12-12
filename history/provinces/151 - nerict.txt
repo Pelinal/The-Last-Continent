@@ -1,0 +1,5 @@
+	title = c_nerict
+	max_settlements = 7
+	culture = nubian
+	religion = interface_skin
+	b_kolict = tribal

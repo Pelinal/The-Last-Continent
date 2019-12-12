@@ -1,0 +1,5 @@
+	title = c_litifon
+	max_settlements = 7
+	culture = bosnian
+	religion = cathar
+	b_ebofan = tribal

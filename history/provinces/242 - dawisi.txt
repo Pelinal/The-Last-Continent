@@ -1,0 +1,5 @@
+	title = c_dawisi
+	max_settlements = 4
+	culture = armenian
+	religion = color
+	b_wutari = tribal

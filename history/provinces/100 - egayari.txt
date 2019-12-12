@@ -1,0 +1,5 @@
+	title = c_egayari
+	max_settlements = 5
+	culture = irish
+	religion = taoist
+	b_kaaria = tribal

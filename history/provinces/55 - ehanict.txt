@@ -1,0 +1,5 @@
+	title = c_ehanict
+	max_settlements = 7
+	culture = khazar
+	religion = monophysite
+	b_qoluri = tribal

@@ -1,0 +1,5 @@
+	title = c_lyaniek
+	max_settlements = 5
+	culture = rajput
+	religion = zikri
+	b_told = tribal

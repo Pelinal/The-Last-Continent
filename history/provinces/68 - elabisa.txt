@@ -1,0 +1,5 @@
+	title = c_elabisa
+	max_settlements = 7
+	culture = mordvin
+	religion = tengri_pagan_reformed
+	b_sisa = tribal

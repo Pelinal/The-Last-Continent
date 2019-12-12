@@ -1,0 +1,5 @@
+	title = c_siten
+	max_settlements = 4
+	culture = norwegian
+	religion = slavic_pagan_reformed
+	b_butujin = tribal

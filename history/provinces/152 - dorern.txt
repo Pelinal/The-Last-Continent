@@ -1,0 +1,5 @@
+	title = c_dorern
+	max_settlements = 7
+	culture = sephardi
+	religion = waldensian
+	b_relizo = tribal

@@ -1,0 +1,5 @@
+	title = c_rer-ada
+	max_settlements = 7
+	culture = carantanian
+	religion = manichean
+	b_wokizo = tribal

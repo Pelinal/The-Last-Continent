@@ -1,0 +1,5 @@
+	title = c_namaj
+	max_settlements = 7
+	culture = egyptian_arabic
+	religion = pagan
+	b_kuri = tribal

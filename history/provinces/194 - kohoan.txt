@@ -1,0 +1,5 @@
+	title = c_kohoan
+	max_settlements = 3
+	culture = bosnian
+	religion = lollard
+	b_elarda = tribal

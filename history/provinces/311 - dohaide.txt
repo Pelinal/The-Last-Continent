@@ -1,0 +1,5 @@
+	title = c_dohaide
+	max_settlements = 2
+	culture = croatian
+	religion = hindu
+	b_dolarda = tribal

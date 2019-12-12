@@ -1,0 +1,5 @@
+	title = c_tororgia
+	max_settlements = 7
+	culture = rajput
+	religion = finnish_pagan_reformed
+	b_elartin = tribal

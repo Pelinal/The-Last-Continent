@@ -1,0 +1,5 @@
+	title = c_qorele
+	max_settlements = 7
+	culture = sumpa
+	religion = interface_skin
+	b_turence = tribal

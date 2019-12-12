@@ -1,0 +1,5 @@
+	title = c_darda
+	max_settlements = 7
+	culture = oriya
+	religion = slavic_pagan_reformed
+	b_qorarda = tribal

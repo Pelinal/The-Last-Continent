@@ -1,0 +1,5 @@
+	title = c_araydegh
+	max_settlements = 6
+	culture = bolghar
+	religion = iconoclast
+	b_wyaol = tribal

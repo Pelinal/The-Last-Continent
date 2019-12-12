@@ -1,0 +1,5 @@
+	title = c_begoul
+	max_settlements = 5
+	culture = sogdian
+	religion = karaite
+	b_saymatan = tribal

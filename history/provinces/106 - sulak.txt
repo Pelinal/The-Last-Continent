@@ -1,0 +1,5 @@
+	title = c_sulak
+	max_settlements = 7
+	culture = karluk
+	religion = mazdaki
+	b_aferevon = tribal

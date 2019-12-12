@@ -1,0 +1,5 @@
+	title = c_amoraoge
+	max_settlements = 4
+	culture = khanty
+	religion = druze
+	b_banisi = tribal

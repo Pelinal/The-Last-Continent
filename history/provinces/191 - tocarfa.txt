@@ -1,0 +1,5 @@
+	title = c_tocarfa
+	max_settlements = 7
+	culture = severian
+	religion = zikri
+	b_rocisi = tribal

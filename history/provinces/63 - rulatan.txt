@@ -1,0 +1,5 @@
+	title = c_rulatan
+	max_settlements = 7
+	culture = saxon
+	religion = manichean
+	b_degarfa = tribal

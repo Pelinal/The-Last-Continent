@@ -1,0 +1,5 @@
+	title = c_wutuchen
+	max_settlements = 6
+	culture = ilmenian
+	religion = fraticelli
+	b_etaoge = tribal

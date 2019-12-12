@@ -1,0 +1,5 @@
+	title = c_saloan
+	max_settlements = 2
+	culture = andalusian_arabic
+	religion = qarmatian
+	b_lorgia = tribal

@@ -1,0 +1,5 @@
+	title = c_amasiza
+	max_settlements = 7
+	culture = tocharian
+	religion = west_african_pagan_reformed
+	b_lomuna = tribal

@@ -1,0 +1,5 @@
+	title = c_kacoria
+	max_settlements = 7
+	culture = frankish
+	religion = mazdaki
+	b_reting = tribal

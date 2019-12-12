@@ -1,0 +1,5 @@
+	title = c_tizaria
+	max_settlements = 7
+	culture = zhangzhung
+	religion = west_african_pagan_reformed
+	b_dacosgi = tribal

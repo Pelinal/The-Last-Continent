@@ -1,0 +1,5 @@
+	title = c_nocak
+	max_settlements = 7
+	culture = avar
+	religion = karaite
+	b_wegosgi = tribal

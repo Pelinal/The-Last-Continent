@@ -1,0 +1,5 @@
+	title = c_nolaila
+	max_settlements = 7
+	culture = scottish
+	religion = druze
+	b_balamaj = tribal

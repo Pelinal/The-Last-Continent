@@ -1,0 +1,5 @@
+	title = c_kacatan
+	max_settlements = 2
+	culture = oriya
+	religion = qarmatian
+	b_legarfa = tribal

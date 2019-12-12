@@ -1,0 +1,5 @@
+	title = c_dyuu
+	max_settlements = 7
+	culture = carantanian
+	religion = ibadi
+	b_esawaria = tribal

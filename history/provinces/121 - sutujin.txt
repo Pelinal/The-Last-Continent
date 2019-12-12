@@ -1,0 +1,5 @@
+	title = c_sutujin
+	max_settlements = 7
+	culture = khitan
+	religion = cathar
+	b_noryi = tribal

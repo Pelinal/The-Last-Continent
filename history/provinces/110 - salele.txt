@@ -1,0 +1,5 @@
+	title = c_salele
+	max_settlements = 7
+	culture = kurdish
+	religion = finnish_pagan
+	b_efolamaj = tribal

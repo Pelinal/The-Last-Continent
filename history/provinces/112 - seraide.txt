@@ -1,0 +1,5 @@
+	title = c_seraide
+	max_settlements = 7
+	culture = saxon
+	religion = interface_skin
+	b_rict = tribal

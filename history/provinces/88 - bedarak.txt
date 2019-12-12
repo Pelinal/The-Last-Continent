@@ -1,0 +1,5 @@
+	title = c_bedarak
+	max_settlements = 3
+	culture = ugricbaltic
+	religion = zun_pagan
+	b_kyeena = tribal

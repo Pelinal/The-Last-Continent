@@ -1,0 +1,5 @@
+	title = c_bacayak
+	max_settlements = 5
+	culture = crimean_gothic
+	religion = zun_pagan
+	b_alachen = tribal

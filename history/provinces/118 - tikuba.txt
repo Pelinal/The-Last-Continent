@@ -1,0 +1,5 @@
+	title = c_tikuba
+	max_settlements = 7
+	culture = khanty
+	religion = bogomilist
+	b_kabdujin = tribal

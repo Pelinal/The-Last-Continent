@@ -1,0 +1,5 @@
+	title = c_erurarda
+	max_settlements = 7
+	culture = daju
+	religion = bon_reformed
+	b_arurayn = tribal

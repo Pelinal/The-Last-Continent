@@ -1,0 +1,5 @@
+	title = c_kizo
+	max_settlements = 5
+	culture = polish
+	religion = catholic
+	b_serarak = tribal

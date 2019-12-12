@@ -1,0 +1,5 @@
+	title = c_tinpal
+	max_settlements = 5
+	culture = ugricbaltic
+	religion = orthodox
+	b_bayak = tribal

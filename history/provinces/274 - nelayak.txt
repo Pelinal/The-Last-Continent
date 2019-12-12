@@ -1,0 +1,5 @@
+	title = c_nelayak
+	max_settlements = 7
+	culture = lombard
+	religion = manichean
+	b_noria = tribal

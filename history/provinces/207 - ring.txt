@@ -1,0 +1,5 @@
+	title = c_ring
+	max_settlements = 2
+	culture = mordvin
+	religion = aztec_reformed
+	b_rampa = tribal

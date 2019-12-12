@@ -1,0 +1,5 @@
+	title = c_berulay
+	max_settlements = 7
+	culture = bolghar
+	religion = zun_pagan
+	b_regisi = tribal

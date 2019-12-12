@@ -1,0 +1,5 @@
+	title = c_esawuqu
+	max_settlements = 2
+	culture = ilmenian
+	religion = west_african_pagan
+	b_qyui = tribal

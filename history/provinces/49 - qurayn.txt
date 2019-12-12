@@ -1,0 +1,5 @@
+	title = c_qurayn
+	max_settlements = 7
+	culture = dalmatian
+	religion = baltic_pagan
+	b_kanarak = tribal

@@ -1,0 +1,5 @@
+	title = c_teena
+	max_settlements = 7
+	culture = lappish
+	religion = color
+	b_qenoan = tribal

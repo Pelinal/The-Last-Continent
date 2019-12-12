@@ -1,0 +1,5 @@
+	title = c_qoruri
+	max_settlements = 7
+	culture = afghan
+	religion = hellenic_pagan
+	b_rolartin = tribal

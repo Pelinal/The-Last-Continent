@@ -1,0 +1,5 @@
+	title = c_syuu
+	max_settlements = 6
+	culture = finnish
+	religion = pagan
+	b_nyaia = tribal

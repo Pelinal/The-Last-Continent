@@ -1,0 +1,5 @@
+	title = c_nururi
+	max_settlements = 7
+	culture = kanuri
+	religion = iconoclast
+	b_rolayn = tribal

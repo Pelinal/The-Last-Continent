@@ -1,0 +1,5 @@
+	title = c_litua
+	max_settlements = 2
+	culture = zhangzhung
+	religion = buddhist
+	b_qyuu = tribal

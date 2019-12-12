@@ -1,0 +1,5 @@
+	title = c_sorartin
+	max_settlements = 2
+	culture = basque
+	religion = aztec_reformed
+	b_epeloan = tribal

@@ -1,0 +1,5 @@
+	title = c_kacayak
+	max_settlements = 2
+	culture = rajput
+	religion = taoist
+	b_emayok = tribal

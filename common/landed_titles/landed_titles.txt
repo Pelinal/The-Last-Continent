@@ -1,0 +1,527 @@
+e_antartica = {
+	color = { 35 35 35 }
+	color2 = { 255 255 255 }
+
+	title = emperor
+	title_female = emperor
+}
+
+e_antarctandes = {
+	color = { 217 152 136 }
+	color2 = { 255 255 255 }
+	
+	capital = 7 # Esperanza
+	
+	argentine = "Antartandes"
+	spanish = "Antartandes"
+	chilean = "Antartandes"
+	colombian = "Antartandes"
+	american = "Graham Land"
+	english = "Graham Land"
+	
+	k_graham = {
+		color = { 116 136 155 }
+		color2 = { 255 255 255 }
+		
+		capital = 7 # Esperanza
+		
+		argentine = "Tierra de San Martín"
+		chilean = "Tierra de O'Higgins"
+		
+		d_falklands = {
+			color = { 53 94 211 }
+			color2 = { 255 255 255 }
+			
+			capital = 1 # Falklands
+			
+			argentine = "Malvinas"
+			spanish = "Malvinas"
+			chilean = "Malvinas"
+			
+			c_falklands = {
+				color = { 53 94 211 }
+				color2 = { 255 255 255 }
+				
+				argentine = "Malvinas"
+				spanish = "Malvinas"
+				chilean = "Malvinas"
+				
+				b_falklands = {}
+				b_stanley = {}
+				b_port_howard = {}
+				b_fitzroy = {}
+				b_bleaker = {}
+				b_chartres = {}
+				b_mariqueta = {}
+			}
+		}
+		
+		d_south_orkney = {
+			color = { 145 187 130 }
+			color2 = { 255 255 255 }
+			
+			capital = 2 # South Orkney
+			
+			argentine = "Orcadas"
+			spanish = "Orcadas"
+			chilean = "Orcadas"
+			
+			c_south_orkney = {
+				color = { 145 187 130 }
+				color2 = { 255 255 255 }
+				
+				argentine = "Orcadas"
+				spanish = "Orcadas"
+				chilean = "Orcadas"
+				english = "Signy"
+				
+				b_coronation = {}
+				b_signy = {}
+				b_laurie = {}
+				b_orcadas = {}
+				b_powell = {}
+			}
+		}
+		
+		d_trinity = {
+			color = { 141 186 229 }
+			color2 = { 255 255 255 }
+			
+			capital = 7 # Esperanza
+			
+			argentine = "Trinidad"
+			spanish = "Trinidad"
+			chilean = "Trinidad"
+			
+			c_esperanza = {
+				color = { 141 186 229 }
+				color2 = { 255 255 255 }
+				
+				american = "Viewpoint"
+				english = "Viewpoint"
+				
+				b_esperanza = {}
+				b_duse = {}
+				b_elichiribehety = {}
+				b_cape_kjellman = {}
+				b_andersson_island = {}
+				b_boeckella = {}
+				b_fortin_sgto_cabral = {}
+			}
+			c_o_higgins = {
+				color = { 203 224 243 }
+				color2 = { 255 255 255 }
+				
+				american = "Botany Bay"
+				english = "Botany Bay"
+				
+				b_o_higgins = {}
+				b_astrolabe = {}
+				b_botany_bay = {}
+				b_bransfield = {}
+				b_trinity_island = {}
+			}
+			c_primavera = {
+				color = { 79 148 215 }
+				color2 = { 255 255 255 }
+				
+				b_primavera = {}
+				b_deception = {
+					argentine = "Decepcion"
+				}
+				b_charcot = {}
+				b_tower_island = {}
+			}
+			c_san_nicolas = {
+				color = { 141 208 229 }
+				color2 = { 255 255 255 }
+				
+				b_san_nicolas = {}
+				b_cape_longing = {}
+				b_earsen = {}
+				b_gustavia = {}
+			}
+			c_joinville = {
+				color = { 141 171 229 }
+				color2 = { 255 255 255 }
+				
+				b_petrel = {}
+				b_moody_point = {}
+				b_joinville = {}
+				b_dundee = {}
+				b_paulet = {}
+				b_danger = {}
+			}
+			c_mendel = {
+				color = { 141 194 229 }
+				color2 = { 255 255 255 }
+				
+				argentine = "San Juan"
+				spanish = "San Juan"
+				chilean = "San Juan"
+				
+				english = "James Ross"
+				american = "James Ross"
+				
+				b_mendel = {}
+				b_vega_one = {}
+				b_fernhill = {}
+				b_seymour = {}
+				b_erebus = {}
+			}
+		}
+		
+		d_south_shetland = {
+			color = { 229 141 142 }
+			color2 = { 255 255 255 }
+			
+			capital = 3 # King George Island
+			
+			c_livingston = {
+				color = { 215 79 80 }
+				color2 = { 255 255 255 }
+				
+				chilean = "Prat"
+				argentine = "Cámara"
+				colombian = "Maldonado"
+				bulgarian = "Ohrridski"
+				spanish = "Castilla"
+				
+				b_livingston = {}
+				b_arturo_prat = {}
+				b_bahia_yankee = {}
+				b_mann = {}
+				b_camara = {}
+				b_ohridski = {}
+				b_juan_carlos = {}
+			}
+			c_nelson = {
+				color = { 243 203 204 }
+				color2 = { 255 255 255 }
+				
+				chilean = "Escudero"
+				argentine = "Rodolfo"
+				chinese = "Great Wall"
+				korean = "King Sejong"
+				
+				b_eco_nelson = {}
+				b_risopatron = {}
+				b_great_wall = {}
+				b_maldonado = {}
+				b_greenwich = {}
+			}
+			c_george = {
+				color = { 229 147 141 }
+				color2 = { 255 255 255 }
+				
+				brazilian = "Ferraz"
+				polish = "Arctowski"
+				argentine = "Jubany"
+				russian = "Bellinghausen"
+				peruvian = "Machu Picchu"
+				chilean = "Frei"
+				
+				b_george = {}
+				b_comandante_ferraz = {}
+				b_jubany = {}
+				b_arctowski = {}
+				b_bellinghausen = {}
+				b_artigas = {}
+				b_machu_picchu = {}
+			}
+		}
+		
+		d_danco = {
+			color = { 143 98 68 }
+			color2 = { 255 255 255 }
+			
+			capital = 12 # Matienzo
+			
+			c_fairweather = {
+				color = { 143 98 68 }
+				color2 = { 255 255 255 }
+				
+				b_fairweather = {}
+				b_evanston = {}
+				b_seal = {}
+				b_robertson = {}
+				b_nordenskjold = {}
+			}
+			c_videla = {
+				
+				b_videla = {}
+				b_gonzalez = {}
+				b_casa_generale = {}
+				b_nueva_sevilla = {}
+				b_investigacion = {}
+			}
+			c_spring = {
+				
+				b_spring = {}
+				b_hughes_bay = {}
+				b_gerlache = {}
+				b_ciudad_phillipa = {}
+				b_sevilla = {}
+			}
+			c_matienzo = {
+				b_matienzo = {}
+				b_roberto = {}
+				b_sobral = {}
+				b_oscaring = {}
+			}
+		}
+		
+		d_graham = {
+			color = { 116 169 164 }
+			color2 = { 255 255 255 }
+			
+			capital = 17 # Vernadsky/Faraday
+			
+			c_vernadsky = {
+				color = { 116 169 164 }
+				color2 = { 255 255 255 }
+				
+				english = "Faraday"
+				american = "Faraday"
+				
+				b_vernadsky = {
+					english = "Faraday"
+					american = "Faraday"
+				}
+				b_renard = {}
+				b_wiencke = {}
+				b_kievsky = {}
+				b_beascochea = {}
+			}
+			c_prospect = {
+				
+			}
+			c_adie = {
+				b_adie = {}
+				b_churchill = {}
+				b_jason = {}
+				b_cape_dissapointment = {}
+				b_alexanera = {}
+			}
+			c_foyn = {
+				argentine = "Teresita"
+				spanish = "Teresita"
+				chilean = "Teresita"
+				
+				b_foyn = {}
+				b_teresita = {}
+				b_cabinet = {}
+				b_coleton = {}
+			}
+			c_brown = {
+				b_brown = {}
+				b_cpt_cobben = {}
+			}
+		}
+		
+		d_palmer = {
+			color = { 116 169 164 }
+			color2 = { 255 255 255 }
+			
+			capital = 21 # Anvers-Palmer Station
+			
+			c_anvers = {
+				color = { 116 169 164 }
+				color2 = { 255 255 255 }
+				
+				american = "Palmer"
+				english = "Port Lockrov"
+				chilean = "Yelcho"
+				argentine = "Melchior"
+				
+				b_palmer_station = {
+				}
+			}
+			c_brabant = {
+				american = "Portal"
+				english = "Portal"
+			}
+			c_liege = {
+				chilean = "Caillett"
+				spanish = "Caillett"
+				argentine = "Caillett"
+			}
+		}
+		
+		d_bowman = {
+			color = { 169 164 116 }
+			color2 = { 255 255 255 }
+			
+			capital = 26 # Rothera
+			
+			french = "Loubet"
+			quebecois = "Loubet"
+			
+			c_blacklock = {
+				chilean = "Cerra Negra"
+				argentine = "Cerra Negra"
+				spanish = "Cerra Negra"
+				
+				b_blackrock = {}
+				b_arrowsmith = {}
+			}
+			c_loubet = {
+				american = "Orford"
+				english = "Orford"
+			}
+			c_rothera = {
+				color = { 169 164 116 }
+				color2 = { 255 255 255 }
+				
+				french = "Adelaide"
+				quebecois = "Adelaide"
+			}
+			c_whirlwind = {
+				argentine = "Loretto"
+				spanish = "Loretto"
+				chilean = "Loretto"
+				
+				b_whirlwind = {}
+				b_francis_island = {}
+				b_mill = {}
+			}
+			c_carvajal = {
+				english = "Adelaide"
+			}
+		}
+	}
+	
+	k_palmerland = {
+		color = { 78 175 198 }
+		color2 = { 255 255 255 }
+	
+		capital = 29 # San Martin
+		
+		d_fallieres = {
+			color = { 89 109 145 }
+			color2 = { 255 255 255 }
+			
+			capital = 26 # Rothera
+			
+			english = "Eternity"
+			american = "Eternity"
+			canadian = "Eternity"
+			australian = "Eternity"
+			zealander = "Eternity"
+			
+			c_san_martin = {
+				color = { 89 109 145 }
+				color2 = { 255 255 255 }
+				
+				english = "St. Martin"
+				american = "St. Martin"
+				canadian = "St. Martin"
+				australian = "St. Martin"
+				zealander = "St. Martin"
+				
+				b_plummervillo = {}
+				b_yepeyu = {}
+				b_stanington = {}
+			}
+			c_eternity = {}
+			c_wilkins = {}
+			c_jeremy = {
+				argentine = "Granaderos"
+				spanish = "Granaderos"
+				chilean = "Granaderos"
+			}
+		}
+		
+		d_dyer = {
+			color = { 135 184 108 }
+			color2 = { 255 255 255 }
+			
+			capital = 37 # Dyer
+			
+			c_dyer = {
+				color = { 109 145 89 }
+				color2 = { 255 255 255 }
+			}
+			c_rymil = {}
+			c_goodenough = {
+				color = { 135 184 108 }
+				color2 = { 255 255 255 }
+				
+				b_goodenough = {}
+				b_batterbee = {}
+			}
+		}
+		
+		d_sharbonneau = {
+			color = { 140 110 137 }
+			color2 = { 255 255 255 }
+			
+			capital = 35 # New Bedford
+			
+			c_jackson = {}
+			c_odom = {
+				
+				b_odom = {}
+				b_hilton = {}
+			}
+			c_lehrke = {}
+			c_heirtzler = {}
+			c_new_bedford = {
+				color = { 140 110 137 }
+				color2 = { 255 255 255 }
+			}
+		}
+		
+		d_lassiter = {
+			color = { 27 50 137 }
+			color2 = { 255 255 255 }
+			
+			capital = 46 # Druzhnaya
+			
+			c_druzhnaya = {
+				color = { 27 50 137 }
+				color2 = { 255 255 255 }
+				
+				english = "Fiske"
+				american = "Fiske"
+				zealander = "Fiske"
+				australian = "Fiske"
+				canadian = "Fiske"
+			}
+			c_wetmore = {}
+			c_spear = {
+				german = "Hauberg"
+			}
+		}
+		
+		d_essland = {
+			color = { 146 174 168 }
+			color2 = { 255 255 255 }
+			
+			capital = 48 # Scaife
+		
+			c_scaife = {}
+			c_irvine = {}
+			c_seward = {}
+		}
+		
+		d_alexander_island = {
+			color = { 219 69 23 }
+			color2 = { 255 255 255 }
+			
+			c_soyuz = {
+				color = { 219 69 23 }
+				color2 = { 255 255 255 }
+				
+				b_soyuz = {}
+				b_rothschild = {}
+				b_rouen = {}
+				b_calais = {}
+			}
+			c_fossil_bluff = {}
+			c_beethoven = {}
+			c_monteverdi = {}
+			c_shubert = {}
+		}
+	}
+}

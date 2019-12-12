@@ -1,0 +1,5 @@
+	title = c_teiranig
+	max_settlements = 7
+	culture = levantine_arabic
+	religion = norse_pagan_reformed
+	b_nacegh = tribal

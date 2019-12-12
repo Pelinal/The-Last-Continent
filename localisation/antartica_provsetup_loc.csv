@@ -1,0 +1,643 @@
+#= Land Provinces =#
+PROV1;Falklands;;;;;;;;;;;;;x
+c_falklands;Falklands;;;;;;;;;;;;;x
+c_falklands_adj;Falklander;;;;;;;;;;;;;x
+PROV2;South Orkney;;;;;;;;;;;;;x
+c_south_orkney;South Orkney;;;;;;;;;;;;;x
+c_south_orkney_adj;South Orkney;;;;;;;;;;;;;x
+PROV3;George;;;;;;;;;;;;x
+c_george;George;;;;;;;;;;;;x
+c_george_adj;Georgian;;;;;;;;;;;;x
+PROV4;Livingston;;;;;;;;;;;;x
+c_livingston;Livingston;;;;;;;;;;;;x
+c_livingston_adj;Livingstonic;;;;;;;;;;;;x
+PROV5;Nelson;;;;;;;;;;;;x
+c_nelson;Nelson;;;;;;;;;;;;x
+c_nelson_adj;Nelsonese;;;;;;;;;;;;x
+PROV6;Joinville;;;;;;;;;;;;x
+c_joinville;Joinville;;;;;;;;;;;;x
+c_joinville_adj;Joinvillean;;;;;;;;;;;;x
+PROV7;Esperanza;;;;;;;;;;;;x
+c_esperanza;Esperanza;;;;;;;;;;;;x
+c_esperanza_adj;Esperanzan;;;;;;;;;;;;x
+PROV8;O'Higgins;;;;;;;;;;;;x
+c_o_higgins;O'Higgins;;;;;;;;;;;;x
+c_o_higgins_adj;Higginsian;;;;;;;;;;;;x
+PROV9;Primavera;;;;;;;;;;;;x
+c_primavera;Primavera;;;;;;;;;;;;x
+c_primavera_adj;Primaveran;;;;;;;;;;;;x
+PROV10;Spring;;;;;;;;;;;;x
+c_spring;Spring;;;;;;;;;;;;x
+c_spring_adj;Spring;;;;;;;;;;;;x
+PROV11;Mendel;;;;;;;;;;;;x
+c_mendel;Mendel;;;;;;;;;;;;x
+c_mendel_adj;Mendelese;;;;;;;;;;;;x
+PROV12;Matienzo;;;;;;;;;;;;x
+c_matienzo;Matienzo;;;;;;;;;;;;x
+c_matienzo_adj;Matienz;;;;;;;;;;;;x
+PROV13;Videla;;;;;;;;;;;;x
+c_videla;Videla;;;;;;;;;;;;x
+c_videla_adj;Videlan;;;;;;;;;;;;x
+PROV14;Brown;;;;;;;;;;;;x
+c_brown;Brown;;;;;;;;;;;;x
+c_brown_adj;Brown;;;;;;;;;;;;x
+PROV15;San Nicolasc;;;;;;;;;;;;x
+c_san_nicolas;San Nicolas;;;;;;;;;;;;x
+c_san_nicolas_adj;Nicolan;;;;;;;;;;;;x
+PROV16;Fairweather;;;;;;;;;;;;x
+c_fairweather;Fairweather;;;;;;;;;;;;x
+c_fairweather_adj;Fairweather;;;;;;;;;;;;x
+PROV17;Vernadsky;;;;;;;;;;;;x
+c_vernadsky;Vernadsky;;;;;;;;;;;;x
+c_vernadsky_adj;Vernadskaya;;;;;;;;;;;;x
+PROV18;Adie;;;;;;;;;;;;x
+c_adie;Adie;;;;;;;;;;;;x
+c_adie_adj;Adiean;;;;;;;;;;;;x
+PROV19;Prospect;;;;;;;;;;;;x
+c_prospect;Prospect;;;;;;;;;;;;x
+c_prospect_adj;Prospectan;;;;;;;;;;;;x
+PROV20;Foyn;;;;;;;;;;;;x
+c_foyn;Foyn;;;;;;;;;;;;x
+c_foyn_adj;Foyneyjar;;;;;;;;;;;;x
+PROV21;Anvers;;;;;;;;;;;;x
+c_anvers;Anvers;;;;;;;;;;;;x
+c_anvers_adj;Anversian;;;;;;;;;;;;x
+PROV22;Brabant;;;;;;;;;;;;x
+c_brabant;Brabant;;;;;;;;;;;;x
+c_brabant_adj;Brabant;;;;;;;;;;;;x
+PROV23;Liege;;;;;;;;;;;;x
+c_liege;Liege;;;;;;;;;;;;x
+c_liege_adj;Liegian;;;;;;;;;;;;x
+PROV24;Loubet;;;;;;;;;;;;x
+c_loubet;Loubet;;;;;;;;;;;;x
+c_loubet_adj;Loubetois;;;;;;;;;;;;x
+PROV25;Blacklock;;;;;;;;;;;;x
+c_blacklock;Blacklock;;;;;;;;;;;;x
+c_blacklock_adj;Blacklock;;;;;;;;;;;;x
+PROV26;Rothera;;;;;;;;;;;;x
+c_rothera;Rothera;;;;;;;;;;;;x
+c_rothera_adj;Rotheran;;;;;;;;;;;;x
+PROV27;Whirlwind;;;;;;;;;;;;x
+c_whirlwind;Whirlwind;;;;;;;;;;;;x
+c_whirlwind_adj;Whirlwinder;;;;;;;;;;;;x
+PROV28;Jeremy;;;;;;;;;;;;x
+c_jeremy;Jeremy;;;;;;;;;;;;x
+c_jeremy_adj;Jeremese;;;;;;;;;;;;x
+PROV29;San Martín;;;;;;;;;;;;x
+c_san_martin;San Martín;;;;;;;;;;;;x
+c_san_martin_adj;San Martín;;;;;;;;;;;;x
+PROV30;Eternity;;;;;;;;;;;;x
+c_eternity;Eternity;;;;;;;;;;;;x
+c_eternity_adj;Eternal;;;;;;;;;;;;x
+PROV31;Wilkins;;;;;;;;;;;;x
+c_wilkins;Wilkins;;;;;;;;;;;;x
+c_wilkins_adj;Wilkinsian;;;;;;;;;;;;x
+PROV32;Lehrke;;;;;;;;;;;;x
+c_lehrke;Lehrke;;;;;;;;;;;;x
+c_lehrke_adj;Lehrken;;;;;;;;;;;;x
+PROV33;Odom;;;;;;;;;;;;x
+c_odom;Odom;;;;;;;;;;;;x
+c_odom_adj;Odomi;;;;;;;;;;;;x
+PROV34;Heirtzler;;;;;;;;;;;;x
+c_heirtzler;Heirtzler;;;;;;;;;;;;x
+c_heirtzler_adj;Heirtzler;;;;;;;;;;;;x
+PROV35;New Bedford;;;;;;;;;;;;x
+c_new_bedford;New Bedford;;;;;;;;;;;;x
+c_new_bedford_adj;New Bedfordan;;;;;;;;;;;;x
+PROV36;Jackson;;;;;;;;;;;;x
+c_jackson;Jackson;;;;;;;;;;;;x
+c_jackson_adj;Jacksonian;;;;;;;;;;;;x
+PROV37;Dyer;;;;;;;;;;;;x
+c_dyer;Dyer;;;;;;;;;;;;x
+c_dyer_adj;Dyer;;;;;;;;;;;;x
+PROV38;Rymil;;;;;;;;;;;;x
+c_rymil;Rymil;;;;;;;;;;;;x
+c_rymil_adj;Rymillan;;;;;;;;;;;;x
+PROV39;Goodenough;;;;;;;;;;;;x
+c_goodenough;Goodenough;;;;;;;;;;;;x
+c_goodenough_adj;Goodenough;;;;;;;;;;;;x
+PROV40;Seward;;;;;;;;;;;;x
+c_seward;Seward;;;;;;;;;;;;x
+c_seward_adj;Sewardic;;;;;;;;;;;;x
+PROV41;Soyuz;;;;;;;;;;;;x
+c_soyuz;Soyuz;;;;;;;;;;;;x
+c_soyuz_adj;Soyuzi;;;;;;;;;;;;x
+PROV42;Fossil Bluff;;;;;;;;;;;;x
+c_fossil_bluff;Fossil Bluff;;;;;;;;;;;;x
+c_fossil_bluff_adj;Fossilier;;;;;;;;;;;;x
+PROV43;Beethoven;;;;;;;;;;;;x
+c_beethoven;Beethoven;;;;;;;;;;;;x
+c_beethoven_adj;Beethovene;;;;;;;;;;;;x
+PROV44;Monteverdi;;;;;;;;;;;;x
+c_monteverdi;Monteverdi;;;;;;;;;;;;x
+c_monteverdi_adj;Monteverdian;;;;;;;;;;;;x
+PROV45;Shubert;;;;;;;;;;;;x
+c_shubert;Shubert;;;;;;;;;;;;x
+c_shubert_adj;Shubertan;;;;;;;;;;;;x
+PROV46;Druzhnaya;;;;;;;;;;;;x
+c_druzhnaya;Druzhnaya;;;;;;;;;;;;x
+c_druzhnaya_adj;Druzhnayan;;;;;;;;;;;;x
+PROV47;Wetmore;;;;;;;;;;;;x
+c_wetmore;Wetmore;;;;;;;;;;;;x
+c_wetmore_adj;Wetmorean;;;;;;;;;;;;x
+PROV48;Scaife;;;;;;;;;;;;x
+c_scaife;Scaife;;;;;;;;;;;;x
+c_scaife_adj;Scaifer;;;;;;;;;;;;x
+PROV49;Irvine;;;;;;;;;;;;x
+c_irvine;Irvine;;;;;;;;;;;;x
+c_irvine_adj;Irvinese;;;;;;;;;;;;x
+PROV50;Spear;;;;;;;;;;;;x
+c_spear;Spear;;;;;;;;;;;;x
+c_spear_adj;Spearan;;;;;;;;;;;;x
+PROV51;Latady;;;;;;;;;;;;x
+c_latady;Latady;;;;;;;;;;;;x
+c_latady_adj;Latadian;;;;;;;;;;;;x
+PROV52;Merrick;;;;;;;;;;;;x
+c_merrick;Merrick;;;;;;;;;;;;x
+c_merrick_adj;Merrickan;;;;;;;;;;;;x
+PROV53;Sweeny;;;;;;;;;;;;x
+c_sweeny;Sweeny;;;;;;;;;;;;x
+c_sweeny_adj;Sweeny;;;;;;;;;;;;x
+PROV54;Spaatz;;;;;;;;;;;;x
+c_spaatz;Spaatz;;;;;;;;;;;;x
+c_spaatz_adj;Spaatzi;;;;;;;;;;;;x
+PROV55;Smyley;;;;;;;;;;;;x
+c_smyley;Smyley;;;;;;;;;;;;x
+c_smyley_adj;Smyley;;;;;;;;;;;;x
+PROV56;Vang;;;;;;;;;;;;x
+c_vang;Vang;;;;;;;;;;;;x
+c_vang_adj;Vanger;;;;;;;;;;;;x
+PROV57;Stange;;;;;;;;;;;;x
+c_stange;Stange;;;;;;;;;;;;x
+c_stange_adj;Stanger;;;;;;;;;;;;x
+PROV58;Hill;;;;;;;;;;;;x
+c_hill;Hill;;;;;;;;;;;;x
+c_hill_adj;Hillman;;;;;;;;;;;;x
+PROV59;Rydberg;;;;;;;;;;;;x
+c_rydberg;Rydberg;;;;;;;;;;;;x
+c_rydberg_adj;Rydbergan;;;;;;;;;;;;x
+PROV60;Tuve;;;;;;;;;;;;x
+c_tuve;Tuve;;;;;;;;;;;;x
+c_tuve_adj;Tuvan;;;;;;;;;;;;x
+PROV61;Gripp;;;;;;;;;;;;x
+c_gripp;Gripp;;;;;;;;;;;;x
+c_gripp_adj;Gripp;;;;;;;;;;;;x
+PROV62;Rex;;;;;;;;;;;;x
+c_rex;Rex;;;;;;;;;;;;x
+c_rex_adj;Rexish;;;;;;;;;;;;x
+PROV63;Thomas;;;;;;;;;;;;x
+c_thomas;Thomas;;;;;;;;;;;;x
+c_thomas_adj;Thomasan;;;;;;;;;;;;x
+PROV64;Sky-Hi;;;;;;;;;;;;x
+c_sky_hi;Sky-Hi;;;;;;;;;;;;x
+c_sky_hi_adj;Sky-Hi;;;;;;;;;;;;x
+PROV65;Fowler;;;;;;;;;;;;x
+c_fowler;Fowler;;;;;;;;;;;;x
+c_fowler_adj;Fowlan;;;;;;;;;;;;x
+PROV66;Siple;;;;;;;;;;;;x
+c_siple;Siple;;;;;;;;;;;;x
+c_siple_adj;Siplean;;;;;;;;;;;;x
+PROV67;Mistassini;;;;;;;;;;;;x
+c_mistassini;Mistassini;;;;;;;;;;;;x
+c_mistassini_adj;Mistassinian;;;;;;;;;;;;x
+PROV68;Newcomer;;;;;;;;;;;;x
+c_newcomer;Newcomer;;;;;;;;;;;;x
+c_newcomer_adj;Newcomer;;;;;;;;;;;;x
+PROV69;Carvajal;;;;;;;;;;;;x
+c_carvajal;Carvajal;;;;;;;;;;;;x
+c_carvajal_adj;Carvajan;;;;;;;;;;;;x
+# END OF PENINSULA PROVINCES #
+PROV70;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV71;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV72;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV73;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV74;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV75;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV76;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV77;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV78;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV79;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV80;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV81;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV82;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV83;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV84;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV85;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV86;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV87;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV88;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV89;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV90;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV91;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV92;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV93;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV94;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV95;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV96;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV97;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV98;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV99;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV100;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV101;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV102;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV103;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV104;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV105;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV106;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV107;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV108;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV109;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV110;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV111;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV112;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV113;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV114;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV115;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV116;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV117;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV118;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV119;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV120;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV121;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV122;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV123;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV124;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV125;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV126;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV127;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV128;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV129;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV130;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV131;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV132;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV133;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV134;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV135;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV136;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV137;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV138;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+PROV139;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2;REPLACEME;;;;;;;;;;;;x
+c_REPLACEME2_adj;REPLACEME;;;;;;;;;;;;x
+
+
+#= Sea Provinces =#
+PROV319;Ronne Cove;;;;;;;;;;;;;x
+PROV320;Weddel Sea;;;;;;;;;;;;;x
+PROV321;Filchner Bay;;;;;;;;;;;;;x
+PROV322;Orville Coast;;;;;;;;;;;;;x
+PROV323;Lassiter Coast;;;;;;;;;;;;;x
+PROV324;Black Coast;;;;;;;;;;;;;x
+PROV325;Wilkins Coast;;;;;;;;;;;;;x
+PROV326;Cape Larsen;;;;;;;;;;;;;x
+PROV327;Prince Gustav Channel;;;;;;;;;;;;;x
+PROV328;Larsen Channel;;;;;;;;;;;;;x
+PROV329;Erebus & Terror;;;;;;;;;;;;;x
+PROV330;Drake Passage;;;;;;;;;;;;;x
+PROV331;Scotia Sea;;;;;;;;;;;;;x
+PROV332;North Weddel Sea;;;;;;;;;;;;;x
+PROV333;Southern Ocean;;;;;;;;;;;;;x
+PROV334;Atlantic Ocean;;;;;;;;;;;;;x
+PROV335;Palmer Archipelago;;;;;;;;;;;;;x
+PROV336;Beascochea Bay;;;;;;;;;;;;;x
+PROV337;Wordie Bay;;;;;;;;;;;;;x
+PROV338;George VI Sound;;;;;;;;;;;;;x
+PROV339;Wilkens Sound;;;;;;;;;;;;;x
+PROV340;Ronne Entrance;;;;;;;;;;;;;x
+PROV341;Bellinghausen Sea;;;;;;;;;;;;;x
+PROV342;Venable Bay;;;;;;;;;;;;;x
+PROV343;Sandefjord;;;;;;;;;;;;;x
+PROV344;Abbot Coast;;;;;;;;;;;;;x
+PROV345;Thwaites Tongue;;;;;;;;;;;;;x
+PROV346;Pine Island Bay;;;;;;;;;;;;;x
+PROV347;Amundsen Sea;;;;;;;;;;;;;x
+PROV348;Getz Bend;;;;;;;;;;;;;x
+PROV349;Rupert Coast;;;;;;;;;;;;;x
+PROV350;Russian Sea;;;;;;;;;;;;;x
+PROV351;Saunders Coast;;;;;;;;;;;;;x
+PROV352;South Pacific Ocean;;;;;;;;;;;;;x
+PROV353;Ross Basin;;;;;;;;;;;;;x
+PROV354;Gould Coast;;;;;;;;;;;;;x
+PROV355;Siple Coast;;;;;;;;;;;;;x
+PROV356;Shirase Coast;;;;;;;;;;;;;x
+PROV357;Shakleton Coast;;;;;;;;;;;;;x
+PROV358;Ross Sea;;;;;;;;;;;;;x
+PROV359;Scott Coast;;;;;;;;;;;;;x
+PROV360;Borchgrevnik Coast;;;;;;;;;;;;;x
+PROV361;Pennel Coast;;;;;;;;;;;;;x
+PROV362;Oates Coast;;;;;;;;;;;;;x
+PROV363;Balleny Islands;;;;;;;;;;;;;x
+PROV364;Cook Bay;;;;;;;;;;;;;x
+PROV365;Dumont D'Urville Sea;;;;;;;;;;;;;x
+PROV366;Adélie Coast;;;;;;;;;;;;;x
+PROV367;Paulding Bay;;;;;;;;;;;;;x
+PROV368;North Davis Sea;;;;;;;;;;;;;x
+PROV369;South Davis Sea;;;;;;;;;;;;;x
+PROV370;Vincennes Bay;;;;;;;;;;;;;x
+PROV371;Bay of Winds;;;;;;;;;;;;;x
+PROV372;Posadowsky Edge;;;;;;;;;;;;;x
+PROV373;Prydz Bay;;;;;;;;;;;;;x
+PROV374;Amery Inlet;;;;;;;;;;;;;x
+PROV375;Mawson Coast;;;;;;;;;;;;;x
+PROV376;Bight of Hannan;;;;;;;;;;;;;x
+PROV377;Casey Bay;;;;;;;;;;;;;x
+PROV378;Lützow-Holm Bay;;;;;;;;;;;;;x
+PROV379;Indian Ocean;;;;;;;;;;;;;x
+PROV380;Princess Ragnhild Coast;;;;;;;;;;;;;x
+PROV381;Fimbul Surf;;;;;;;;;;;;;x
+PROV382;Jelbert Coast;;;;;;;;;;;;;x
+PROV383;Riiser-Larsen Bay;;;;;;;;;;;;;x
+PROV384;Norvegian Sea;;;;;;;;;;;;;x
+PROV385;Falklands Sea;;;;;;;;;;;;;x
+PROV386;Argentine Divide;;;;;;;;;;;;;x
+
+#= Unused Provinces =# 
+PROV387;REPLACEME;;;;;;;;;;;;;x
+PROV388;REPLACEME;;;;;;;;;;;;;x
+PROV389;REPLACEME;;;;;;;;;;;;;x
+PROV390;REPLACEME;;;;;;;;;;;;;x
+PROV391;REPLACEME;;;;;;;;;;;;;x
+PROV392;REPLACEME;;;;;;;;;;;;;x
+PROV393;REPLACEME;;;;;;;;;;;;;x
+PROV394;REPLACEME;;;;;;;;;;;;;x
+PROV395;REPLACEME;;;;;;;;;;;;;x
+PROV396;REPLACEME;;;;;;;;;;;;;x
+PROV397;REPLACEME;;;;;;;;;;;;;x
+PROV398;REPLACEME;;;;;;;;;;;;;x
+PROV399;REPLACEME;;;;;;;;;;;;;x
+PROV400;REPLACEME;;;;;;;;;;;;;x
+PROV401;REPLACEME;;;;;;;;;;;;;x
+PROV402;REPLACEME;;;;;;;;;;;;;x
+PROV403;REPLACEME;;;;;;;;;;;;;x
+PROV404;REPLACEME;;;;;;;;;;;;;x
+PROV405;REPLACEME;;;;;;;;;;;;;x
+PROV406;REPLACEME;;;;;;;;;;;;;x
+PROV407;REPLACEME;;;;;;;;;;;;;x
+PROV408;REPLACEME;;;;;;;;;;;;;x
+PROV409;REPLACEME;;;;;;;;;;;;;x
+PROV410;REPLACEME;;;;;;;;;;;;;x
+PROV411;REPLACEME;;;;;;;;;;;;;x
+PROV412;REPLACEME;;;;;;;;;;;;;x
+PROV413;REPLACEME;;;;;;;;;;;;;x
+PROV414;REPLACEME;;;;;;;;;;;;;x
+PROV415;REPLACEME;;;;;;;;;;;;;x
+PROV416;REPLACEME;;;;;;;;;;;;;x
+PROV417;REPLACEME;;;;;;;;;;;;;x
+PROV418;REPLACEME;;;;;;;;;;;;;x
+PROV419;REPLACEME;;;;;;;;;;;;;x
+PROV420;REPLACEME;;;;;;;;;;;;;x
+PROV421;REPLACEME;;;;;;;;;;;;;x
+PROV422;REPLACEME;;;;;;;;;;;;;x
+PROV423;REPLACEME;;;;;;;;;;;;;x
+PROV424;REPLACEME;;;;;;;;;;;;;x
+PROV425;REPLACEME;;;;;;;;;;;;;x
+PROV426;REPLACEME;;;;;;;;;;;;;x
+PROV427;REPLACEME;;;;;;;;;;;;;x
+PROV428;REPLACEME;;;;;;;;;;;;;x
+PROV429;REPLACEME;;;;;;;;;;;;;x
+PROV430;REPLACEME;;;;;;;;;;;;;x
+PROV431;REPLACEME;;;;;;;;;;;;;x
+PROV432;REPLACEME;;;;;;;;;;;;;x
+PROV433;REPLACEME;;;;;;;;;;;;;x
+PROV434;REPLACEME;;;;;;;;;;;;;x
+PROV435;REPLACEME;;;;;;;;;;;;;x
+PROV436;REPLACEME;;;;;;;;;;;;;x
+PROV437;REPLACEME;;;;;;;;;;;;;x
+PROV438;REPLACEME;;;;;;;;;;;;;x
+PROV439;REPLACEME;;;;;;;;;;;;;x
+PROV440;REPLACEME;;;;;;;;;;;;;x
+PROV441;REPLACEME;;;;;;;;;;;;;x
+PROV442;REPLACEME;;;;;;;;;;;;;x
+PROV443;REPLACEME;;;;;;;;;;;;;x
+PROV444;REPLACEME;;;;;;;;;;;;;x
+PROV445;REPLACEME;;;;;;;;;;;;;x
+PROV446;REPLACEME;;;;;;;;;;;;;x
+PROV447;REPLACEME;;;;;;;;;;;;;x
+PROV448;REPLACEME;;;;;;;;;;;;;x
+PROV449;REPLACEME;;;;;;;;;;;;;x
+PROV450;REPLACEME;;;;;;;;;;;;;x
+PROV451;REPLACEME;;;;;;;;;;;;;x
+PROV452;REPLACEME;;;;;;;;;;;;;x
+PROV453;REPLACEME;;;;;;;;;;;;;x
+PROV454;REPLACEME;;;;;;;;;;;;;x
+PROV455;REPLACEME;;;;;;;;;;;;;x
+PROV456;REPLACEME;;;;;;;;;;;;;x
+PROV457;REPLACEME;;;;;;;;;;;;;x
+PROV458;REPLACEME;;;;;;;;;;;;;x
+PROV459;REPLACEME;;;;;;;;;;;;;x
+PROV460;REPLACEME;;;;;;;;;;;;;x
+PROV461;REPLACEME;;;;;;;;;;;;;x
+PROV462;REPLACEME;;;;;;;;;;;;;x
+PROV463;REPLACEME;;;;;;;;;;;;;x
+PROV464;REPLACEME;;;;;;;;;;;;;x
+PROV465;REPLACEME;;;;;;;;;;;;;x
+PROV466;REPLACEME;;;;;;;;;;;;;x
+PROV467;REPLACEME;;;;;;;;;;;;;x
+PROV468;REPLACEME;;;;;;;;;;;;;x
+PROV469;REPLACEME;;;;;;;;;;;;;x
+PROV470;REPLACEME;;;;;;;;;;;;;x
+PROV471;REPLACEME;;;;;;;;;;;;;x
+PROV472;REPLACEME;;;;;;;;;;;;;x
+PROV473;REPLACEME;;;;;;;;;;;;;x
+PROV474;REPLACEME;;;;;;;;;;;;;x
+PROV475;REPLACEME;;;;;;;;;;;;;x
+PROV476;REPLACEME;;;;;;;;;;;;;x
+PROV477;REPLACEME;;;;;;;;;;;;;x
+PROV478;REPLACEME;;;;;;;;;;;;;x
+PROV479;REPLACEME;;;;;;;;;;;;;x
+PROV480;REPLACEME;;;;;;;;;;;;;x
+PROV481;REPLACEME;;;;;;;;;;;;;x
+PROV482;REPLACEME;;;;;;;;;;;;;x
+PROV483;REPLACEME;;;;;;;;;;;;;x
+PROV484;REPLACEME;;;;;;;;;;;;;x
+PROV485;REPLACEME;;;;;;;;;;;;;x
+PROV486;REPLACEME;;;;;;;;;;;;;x
+PROV487;REPLACEME;;;;;;;;;;;;;x
+PROV488;REPLACEME;;;;;;;;;;;;;x
+PROV489;REPLACEME;;;;;;;;;;;;;x
+PROV490;REPLACEME;;;;;;;;;;;;;x
+PROV491;REPLACEME;;;;;;;;;;;;;x
+PROV492;REPLACEME;;;;;;;;;;;;;x
+PROV493;REPLACEME;;;;;;;;;;;;;x
+PROV494;REPLACEME;;;;;;;;;;;;;x
+PROV495;REPLACEME;;;;;;;;;;;;;x
+PROV496;REPLACEME;;;;;;;;;;;;;x
+PROV497;REPLACEME;;;;;;;;;;;;;x
+PROV498;REPLACEME;;;;;;;;;;;;;x
+PROV499;REPLACEME;;;;;;;;;;;;;x
+PROV500;REPLACEME;;;;;;;;;;;;;x
+PROV501;REPLACEME;;;;;;;;;;;;;x
+PROV502;REPLACEME;;;;;;;;;;;;;x
+PROV503;REPLACEME;;;;;;;;;;;;;x
+PROV504;REPLACEME;;;;;;;;;;;;;x
+PROV505;REPLACEME;;;;;;;;;;;;;x
+PROV506;REPLACEME;;;;;;;;;;;;;x
+PROV507;REPLACEME;;;;;;;;;;;;;x
+PROV508;REPLACEME;;;;;;;;;;;;;x
+PROV509;REPLACEME;;;;;;;;;;;;;x
+PROV510;REPLACEME;;;;;;;;;;;;;x
+PROV511;REPLACEME;;;;;;;;;;;;;x
+PROV512;REPLACEME;;;;;;;;;;;;;x
+PROV513;REPLACEME;;;;;;;;;;;;;x
+PROV514;REPLACEME;;;;;;;;;;;;;x
+PROV515;REPLACEME;;;;;;;;;;;;;x
+PROV516;REPLACEME;;;;;;;;;;;;;x
+
+#= Barony Spam =#
+b_falklands;Stanley
+b_stanley;Ross City
+b_port_howard;Port Howard
+b_fitzroy;Fitzroy
+b_bleaker;Bleaker
+b_chartres;Chartres
+b_mariqueta;Mariqueta
+b_coronation;Coronation
+b_signy;Signy
+b_laurie;Laurie
+b_orcadas;Orcadas
+b_powell;Powell
+b_esperanza;Esperanza
+b_duse;Duse
+b_elichiribehety;Elichiribehety
+b_cape_kjellman;Cape Kjellman
+b_charcot;Charcot
+b_boeckella;Boeckella
+b_fortin_sgto_cabral;For

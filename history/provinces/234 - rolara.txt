@@ -1,0 +1,5 @@
+	title = c_rolara
+	max_settlements = 6
+	culture = romanian
+	religion = baltic_pagan
+	b_banara = tribal

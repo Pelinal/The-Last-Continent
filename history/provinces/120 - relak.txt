@@ -1,0 +1,5 @@
+	title = c_relak
+	max_settlements = 6
+	culture = ashkenazi
+	religion = fraticelli
+	b_rerisi = tribal

@@ -1,0 +1,5 @@
+	title = c_qeena
+	max_settlements = 4
+	culture = jurchen
+	religion = qarmatian
+	b_qedoan = tribal

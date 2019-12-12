@@ -1,0 +1,5 @@
+	title = c_nizo
+	max_settlements = 7
+	culture = georgian
+	religion = ibadi
+	b_turarda = tribal

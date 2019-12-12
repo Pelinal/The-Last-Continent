@@ -1,0 +1,5 @@
+	title = c_tupayak
+	max_settlements = 7
+	culture = kannada
+	religion = taoist
+	b_seling = tribal

@@ -1,0 +1,5 @@
+	title = c_romiek
+	max_settlements = 7
+	culture = pecheneg
+	religion = fraticelli
+	b_tayari = tribal

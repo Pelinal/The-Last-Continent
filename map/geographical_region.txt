@@ -1,0 +1,40 @@
+narda = {
+	duchies = {
+			d_warak d_latarak d_seramaj d_bisha d_eting d_tegaide d_qabele d_afolamaj d_turi d_roren d_rororia d_koramaj d_linele d_layn d_dukee d_winarda d_elitya d_rartin d_leraide d_siemern d_tetayak d_byaevon d_kusen d_woan d_qiemict d_wayak d_rohava	}
+}
+
+telalk = {
+	duchies = {
+			d_tanele d_kasine d_kumara d_eidda d_winalk d_kaahaj d_tofizo d_dogada d_talarda d_qofarak d_bipaira d_baari d_locek d_bipocek	}
+}
+
+edipofan = {
+	duchies = {
+			d_ripofan d_butadke d_reganes d_tusyi d_dipaira d_kawadke d_kikyi d_tanadke d_doradke d_riojn d_bisaoge d_evua d_kusuqu d_kisasar d_kabdaoge d_saydah d_qikasar d_kasoul	}
+}
+
+retaira = {
+	duchies = {
+			d_tari d_wupenfan d_laold d_kanjar d_tupenfan d_ekitari	}
+}
+
+tikaria = {
+	duchies = {
+			d_qoren d_tyaoge d_regegh d_tetofia	}
+}
+
+basak = {
+	duchies = {
+			d_racisi d_tabofia d_lelegh d_konith d_nosel d_kalijse d_rer d_detugh d_kii d_nizisi d_raydah d_rith d_teanava d_temen d_wegekel d_egaralla d_temaria d_neytn	}
+}
+
+taceena = {
+	duchies = {
+			d_bamaila d_kacampa d_efedung d_bing d_qalalla d_rachen d_layaka d_roper d_worampa d_ling d_bacoria d_talla d_titya d_dung	}
+}
+
+recodai = {
+	duchies = {
+			d_tadodai	}
+}
+
