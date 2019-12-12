@@ -295,6 +295,10 @@ e_antarctandes = {
 			}
 			c_prospect = {
 				
+				b_prospect = {}
+				b_grandidier = {}
+				b_henryford = {}
+				b_tunstead = {}
 			}
 			c_adie = {
 				b_adie = {}
@@ -307,15 +311,20 @@ e_antarctandes = {
 				argentine = "Teresita"
 				spanish = "Teresita"
 				chilean = "Teresita"
+				english = "Fowlmouth"
 				
-				b_foyn = {}
+				b_foyn = {
+					english = "Fowlmouth"
+				}
 				b_teresita = {}
 				b_cabinet = {}
-				b_coleton = {}
+				b_colestead = {}
 			}
 			c_brown = {
 				b_brown = {}
 				b_cpt_cobben = {}
+				b_pittham = {}
+				b_fort_oriley = {}
 			}
 		}
 		
@@ -334,17 +343,33 @@ e_antarctandes = {
 				chilean = "Yelcho"
 				argentine = "Melchior"
 				
-				b_palmer_station = {
-				}
+				b_palmer_station = {}
+				b_anvers = {}
+				b_bismarck = {}
+				b_mcdonald = {}
+				b_phillidelphia = {}
+				b_sudbury = {}
 			}
 			c_brabant = {
 				american = "Portal"
 				english = "Portal"
+				
+				b_brabant = {}
+				b_hoseason = {}
+				b_hugo = {}
+				b_gelre = {}
+				b_neu_amsterdam = {}
 			}
 			c_liege = {
 				chilean = "Caillett"
 				spanish = "Caillett"
 				argentine = "Caillett"
+				
+				b_liege = {}
+				b_little_munich = {}
+				b_smitham = {}
+				b_willemstown = {}
+				b_bellenau = {}
 			}
 		}
 		
@@ -361,13 +386,31 @@ e_antarctandes = {
 				chilean = "Cerra Negra"
 				argentine = "Cerra Negra"
 				spanish = "Cerra Negra"
+				french = "Borbéliard"
+				quebecois = "Borbéliard"
 				
-				b_blackrock = {}
-				b_arrowsmith = {}
+				b_blackrock = {
+					french = "Borbéliard"
+					quebecois = "Borbéliard"
+				}
+				b_arrowsmith = {
+				}
+				b_porquoi_pas = {}
+				b_valet = {}
+				b_houimart = {}
+				b_champignane = {}
 			}
 			c_loubet = {
 				american = "Orford"
 				english = "Orford"
+				
+				b_loubetois = {}
+				b_vinciennes = {}
+				b_charlogne = {}
+				b_vappe = {}
+				b_bellogne = {}
+				b_lallemond = {}
+				b_laubeuf = {}
 			}
 			c_rothera = {
 				color = { 169 164 116 }
@@ -375,6 +418,16 @@ e_antarctandes = {
 				
 				french = "Adelaide"
 				quebecois = "Adelaide"
+				
+				b_rothera = {}
+				b_amiot = {
+					english = "The Span"
+				}
+				b_new_bransfield = {}
+				b_admiral = {}
+				b_bonner = {}
+				b_chippy_shop = {}
+				b_bingham = {}
 			}
 			c_whirlwind = {
 				argentine = "Loretto"
@@ -384,9 +437,15 @@ e_antarctandes = {
 				b_whirlwind = {}
 				b_francis_island = {}
 				b_mill = {}
+				b_joerg = {}
+				b_freeman = {}
+				b_northrop = {}
 			}
 			c_carvajal = {
 				english = "Adelaide"
+				
+				b_liotard = {}
+				b_kirkwood = {}
 			}
 		}
 	}
