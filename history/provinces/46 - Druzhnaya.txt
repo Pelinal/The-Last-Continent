@@ -1,0 +1,17 @@
+# 46 - Druzhnaya
+
+title = c_druzhnaya
+max_settlements = 5
+
+# Baronies
+	b_druznaya = temple
+	b_fiske = castle
+	#b_nantucket
+	#b_bowman
+	#b_adams
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

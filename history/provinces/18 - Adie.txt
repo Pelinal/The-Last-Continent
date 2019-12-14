@@ -1,0 +1,16 @@
+# 18 - Adie
+title = c_adie
+max_settlements = 5
+
+# Baronies
+	b_adie = temple
+	b_churchill = castle
+	#b_jason = {}
+	#b_cape_dissapointment = {}
+	#b_alexanera = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

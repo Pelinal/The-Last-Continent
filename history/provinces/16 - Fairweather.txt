@@ -1,0 +1,16 @@
+# 16 - Fairweather
+title = c_fairweather
+max_settlements = 5
+
+# Baronies
+	b_fairweather = temple
+	b_evanston = castle
+	b_seal = city
+	#b_robertson = {}
+	#b_nordenskjold = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

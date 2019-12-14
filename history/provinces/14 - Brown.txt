@@ -1,0 +1,15 @@
+# 14 - Brown
+title = c_brown
+max_settlements = 4
+
+# Baronies
+	b_brown = temple
+	b_cpt_cobben = castle
+	#b_pittham = {}
+	#b_fort_oriley = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

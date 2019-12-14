@@ -1,0 +1,16 @@
+# 19 - Prospect
+
+title = c_prospect
+max_settlements = 4
+
+# Baronies
+	b_prospect = temple
+	b_grandidier = city
+	#b_henryford = {}
+	#b_tunstead = {}
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

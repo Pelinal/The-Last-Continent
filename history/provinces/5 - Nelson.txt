@@ -1,0 +1,16 @@
+# 5 - Nelson
+title = c_nelson
+max_settlements = 5
+
+# Baronies
+	b_eco_nelson = temple
+	b_great_wall = castle
+	b_maldonado = city
+	#b_risopatron = {}
+	#b_greenwich = {}
+	
+# Misc
+culture = korean
+religion = progressive
+	
+# History

@@ -1,0 +1,13 @@
+# 27 - Whirlwind
+title = c_whirlwind
+max_settlements = 3
+
+# Baronies
+	b_francis_island = tribal
+	#b_mill
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

@@ -1,0 +1,15 @@
+# 15 - San Nicolas
+title = c_san_nicolas
+max_settlements = 4
+
+# Baronies
+	b_san_nicolas = {}
+	b_cape_longing = {}
+	b_earsen = {}
+	b_gustavia = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

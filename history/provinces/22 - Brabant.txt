@@ -1,0 +1,16 @@
+# 22 - Brabant
+title = c_brabant
+max_settlements = 5 
+
+# Baronies
+	b_brabant = city
+	b_hoseason = temple
+	#b_hugo = {}
+	#b_gelre = {}
+	#b_neu_amsterdam = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

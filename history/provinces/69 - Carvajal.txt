@@ -1,0 +1,16 @@
+# 69 - Carvajal
+title = c_carvajal
+max_settlements = 5
+
+# Baronies
+	b_liotard = city
+	b_kirkwood = castle
+	b_station_t = temple
+	#b_stephenson
+	#b_villaroel
+	
+# Misc
+culture = chilean
+religion = conservative
+	
+# History

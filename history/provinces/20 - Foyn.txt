@@ -1,0 +1,15 @@
+# 20 - Foyn
+title = c_foyn
+max_settlements = 4
+
+# Baronies
+	b_foyn = castle
+	b_teresita = city 
+	#b_cabinet 
+	#b_colestead 
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

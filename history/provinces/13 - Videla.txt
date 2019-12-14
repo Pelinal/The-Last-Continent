@@ -1,0 +1,16 @@
+# 13 - Videla
+title = c_videla
+max_settlements = 5
+
+# Baronies
+	b_videla = temple
+	b_gonzalez = city
+	b_casa_generale = city
+	#b_nueva_sevilla
+	#b_investigacion
+	
+# Misc
+culture = chilean
+religion = conservative
+	
+# History

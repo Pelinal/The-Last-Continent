@@ -1,0 +1,14 @@
+# 62 - Rex
+title = c_rex
+max_settlements = 3
+
+# Baronies
+    b_rex = tribal
+    #b_landport
+    #b_marion
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

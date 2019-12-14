@@ -301,8 +301,7 @@ e_antarctandes = {
 				b_kievsky = {}
 				b_beascochea = {}
 			}
-			c_prospect = {
-				
+			c_prospect = {				
 				b_prospect = {}
 				b_grandidier = {}
 				b_henryford = {}
@@ -355,7 +354,7 @@ e_antarctandes = {
 				b_anvers = {}
 				b_bismarck = {}
 				b_mcdonald = {}
-				b_phillidelphia = {}
+				b_philadelphia = {}
 				b_sudbury = {}
 			}
 			c_brabant = {

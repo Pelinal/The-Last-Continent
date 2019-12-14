@@ -1,0 +1,18 @@
+# 7 - Esperanza
+title = c_esperanza
+max_settlements = 5
+
+# Baronies
+	b_esperanza = temple
+	b_duse = city
+	b_elichiribehety = castle
+	b_cape_kjellman = temple
+	#b_andersson_island = {}
+	#b_boeckella = {}
+	#b_fortin_sgto_cabral = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

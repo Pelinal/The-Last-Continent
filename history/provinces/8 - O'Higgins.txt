@@ -1,0 +1,16 @@
+# 8 - O'Higgins
+title = c_o_higgins
+max_settlements = 5
+
+# Baronies
+	b_o_higgins = city
+	b_astrolabe = temple
+	b_botany_bay = castle
+	#b_bransfield
+	#b_trinity_island
+	
+# Misc
+culture =chilean
+religion = conservative
+	
+# History

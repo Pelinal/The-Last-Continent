@@ -1,0 +1,17 @@
+#17 - Vernadsky
+
+title = c_mendel
+max_settlements = 5
+
+# Baronies
+	b_vernadsky = city
+	b_renard = castle
+	b_wiencke = temple
+	#b_kievsky
+	#b_beascochea
+	
+# Misc
+culture = ukrainian
+religion = reactionary
+	
+# History

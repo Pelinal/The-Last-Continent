@@ -1,0 +1,18 @@
+# 25 - Blacklock
+
+title = c_blacklock
+max_settlements = 6 
+
+# Baronies
+	b_blackrock = temple
+	b_arrowsmith = city
+	b_porquoi_pas = castle
+	#b_valet
+	#b_houimart
+	#b_champignane
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

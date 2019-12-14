@@ -1,0 +1,15 @@
+# 12 - Matienzo
+title = c_matienzo
+max_settlements = 4
+
+# Baronies
+	b_matienzo = city
+	b_roberto = castle
+	#b_sobral = {}
+	#b_oscaring = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

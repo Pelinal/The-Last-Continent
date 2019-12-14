@@ -1,0 +1,17 @@
+# 6 - Joinville
+title = c_joinville
+max_settlements = 6
+
+# Baronies
+	b_petrel = city
+	b_moody_point = temple
+	b_joinville = city
+	#b_dundee = {}
+	#b_paulet = {}
+	#b_danger = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

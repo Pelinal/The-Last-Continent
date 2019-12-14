@@ -1,0 +1,14 @@
+# 60 - Tuve
+title = c_tuve
+max_settlements = 3
+
+# Baronies
+    b_tuve = tribal
+    #b_axis
+    #b_dounton
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

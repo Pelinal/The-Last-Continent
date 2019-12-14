@@ -1,0 +1,18 @@
+# 4 - Livingston
+title = c_livingston
+max_settlements = 7
+
+# Baronies
+	b_livingston = temple
+	b_bahia_yankee = city
+	b_camara = temple
+	b_juan_carlos = castle
+	#b_arturo_prat = {}
+	#b_mann = {}
+	#b_ohridski = {}
+	
+# Misc
+culture = spanish
+religion = conservative
+	
+# History

@@ -1,0 +1,15 @@
+# 9 - Primavera
+title = c_primavera
+max_settlements = 4
+
+# Baronies
+		b_primavera = temple
+		b_deception = castle
+		#b_charcot
+		#b_tower_island
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

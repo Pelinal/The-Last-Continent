@@ -1,0 +1,17 @@
+# 2 - South Orkney
+
+title = c_south_orkney
+max_settlements = 5
+
+# Baronies
+	b_coronation = city
+	b_signy = castle
+	b_laurie = castle
+	#b_orcadas
+	#b_powell
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

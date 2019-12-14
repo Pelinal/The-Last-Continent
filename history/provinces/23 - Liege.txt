@@ -1,0 +1,16 @@
+# 23 - Liege
+title = c_liege
+max_settlements = 5 
+
+# Baronies
+	b_liege = temple
+	b_little_munich = city
+	b_smitham = castle
+	#b_willemstown
+	#b_bellenau
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

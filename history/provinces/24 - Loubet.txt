@@ -1,0 +1,18 @@
+# 24 - Loubet
+title = c_loubet
+max_settlements = 5
+
+# Baronies
+	b_loubetois = tribal
+	#b_vinciennes
+	#b_charlogne
+	#b_vappe
+	#b_bellogne
+	#b_lallemond
+	#b_laubeuf
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

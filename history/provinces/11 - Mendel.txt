@@ -1,0 +1,17 @@
+# 11- Mendel
+
+title = c_mendel
+max_settlements = 5
+
+# Baronies
+	b_mendel = city
+	b_vega_one = temple
+	#b_fernhill = {}
+	#b_seymour = {}
+	#b_erebus = {}
+	
+# Misc
+culture = czech
+religion = social_democratic
+	
+# History

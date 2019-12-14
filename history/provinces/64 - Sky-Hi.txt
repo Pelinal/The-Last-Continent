@@ -1,0 +1,18 @@
+# 64 - Sky-Hi
+
+title = c_sky_hi
+max_settlements = 6
+
+# Baronies
+	b_sky_hi = temple
+	b_cloudsedge = city
+	b_mcarthur = castle
+	b_albany = city
+	#b_hannover = {}
+	#b_sealand = {}
+	
+# Misc
+culture = american
+religion = liberal_democratic
+	
+# History

@@ -1,0 +1,16 @@
+# 10 - Spring
+title = c_spring
+max_settlements = 5
+
+# Baronies
+	b_spring = temple
+	b_hughes_bay = castle
+	#b_gerlache = {}
+	#b_ciudad_phillipa = {}
+	#b_sevilla = {}
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History
