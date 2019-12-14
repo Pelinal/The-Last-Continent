@@ -826,6 +826,92 @@ e_antarctandes = {
 				b_eltanin = {}
 				b_carroll = {}
 			}
+			c_hill = {
+				
+				b_hill = {}
+				b_stange = {}
+				b_ronnesholme = {}
+				b_longsale = {}
+			}
+			c_rex = {
+				
+				b_rex = {}
+				b_landport = {}
+				b_marion = {}
+			}
+			c_tuve = {
+				
+				b_tuve = {}
+				b_axis = {}
+				b_dounton = {}
+			}
+			c_stange = {
+			
+				b_stange_barony = {}
+				b_eklund = {}
+				b_reading = {}
+				b_loughbrough = {}
+			}
+		}
+		
+		d_big_rock = {
+			color = { 89 109 145 }
+			color2 = { 255 255 255 }
+			
+			c_siple = {
+				b_siple = {}
+				b_wonderarch = {}
+				b_katsufrakis = {}
+				b_utahing = {}
+				b_star = {}
+				b_riverpass = {}
+			}
+			c_thomas = {
+				b_thomas = {}
+				b_chandler = {}
+				b_atlantia = {}
+				b_newhome = {}
+			}
+			c_fowler = {
+				b_fowler = {}
+				b_nunataka = {}
+				b_flintdrift = {}
+				b_washingtown = {}
+			}
+		}
+		
+		d_zumberge = {
+			color = { 89 109 145 }
+			color2 = { 255 255 255 }
+			
+			c_sky_hi = {
+				b_sky_hi = {}
+				b_cloudsedge = {}
+				b_mcarthur = {}
+				b_albany = {}
+				b_hannover = {}
+				b_sealand = {}
+			}
+			
+			c_newcomer = {
+				b_newcomer = {}
+				b_ultmer = {}
+				b_weems = {}
+				b_lanz = {}
+			}
+			
+			c_gripp = {
+				b_gripp = {}
+				b_sapling = {}
+				b_olivebranch = {}
+			}
+			
+			c_mistassini = {
+				b_mistassini = {}
+				b_burgerking = {}
+				b_overtop = {}
+				b_bigone = {}
+			}
 		}
 	}
 }
