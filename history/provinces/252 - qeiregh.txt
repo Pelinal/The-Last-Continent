@@ -1,5 +1,0 @@
-	title = c_qeiregh
-	max_settlements = 4
-	culture = pommeranian
-	religion = miaphysite
-	b_kaymak = tribal

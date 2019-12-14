@@ -1,5 +1,0 @@
-	title = c_ewinuri
-	max_settlements = 2
-	culture = norman
-	religion = aztec
-	b_ablict = tribal

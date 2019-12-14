@@ -1,5 +1,0 @@
-	title = c_sanaria
-	max_settlements = 2
-	culture = rajput
-	religion = lollard
-	b_sacaria = tribal

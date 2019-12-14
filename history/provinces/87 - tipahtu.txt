@@ -1,5 +1,0 @@
-	title = c_tipahtu
-	max_settlements = 2
-	culture = saxon
-	religion = karaite
-	b_abanjar = tribal

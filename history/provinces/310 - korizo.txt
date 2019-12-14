@@ -1,5 +1,0 @@
-	title = c_korizo
-	max_settlements = 2
-	culture = irish
-	religion = bon_reformed
-	b_tanele = tribal

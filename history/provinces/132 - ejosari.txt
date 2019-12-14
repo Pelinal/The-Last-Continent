@@ -1,5 +1,0 @@
-	title = c_ejosari
-	max_settlements = 7
-	culture = sardinian
-	religion = catholic
-	b_ejosold = tribal

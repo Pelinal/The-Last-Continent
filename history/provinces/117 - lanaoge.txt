@@ -1,5 +1,0 @@
-	title = c_lanaoge
-	max_settlements = 2
-	culture = dutch
-	religion = pagan
-	b_bisaria = tribal

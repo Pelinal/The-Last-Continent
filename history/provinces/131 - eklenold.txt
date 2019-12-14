@@ -1,5 +1,0 @@
-	title = c_eklenold
-	max_settlements = 3
-	culture = arberian
-	religion = zoroastrian
-	b_diparia = tribal

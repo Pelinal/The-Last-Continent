@@ -1,5 +1,0 @@
-	title = c_neramaj
-	max_settlements = 5
-	culture = mordvin
-	religion = qarmatian
-	b_kizo = tribal

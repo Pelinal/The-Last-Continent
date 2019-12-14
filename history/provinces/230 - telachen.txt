@@ -1,5 +1,0 @@
-	title = c_telachen
-	max_settlements = 3
-	culture = arberian
-	religion = pagan
-	b_bunayak = tribal

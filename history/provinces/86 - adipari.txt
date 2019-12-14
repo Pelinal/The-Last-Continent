@@ -1,5 +1,0 @@
-	title = c_adipari
-	max_settlements = 4
-	culture = portuguese
-	religion = hindu
-	b_raari = tribal

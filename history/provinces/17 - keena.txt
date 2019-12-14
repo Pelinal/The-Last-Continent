@@ -1,5 +1,0 @@
-	title = c_keena
-	max_settlements = 7
-	culture = maghreb_arabic
-	religion = interface_skin
-	b_neupukee = tribal

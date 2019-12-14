@@ -1,5 +1,0 @@
-	title = c_epaofan
-	max_settlements = 7
-	culture = kirghiz
-	religion = cathar
-	b_naari = tribal

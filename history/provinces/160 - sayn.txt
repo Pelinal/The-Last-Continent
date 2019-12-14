@@ -1,5 +1,0 @@
-	title = c_sayn
-	max_settlements = 7
-	culture = norman
-	religion = interface_skin
-	b_worgia = tribal

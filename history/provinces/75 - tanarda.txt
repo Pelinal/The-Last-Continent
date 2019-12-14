@@ -1,5 +1,0 @@
-	title = c_tanarda
-	max_settlements = 6
-	culture = prussian
-	religion = zun_pagan
-	b_kororgia = tribal

@@ -1,5 +1,0 @@
-	title = c_wegern
-	max_settlements = 7
-	culture = alan
-	religion = shiite
-	b_rinern = tribal

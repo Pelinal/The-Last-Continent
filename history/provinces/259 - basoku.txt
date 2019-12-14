@@ -1,5 +1,0 @@
-	title = c_basoku
-	max_settlements = 3
-	culture = visigothic
-	religion = qarmatian
-	b_atomizo = tribal

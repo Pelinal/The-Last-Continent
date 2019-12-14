@@ -1,5 +1,0 @@
-	title = c_legaila
-	max_settlements = 2
-	culture = nubian
-	religion = bogomilist
-	b_kence = tribal

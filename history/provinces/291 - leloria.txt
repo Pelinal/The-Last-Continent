@@ -1,5 +1,0 @@
-	title = c_leloria
-	max_settlements = 7
-	culture = mongol
-	religion = mazdaki
-	b_kunki = tribal

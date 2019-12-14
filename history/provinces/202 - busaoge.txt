@@ -1,5 +1,0 @@
-	title = c_busaoge
-	max_settlements = 7
-	culture = bosnian
-	religion = bon
-	b_rusujin = tribal

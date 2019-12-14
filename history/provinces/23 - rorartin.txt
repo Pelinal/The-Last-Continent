@@ -1,5 +1,0 @@
-	title = c_rorartin
-	max_settlements = 7
-	culture = bengali
-	religion = tengri_pagan
-	b_egzampa = tribal

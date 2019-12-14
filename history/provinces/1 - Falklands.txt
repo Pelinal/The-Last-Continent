@@ -1,0 +1,19 @@
+# 1 - Falklands
+
+title = c_falkands
+max_settlements = 7
+
+# Baronies
+b_falklands = castle
+b_stanley = castle
+b_port_howard = city
+b_fitzroy = temple
+#b_bleaker
+#b_chartres
+#b_mariqueta
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

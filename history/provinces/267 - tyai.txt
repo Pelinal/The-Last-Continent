@@ -1,5 +1,0 @@
-	title = c_tyai
-	max_settlements = 2
-	culture = sephardi
-	religion = fraticelli
-	b_rewuba = tribal

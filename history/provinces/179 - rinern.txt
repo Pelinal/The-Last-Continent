@@ -1,5 +1,0 @@
-	title = c_rinern
-	max_settlements = 6
-	culture = welsh
-	religion = norse_pagan
-	b_solaila = tribal

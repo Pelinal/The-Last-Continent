@@ -1,5 +1,0 @@
-	title = c_sanoan
-	max_settlements = 7
-	culture = soninke
-	religion = nestorian
-	b_lelaila = tribal

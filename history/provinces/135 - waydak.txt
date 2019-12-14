@@ -1,5 +1,0 @@
-	title = c_waydak
-	max_settlements = 3
-	culture = danish
-	religion = messalian
-	b_kulisi = tribal

@@ -1,5 +1,0 @@
-	title = c_dolamaj
-	max_settlements = 5
-	culture = serbian
-	religion = taoist
-	b_wegence = tribal

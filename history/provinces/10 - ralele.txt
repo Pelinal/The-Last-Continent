@@ -1,5 +1,0 @@
-	title = c_ralele
-	max_settlements = 7
-	culture = volhynian
-	religion = interface_skin
-	b_beruri = tribal

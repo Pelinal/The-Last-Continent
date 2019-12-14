@@ -1,5 +1,0 @@
-	title = c_qiog
-	max_settlements = 4
-	culture = sinhala
-	religion = west_african_pagan_reformed
-	b_dabdasar = tribal

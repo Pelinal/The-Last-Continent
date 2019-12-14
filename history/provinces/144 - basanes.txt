@@ -1,5 +1,0 @@
-	title = c_basanes
-	max_settlements = 6
-	culture = alan
-	religion = hurufi
-	b_sizoul = tribal

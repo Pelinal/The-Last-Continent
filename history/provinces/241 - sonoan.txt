@@ -1,5 +1,0 @@
-	title = c_sonoan
-	max_settlements = 2
-	culture = oriya
-	religion = tengri_pagan
-	b_ler-ith = tribal

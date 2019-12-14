@@ -1,5 +1,0 @@
-	title = c_ter-ine
-	max_settlements = 2
-	culture = afghan
-	religion = sunni
-	b_domizo = tribal

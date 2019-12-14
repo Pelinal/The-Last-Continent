@@ -4,8 +4,13 @@ e_antartica = {
 
 	title = emperor
 	title_female = emperor
+	
+	allow = {
+		always = no # decision
+	}
 }
 
+# Antarctic Peninsula
 e_antarctandes = {
 	color = { 217 152 136 }
 	color2 = { 255 255 255 }
@@ -16,17 +21,20 @@ e_antarctandes = {
 	spanish = "Antartandes"
 	chilean = "Antartandes"
 	colombian = "Antartandes"
-	american = "Graham Land"
-	english = "Graham Land"
+	american = "Grahamland"
+	english = "Grahamland"
 	
 	k_graham = {
 		color = { 116 136 155 }
 		color2 = { 255 255 255 }
 		
 		capital = 7 # Esperanza
+		culture = argentine
 		
 		argentine = "Tierra de San Martín"
 		chilean = "Tierra de O'Higgins"
+		american = "Trinitatis"
+		english = "Trinitatis"
 		
 		d_falklands = {
 			color = { 53 94 211 }
@@ -426,7 +434,7 @@ e_antarctandes = {
 				b_new_bransfield = {}
 				b_admiral = {}
 				b_bonner = {}
-				b_chippy_shop = {}
+				b_chippy_shop = {} # Has to be a city
 				b_bingham = {}
 			}
 			c_whirlwind = {
@@ -442,10 +450,13 @@ e_antarctandes = {
 				b_northrop = {}
 			}
 			c_carvajal = {
-				english = "Adelaide"
+				english = "Station T"
 				
 				b_liotard = {}
 				b_kirkwood = {}
+				b_station_t = {} # Must be 'temple'
+				b_stephenson = {}
+				b_villaroel = {}
 			}
 		}
 	}
@@ -481,13 +492,37 @@ e_antarctandes = {
 				b_plummervillo = {}
 				b_yepeyu = {}
 				b_stanington = {}
+				b_casapujato = {}
+				b_herradura = {}
+				b_maipo = {}
+				b_chacabuco = {}
 			}
-			c_eternity = {}
-			c_wilkins = {}
+			c_eternity = {
+				
+				english = "Wakefield"
+				
+				b_eternity = {}
+				b_wakefield = {}
+				b_welcham = {}
+			}
+			c_wilkins = {
+				
+				b_wilkins = {}
+				b_collier = {}
+				b_hearst = {}
+				b_agassiz = {}
+				b_mobiloil = {}
+				b_boggs = {}
+			}
 			c_jeremy = {
 				argentine = "Granaderos"
 				spanish = "Granaderos"
 				chilean = "Granaderos"
+				
+				b_jeremy = {}
+				b_bugge = {}
+				b_fleming = {}
+				b_old_fossil_bluff = {}
 			}
 		}
 		
@@ -500,34 +535,80 @@ e_antarctandes = {
 			c_dyer = {
 				color = { 109 145 89 }
 				color2 = { 255 255 255 }
+				
+				b_dyer = {}
+				b_courtauld = {}
+				b_meseta = {}
+				b_goettel = {}
 			}
-			c_rymil = {}
+			c_rymil = {
+				
+				b_rymil = {}
+				b_lachlan = {}
+				b_buttress = {}
+			}
 			c_goodenough = {
 				color = { 135 184 108 }
 				color2 = { 255 255 255 }
 				
 				b_goodenough = {}
 				b_batterbee = {}
+				b_saturn = {}
+				b_gutenko = {}
+				b_ward = {}
 			}
 		}
 		
-		d_sharbonneau = {
+		d_black_coast = {
 			color = { 140 110 137 }
 			color2 = { 255 255 255 }
 			
 			capital = 35 # New Bedford
 			
-			c_jackson = {}
+			c_jackson = {
+				
+				b_jackson = {}
+				b_sharbonneau = {}
+				b_bryant = {}
+				b_steele = {}
+				b_dollerman = {}
+			}
 			c_odom = {
+				
+				argentine = "Violante"
+				chilean = "Violante"
+				spanish = "Violante"
 				
 				b_odom = {}
 				b_hilton = {}
+				b_merz = {}
+				b_violante = {}
+				b_knowles = {}
 			}
-			c_lehrke = {}
-			c_heirtzler = {}
+			c_lehrke = {
+			
+				b_lehrke = {}
+				b_boggs = {}
+				b_smith = {}
+				b_ewing = {}
+			}
+			c_heirtzler = {
+				
+				b_heirtzler = {}
+				b_haines = {}
+				b_dryice = {}
+				b_pullen = {}
+			}
 			c_new_bedford = {
 				color = { 140 110 137 }
 				color2 = { 255 255 255 }
+				
+				b_new_bedford = {}
+				b_brooks = {}
+				b_swann = {}
+				b_wright = {}
+				b_kemp = {}
+				b_mosby = {}
 			}
 		}
 		
@@ -546,10 +627,28 @@ e_antarctandes = {
 				zealander = "Fiske"
 				australian = "Fiske"
 				canadian = "Fiske"
+				
+				b_druznaya = {}
+				b_fiske = {}
+				b_nantucket = {}
+				b_bowman = {}
+				b_adams = {}
 			}
-			c_wetmore = {}
+			c_wetmore = {
+				
+				b_wetmore = {}
+				b_copper_nunataks = {}
+				b_latady_mts = {}
+				b_veers = {}
+			}
 			c_spear = {
 				german = "Hauberg"
+				
+				b_spear = {}
+				b_hauberg = {}
+				b_orvilla = {}
+				b_dodson = {}
+				b_hansen = {}
 			}
 		}
 		
@@ -559,28 +658,174 @@ e_antarctandes = {
 			
 			capital = 48 # Scaife
 		
-			c_scaife = {}
-			c_irvine = {}
-			c_seward = {}
+			c_scaife = {
+				
+				b_scaife = {}
+				b_schlossbach = {}
+				b_ketchum = {}
+				b_vang = {}
+			}
+			c_irvine = {
+				
+				b_irvine = {}
+				b_coman = {}
+				b_sweeny = {}
+			}
+			c_seward = {
+				
+				b_seward = {}
+				b_jorge = {}
+				b_pretticold = {}
+			}
 		}
 		
 		d_alexander_island = {
 			color = { 219 69 23 }
 			color2 = { 255 255 255 }
 			
+			argentine = "Alejandros"
+			chilean = "Alejandros"
+			spanish = "Alejandros"
+			
 			c_soyuz = {
 				color = { 219 69 23 }
 				color2 = { 255 255 255 }
 				
 				b_soyuz = {}
+				b_lazarev = {}
 				b_rothschild = {}
 				b_rouen = {}
 				b_calais = {}
+				b_stephanson = {}
+				b_douglas = {}
 			}
-			c_fossil_bluff = {}
-			c_beethoven = {}
-			c_monteverdi = {}
-			c_shubert = {}
+			c_fossil_bluff = {
+				
+				b_fossil_bluff = {}
+				b_skiway = {}
+				b_twin_otters = {}
+				b_giza = {}
+				b_tescos = {}
+				b_pearce = {}
+				b_taylor = {}
+			}
+			c_beethoven = {
+				
+				b_beethoven = {}
+				b_bach = {}
+				b_walton = {}
+				b_verdi = {}
+				b_beriloz = {}
+				b_perce = {}
+			}
+			c_monteverdi = {
+				
+				b_monteverdi = {}
+				b_stravinsky = {}
+				b_weber = {}
+				b_rossini = {}
+			}
+			c_shubert = {
+				
+				b_shubert = {}
+				b_uranus = {}
+				b_mendelsson = {}
+				b_colebert = {}
+				b_haydn = {}
+				b_dorsey = {}
+				b_le_may = {}
+			}
+		}
+	}
+	
+	k_ellsworth = {
+		color = { 78 175 198 }
+		color2 = { 255 255 255 }
+	
+		capital = 66 # Siple
+		
+		d_new_scilly = {
+			color = { 89 109 145 }
+			color2 = { 255 255 255 }
+			
+			capital = 54 # Spaatz
+			
+			c_spaatz = {
+				
+				b_spaatz = {}
+				b_de_atley = {}
+				b_grimsby = {}
+				b_crumble = {}
+				b_yougney = {}
+			}
+			c_smyley = {
+				
+				b_smyley = {}
+				b_case = {}
+				b_scar = {}
+			}
+		}
+		
+		d_merrick = {
+		
+			color = { 89 109 145 }
+			color2 = { 255 255 255 }
+			
+			capital = 52 # Merrick
+		
+			c_sweeny = {
+				
+				b_sweeny_barony = {}
+				b_edward = {}
+				b_gardener = {}
+				b_crackpot = {}
+			}
+			c_vang = {
+			
+				b_vang_barony = {}
+				b_werner = {}
+				b_playfield = {}
+				b_shanrary = {}
+			}
+			c_latady = {
+				
+				b_latady = {}
+				b_peuensey = {}
+				b_venta = {}
+				b_wilburgh = {}
+			}
+			
+			c_merrick = {
+			
+				b_merrick = {}
+				b_becker = {}
+				b_connacht = {}
+				b_mersey = {}
+				b_smallrock = {}
+				b_mstuckere = {}
+			}
+		}
+		
+		d_anglaland = {
+			color = { 89 109 145 }
+			color2 = { 255 255 255 }
+			
+			capital = 59 # Rydberg
+			
+			c_rydberg = {
+				color = { 89 109 145 }
+				color2 = { 255 255 255 }
+				
+				english = "Ryandale"
+				american = "Ryandale"
+				
+				b_rydberg = {}
+				b_wirth = {}
+				b_fladerer = {}
+				b_castlelick = {}
+				b_eltanin = {}
+				b_carroll = {}
+			}
 		}
 	}
 }

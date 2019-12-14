@@ -1,5 +1,0 @@
-	title = c_dipiek
-	max_settlements = 7
-	culture = bosnian
-	religion = norse_pagan
-	b_womocek = tribal

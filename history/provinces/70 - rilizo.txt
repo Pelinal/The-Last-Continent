@@ -1,5 +1,0 @@
-	title = c_rilizo
-	max_settlements = 4
-	culture = ashkenazi
-	religion = bon
-	b_nogarak = tribal

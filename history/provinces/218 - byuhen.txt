@@ -1,5 +1,0 @@
-	title = c_byuhen
-	max_settlements = 6
-	culture = finnish
-	religion = baltic_pagan
-	b_banaria = tribal

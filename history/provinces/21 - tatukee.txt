@@ -1,5 +1,0 @@
-	title = c_tatukee
-	max_settlements = 6
-	culture = swedish
-	religion = khurmazta
-	b_rabict = tribal

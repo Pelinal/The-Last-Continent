@@ -1,5 +1,0 @@
-	title = c_qict
-	max_settlements = 7
-	culture = baloch
-	religion = messalian
-	b_qohayn = tribal

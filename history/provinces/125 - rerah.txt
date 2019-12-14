@@ -1,5 +1,0 @@
-	title = c_rerah
-	max_settlements = 6
-	culture = breton
-	religion = druze
-	b_sularfa = tribal

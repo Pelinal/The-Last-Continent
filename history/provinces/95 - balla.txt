@@ -1,5 +1,0 @@
-	title = c_balla
-	max_settlements = 7
-	culture = uyghur
-	religion = color
-	b_kegayaka = tribal

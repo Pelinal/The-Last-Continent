@@ -1,5 +1,0 @@
-	title = c_nyanyana
-	max_settlements = 4
-	culture = polish
-	religion = cathar
-	b_laofan = tribal

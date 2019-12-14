@@ -1,5 +1,0 @@
-	title = c_salim
-	max_settlements = 2
-	culture = kurdish
-	religion = shiite
-	b_sisarda = tribal

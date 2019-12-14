@@ -1,5 +1,0 @@
-	title = c_asusuqu
-	max_settlements = 2
-	culture = roman
-	religion = baltic_pagan
-	b_sutosz = tribal

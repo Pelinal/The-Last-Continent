@@ -1,5 +1,0 @@
-	title = c_kanomon
-	max_settlements = 6
-	culture = basque
-	religion = finnish_pagan_reformed
-	b_abanyi = tribal

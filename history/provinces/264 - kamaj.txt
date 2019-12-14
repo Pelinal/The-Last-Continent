@@ -1,5 +1,0 @@
-	title = c_kamaj
-	max_settlements = 2
-	culture = bulgarian
-	religion = paulician
-	b_wict = tribal

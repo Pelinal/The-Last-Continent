@@ -1,5 +1,0 @@
-	title = c_dusuqu
-	max_settlements = 7
-	culture = nubian
-	religion = buddhist
-	b_tyii = tribal

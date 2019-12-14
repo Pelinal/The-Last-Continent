@@ -1,5 +1,0 @@
-	title = c_rupende
-	max_settlements = 7
-	culture = marathi
-	religion = interface_skin
-	b_tupenmon = tribal

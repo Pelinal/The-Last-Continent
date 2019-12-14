@@ -1,5 +1,0 @@
-	title = c_adewofan
-	max_settlements = 7
-	culture = nubian
-	religion = druze
-	b_lutujin = tribal

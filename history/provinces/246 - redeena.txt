@@ -1,5 +1,0 @@
-	title = c_redeena
-	max_settlements = 2
-	culture = basque
-	religion = manichean
-	b_kedict = tribal

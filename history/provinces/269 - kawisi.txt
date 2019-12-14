@@ -1,5 +1,0 @@
-	title = c_kawisi
-	max_settlements = 7
-	culture = marathi
-	religion = orthodox
-	b_toruqu = tribal

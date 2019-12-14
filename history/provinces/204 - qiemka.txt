@@ -1,5 +1,0 @@
-	title = c_qiemka
-	max_settlements = 7
-	culture = norman
-	religion = interface_skin
-	b_dacet = tribal

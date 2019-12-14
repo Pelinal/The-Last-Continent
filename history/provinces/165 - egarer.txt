@@ -1,5 +1,0 @@
-	title = c_egarer
-	max_settlements = 7
-	culture = soninke
-	religion = druze
-	b_rezu = tribal

@@ -1,5 +1,0 @@
-	title = c_bomaria
-	max_settlements = 7
-	culture = lettigallish
-	religion = buddhist
-	b_ketaira = tribal

@@ -1,5 +1,0 @@
-	title = c_tartin
-	max_settlements = 4
-	culture = ugricbaltic
-	religion = interface_skin
-	b_kelaide = tribal

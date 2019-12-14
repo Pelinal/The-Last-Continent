@@ -1,5 +1,0 @@
-	title = c_eraujin
-	max_settlements = 7
-	culture = soninke
-	religion = karaite
-	b_wutuqu = tribal

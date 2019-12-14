@@ -1,5 +1,0 @@
-	title = c_ditya
-	max_settlements = 7
-	culture = irish
-	religion = bon_reformed
-	b_elayaka = tribal

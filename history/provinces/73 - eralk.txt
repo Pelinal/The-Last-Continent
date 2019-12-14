@@ -1,5 +1,0 @@
-	title = c_eralk
-	max_settlements = 7
-	culture = kanuri
-	religion = khurmazta
-	b_kurara = tribal

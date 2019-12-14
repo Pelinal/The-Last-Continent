@@ -1,5 +1,0 @@
-	title = c_rohele
-	max_settlements = 7
-	culture = swedish
-	religion = baltic_pagan
-	b_wuramaj = tribal

@@ -1,5 +1,0 @@
-	title = c_amegosgi
-	max_settlements = 6
-	culture = bulgarian
-	religion = tengri_pagan
-	b_beiraria = tribal

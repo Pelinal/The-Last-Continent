@@ -1,5 +1,0 @@
-	title = c_avacing
-	max_settlements = 7
-	culture = romanian
-	religion = hellenic_pagan
-	b_beting = tribal

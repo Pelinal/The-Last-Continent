@@ -1,5 +1,0 @@
-	title = c_teting
-	max_settlements = 3
-	culture = lettigallish
-	religion = iconoclast
-	b_sacen = tribal

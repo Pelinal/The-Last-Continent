@@ -1,5 +1,0 @@
-	title = c_ryoa
-	max_settlements = 7
-	culture = manden
-	religion = jewish
-	b_saua = tribal

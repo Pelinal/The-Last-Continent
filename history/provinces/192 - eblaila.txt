@@ -1,5 +1,0 @@
-	title = c_eblaila
-	max_settlements = 2
-	culture = baloch
-	religion = druze
-	b_nanarda = tribal

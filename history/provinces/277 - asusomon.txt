@@ -1,5 +1,0 @@
-	title = c_asusomon
-	max_settlements = 4
-	culture = roman
-	religion = monophysite
-	b_biten = tribal

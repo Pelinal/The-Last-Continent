@@ -1,5 +1,0 @@
-	title = c_avacict
-	max_settlements = 7
-	culture = norse
-	religion = zoroastrian
-	b_lanjay = tribal

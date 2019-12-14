@@ -1,5 +1,0 @@
-	title = c_kewyi
-	max_settlements = 3
-	culture = old_frankish
-	religion = yazidi
-	b_acyaia = tribal

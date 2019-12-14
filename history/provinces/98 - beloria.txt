@@ -1,5 +1,0 @@
-	title = c_beloria
-	max_settlements = 6
-	culture = frankish
-	religion = norse_pagan_reformed
-	b_dung = tribal

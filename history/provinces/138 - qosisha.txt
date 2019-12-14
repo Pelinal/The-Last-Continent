@@ -1,5 +1,0 @@
-	title = c_qosisha
-	max_settlements = 4
-	culture = saxon
-	religion = hellenic_pagan
-	b_lukee = tribal

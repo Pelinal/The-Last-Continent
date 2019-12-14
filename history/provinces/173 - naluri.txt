@@ -1,5 +1,0 @@
-	title = c_naluri
-	max_settlements = 6
-	culture = assyrian
-	religion = slavic_pagan_reformed
-	b_dele = tribal

@@ -1,5 +1,0 @@
-	title = c_tanjay
-	max_settlements = 7
-	culture = levantine_arabic
-	religion = slavic_pagan
-	b_rabukee = tribal

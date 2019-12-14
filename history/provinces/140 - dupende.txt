@@ -1,5 +1,0 @@
-	title = c_dupende
-	max_settlements = 6
-	culture = romanian
-	religion = interface_skin
-	b_bikaria = tribal

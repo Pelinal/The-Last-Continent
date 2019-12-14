@@ -1,5 +1,0 @@
-	title = c_laydak
-	max_settlements = 7
-	culture = sindhi
-	religion = mazdaki
-	b_nelanes = tribal

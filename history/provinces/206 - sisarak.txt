@@ -1,5 +1,0 @@
-	title = c_sisarak
-	max_settlements = 3
-	culture = hindustani
-	religion = west_african_pagan_reformed
-	b_qisule = tribal

@@ -1,5 +1,0 @@
-	title = c_kutuddin
-	max_settlements = 4
-	culture = castillan
-	religion = interface_skin
-	b_risujin = tribal

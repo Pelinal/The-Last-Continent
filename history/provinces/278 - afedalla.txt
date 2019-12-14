@@ -1,5 +1,0 @@
-	title = c_afedalla
-	max_settlements = 2
-	culture = khitan
-	religion = iconoclast
-	b_winpal = tribal

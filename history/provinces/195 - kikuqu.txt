@@ -1,5 +1,0 @@
-	title = c_kikuqu
-	max_settlements = 3
-	culture = kannada
-	religion = west_african_pagan
-	b_riojn = tribal

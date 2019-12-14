@@ -1,5 +1,0 @@
-	title = c_salamaj
-	max_settlements = 6
-	culture = serbian
-	religion = tengri_pagan_reformed
-	b_segamaj = tribal

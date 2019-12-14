@@ -1,5 +1,0 @@
-	title = c_rewuqu
-	max_settlements = 7
-	culture = scottish
-	religion = fraticelli
-	b_kikaria = tribal

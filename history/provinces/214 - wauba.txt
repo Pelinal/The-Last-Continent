@@ -1,5 +1,0 @@
-	title = c_wauba
-	max_settlements = 3
-	culture = khanty
-	religion = zun_pagan_reformed
-	b_rutujin = tribal

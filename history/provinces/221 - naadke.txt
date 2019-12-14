@@ -1,5 +1,0 @@
-	title = c_naadke
-	max_settlements = 7
-	culture = croatian
-	religion = jewish
-	b_ebdisi = tribal

@@ -1,5 +1,0 @@
-	title = c_kalarda
-	max_settlements = 7
-	culture = sephardi
-	religion = west_african_pagan_reformed
-	b_noluri = tribal

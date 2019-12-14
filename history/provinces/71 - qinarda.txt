@@ -1,5 +1,0 @@
-	title = c_qinarda
-	max_settlements = 7
-	culture = han
-	religion = catholic
-	b_berern = tribal

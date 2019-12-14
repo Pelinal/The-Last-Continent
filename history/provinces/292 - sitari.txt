@@ -1,5 +1,0 @@
-	title = c_sitari
-	max_settlements = 2
-	culture = bodpa
-	religion = aztec_reformed
-	b_apenri = tribal

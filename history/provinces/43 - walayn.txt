@@ -1,5 +1,0 @@
-	title = c_walayn
-	max_settlements = 6
-	culture = telugu
-	religion = jain
-	b_serern = tribal

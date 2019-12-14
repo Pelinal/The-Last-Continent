@@ -1,5 +1,0 @@
-	title = c_apisa
-	max_settlements = 7
-	culture = sindhi
-	religion = interface_skin
-	b_narak = tribal

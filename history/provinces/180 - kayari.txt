@@ -1,5 +1,0 @@
-	title = c_kayari
-	max_settlements = 2
-	culture = maghreb_arabic
-	religion = pagan
-	b_epayana = tribal

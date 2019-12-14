@@ -1,5 +1,0 @@
-	title = c_awinele
-	max_settlements = 3
-	culture = old_frankish
-	religion = taoist
-	b_boharda = tribal

@@ -1,5 +1,0 @@
-	title = c_agarak
-	max_settlements = 7
-	culture = arberian
-	religion = baltic_pagan_reformed
-	b_kegoan = tribal

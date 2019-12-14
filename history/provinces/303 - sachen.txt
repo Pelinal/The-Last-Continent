@@ -1,5 +1,0 @@
-	title = c_sachen
-	max_settlements = 2
-	culture = tangut
-	religion = jewish
-	b_qetayak = tribal

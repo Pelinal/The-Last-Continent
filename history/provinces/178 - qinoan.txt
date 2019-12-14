@@ -1,5 +1,0 @@
-	title = c_qinoan
-	max_settlements = 6
-	culture = crimean_gothic
-	religion = interface_skin
-	b_ekalarda = tribal

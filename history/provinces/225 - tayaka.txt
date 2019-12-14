@@ -1,5 +1,0 @@
-	title = c_tayaka
-	max_settlements = 7
-	culture = bolghar
-	religion = interface_skin
-	b_walla = tribal

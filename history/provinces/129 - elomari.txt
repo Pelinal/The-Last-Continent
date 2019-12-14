@@ -1,5 +1,0 @@
-	title = c_elomari
-	max_settlements = 2
-	culture = kirghiz
-	religion = tengri_pagan_reformed
-	b_komaria = tribal

@@ -1,5 +1,0 @@
-	title = c_rocanig
-	max_settlements = 7
-	culture = jurchen
-	religion = lollard
-	b_lularia = tribal

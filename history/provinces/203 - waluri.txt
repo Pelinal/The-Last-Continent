@@ -1,5 +1,0 @@
-	title = c_waluri
-	max_settlements = 7
-	culture = tangut
-	religion = miaphysite
-	b_lalayn = tribal

@@ -1,5 +1,0 @@
-	title = c_racern
-	max_settlements = 5
-	culture = danish
-	religion = interface_skin
-	b_lyen = tribal

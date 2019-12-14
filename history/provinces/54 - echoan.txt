@@ -1,5 +1,0 @@
-	title = c_echoan
-	max_settlements = 7
-	culture = sumpa
-	religion = interface_skin
-	b_rele = tribal

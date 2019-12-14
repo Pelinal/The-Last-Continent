@@ -1,5 +1,0 @@
-	title = c_qusaoge
-	max_settlements = 7
-	culture = sogdian
-	religion = aztec
-	b_lewari = tribal

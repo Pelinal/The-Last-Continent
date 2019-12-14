@@ -1,5 +1,0 @@
-	title = c_tacalla
-	max_settlements = 2
-	culture = outremer
-	religion = buddhist
-	b_etoria = tribal

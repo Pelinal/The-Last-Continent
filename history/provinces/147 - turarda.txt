@@ -1,5 +1,0 @@
-	title = c_turarda
-	max_settlements = 6
-	culture = kanuri
-	religion = interface_skin
-	b_roumj = tribal

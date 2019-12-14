@@ -1,5 +1,0 @@
-	title = c_socevon
-	max_settlements = 6
-	culture = dutch
-	religion = interface_skin
-	b_tegatan = tribal

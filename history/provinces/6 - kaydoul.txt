@@ -1,5 +1,0 @@
-	title = c_kaydoul
-	max_settlements = 7
-	culture = somali
-	religion = fraticelli
-	b_bacatan = tribal

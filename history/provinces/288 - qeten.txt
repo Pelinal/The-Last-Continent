@@ -1,5 +1,0 @@
-	title = c_qeten
-	max_settlements = 2
-	culture = italian
-	religion = qarmatian
-	b_tayaka = tribal

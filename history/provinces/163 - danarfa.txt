@@ -1,5 +1,0 @@
-	title = c_danarfa
-	max_settlements = 7
-	culture = russian
-	religion = nestorian
-	b_amoul = tribal

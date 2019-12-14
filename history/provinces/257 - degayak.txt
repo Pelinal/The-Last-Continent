@@ -1,5 +1,0 @@
-	title = c_degayak
-	max_settlements = 3
-	culture = hausa
-	religion = samaritan
-	b_atachen = tribal

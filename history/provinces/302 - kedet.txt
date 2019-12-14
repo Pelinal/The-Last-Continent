@@ -1,5 +1,0 @@
-	title = c_kedet
-	max_settlements = 7
-	culture = sogdian
-	religion = druze
-	b_kelayak = tribal

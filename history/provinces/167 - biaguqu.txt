@@ -1,5 +1,0 @@
-	title = c_biaguqu
-	max_settlements = 7
-	culture = german
-	religion = messalian
-	b_sikuba = tribal

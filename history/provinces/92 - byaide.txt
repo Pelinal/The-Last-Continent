@@ -1,5 +1,0 @@
-	title = c_byaide
-	max_settlements = 7
-	culture = lombard
-	religion = yazidi
-	b_dukee = tribal

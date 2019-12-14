@@ -1,5 +1,0 @@
-	title = c_tupena
-	max_settlements = 6
-	culture = ilmenian
-	religion = iconoclast
-	b_wosari = tribal

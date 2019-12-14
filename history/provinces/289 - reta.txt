@@ -1,5 +1,0 @@
-	title = c_reta
-	max_settlements = 7
-	culture = serbian
-	religion = bogomilist
-	b_rorayaka = tribal

@@ -1,5 +1,0 @@
-	title = c_kiomn
-	max_settlements = 5
-	culture = uyghur
-	religion = hurufi
-	b_etitaoge = tribal

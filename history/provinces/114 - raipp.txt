@@ -1,5 +1,0 @@
-	title = c_raipp
-	max_settlements = 6
-	culture = hungarian
-	religion = shiite
-	b_titadke = tribal

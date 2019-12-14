@@ -1,5 +1,0 @@
-	title = c_kuroan
-	max_settlements = 5
-	culture = bedouin_arabic
-	religion = miaphysite
-	b_rururi = tribal

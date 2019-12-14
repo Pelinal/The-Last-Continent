@@ -1,5 +1,0 @@
-	title = c_kerence
-	max_settlements = 2
-	culture = nepali
-	religion = miaphysite
-	b_efolaide = tribal

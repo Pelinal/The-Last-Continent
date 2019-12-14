@@ -1,5 +1,0 @@
-	title = c_legorgia
-	max_settlements = 7
-	culture = pictish
-	religion = iconoclast
-	b_aferele = tribal

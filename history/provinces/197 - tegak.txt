@@ -1,5 +1,0 @@
-	title = c_tegak
-	max_settlements = 6
-	culture = khazar
-	religion = yazidi
-	b_dyaaria = tribal

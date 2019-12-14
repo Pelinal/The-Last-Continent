@@ -1,5 +1,0 @@
-	title = c_degosgi
-	max_settlements = 7
-	culture = rajput
-	religion = west_african_pagan
-	b_daydah = tribal

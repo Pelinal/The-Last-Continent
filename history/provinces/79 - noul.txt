@@ -1,5 +1,0 @@
-	title = c_noul
-	max_settlements = 6
-	culture = portuguese
-	religion = bon_reformed
-	b_warda = tribal

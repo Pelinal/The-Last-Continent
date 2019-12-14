@@ -1,5 +1,0 @@
-	title = c_kiemoan
-	max_settlements = 7
-	culture = afghan
-	religion = interface_skin
-	b_racayn = tribal

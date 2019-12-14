@@ -1,5 +1,0 @@
-	title = c_terele
-	max_settlements = 6
-	culture = hindustani
-	religion = jewish
-	b_suri = tribal

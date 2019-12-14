@@ -1,5 +1,0 @@
-	title = c_walarak
-	max_settlements = 3
-	culture = bolghar
-	religion = zoroastrian
-	b_awinaide = tribal

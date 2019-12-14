@@ -1,5 +1,0 @@
-	title = c_alatamaj
-	max_settlements = 2
-	culture = somali
-	religion = sunni
-	b_taila = tribal

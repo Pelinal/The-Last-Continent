@@ -1,5 +1,0 @@
-	title = c_qetaria
-	max_settlements = 2
-	culture = karluk
-	religion = zun_pagan
-	b_dyanari = tribal

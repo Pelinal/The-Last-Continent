@@ -1,5 +1,0 @@
-	title = c_dalk
-	max_settlements = 7
-	culture = pommeranian
-	religion = hindu
-	b_berele = tribal

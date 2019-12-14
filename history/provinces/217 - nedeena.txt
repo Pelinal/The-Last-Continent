@@ -1,5 +1,0 @@
-	title = c_nedeena
-	max_settlements = 2
-	culture = norse
-	religion = khurmazta
-	b_ratict = tribal

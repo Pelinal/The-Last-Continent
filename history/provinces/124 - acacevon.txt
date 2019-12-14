@@ -1,5 +1,0 @@
-	title = c_acacevon
-	max_settlements = 7
-	culture = norse
-	religion = jewish
-	b_laymatan = tribal

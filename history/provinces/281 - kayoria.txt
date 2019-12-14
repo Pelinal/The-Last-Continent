@@ -1,5 +1,0 @@
-	title = c_kayoria
-	max_settlements = 7
-	culture = jurchen
-	religion = manichean
-	b_tetitya = tribal

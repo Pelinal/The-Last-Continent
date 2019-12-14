@@ -1,5 +1,0 @@
-	title = c_elarda
-	max_settlements = 3
-	culture = ashkenazi
-	religion = messalian
-	b_tanamaj = tribal

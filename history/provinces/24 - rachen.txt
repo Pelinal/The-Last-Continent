@@ -1,5 +1,0 @@
-	title = c_rachen
-	max_settlements = 7
-	culture = tocharian
-	religion = bon_reformed
-	b_afrayak = tribal

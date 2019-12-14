@@ -1,5 +1,0 @@
-	title = c_weraila
-	max_settlements = 5
-	culture = german
-	religion = ibadi
-	b_qelarda = tribal

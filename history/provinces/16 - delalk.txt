@@ -1,5 +1,0 @@
-	title = c_delalk
-	max_settlements = 7
-	culture = telugu
-	religion = bogomilist
-	b_waloan = tribal

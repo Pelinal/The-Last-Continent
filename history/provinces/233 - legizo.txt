@@ -1,5 +1,0 @@
-	title = c_legizo
-	max_settlements = 2
-	culture = saka
-	religion = mazdaki
-	b_kinayn = tribal

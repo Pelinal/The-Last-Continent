@@ -1,5 +1,0 @@
-	title = c_risyi
-	max_settlements = 7
-	culture = maghreb_arabic
-	religion = aztec_reformed
-	b_wioy = tribal

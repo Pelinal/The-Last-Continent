@@ -1,5 +1,0 @@
-	title = c_serekel
-	max_settlements = 6
-	culture = kannada
-	religion = shiite
-	b_ameganig = tribal

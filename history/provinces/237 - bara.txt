@@ -1,5 +1,0 @@
-	title = c_bara
-	max_settlements = 7
-	culture = polish
-	religion = norse_pagan_reformed
-	b_kugukee = tribal

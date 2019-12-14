@@ -1,5 +1,0 @@
-	title = c_lasak
-	max_settlements = 7
-	culture = sindhi
-	religion = jewish
-	b_ryaak = tribal

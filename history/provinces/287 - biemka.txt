@@ -1,5 +1,0 @@
-	title = c_biemka
-	max_settlements = 6
-	culture = bosnian
-	religion = hellenic_pagan
-	b_detalla = tribal

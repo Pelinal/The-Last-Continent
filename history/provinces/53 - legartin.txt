@@ -1,5 +1,0 @@
-	title = c_legartin
-	max_settlements = 4
-	culture = kannada
-	religion = iconoclast
-	b_solizo = tribal

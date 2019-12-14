@@ -1,5 +1,0 @@
-	title = c_turele
-	max_settlements = 2
-	culture = bohemian
-	religion = qarmatian
-	b_efolarda = tribal

@@ -1,5 +1,0 @@
-	title = c_wer-isa
-	max_settlements = 5
-	culture = norman
-	religion = zoroastrian
-	b_kisidda = tribal

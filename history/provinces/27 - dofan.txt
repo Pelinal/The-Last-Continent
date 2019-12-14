@@ -1,5 +1,0 @@
-	title = c_dofan
-	max_settlements = 7
-	culture = crimean_gothic
-	religion = interface_skin
-	b_daidtai = tribal

@@ -1,5 +1,0 @@
-	title = c_korayak
-	max_settlements = 3
-	culture = slovieni
-	religion = aztec
-	b_worampa = tribal

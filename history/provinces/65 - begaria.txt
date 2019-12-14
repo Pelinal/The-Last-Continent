@@ -1,5 +1,0 @@
-	title = c_begaria
-	max_settlements = 4
-	culture = swedish
-	religion = interface_skin
-	b_dacak = tribal

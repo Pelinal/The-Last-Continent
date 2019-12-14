@@ -1,5 +1,0 @@
-	title = c_qalict
-	max_settlements = 7
-	culture = bulgarian
-	religion = monothelite
-	b_achaila = tribal

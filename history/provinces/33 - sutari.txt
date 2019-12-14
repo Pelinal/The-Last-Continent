@@ -1,5 +1,0 @@
-	title = c_sutari
-	max_settlements = 2
-	culture = breton
-	religion = aztec
-	b_ebanujin = tribal

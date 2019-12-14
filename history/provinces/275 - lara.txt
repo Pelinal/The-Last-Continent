@@ -1,5 +1,0 @@
-	title = c_lara
-	max_settlements = 7
-	culture = alan
-	religion = yazidi
-	b_ahugeena = tribal

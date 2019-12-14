@@ -1,5 +1,0 @@
-	title = c_qaila
-	max_settlements = 7
-	culture = marathi
-	religion = cathar
-	b_qoruri = tribal

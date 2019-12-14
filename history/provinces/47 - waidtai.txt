@@ -1,5 +1,0 @@
-	title = c_waidtai
-	max_settlements = 2
-	culture = hungarian
-	religion = tengri_pagan
-	b_edipocek = tribal

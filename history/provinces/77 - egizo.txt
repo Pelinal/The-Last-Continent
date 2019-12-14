@@ -1,5 +1,0 @@
-	title = c_egizo
-	max_settlements = 4
-	culture = hindustani
-	religion = color
-	b_duroan = tribal

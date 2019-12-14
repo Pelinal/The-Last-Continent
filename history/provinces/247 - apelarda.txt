@@ -1,5 +1,0 @@
-	title = c_apelarda
-	max_settlements = 6
-	culture = saka
-	religion = hurufi
-	b_koruri = tribal

@@ -1,5 +1,0 @@
-	title = c_kalern
-	max_settlements = 6
-	culture = sumpa
-	religion = miaphysite
-	b_qalk = tribal

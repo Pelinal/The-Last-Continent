@@ -1,5 +1,0 @@
-	title = c_laipp
-	max_settlements = 7
-	culture = assamese
-	religion = finnish_pagan_reformed
-	b_taari = tribal

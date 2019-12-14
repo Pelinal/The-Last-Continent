@@ -1,5 +1,0 @@
-	title = c_teten
-	max_settlements = 7
-	culture = baloch
-	religion = bon
-	b_qateta = tribal

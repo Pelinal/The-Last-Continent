@@ -1,5 +1,0 @@
-	title = c_runoria
-	max_settlements = 6
-	culture = assyrian
-	religion = hellenic_pagan_reformed
-	b_tayotya = tribal

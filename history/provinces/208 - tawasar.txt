@@ -1,5 +1,0 @@
-	title = c_tawasar
-	max_settlements = 3
-	culture = assamese
-	religion = pagan
-	b_kutua = tribal

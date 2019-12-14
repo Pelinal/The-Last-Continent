@@ -1,5 +1,0 @@
-	title = c_layafon
-	max_settlements = 4
-	culture = welsh
-	religion = zun_pagan
-	b_qetaria = tribal

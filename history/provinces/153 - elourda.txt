@@ -1,5 +1,0 @@
-	title = c_elourda
-	max_settlements = 6
-	culture = bosnian
-	religion = bon_reformed
-	b_raila = tribal

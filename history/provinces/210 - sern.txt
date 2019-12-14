@@ -1,5 +1,0 @@
-	title = c_sern
-	max_settlements = 4
-	culture = zaghawa
-	religion = samaritan
-	b_kinizo = tribal

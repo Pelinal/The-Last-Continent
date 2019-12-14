@@ -1,5 +1,0 @@
-	title = c_luroan
-	max_settlements = 3
-	culture = sephardi
-	religion = zun_pagan_reformed
-	b_loan = tribal

@@ -1,5 +1,0 @@
-	title = c_rizaria
-	max_settlements = 7
-	culture = khitan
-	religion = bogomilist
-	b_taydah = tribal

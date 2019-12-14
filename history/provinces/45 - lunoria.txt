@@ -1,5 +1,0 @@
-	title = c_lunoria
-	max_settlements = 7
-	culture = carantanian
-	religion = interface_skin
-	b_worung = tribal

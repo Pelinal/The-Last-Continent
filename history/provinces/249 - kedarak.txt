@@ -1,5 +1,0 @@
-	title = c_kedarak
-	max_settlements = 7
-	culture = visigothic
-	religion = manichean
-	b_wabukee = tribal

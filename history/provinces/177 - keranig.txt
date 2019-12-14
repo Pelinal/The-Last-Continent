@@ -1,5 +1,0 @@
-	title = c_keranig
-	max_settlements = 7
-	culture = somali
-	religion = buddhist
-	b_ederaria = tribal

@@ -1,5 +1,0 @@
-	title = c_tenari
-	max_settlements = 7
-	culture = portuguese
-	religion = fraticelli
-	b_kajari = tribal

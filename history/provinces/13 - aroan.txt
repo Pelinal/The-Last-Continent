@@ -1,5 +1,0 @@
-	title = c_aroan
-	max_settlements = 7
-	culture = hindustani
-	religion = yazidi
-	b_talele = tribal

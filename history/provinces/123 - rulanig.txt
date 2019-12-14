@@ -1,5 +1,0 @@
-	title = c_rulanig
-	max_settlements = 2
-	culture = zaghawa
-	religion = norse_pagan
-	b_baymisi = tribal

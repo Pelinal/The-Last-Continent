@@ -1,5 +1,0 @@
-	title = c_nanarda
-	max_settlements = 7
-	culture = prussian
-	religion = slavic_pagan
-	b_ralarak = tribal

@@ -1,5 +1,0 @@
-	title = c_saari
-	max_settlements = 2
-	culture = bedouin_arabic
-	religion = paulician
-	b_qipofan = tribal
