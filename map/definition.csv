@@ -68,35 +68,36 @@ province;red;green;blue;x;x
 67;168;141;72;Mistassini;x
 68;168;84;27;Newcomer;x
 69;168;132;77;Carvajal;x
-70;126;81;4;rilizo;x
-71;84;135;71;qinarda;x
-72;42;45;98;agarak;x
-73;42;120;33;eralk;x
-74;126;63;164;ewinuri;x
-75;0;144;50;tanarda;x
-76;0;66;95;elarda;x
-77;0;129;70;egizo;x
-78;168;99;7;kuroan;x
-79;43;156;23;noul;x
-80;0;126;5;abaila;x
-81;42;54;93;wohict;x
-82;84;99;36;kalarda;x
-83;126;198;59;kolarak;x
-84;168;108;207;derara;x
-85;0;147;15;lomifon;x
-86;42;192;58;adipari;x
-87;168;63;72;tipahtu;x
-88;168;171;182;bedarak;x
-89;42;201;53;remayn;x
-90;168;45;27;alateena;x
-91;42;135;13;kiemoan;x
-92;168;75;32;byaide;x
-93;168;138;212;erosoan;x
-94;42;9;63;avacict;x
-95;85;69;136;balla;x
-96;84;123;11;ditya;x
-97;168;156;52;runoria;x
-98;126;210;224;beloria;x
+# END OF ANTARCTIC PENINSULA #
+70;126;81;4;Russkaya;x
+71;84;135;71;Alison;x
+72;42;45;98;The Breach;x
+73;42;120;33;Fletcher;x
+74;126;63;164;Bryan;x
+75;0;144;50;Flying Fish;x # b_flying_fish, b_petersen, b_simpson, b_hughes, b_henry, b_davies
+76;0;66;95;Williamson;x # b_tinglof, b_king, b_wagoner, b_kearns, b_potaka, b_starr, b_williamson
+77;0;129;70;Tierney;x # b_evans, b_walden, b_lofgren, b_morgan, b_menzel, b_braathen, b_annawan
+78;168;99;7;Noville;x # b_peale, b_ball, b_edwards, b_murphy, b_koether, b_o_dowd, b_parker
+79;43;156;23;Lepley;x # b_dendtler, b_venablea, b_farwell
+80;0;126;5;Anderson;x # b_ncnamara, b_johnson, b_dustin
+81;42;54;93;Carpenter;x # b_woodwier, b_shermann, b_carpenter
+82;84;99;36;Waite;x # b_kingston, b_burke, b_demas
+83;126;198;59;Canisteo;x # b_lindsey, b_brownson, b_sabrelake
+84;168;108;207;Jones;x # b_millenium, b_brackenlake, b_farspear
+85;0;147;15;Spheres;x # b_denny, b_new_lenora, b_mortica, b_bellatrix, b_understory, b_catalan
+86;42;192;58;Doppler;x # b_prime, b_echo, b_fire, b_goodreads, b_zappos, b_kiva
+87;168;63;72;HQ Two;x # b_bellevue, b_sodo, b_southlake, b_arlington, b_national_landing, b_crystal_city (short_name = yes)
+88;168;171;182;Bezos;x # b_cadabra, b_jeffington, b_anine, b_shopbop, b_techstreet
+89;42;201;53;Kindle;x # b_audible, b_joyo, b_comixology, b_createspace, b_brilliance, b_eero
+90;168;45;27;Alexa;x # b_robotica, b_lab126, b_kuiper, b_ring, b_shelfair, b_annapurna
+91;42;135;13;Twitch;x # b_ninja, b_florry, b_kusailix, b_souq, b_wholefood, b_healthnav
+92;168;75;32;Byfar;x # b_moresby, b_juskatta, b_hangeroa
+93;168;138;212;Palezoia;x # b_oldtown, b_hutta, b_anchorock
+94;42;9;63;Walden;x # b_thoreau, b_woodcock, b_praxis, b_talltrees, b_zisly
+95;85;69;136;Zerzan;x # b_reclus, b_tolstoy, b_excursion, b_ourcamp
+96;84;123;11;Foreverhome;x # b_guerin, b_revista, b_gravelle, b_urales
+97;168;156;52;Wildgrove;x # b_timberfell, b_bliss, b_eternis, b_spikyheat
+98;126;210;224;Eastpine;x # b_frankhole, b_egalitaria, b_sahlinsky, b_polanyi
 99;0;72;25;kanomon;x
 100;126;150;214;egayari;x
 101;1;63;135;laipp;x

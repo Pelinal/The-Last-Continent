@@ -22,5 +22,5 @@ sea_zones = { 353 384 }
 sea_zones = { 385 386 }
 
 ocean_region = { 
-     sea_zones = { 1 2 3 4 }
+    sea_zones = { 1 2 3 4 }
 }

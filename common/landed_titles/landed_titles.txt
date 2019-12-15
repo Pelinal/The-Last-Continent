@@ -24,6 +24,35 @@ e_antarctandes = {
 	american = "Grahamland"
 	english = "Grahamland"
 	
+	k_wales = { # like a more blueish teal colour por favor
+		color = { 0 50 100 }
+		color2 = { 255 255 255 }
+		
+		capital = 77 # Tierney
+		
+		welsh = "Cymru"
+		
+		allow = {
+			culture = welsh
+			independent = yes
+			num_of_duke_titles = 3
+			
+			custom_tooltip = {
+				text = ant_wales_form_req_tt
+				OR = {
+					has_landed_title = c_tierney
+					has_landed_title = c_noville
+					has_landed_title = c_flying_fish
+					has_landed_title = c_williamson
+				}
+			}
+			hidden_tooltip = {
+				is_incapable = no
+				age = 16
+			}
+		}
+	}
+	
 	k_graham = {
 		color = { 135 89 166 }
 		color2 = { 255 255 255 }
@@ -1013,6 +1042,335 @@ e_antarctandes = {
 				b_burgerking = {}
 				b_overtop = {}
 				b_bigone = {}
+			}
+		}
+	}
+	
+	k_amazonia = {
+		color = { 0 128 0 } # not actual, but certainly green
+		color2 = { 255 255 255 }
+		
+		capital = 86 # Doppler
+		
+		french = "Amazonie"
+		quebecois = "Amazonie"
+		
+		d_bryan = {
+			color = { 53 94 211 }
+			color2 = { 255 255 255 }
+			
+			capital = 71 # Alison
+			
+			c_alison = {
+				color = { 53 94 211 }
+				color2 = { 255 255 255 }
+				
+				b_alison = {}
+				b_onyx = {}
+				b_swiftport = {}
+				b_tucker = {}
+				b_widepeak = {}
+			}
+			c_the_breach = {
+				color = { 53 94 211 }
+				color2 = { 255 255 255 }
+				
+				b_the_breach = {}
+				b_longtrail = {}
+				b_flatlake = {}
+				b_stonerun = {}
+			}
+			c_fletcher = {
+				color = { 53 94 211 }
+				color2 = { 255 255 255 }
+				
+				b_fletcher = {}
+				b_wirewood = {}
+				b_christensen = {}
+				b_jagged_cove = {}
+			}
+			c_bryan = {
+				color = { 53 94 211 }
+				color2 = { 255 255 255 }
+				
+				b_bryan = {}
+				b_northjoin = {}
+				b_expeditio = {}
+				b_interia = {}
+			}
+		}
+		
+		d_eights = {
+			color = { 53 94 211 }
+			color2 = { 255 255 255 }
+			
+			capital = 80 # Anderson
+			
+			c_lepley = {
+				color = { 53 94 211 }
+				color2 = { 255 255 255 }
+				
+				b_lepley = {}
+				b_dendtler = {}
+				b_venablea = {} 
+				b_farwell = {}
+			}
+			
+			c_anderson = {
+				b_anderson = {}
+				b_ncnamara = {}
+				b_johnson = {}
+				b_dustin = {}
+				b_farspear  = {}
+			}
+			
+			c_carpenter = {
+				b_carpenter = {}
+				b_woodwier = {} 
+				b_shermann = {}
+				b_oaken = {}
+			}
+			
+			c_waite = {
+				b_waite = {}
+				b_kingston = {} 
+				b_burke = {} 
+				b_demas = {}
+			}
+			
+			c_jones = {
+				b_jones = {}
+				b_millenium = {}
+				b_brackenlake = {}
+				b_farspear = {}
+			}
+		}
+		
+		d_thurston = {
+			color = { 53 94 211 }
+			color2 = { 255 255 255 }
+			
+			capital = 77 # Tierney
+			
+			welsh = "Ynys Tomos"
+			
+			c_flying_fish = { # max settlements = 4
+				
+				welsh = "Lledeheuol"
+				
+			
+				b_flying_fish = {
+					welsh = "Lledeheuol"
+				}
+				b_petersen = {}
+				b_simpson = {}
+				b_hughes = {}
+				b_henry = {} 
+				b_davies  = {}
+			}
+			
+			c_williamson = { # max settlements = 5
+				
+				welsh = "Morgannwg"
+			
+				b_williamson = {
+					welsh = "Morgannwg"
+				}
+				b_tinglof = {}
+				b_king_th = {}
+				b_wagoner = {} 
+				b_kearns = {}
+				b_potaka = {}
+				b_starr = {}
+			}
+			
+			c_tierney = { # max settlements = 7
+				
+				welsh = "Haenaay"
+				
+				b_tierney = {
+					welsh = "Haenaay"
+				}
+				b_evans = {} 
+				b_lofgren = {} 
+				b_morgan = {} 
+				b_menzel = {}
+				b_braathen = {}
+				b_annawan = {}
+			}
+			
+			c_noville = { # max settlements = 5
+			
+				welsh = "Newydd"
+				
+				b_noville = {
+					welsh = "Newydd"
+				}
+				b_peale = {}
+				b_ball = {}
+				b_murphy = {}
+				b_koether = {}
+				b_o_dowd = {}
+				b_parker = {}
+			}
+		}
+		
+		d_amazon = {
+			color = { 53 94 211 }
+			color2 = { 255 255 255 }
+			
+			capital = 86 # Doppler
+			
+			c_canisteo = {
+				
+				b_canisteo = {}
+				b_lindsey = {}
+				b_brownson = {} 
+				b_sabrelake = {}
+			}
+			
+			c_spheres = {
+				b_spheres = {}
+				b_denny = {}
+				b_new_lenora = {}
+				b_mortica = {}
+				b_bellatrix = {}
+				b_understory = {}
+				b_catalan = {}
+			}
+			
+			c_doppler = { # have 5/7 baronies built, with 3 cities and a temple and castle
+				b_doppler = {}
+				b_prime = {}
+				b_echo = {}
+				b_fire = {}
+				b_goodreads = {}
+				b_zappos = {}
+				b_kiva = {}
+			}
+			
+			c_hq_two = {
+				b_hq_two = {}
+				b_bellevue = {}
+				b_sodo = {}
+				b_southlake = {}
+				b_arlington = {}
+				b_national_landing = {}
+				b_crystal_city = {
+					short_name = yes
+				}
+			}
+			
+			c_bezos = {
+				b_bezos = {}
+				b_cadabra = {}
+				b_jeffington = {}
+				b_anine = {}
+				b_shopbop = {}
+				b_techstreet = {}
+			}
+			
+			c_byfar = {
+				b_byfar = {}
+				b_moresby = {}
+				b_juskatta = {}
+				b_hangeroa = {}
+			}
+		}
+		
+		d_alexa = {
+			color = { 53 94 211 }
+			color2 = { 255 255 255 }
+			
+			capital = 90 # Alexa
+			
+			c_kindle = {
+				b_kindle = {}
+				b_audible = {}
+				b_joyo = {}
+				b_comixology = {}
+				b_createspace = {}
+				b_brilliance = {}
+				b_eero = {}
+			}
+			
+			c_alexa = {
+				b_alexa = {}
+				b_robotica = {}
+				b_lab126 = {}
+				b_kuiper = {}
+				b_ring = {}
+				b_shelfair = {}
+				b_annapurna = {}
+			}
+			
+			c_twitch = {
+				b_twitch = {}
+				b_ninja = {}
+				b_florry = {}
+				b_kusailix = {}
+				b_souq = {}
+				b_wholefood = {}
+				b_healthnav = {}
+			}
+		}
+		
+		d_primiteva = {
+			color = { 53 94 211 }
+			color2 = { 255 255 255 }
+			
+			capital = 94 # Walden
+			
+			c_walden = {
+				b_thoreau = {} 
+				b_woodcock = {}
+				b_praxis = {}
+				b_talltrees = {}
+				b_zisly = {}
+			}
+			c_palezoia = {
+				b_palezoia = {}
+				b_oldtown = {}
+				b_hutta = {}
+				b_anchorock = {}
+			}
+			c_eastpine = {
+				b_eastpine = {}
+				b_frankhole = {} 
+				b_egalitaria = {}
+				b_sahlinsky = {} 
+				b_polanyi = {}
+			}
+		}
+		
+		d_foreverhome = {
+			color = { 0 0 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 96 # Foreverhome
+			
+			c_foreverhome = {
+				b_foreverhome = {}
+				b_guerin = {}
+				b_revista = {}
+				b_gravelle = {}
+				b_urales = {}
+			}
+			
+			c_zerzan = {
+				b_zerzan = {}
+				b_guerin = {}
+				b_revista = {}
+				b_gravelle = {}
+				b_urales = {}
+			}
+			
+			c_wildgrove = {
+				b_wildgrove = {}
+				b_timberfell = {}
+				b_bliss = {}
+				b_eternis = {}
+				b_spikyheat = {}
 			}
 		}
 	}
