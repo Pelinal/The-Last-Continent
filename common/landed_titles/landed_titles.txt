@@ -12,7 +12,7 @@ e_antartica = {
 
 # Antarctic Peninsula
 e_antarctandes = {
-	color = { 217 152 136 }
+	color = { 204 122 0 }
 	color2 = { 255 255 255 }
 	
 	capital = 7 # Esperanza
@@ -25,7 +25,7 @@ e_antarctandes = {
 	english = "Grahamland"
 	
 	k_graham = {
-		color = { 116 136 155 }
+		color = { 135 89 166 }
 		color2 = { 255 255 255 }
 		
 		capital = 7 # Esperanza
@@ -37,7 +37,7 @@ e_antarctandes = {
 		english = "Trinitatis"
 		
 		d_falklands = {
-			color = { 53 94 211 }
+			color = { 25 128 230 }
 			color2 = { 255 255 255 }
 			
 			capital = 1 # Falklands
@@ -47,7 +47,7 @@ e_antarctandes = {
 			chilean = "Malvinas"
 			
 			c_falklands = {
-				color = { 53 94 211 }
+				color = { 8 38 69 }
 				color2 = { 255 255 255 }
 				
 				argentine = "Malvinas"
@@ -65,7 +65,7 @@ e_antarctandes = {
 		}
 		
 		d_south_orkney = {
-			color = { 145 187 130 }
+			color = { 255 128 191 }
 			color2 = { 255 255 255 }
 			
 			capital = 2 # South Orkney
@@ -75,7 +75,7 @@ e_antarctandes = {
 			chilean = "Orcadas"
 			
 			c_south_orkney = {
-				color = { 145 187 130 }
+				color = { 153 0 77 }
 				color2 = { 255 255 255 }
 				
 				argentine = "Orcadas"
@@ -92,7 +92,7 @@ e_antarctandes = {
 		}
 		
 		d_trinity = {
-			color = { 141 186 229 }
+			color = { 135 89 166 }
 			color2 = { 255 255 255 }
 			
 			capital = 7 # Esperanza
@@ -102,7 +102,7 @@ e_antarctandes = {
 			chilean = "Trinidad"
 			
 			c_esperanza = {
-				color = { 141 186 229 }
+				color = { 143 51 204 }
 				color2 = { 255 255 255 }
 				
 				american = "Viewpoint"
@@ -117,7 +117,7 @@ e_antarctandes = {
 				b_fortin_sgto_cabral = {}
 			}
 			c_o_higgins = {
-				color = { 203 224 243 }
+				color = { 41 27 50 }
 				color2 = { 255 255 255 }
 				
 				american = "Botany Bay"
@@ -141,7 +141,7 @@ e_antarctandes = {
 				b_tower_island = {}
 			}
 			c_san_nicolas = {
-				color = { 141 208 229 }
+				color = { 131 108 147 }
 				color2 = { 255 255 255 }
 				
 				b_san_nicolas = {}
@@ -150,7 +150,7 @@ e_antarctandes = {
 				b_gustavia = {}
 			}
 			c_joinville = {
-				color = { 141 171 229 }
+				color = { 89 89 166 }
 				color2 = { 255 255 255 }
 				
 				b_petrel = {}
@@ -161,7 +161,7 @@ e_antarctandes = {
 				b_danger = {}
 			}
 			c_mendel = {
-				color = { 141 194 229 }
+				color = { 166 89 166 }
 				color2 = { 255 255 255 }
 				
 				argentine = "San Juan"
@@ -180,13 +180,13 @@ e_antarctandes = {
 		}
 		
 		d_south_shetland = {
-			color = { 229 141 142 }
+			color = { 89 108 166 }
 			color2 = { 255 255 255 }
 			
 			capital = 3 # King George Island
 			
 			c_livingston = {
-				color = { 215 79 80 }
+				color = { 36 43 66 }
 				color2 = { 255 255 255 }
 				
 				chilean = "Prat"
@@ -204,7 +204,7 @@ e_antarctandes = {
 				b_juan_carlos = {}
 			}
 			c_nelson = {
-				color = { 243 203 204 }
+				color = { 139 152 193 }
 				color2 = { 255 255 255 }
 				
 				chilean = "Escudero"
@@ -219,7 +219,7 @@ e_antarctandes = {
 				b_greenwich = {}
 			}
 			c_george = {
-				color = { 229 147 141 }
+				color = { 51 89 204}
 				color2 = { 255 255 255 }
 				
 				brazilian = "Ferraz"
@@ -240,13 +240,13 @@ e_antarctandes = {
 		}
 		
 		d_danco = {
-			color = { 143 98 68 }
+			color = { 166 89 166 }
 			color2 = { 255 255 255 }
 			
 			capital = 12 # Matienzo
 			
 			c_fairweather = {
-				color = { 143 98 68 }
+				color = { 201 156 201 }
 				color2 = { 255 255 255 }
 				
 				b_fairweather = {}
@@ -256,7 +256,8 @@ e_antarctandes = {
 				b_nordenskjold = {}
 			}
 			c_videla = {
-				
+				color = {66 36 66}
+				color2 = {255 255 255}
 				b_videla = {}
 				b_gonzalez = {}
 				b_casa_generale = {}
@@ -264,7 +265,8 @@ e_antarctandes = {
 				b_investigacion = {}
 			}
 			c_spring = {
-				
+				color = {198 57 198}
+				color2 = {255 255 255}
 				b_spring = {}
 				b_hughes_bay = {}
 				b_gerlache = {}
@@ -272,6 +274,8 @@ e_antarctandes = {
 				b_sevilla = {}
 			}
 			c_matienzo = {
+				color = {166 89 166}
+				color2 = {255 255 255}
 				b_matienzo = {}
 				b_roberto = {}
 				b_sobral = {}
@@ -280,13 +284,13 @@ e_antarctandes = {
 		}
 		
 		d_graham = {
-			color = { 116 169 164 }
+			color = { 89 147 166 }
 			color2 = { 255 255 255 }
 			
 			capital = 17 # Vernadsky/Faraday
 			
 			c_vernadsky = {
-				color = { 116 169 164 }
+				color = { 89 147 166 }
 				color2 = { 255 255 255 }
 				
 				english = "Faraday"
@@ -301,13 +305,17 @@ e_antarctandes = {
 				b_kievsky = {}
 				b_beascochea = {}
 			}
-			c_prospect = {				
+			c_prospect = {		
+				color = {32 175 223}
+				color2 = {255 255 255}
 				b_prospect = {}
 				b_grandidier = {}
 				b_henryford = {}
 				b_tunstead = {}
 			}
 			c_adie = {
+				color = {115 134 140}
+				color2 = {255 255 255}
 				b_adie = {}
 				b_churchill = {}
 				b_jason = {}
@@ -315,6 +323,8 @@ e_antarctandes = {
 				b_alexanera = {}
 			}
 			c_foyn = {
+				color = {27 44 50}
+				color2 = {255 255 255}
 				argentine = "Teresita"
 				spanish = "Teresita"
 				chilean = "Teresita"
@@ -328,6 +338,8 @@ e_antarctandes = {
 				b_colestead = {}
 			}
 			c_brown = {
+				color = {140 178 192}
+				color2 = {255 255 255}
 				b_brown = {}
 				b_cpt_cobben = {}
 				b_pittham = {}
@@ -336,13 +348,13 @@ e_antarctandes = {
 		}
 		
 		d_palmer = {
-			color = { 116 169 164 }
+			color = { 89 166 128 }
 			color2 = { 255 255 255 }
 			
 			capital = 21 # Anvers-Palmer Station
 			
 			c_anvers = {
-				color = { 116 169 164 }
+				color = { 89 166 128 }
 				color2 = { 255 255 255 }
 				
 				american = "Palmer"
@@ -358,6 +370,8 @@ e_antarctandes = {
 				b_sudbury = {}
 			}
 			c_brabant = {
+				color = {45 210 128}
+				color2 = {255 255 255}
 				american = "Portal"
 				english = "Portal"
 				
@@ -368,6 +382,8 @@ e_antarctandes = {
 				b_neu_amsterdam = {}
 			}
 			c_liege = {
+				color = {36 66 51}
+				color2 = {255 255 255}
 				chilean = "Caillett"
 				spanish = "Caillett"
 				argentine = "Caillett"
@@ -381,7 +397,7 @@ e_antarctandes = {
 		}
 		
 		d_bowman = {
-			color = { 169 164 116 }
+			color = { 166 89 108 }
 			color2 = { 255 255 255 }
 			
 			capital = 26 # Rothera
@@ -390,6 +406,9 @@ e_antarctandes = {
 			quebecois = "Loubet"
 			
 			c_blacklock = {
+				color = { 198 57 92 }
+				color2 = { 255 255 255 }
+
 				chilean = "Cerra Negra"
 				argentine = "Cerra Negra"
 				spanish = "Cerra Negra"
@@ -408,6 +427,9 @@ e_antarctandes = {
 				b_champignane = {}
 			}
 			c_loubet = {
+				color = { 140 115 121 }
+				color2 = { 255 255 255 }
+				
 				american = "Orford"
 				english = "Orford"
 				
@@ -420,7 +442,7 @@ e_antarctandes = {
 				b_laubeuf = {}
 			}
 			c_rothera = {
-				color = { 169 164 116 }
+				color = { 166 89 108 }
 				color2 = { 255 255 255 }
 				
 				french = "Adelaide"
@@ -437,6 +459,8 @@ e_antarctandes = {
 				b_bingham = {}
 			}
 			c_whirlwind = {
+				color = { 201 156 167 }
+				color2 = { 255 255 255 }
 				argentine = "Loretto"
 				spanish = "Loretto"
 				chilean = "Loretto"
@@ -449,6 +473,9 @@ e_antarctandes = {
 				b_northrop = {}
 			}
 			c_carvajal = {
+				color = { 66 36 43 }
+				color2 = { 255 255 255 }
+				
 				english = "Station T"
 				
 				b_liotard = {}
@@ -461,13 +488,13 @@ e_antarctandes = {
 	}
 	
 	k_palmerland = {
-		color = { 78 175 198 }
+		color = { 0 51 153 }
 		color2 = { 255 255 255 }
 	
 		capital = 29 # San Martin
 		
 		d_fallieres = {
-			color = { 89 109 145 }
+			color = { 0 51 153 }
 			color2 = { 255 255 255 }
 			
 			capital = 26 # Rothera
@@ -479,7 +506,7 @@ e_antarctandes = {
 			zealander = "Eternity"
 			
 			c_san_martin = {
-				color = { 89 109 145 }
+				color = { 0 51 153 }
 				color2 = { 255 255 255 }
 				
 				english = "St. Martin"
@@ -497,7 +524,8 @@ e_antarctandes = {
 				b_chacabuco = {}
 			}
 			c_eternity = {
-				
+				color = {42 65 111}
+				color2 = {255 255 255}
 				english = "Wakefield"
 				
 				b_eternity = {}
@@ -505,6 +533,8 @@ e_antarctandes = {
 				b_welcham = {}
 			}
 			c_wilkins = {
+				color = {26 102 255}
+				color2 = {255 255 255}
 				
 				b_wilkins = {}
 				b_collier = {}
@@ -514,6 +544,9 @@ e_antarctandes = {
 				b_boggs = {}
 			}
 			c_jeremy = {
+				color = {128 170 255}
+				color2 = {255 255 255}
+				
 				argentine = "Granaderos"
 				spanish = "Granaderos"
 				chilean = "Granaderos"
@@ -526,13 +559,13 @@ e_antarctandes = {
 		}
 		
 		d_dyer = {
-			color = { 135 184 108 }
+			color = { 0 153 153 }
 			color2 = { 255 255 255 }
 			
 			capital = 37 # Dyer
 			
 			c_dyer = {
-				color = { 109 145 89 }
+				color = { 0 153 153 }
 				color2 = { 255 255 255 }
 				
 				b_dyer = {}
@@ -541,13 +574,15 @@ e_antarctandes = {
 				b_goettel = {}
 			}
 			c_rymil = {
+				color = {57 96 96}
+				color2 = {255 255 255}
 				
 				b_rymil = {}
 				b_lachlan = {}
 				b_buttress = {}
 			}
 			c_goodenough = {
-				color = { 135 184 108 }
+				color = { 0 51 51 }
 				color2 = { 255 255 255 }
 				
 				b_goodenough = {}
@@ -559,13 +594,15 @@ e_antarctandes = {
 		}
 		
 		d_black_coast = {
-			color = { 140 110 137 }
+			color = { 38 0 153 }
 			color2 = { 255 255 255 }
 			
 			capital = 35 # New Bedford
 			
 			c_jackson = {
-				
+				color = { 57 38 115 }
+				color2 = { 255 255 255 }
+			
 				b_jackson = {}
 				b_sharbonneau = {}
 				b_bryant = {}
@@ -573,6 +610,8 @@ e_antarctandes = {
 				b_dollerman = {}
 			}
 			c_odom = {
+				color = { 69 61 92 }
+				color2 = { 255 255 255 }
 				
 				argentine = "Violante"
 				chilean = "Violante"
@@ -585,13 +624,17 @@ e_antarctandes = {
 				b_knowles = {}
 			}
 			c_lehrke = {
-			
+				color = { 140 102 255 }
+				color2 = { 255 255 255 }
+				
 				b_lehrke = {}
 				b_boggs = {}
 				b_smith = {}
 				b_ewing = {}
 			}
 			c_heirtzler = {
+				color = { 57 0 230 }
+				color2 = { 255 255 255 }
 				
 				b_heirtzler = {}
 				b_haines = {}
@@ -599,7 +642,7 @@ e_antarctandes = {
 				b_pullen = {}
 			}
 			c_new_bedford = {
-				color = { 140 110 137 }
+				color = { 38 0 153 }
 				color2 = { 255 255 255 }
 				
 				b_new_bedford = {}
@@ -612,13 +655,13 @@ e_antarctandes = {
 		}
 		
 		d_lassiter = {
-			color = { 27 50 137 }
+			color = { 0 153 77 }
 			color2 = { 255 255 255 }
 			
 			capital = 46 # Druzhnaya
 			
 			c_druzhnaya = {
-				color = { 27 50 137 }
+				color = { 0 153 77 }
 				color2 = { 255 255 255 }
 				
 				english = "Fiske"
@@ -634,13 +677,18 @@ e_antarctandes = {
 				b_adams = {}
 			}
 			c_wetmore = {
-				
+				color = { 61 92 77 }
+				color2 = { 255 255 255 }		
+			
 				b_wetmore = {}
 				b_copper_nunataks = {}
 				b_latady_mts = {}
 				b_veers = {}
 			}
 			c_spear = {
+				color = { 77 255 166}
+				color2 = { 255 255 255 }		
+				
 				german = "Hauberg"
 				
 				b_spear = {}
@@ -652,25 +700,31 @@ e_antarctandes = {
 		}
 		
 		d_essland = {
-			color = { 146 174 168 }
+			color = { 102 153 255 }
 			color2 = { 255 255 255 }
 			
 			capital = 48 # Scaife
 		
 			c_scaife = {
-				
+				color = { 102 153 255 }
+				color2 = { 255 255 255 }
+			
 				b_scaife = {}
 				b_schlossbach = {}
 				b_ketchum = {}
 				b_vang = {}
 			}
 			c_irvine = {
+				color = { 102 217 255 }
+				color2 = { 255 255 255 }
 				
 				b_irvine = {}
 				b_coman = {}
 				b_sweeny = {}
 			}
 			c_seward = {
+				color = { 140 102 255 }
+				color2 = { 255 255 255 }
 				
 				b_seward = {}
 				b_jorge = {}
@@ -679,7 +733,7 @@ e_antarctandes = {
 		}
 		
 		d_alexander_island = {
-			color = { 219 69 23 }
+			color = { 20 26 77 }
 			color2 = { 255 255 255 }
 			
 			argentine = "Alejandros"
@@ -687,7 +741,7 @@ e_antarctandes = {
 			spanish = "Alejandros"
 			
 			c_soyuz = {
-				color = { 219 69 23 }
+				color = { 20 26 77 }
 				color2 = { 255 255 255 }
 				
 				b_soyuz = {}
@@ -699,6 +753,8 @@ e_antarctandes = {
 				b_douglas = {}
 			}
 			c_fossil_bluff = {
+				color = { 52 67 203 }
+				color2 = { 255 255 255 }
 				
 				b_fossil_bluff = {}
 				b_skiway = {}
@@ -709,6 +765,8 @@ e_antarctandes = {
 				b_taylor = {}
 			}
 			c_beethoven = {
+				color = { 128 52 203 }
+				color2 = { 255 255 255 }
 				
 				b_beethoven = {}
 				b_bach = {}
@@ -718,6 +776,8 @@ e_antarctandes = {
 				b_perce = {}
 			}
 			c_monteverdi = {
+				color = { 203 52 203 }
+				color2 = { 255 255 255 }
 				
 				b_monteverdi = {}
 				b_stravinsky = {}
@@ -725,6 +785,8 @@ e_antarctandes = {
 				b_rossini = {}
 			}
 			c_shubert = {
+				color = { 52 165 203 }
+				color2 = { 255 255 255 }
 				
 				b_shubert = {}
 				b_uranus = {}
@@ -738,18 +800,20 @@ e_antarctandes = {
 	}
 	
 	k_ellsworth = {
-		color = { 78 175 198 }
+		color = { 46 184 46 }
 		color2 = { 255 255 255 }
 	
 		capital = 66 # Siple
 		
 		d_new_scilly = {
-			color = { 89 109 145 }
+			color = { 149 184 46 }
 			color2 = { 255 255 255 }
 			
 			capital = 54 # Spaatz
 			
 			c_spaatz = {
+				color = { 149 184 46 }
+				color2 = { 255 255 255 }
 				
 				b_spaatz = {}
 				b_de_atley = {}
@@ -758,7 +822,9 @@ e_antarctandes = {
 				b_yougney = {}
 			}
 			c_smyley = {
-				
+				color = { 184 115 46 }
+				color2 = { 255 255 255 }
+								
 				b_smyley = {}
 				b_case = {}
 				b_scar = {}
@@ -767,26 +833,32 @@ e_antarctandes = {
 		
 		d_merrick = {
 		
-			color = { 89 109 145 }
+			color = { 46 184 149 }
 			color2 = { 255 255 255 }
 			
 			capital = 52 # Merrick
 		
 			c_sweeny = {
-				
+				color = { 46 149 184 }
+				color2 = { 255 255 255 }
+			
 				b_sweeny_barony = {}
 				b_edward = {}
 				b_gardener = {}
 				b_crackpot = {}
 			}
 			c_vang = {
-			
+				color = { 15 61 50 }
+				color2 = { 255 255 255 }
+					
 				b_vang_barony = {}
 				b_werner = {}
 				b_playfield = {}
 				b_shanrary = {}
 			}
 			c_latady = {
+				color = { 103 126 120 }
+				color2 = { 255 255 255 }
 				
 				b_latady = {}
 				b_peuensey = {}
@@ -795,6 +867,8 @@ e_antarctandes = {
 			}
 			
 			c_merrick = {
+				color = { 46 184 149 }
+				color2 = { 255 255 255 }
 			
 				b_merrick = {}
 				b_becker = {}
@@ -806,13 +880,13 @@ e_antarctandes = {
 		}
 		
 		d_anglaland = {
-			color = { 89 109 145 }
+			color = { 86 143 86 }
 			color2 = { 255 255 255 }
 			
 			capital = 59 # Rydberg
 			
 			c_rydberg = {
-				color = { 89 109 145 }
+				color = { 86 143 86 }
 				color2 = { 255 255 255 }
 				
 				english = "Ryandale"
@@ -826,26 +900,34 @@ e_antarctandes = {
 				b_carroll = {}
 			}
 			c_hill = {
-				
+				color = { 129 143 86 }
+				color2 = { 255 255 255 }
+								
 				b_hill = {}
 				b_stange = {}
 				b_ronnesholme = {}
 				b_longsale = {}
 			}
-			c_rex = {
+			c_rex = {				
+				color = { 86 143 143 }
+				color2 = { 255 255 255 }
 				
 				b_rex = {}
 				b_landport = {}
 				b_marion = {}
 			}
 			c_tuve = {
-				
+				color = { 34 195 34 }
+				color2 = { 255 255 255 }
+								
 				b_tuve = {}
 				b_axis = {}
 				b_dounton = {}
 			}
 			c_stange = {
-			
+				color = { 48 80 48 }
+				color2 = { 255 255 255 }
+							
 				b_stange_barony = {}
 				b_eklund = {}
 				b_reading = {}
@@ -854,10 +936,13 @@ e_antarctandes = {
 		}
 		
 		d_big_rock = {
-			color = { 89 109 145 }
+			color = { 20 82 20 }
 			color2 = { 255 255 255 }
 			
 			c_siple = {
+				color = {20 82 20}
+				color2 = {255 255 255}
+				
 				b_siple = {}
 				b_wonderarch = {}
 				b_katsufrakis = {}
@@ -866,12 +951,18 @@ e_antarctandes = {
 				b_riverpass = {}
 			}
 			c_thomas = {
+				color = {45 185 45}
+				color2 = {255 255 255}
+				
 				b_thomas = {}
 				b_chandler = {}
 				b_atlantia = {}
 				b_newhome = {}
 			}
 			c_fowler = {
+				color = {67 82 20}
+				color2 = {255 255 255}
+				
 				b_fowler = {}
 				b_nunataka = {}
 				b_flintdrift = {}
@@ -880,10 +971,13 @@ e_antarctandes = {
 		}
 		
 		d_zumberge = {
-			color = { 89 109 145 }
+			color = { 184 184 46 }
 			color2 = { 255 255 255 }
 			
 			c_sky_hi = {
+				color = { 230 230 153 }
+				color2 = { 255 255 255 }
+				
 				b_sky_hi = {}
 				b_cloudsedge = {}
 				b_mcarthur = {}
@@ -893,6 +987,9 @@ e_antarctandes = {
 			}
 			
 			c_newcomer = {
+				color = { 82 82 20 }
+				color2 = { 255 255 255 }
+	
 				b_newcomer = {}
 				b_ultmer = {}
 				b_weems = {}
@@ -900,12 +997,18 @@ e_antarctandes = {
 			}
 			
 			c_gripp = {
+				color = { 138 138 92}
+				color2 = { 255 255 255 }
+	
 				b_gripp = {}
 				b_sapling = {}
 				b_olivebranch = {}
 			}
 			
 			c_mistassini = {
+				color = { 184 149 46}
+				color2 = { 255 255 255 }
+	
 				b_mistassini = {}
 				b_burgerking = {}
 				b_overtop = {}
