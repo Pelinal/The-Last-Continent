@@ -1047,7 +1047,7 @@ e_antarctandes = {
 	}
 	
 	k_amazonia = {
-		color = { 0 128 0 } # not actual, but certainly green
+		color = { 0 102 0 } # not actual, but certainly green
 		color2 = { 255 255 255 }
 		
 		capital = 86 # Doppler
@@ -1056,13 +1056,13 @@ e_antarctandes = {
 		quebecois = "Amazonie"
 		
 		d_bryan = {
-			color = { 53 94 211 }
+			color = { 134 179 0 }
 			color2 = { 255 255 255 }
 			
 			capital = 71 # Alison
 			
 			c_alison = {
-				color = { 53 94 211 }
+				color = { 134 179 0 }
 				color2 = { 255 255 255 }
 				
 				b_alison = {}
@@ -1072,7 +1072,7 @@ e_antarctandes = {
 				b_widepeak = {}
 			}
 			c_the_breach = {
-				color = { 53 94 211 }
+				color = { 77 49 0 }
 				color2 = { 255 255 255 }
 				
 				b_the_breach = {}
@@ -1081,7 +1081,7 @@ e_antarctandes = {
 				b_stonerun = {}
 			}
 			c_fletcher = {
-				color = { 53 94 211 }
+				color = { 62 102 95 }
 				color2 = { 255 255 255 }
 				
 				b_fletcher = {}
@@ -1101,13 +1101,13 @@ e_antarctandes = {
 		}
 		
 		d_eights = {
-			color = { 53 94 211 }
+			color = { 0 102 77 }
 			color2 = { 255 255 255 }
 			
 			capital = 80 # Anderson
 			
 			c_lepley = {
-				color = { 53 94 211 }
+				color = { 0 102 26 }
 				color2 = { 255 255 255 }
 				
 				b_lepley = {}
@@ -1117,6 +1117,9 @@ e_antarctandes = {
 			}
 			
 			c_anderson = {
+				color = { 0 102 77 }
+				color2 = {255 255 255}
+				
 				b_anderson = {}
 				b_ncnamara = {}
 				b_johnson = {}
@@ -1125,6 +1128,9 @@ e_antarctandes = {
 			}
 			
 			c_carpenter = {
+				color = { 0 51 102 }
+				color2 = {255 255 255}
+				
 				b_carpenter = {}
 				b_woodwier = {} 
 				b_shermann = {}
@@ -1132,6 +1138,9 @@ e_antarctandes = {
 			}
 			
 			c_waite = {
+				color = { 0 60 77 }
+				color2 = {255 255 255}
+				
 				b_waite = {}
 				b_kingston = {} 
 				b_burke = {} 
@@ -1139,6 +1148,9 @@ e_antarctandes = {
 			}
 			
 			c_jones = {
+				color = { 0 204 153 }
+				color2 = {255 255 255}
+				
 				b_jones = {}
 				b_millenium = {}
 				b_brackenlake = {}
@@ -1147,7 +1159,7 @@ e_antarctandes = {
 		}
 		
 		d_thurston = {
-			color = { 53 94 211 }
+			color = { 0 179 0 }
 			color2 = { 255 255 255 }
 			
 			capital = 77 # Tierney
@@ -1155,7 +1167,9 @@ e_antarctandes = {
 			welsh = "Ynys Tomos"
 			
 			c_flying_fish = { # max settlements = 4
-				
+				color = { 0 179 134 }
+				color2 = {255 255 255}
+								
 				welsh = "Lledeheuol"
 				
 			
@@ -1170,7 +1184,9 @@ e_antarctandes = {
 			}
 			
 			c_williamson = { # max settlements = 5
-				
+				color = { 134 179 0 }
+				color2 = {255 255 255}
+								
 				welsh = "Morgannwg"
 			
 				b_williamson = {
@@ -1185,7 +1201,9 @@ e_antarctandes = {
 			}
 			
 			c_tierney = { # max settlements = 7
-				
+				color = { 0 179 0 }
+				color2 = {255 255 255}
+								
 				welsh = "Haenaay"
 				
 				b_tierney = {
@@ -1200,7 +1218,9 @@ e_antarctandes = {
 			}
 			
 			c_noville = { # max settlements = 5
-			
+				color = { 67 112 67}
+				color2 = {255 255 255}
+							
 				welsh = "Newydd"
 				
 				b_noville = {
@@ -1216,13 +1236,15 @@ e_antarctandes = {
 		}
 		
 		d_amazon = {
-			color = { 53 94 211 }
+			color = { 0 102 0  }
 			color2 = { 255 255 255 }
 			
 			capital = 86 # Doppler
 			
 			c_canisteo = {
-				
+				color = { 89 179 0 }
+				color2 = {255 255 255}
+								
 				b_canisteo = {}
 				b_lindsey = {}
 				b_brownson = {} 
@@ -1230,6 +1252,9 @@ e_antarctandes = {
 			}
 			
 			c_spheres = {
+				color = { 0 179 179 }
+				color2 = {255 255 255}
+				
 				b_spheres = {}
 				b_denny = {}
 				b_new_lenora = {}
@@ -1240,6 +1265,9 @@ e_antarctandes = {
 			}
 			
 			c_doppler = { # have 5/7 baronies built, with 3 cities and a temple and castle
+				color = { 0 102 0 }
+				color2 = {255 255 255}
+				
 				b_doppler = {}
 				b_prime = {}
 				b_echo = {}
@@ -1250,6 +1278,9 @@ e_antarctandes = {
 			}
 			
 			c_hq_two = {
+				color = { 0 0 179 }
+				color2 = {255 255 255}
+				
 				b_hq_two = {}
 				b_bellevue = {}
 				b_sodo = {}
@@ -1262,6 +1293,9 @@ e_antarctandes = {
 			}
 			
 			c_bezos = {
+				color = { 89 0 179 }
+				color2 = {255 255 255}
+				
 				b_bezos = {}
 				b_cadabra = {}
 				b_jeffington = {}
@@ -1271,6 +1305,9 @@ e_antarctandes = {
 			}
 			
 			c_byfar = {
+				color = { 128 255 128 }
+				color2 = {255 255 255}
+				
 				b_byfar = {}
 				b_moresby = {}
 				b_juskatta = {}
@@ -1279,12 +1316,15 @@ e_antarctandes = {
 		}
 		
 		d_alexa = {
-			color = { 53 94 211 }
+			color = { 27 102 107 }
 			color2 = { 255 255 255 }
 			
 			capital = 90 # Alexa
 			
 			c_kindle = {
+				color = { 27 46 106 }
+				color2 = {255 255 255}
+				
 				b_kindle = {}
 				b_audible = {}
 				b_joyo = {}
@@ -1295,6 +1335,9 @@ e_antarctandes = {
 			}
 			
 			c_alexa = {
+				color = { 27 102 107 }
+				color2 = {255 255 255}
+				
 				b_alexa = {}
 				b_robotica = {}
 				b_lab126 = {}
@@ -1305,6 +1348,9 @@ e_antarctandes = {
 			}
 			
 			c_twitch = {
+				color = { 71 200 209 }
+				color2 = {255 255 255}
+				
 				b_twitch = {}
 				b_ninja = {}
 				b_florry = {}
@@ -1316,12 +1362,15 @@ e_antarctandes = {
 		}
 		
 		d_primiteva = {
-			color = { 53 94 211 }
+			color = { 221 231 99 }
 			color2 = { 255 255 255 }
 			
 			capital = 94 # Walden
 			
 			c_walden = {
+				color = { 221 231 9 }
+				color2 = {255 255 255}
+				
 				b_thoreau = {} 
 				b_woodcock = {}
 				b_praxis = {}
@@ -1329,12 +1378,18 @@ e_antarctandes = {
 				b_zisly = {}
 			}
 			c_palezoia = {
+				color = { 231 198 101 }
+				color2 = {255 255 255}
+				
 				b_palezoia = {}
 				b_oldtown = {}
 				b_hutta = {}
 				b_anchorock = {}
 			}
 			c_eastpine = {
+				color = { 131 231 101 }
+				color2 = {255 255 255}
+				
 				b_eastpine = {}
 				b_frankhole = {} 
 				b_egalitaria = {}
@@ -1344,12 +1399,15 @@ e_antarctandes = {
 		}
 		
 		d_foreverhome = {
-			color = { 0 0 0 }
+			color = { 231 166 101 }
 			color2 = { 255 255 255 }
 		
 			capital = 96 # Foreverhome
 			
 			c_foreverhome = {
+				color =  { 231 166 101 }
+				color2 = {255 255 255}
+				
 				b_foreverhome = {}
 				b_guerin = {}
 				b_revista = {}
@@ -1358,6 +1416,9 @@ e_antarctandes = {
 			}
 			
 			c_zerzan = {
+				color = { 132 77 21}
+				color2 = {255 255 255}
+				
 				b_zerzan = {}
 				b_guerin = {}
 				b_revista = {}
@@ -1366,6 +1427,9 @@ e_antarctandes = {
 			}
 			
 			c_wildgrove = {
+				color = { 231 101 101 }
+				color2 = {255 255 255}
+				
 				b_wildgrove = {}
 				b_timberfell = {}
 				b_bliss = {}
