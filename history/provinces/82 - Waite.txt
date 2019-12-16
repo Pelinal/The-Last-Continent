@@ -1,0 +1,14 @@
+# 82 - Waite
+title = c_waite
+max_settlements = 4
+# Baronies
+	b_waite = city
+	b_kingston = castle 
+	#b_burke = {} 
+	#b_demas = {}
+	
+# Misc
+culture = old_welsh
+religion = nationalist
+	
+# History

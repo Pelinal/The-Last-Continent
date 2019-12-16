@@ -1,0 +1,15 @@
+# 98 - Eastpine
+title = c_eastpine
+max_settlements = 5
+# Baronies
+	b_eastpine = tribal
+	#b_frankhole = {} 
+	#b_egalitaria = {}
+	#b_sahlinsky = {} 
+	#b_polanyi = {}
+	
+# Misc
+culture = egyptian
+religion = primitive
+	
+# History

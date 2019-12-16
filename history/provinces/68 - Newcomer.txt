@@ -1,0 +1,13 @@
+# 68 - Newcomer
+title = c_newcomer
+max_settlements = 4
+# Baronies
+	b_newcomer = city
+	b_ultmer = temple
+	#b_weems = {}
+	#b_lanz = {}
+# Misc
+culture = american
+religion = conservative
+	
+# History

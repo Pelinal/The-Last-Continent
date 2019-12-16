@@ -1,0 +1,15 @@
+# 39 - Goodenough
+title = c_goodenough
+max_settlements = 5
+# Baronies
+	b_goodenough = temple
+	b_batterbee = city
+	#b_saturn
+	#b_gutenko
+	#b_ward
+
+# Misc
+culture = welsh
+religion = social_democratic
+	
+# History

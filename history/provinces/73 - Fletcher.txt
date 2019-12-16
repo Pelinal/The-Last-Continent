@@ -1,0 +1,15 @@
+# 73 - Fletcher
+title = c_fletcher
+max_settlements = 4
+
+# Baronies
+	b_fletcher = tribal
+	#b_wirewood
+	#b_christensen
+	#b_jagged_cove
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

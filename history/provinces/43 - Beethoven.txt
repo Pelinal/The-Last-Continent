@@ -1,0 +1,16 @@
+# 43 - Beethoven
+title = c_beethoven
+max_settlements = 6
+# Baronies
+	b_beethoven = city
+	b_bach = temple
+	b_walton = city
+	#b_verdi = {}
+	#b_beriloz = {}
+	#b_perce = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

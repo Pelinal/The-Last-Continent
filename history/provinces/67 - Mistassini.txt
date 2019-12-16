@@ -1,0 +1,13 @@
+# 67 - Mistassini
+title = c_mistassini
+max_settlements = 4
+# Baronies
+	b_mistassini = tribal
+	#b_burgerking = {}
+	#b_overtop = {}
+	#b_bigone = {}
+# Misc
+culture = egyptian
+religion = primitive
+	
+# History

@@ -1,0 +1,15 @@
+# 74 - Bryan
+title = c_bryan
+max_settlements = 4
+
+# Baronies
+	b_bryan = tribal
+	#b_northjoin
+	#b_expeditio
+	#b_interia
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

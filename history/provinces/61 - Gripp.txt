@@ -1,0 +1,14 @@
+# 61 - Gripp
+title = c_gripp
+max_settlements = 3
+
+# Baronies
+	b_gripp = tribal
+	#b_sapling = {}
+	#b_olivebranch = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

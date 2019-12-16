@@ -1,0 +1,14 @@
+# 32 - Lehrke
+title = c_lehrke
+max_settlements = 4
+# Baronies
+	b_lehrke = temple
+	b_boggs = castle
+	#b_smith
+	#b_ewing
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

@@ -1,0 +1,14 @@
+# 58 - Hill
+title = c_hill
+max_settlements = 4
+# Baronies
+	b_hill = temple
+	b_stange = castle
+	b_ronnesholme = city
+	#b_longsale
+
+# Misc
+culture = scottish
+religion = social_democratic
+	
+# History

@@ -1,0 +1,17 @@
+# 89 - Kindle
+title = c_kindle
+max_settlements = 7
+# Baronies
+	b_kindle = city
+	b_audible = temple
+	b_joyo = city
+	#b_comixology = {}
+	#b_createspace = {}
+	#b_brilliance = {}
+	#b_eero = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

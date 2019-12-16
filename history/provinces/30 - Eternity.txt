@@ -1,0 +1,14 @@
+# 30 - Eternity
+title = c_eternity
+max_settlements = 3
+
+# Baronies
+	b_eternity = tribal
+	#b_wakefield
+	#b_welcham
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

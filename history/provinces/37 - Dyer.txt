@@ -1,0 +1,15 @@
+# 37 - Dyer
+title = c_dyer
+max_settlements = 4
+
+# Baronies
+	b_dyer = tribal
+	#b_courtauld
+	#b_meseta
+	#b_goettel
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

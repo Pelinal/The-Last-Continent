@@ -1,0 +1,15 @@
+# 95 - Zerzan
+title = c_zerzan
+max_settlements = 5
+# Baronies
+	b_zerzan = tribal
+	#b_guerin = {}
+	#b_revista = {}
+	#b_gravelle = {}
+	#b_urales = {}
+	
+# Misc
+culture = egyptian
+religion = primitive
+	
+# History

@@ -1,0 +1,13 @@
+# 40 - Seward
+title = c_seward
+max_settlements = 3
+# Baronies
+	b_seward = city
+	b_jorge = castle
+	#b_pretticold
+
+# Misc
+culture = welsh
+religion = social_democratic
+	
+# History

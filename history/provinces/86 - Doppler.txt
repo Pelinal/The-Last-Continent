@@ -1,0 +1,17 @@
+# 86 - Doppler
+title = c_doppler
+max_settlements = 7
+# Baronies
+	b_doppler = city
+	b_prime = city
+	b_echo = temple
+	b_fire = castle
+	b_goodreads = city
+	#b_zappos
+	#b_kiva
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

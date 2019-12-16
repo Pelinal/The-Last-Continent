@@ -1,0 +1,13 @@
+# 38 - Rymil
+title = c_rymil
+max_settlements = 3
+# Baronies
+	b_rymil = city
+	#b_lachlan = {}
+	#b_buttress = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

@@ -1,0 +1,15 @@
+# 34 - Heirtzler
+title = c_heirtzler
+max_settlements = 4
+
+# Baronies
+	b_heirtzler = tribal
+	#b_haines
+	#b_dryice
+	#b_pullen
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

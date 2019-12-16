@@ -1,0 +1,13 @@
+# 57 - Stange
+title = c_stange
+max_settlements = 4
+# Baronies
+	b_stange_barony = castle
+	#b_eklund = {}
+	#b_reading = {}
+	#b_loughbrough = {}
+# Misc
+culture = scottish
+religion = social_democratic
+	
+# History

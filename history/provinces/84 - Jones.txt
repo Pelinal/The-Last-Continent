@@ -1,0 +1,14 @@
+# 84 - Jones
+title = c_jones
+max_settlements = 4
+
+# Baronies
+	b_jones = tribal
+	#b_millenium
+	#b_brackenlake
+	#b_farspear
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

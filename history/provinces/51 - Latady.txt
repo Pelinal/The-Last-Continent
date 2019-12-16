@@ -1,0 +1,15 @@
+# 51 - Latady
+title = c_latady
+max_settlements = 4
+
+# Baronies
+	b_latady = tribal
+	#b_peuensey
+	#b_venta
+	#b_wilburgh
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

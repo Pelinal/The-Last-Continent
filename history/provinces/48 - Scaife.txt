@@ -1,0 +1,15 @@
+# 48 - Scaife
+title = c_scaife
+max_settlements = 4
+
+# Baronies
+	b_scaife = tribal
+	#b_schlossbach
+	#b_ketchum
+	#b_vang
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

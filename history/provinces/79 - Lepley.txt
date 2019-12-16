@@ -1,0 +1,15 @@
+# 79 - Lepley
+title = c_lepley
+max_settlements = 4
+
+# Baronies
+	b_lepley = tribal
+	#b_dendtler = {}
+	#b_venablea = {} 
+	#b_farwell = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

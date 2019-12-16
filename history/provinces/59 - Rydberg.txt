@@ -1,0 +1,15 @@
+# 59 - Rydberg
+title = c_rydberg
+max_settlements = 6
+# Baronies
+	b_rydberg = city
+	b_wirth = city
+	b_fladerer = temple
+	#b_castlelick = {}
+	#b_eltanin = {}
+	#b_carroll = {}
+# Misc
+culture = scottish
+religion = social_democratic
+	
+# History

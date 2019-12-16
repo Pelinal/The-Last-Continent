@@ -1,0 +1,16 @@
+# 88 - Bezos
+title = c_bezos
+max_settlements = 6
+# Baronies
+	b_bezos = city
+	b_cadabra = castle
+	b_jeffington = city
+	b_anine = city
+	#b_shopbop = {}
+	#b_techstreet = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

@@ -1,0 +1,13 @@
+# 47 - Wetmore
+title = c_wetmore
+max_settlements = 4
+# Baronies
+	b_wetmore = city
+	b_copper_nunataks = temple
+	#b_latady_mts = {}
+	#b_veers = {}
+# Misc
+culture = english
+religion = conservative
+	
+# History

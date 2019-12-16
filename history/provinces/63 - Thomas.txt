@@ -1,0 +1,13 @@
+# 63 - Thomas
+title = c_thomas
+max_settlements = 4
+# Baronies
+	b_thomas = temple
+	b_chandler = city
+	#b_atlantia = {}
+	#b_newhome = {}
+# Misc
+culture = american
+religion = conservative
+	
+# History

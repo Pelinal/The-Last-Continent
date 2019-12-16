@@ -1,0 +1,15 @@
+# 96 - Foreverhome
+title = c_foreverhome
+max_settlements = 5
+# Baronies
+	b_foreverhome = tribal
+	b_guerin = temple
+	b_revista = {}
+	b_gravelle = {}
+	b_urales = {}
+	
+# Misc
+culture = egyptian
+religion = primitive
+	
+# History

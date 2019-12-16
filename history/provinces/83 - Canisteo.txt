@@ -1,0 +1,14 @@
+# 83 - Canisteo
+title = c_canisteo
+max_settlements = 4
+# Baronies
+	b_canisteo = city
+	b_lindsey = castle
+	#b_brownson = {} 
+	#b_sabrelake = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

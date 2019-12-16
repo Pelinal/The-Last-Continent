@@ -1,0 +1,17 @@
+# 78 - Noville
+title = c_noville
+max_settlements = 5
+# Baronies
+	b_noville = city
+	b_peale = castle
+	#b_ball = {}
+	#b_murphy = {}
+	#b_koether = {}
+	#b_o_dowd = {}
+	#b_parker = {}
+	
+# Misc
+culture = old_welsh
+religion = nationalist
+	
+# History

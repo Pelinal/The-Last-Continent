@@ -1,0 +1,13 @@
+# 65 - Fowler
+title = c_fowler
+max_settlements = 4
+# Baronies
+	b_fowler = castle
+	#b_nunataka
+	#b_flintdrift
+	#b_washingtown
+# Misc
+culture = american
+religion = conservative
+	
+# History

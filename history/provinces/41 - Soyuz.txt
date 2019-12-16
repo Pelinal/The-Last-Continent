@@ -1,0 +1,17 @@
+# 41 - Soyuz
+title = c_soyuz
+max_settlements = 7
+# Baronies
+	b_soyuz = temple
+	b_lazarev = city
+	b_rothschild = city
+	b_rouen = castle
+	#b_calais = {}
+	#b_stephanson = {}
+	#b_douglas = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

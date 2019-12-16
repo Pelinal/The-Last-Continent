@@ -1,0 +1,17 @@
+# 76 - Williamson
+title = c_williamson
+max_settlements = 5
+# Baronies
+	b_williamson = temple
+	b_tinglof = city
+	#b_king_th = {}
+	#b_wagoner = {} 
+	#b_kearns = {}
+	#b_potaka = {}
+	#b_starr = {}
+	
+# Misc
+culture = old_welsh
+religion = nationalist
+	
+# History

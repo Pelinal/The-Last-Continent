@@ -1,0 +1,14 @@
+# 49 - Irvine
+title = c_irvine
+max_settlements = 3
+
+# Baronies
+	b_irvine = tribal
+	#b_coman
+	#b_sweeny
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

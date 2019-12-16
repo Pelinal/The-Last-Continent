@@ -1,0 +1,14 @@
+# 81 - Carpenter
+title = c_carpenter
+max_settlements = 4
+# Baronies
+	b_carpenter = castle
+	b_woodwier = temple
+	#b_shermann = {}
+	#b_oaken = {}
+	
+# Misc
+culture = old_welsh
+religion = nationalist
+	
+# History

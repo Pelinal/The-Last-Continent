@@ -1,0 +1,15 @@
+# 53 - Sweeny
+title = c_sweeny
+max_settlements = 4
+
+# Baronies
+	b_sweeny_barony = tribal
+	#b_edward
+	#b_gardener
+	#b_crackpot
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

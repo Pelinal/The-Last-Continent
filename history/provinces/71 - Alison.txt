@@ -1,0 +1,14 @@
+# 71 -Alison
+title = c_alison
+max_settlements = 5
+# Baronies
+	b_alison = temple
+	b_onyx = city
+	#b_swiftport = {}
+	#b_tucker = {}
+	#b_widepeak = {}
+# Misc
+culture = scottish
+religion = social_democratic
+	
+# History

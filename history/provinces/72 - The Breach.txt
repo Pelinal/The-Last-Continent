@@ -1,0 +1,15 @@
+# 72 - The Breach
+title = c_the_breach
+max_settlements = 3
+
+# Baronies
+	b_the_breach = {}
+	#b_longtrail = {}
+	#b_flatlake = {}
+	#b_stonerun = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

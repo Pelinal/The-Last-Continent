@@ -1,0 +1,17 @@
+# 31 - Wilkins
+title = c_wilkins
+max_settlements = 6
+
+# Baronies
+	b_wilkins = city
+	b_collier = castle
+	b_hearst = city
+	#b_agassiz = {}
+	#b_mobiloil = {}
+	#b_boggs = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

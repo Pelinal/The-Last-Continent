@@ -1,0 +1,17 @@
+# 42 - Fossil Bluff
+title = c_fossil_bluff
+max_settlements = 7
+# Baronies
+	b_fossil_bluff = temple
+	b_skiway = city
+	b_twin_otters = castle
+	#b_giza = {}
+	#b_tescos = {}
+	#b_pearce = {}
+	#b_taylor = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

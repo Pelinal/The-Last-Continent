@@ -1,0 +1,16 @@
+# 75 - Flying Fish
+title = c_flying_fish
+max_settlements = 4
+# Baronies
+	b_flying_fish = castle
+	#b_petersen = {}
+	#b_simpson = {}
+	#b_hughes = {}
+	#b_henry = {} 
+	#b_davies  = {}
+	
+# Misc
+culture = old_welsh
+religion = nationalist
+	
+# History

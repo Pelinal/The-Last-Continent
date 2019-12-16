@@ -1,0 +1,17 @@
+# 87 - HQ Two
+title = c_hq_two
+max_settlements = 7
+# Baronies
+	b_hq_two = castle
+	b_bellevue = city
+	b_sodo = city
+	b_southlake = temple
+	b_arlington = city
+	#b_national_landing = {}
+	#b_crystal_city = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

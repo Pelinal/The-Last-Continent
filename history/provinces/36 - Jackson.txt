@@ -1,0 +1,16 @@
+# 36 - Jackson
+title = c_jackson
+max_settlements = 5
+
+# Baronies
+	b_jackson = tribal
+	#b_sharbonneau
+	#b_bryant
+	#b_steele
+	#b_dollerman
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

@@ -1,0 +1,15 @@
+# 80 - Anderson
+title = c_anderson
+max_settlements = 5
+
+# Baronies
+	b_anderson = tribal
+	#b_ncnamara
+	#b_johnson
+	#b_dustin
+	#b_farspear
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

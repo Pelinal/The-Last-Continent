@@ -1,0 +1,17 @@
+# 90 - Alexa
+title = c_alexa
+max_settlements = 7
+# Baronies
+	b_alexa = temple
+	b_robotica = city
+	b_lab126 = city
+	b_kuiper = castle
+	#b_ring = {}
+	#b_shelfair = {}
+	#b_annapurna = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

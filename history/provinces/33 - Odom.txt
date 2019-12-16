@@ -1,0 +1,15 @@
+# 33 - Odom
+title = c_odom
+max_settlements = 5
+# Baronies
+				b_odom = temple
+				b_hilton = city
+				b_violante = temple
+				#b_merz = {}
+				#b_knowles = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

@@ -1,0 +1,14 @@
+# 92 - Byfar
+title = c_byfar
+max_settlements = 4
+# Baronies
+	b_byfar = city
+	b_moresby = castle
+	#b_juskatta
+	#b_hangeroa
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

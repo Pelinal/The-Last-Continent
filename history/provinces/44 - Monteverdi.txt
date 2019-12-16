@@ -1,0 +1,14 @@
+# 44 - Monteverdi
+title = c_monteverdi
+max_settlements = 4
+# Baronies
+	b_monteverdi = city
+	b_stravinsky = castle
+	#b_weber
+	#b_rossini
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

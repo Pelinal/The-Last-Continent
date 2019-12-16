@@ -1,0 +1,17 @@
+# 91 - Twitch
+title = c_twitch
+max_settlements = 7
+# Baronies
+	b_twitch = city
+	b_ninja = castle
+	b_florry = city
+	b_kusailix = city
+	#b_souq = {}
+	#b_wholefood = {}
+	#b_healthnav = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

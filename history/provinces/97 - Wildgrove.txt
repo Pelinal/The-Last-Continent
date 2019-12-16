@@ -1,0 +1,15 @@
+# 97 - Wildgrove
+title = c_wildgrove
+max_settlements = 5
+# Baronies
+	b_wildgrove = tribal
+	#b_timberfell = {}
+	#b_bliss = {}
+	#b_eternis = {}
+	#b_spikyheat = {}
+	
+# Misc
+culture = egyptian
+religion = primitive
+	
+# History

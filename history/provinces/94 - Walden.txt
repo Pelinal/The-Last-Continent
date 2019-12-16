@@ -1,0 +1,15 @@
+# 94 - Walden
+title = c_walden
+max_settlements = 4
+# Baronies
+	b_thoreau = tribal
+	#b_woodcock = {}
+	#b_praxis = {}
+	#b_talltrees = {}
+	#b_zisly = {}
+	
+# Misc
+culture = egyptian
+religion = primitive
+	
+# History

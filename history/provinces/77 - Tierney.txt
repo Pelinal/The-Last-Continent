@@ -1,0 +1,17 @@
+# 77 - Tierney
+title = c_tierney
+max_settlements = 7
+# Baronies
+	b_tierney = castle
+	b_evans = temple
+	b_lofgren = city
+	#b_morgan = {} 
+	#b_menzel = {}
+	#b_braathen = {}
+	#b_annawan = {}
+	
+# Misc
+culture = old_welsh
+religion = nationalist
+	
+# History

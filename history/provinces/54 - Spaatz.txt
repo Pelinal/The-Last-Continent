@@ -1,0 +1,15 @@
+# 54 - Spaatz
+title = c_spaatz
+max_settlements = 5
+# Baronies
+	b_spaatz = temple
+	b_de_atley = city
+	b_grimsby = city
+	#b_crumble = {}
+	#b_yougney = {}
+	
+# Misc
+culture = cornish
+religion = conservative
+	
+# History

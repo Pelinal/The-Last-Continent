@@ -1,0 +1,17 @@
+# 45 - Shubert
+title = c_shubert
+max_settlements = 7
+# Baronies
+	b_shubert = city
+	b_uranus = temple
+	b_mendelsson = city
+	#b_colebert = {}
+	#b_haydn = {}
+	#b_dorsey = {}
+	#b_le_may = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

@@ -1,0 +1,14 @@
+# 93 - Palezoia
+title = c_palezoia
+max_settlements = 4
+# Baronies
+	b_palezoia = temple
+	b_oldtown = tribal
+	#b_hutta = {}
+	#b_anchorock = {}
+	
+# Misc
+culture = egyptian
+religion = primitive
+	
+# History

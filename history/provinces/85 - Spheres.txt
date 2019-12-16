@@ -1,0 +1,17 @@
+# 85 - Spheres
+title = c_spheres
+max_settlements = 7
+# Baronies
+	b_spheres = city
+	b_denny = city
+	b_new_lenora = city
+	b_mortica = castle
+	#b_bellatrix = {}
+	#b_understory = {}
+	#b_catalan = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

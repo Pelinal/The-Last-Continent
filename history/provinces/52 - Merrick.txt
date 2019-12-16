@@ -1,0 +1,17 @@
+# 52 - Merrick
+title = c_merrick
+max_settlements = 6
+
+# Baronies
+	b_merrick = tribal
+	#b_becker
+	#b_connacht
+	#b_mersey
+	#b_smallrock
+	#b_mstuckere
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History
