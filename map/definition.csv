@@ -98,7 +98,7 @@ province;red;green;blue;x;x
 97;168;156;52;Wildgrove;x # b_timberfell, b_bliss, b_eternis, b_spikyheat
 98;126;210;224;Eastpine;x # b_frankhole, b_egalitaria, b_sahlinsky, b_polanyi
 # END OF ANTARCTANDES #
-99;0;72;25;Walgreen;x # chinese = "Qiang Lu"
+99;20;94;45;;x #BROKE
 100;126;150;214;Pine Island;x chinese = "Songdao"
 101;1;63;135;Rumbland;x # chinese = "Longlong"
 102;42;24;88;Thwaites;x # chinese = "Zhixing"
@@ -112,13 +112,13 @@ province;red;green;blue;x;x
 110;84;183;21;Zhenyong;x # english = "Crary"
 111;84;195;81;Dong;x
 # duchy of bakutis START
-112;42;144;213;Jianwai;x 
+112;42;144;213;;x #BROKE
 113;0;192;45;Xiangheyuan;x
 114;126;204;89;Anzhen;x
 115;168;138;7;Wangsiying;x
 116;0;96;0;Sunhe;x
 # duchy of bakutis END
-117;126;150;9;Youtian;x
+117;126;150;9;;x #BROKE
 118;126;87;34;Qian De;x
 119;168;186;57;Jintao;x
 120;42;108;73;Xianggang;x
@@ -134,7 +134,7 @@ province;red;green;blue;x;x
 130;0;96;205;WAIS Divide;x
 131;0;156;215;Meriby;x # b_delisheller b_robnia b_milltown
 # END OF HEAVENLY_KINGDOM # chinese = "Tiānguó"
-132;43;96;13;Yugozapad;x
+132;43;96;13;;x #BROKE
 133;84;162;11;Ames;x # russian = "Eyms"
 134;84;42;91;Flood;x # russian = "Potop" w/ b_bursey b_moulton
 135;42;57;163;Petras;x # russian = "Pyatras"
@@ -158,7 +158,7 @@ province;red;green;blue;x;x
 153;43;126;18;Archangel;x # russian = "Arkangelsk"
 154;0;90;70;Waesche;x
 # END OF SOVETSKYA
-155;168;204;47;Little Rockford;x # greek = "Ligavráchos"
+155;168;204;47;;x #BROKE
 156;126;30;89;Pavlopolis;x # english/american = "Pavlson"
 157;126;33;54;Tsiprachai;x 
 158;0;204;60;Rockefeller;x # greek = "Rokféler"
@@ -172,7 +172,7 @@ province;red;green;blue;x;x
 166;42;117;173;Roosevelt;x # capital = b_little_america w/ b_kainan b_roosevelt
 167;42;111;38;New Chicago;x
 # END OF HELLAS #
-168;42;12;28;Yarmouth;x
+168;42;12;28;;x #BROKE
 169;168;21;52;Byrd;x
 170;84;93;6;Greenwich;x
 171;84;3;91;Colington;x
@@ -216,15 +216,16 @@ province;red;green;blue;x;x
 209;42;114;3;Foundation;x
 210;1;138;20;Wagner;x
 211;126;93;64;Colina;x
-212;0;69;60;rer-ada;x
-213;0;39;55;bacen;x
-214;85;174;26;wauba;x
-215;84;96;71;nusuba;x
-216;84;27;66;regoul;x
-217;42;174;218;nedeena;x
+212;0;69;60;Walgreen;x # chinese = "Qiang Lu"
+213;0;39;55;Jianwai;x
+214;85;174;26;Youtian;x
+215;84;96;71;Yugozapad;x
+216;84;27;66;Little Rockford;x # greek = "Ligavráchos"
+217;42;174;218;Yarmouth;x
 218;126;177;49;byuhen;x
 219;42;48;63;lizisi;x
 220;42;165;18;biemara;x
+221;127;27;129;naadke;x
 221;127;27;129;naadke;x
 222;126;18;29;qemern;x
 223;168;111;67;sanoan;x
@@ -324,7 +325,7 @@ province;red;green;blue;x;x
 317;127;102;14;kacayak;x
 318;0;66;200;teting;x
 ## SEA PROVS:
-319;1;175;205;;x # Ronne Ice Shelf
+319;1;175;205;;x #BROKEN
 320;126;183;129;;x # Weddel Sea
 321;0;135;205;;x # Filchner Ice Shelf
 322;42;120;183;;x # Orville Coast
@@ -400,7 +401,7 @@ province;red;green;blue;x;x
 392;168;84;177;;x # Palmer Arch
 393;0;9;200;;x # Cooperation Sea
 394;84;111;146;;x # Kerguelen Plateau
-395;168;123;132;;x
+395;168;123;132;;x # Ronne Ice Shelf
 396;168;69;152;;x
 397;84;69;181;;x
 398;0;99;215;;x

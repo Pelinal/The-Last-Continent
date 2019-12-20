@@ -1,5 +1,5 @@
 
-max_provinces = 395
+max_provinces = 396
 definitions = "definition.csv"
 provinces = "provinces.bmp"
 positions = "positions.txt"
@@ -16,9 +16,9 @@ geographical_region = "geographical_region.txt"
 static = "statics"
 seasons = "seasons.txt"
 
-sea_zones = { 319 394 }
+sea_zones = { 320 395 }
 
 ocean_region = { 
-    sea_zones = { 1 2 3 4 }
+    sea_zones = { 1 }
 }
 

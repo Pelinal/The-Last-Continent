@@ -1568,6 +1568,10 @@ e_marie_byrd_land = {
 				b_rumbland = {
 					chinese = "Longlong"
 				}
+				b_black_hollow = {}
+				b_soho = {}
+				b_larton = {}
+				b_sheffield = {}
 			}
 			c_pine_island = {
 				color = { 222 219 167 }

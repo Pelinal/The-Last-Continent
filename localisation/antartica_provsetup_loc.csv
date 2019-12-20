@@ -295,7 +295,7 @@ c_wildgrove_adj;Wildgrove;;;;;;;;;;;;x
 PROV98;Eastpine;;;;;;;;;;;;x
 c_eastpine;Eastpine;;;;;;;;;;;;x
 c_eastpine_adj;Eastpine;;;;;;;;;;;;x
-PROV99;Walgreen;;;;;;;;;;;;x
+PROV212;Walgreen;;;;;;;;;;;;x
 c_walgreen;Walgreen;;;;;;;;;;;;x
 c_walgreen_adj;Walgreener;;;;;;;;;;;;x
 PROV100;Pine Island;;;;;;;;;;;;x
@@ -334,7 +334,7 @@ c_zhenyong_adj;Zhenjiao;;;;;;;;;;;;x
 PROV111;Dong;;;;;;;;;;;;x
 c_dong;Dong;;;;;;;;;;;;x
 c_dong_adj;Dongjiao;;;;;;;;;;;;x
-PROV112;Jianwai;;;;;;;;;;;;x
+PROV213;Jianwai;;;;;;;;;;;;x
 c_jianwai;Jianwai;;;;;;;;;;;;x
 c_jianwai_adj;Jianwaian;;;;;;;;;;;;x
 PROV113;Xiangheyuan;;;;;;;;;;;;x
@@ -349,7 +349,7 @@ c_wangsiying_adj;Wangsiying;;;;;;;;;;;;x
 PROV116;Sunhe;;;;;;;;;;;;x
 c_sunhe;Sunhe;;;;;;;;;;;;x
 c_sunhe_adj;Sunhese;;;;;;;;;;;;x
-PROV117;Youtian;;;;;;;;;;;;x
+PROV214;Youtian;;;;;;;;;;;;x
 c_youtian;Youtian;;;;;;;;;;;;x
 c_youtian_adj;Youtian;;;;;;;;;;;;x
 PROV118;Qian De;;;;;;;;;;;;x
@@ -394,7 +394,7 @@ c_wais_divide_adj;Waisan;;;;;;;;;;;;x
 PROV131;Meriby;;;;;;;;;;;;x
 c_meriby;Meriby;;;;;;;;;;;;x
 c_meriby_adj;Meribyan;;;;;;;;;;;;x
-PROV132;Yugozapad;;;;;;;;;;;;x
+PROV215;Yugozapad;;;;;;;;;;;;x
 c_yugozapad;Yugozapad;;;;;;;;;;;;x
 c_yugozapad_adj;Yoguz;;;;;;;;;;;;x
 PROV133;Ames;;;;;;;;;;;;x
@@ -463,7 +463,7 @@ c_archangel_adj;Archangelic;;;;;;;;;;;;x
 PROV154;Waesche;;;;;;;;;;;;x
 c_waesche;Waesche;;;;;;;;;;;;x
 c_waesche_adj;Waeschen;;;;;;;;;;;;x
-PROV155;Little Rockford;;;;;;;;;;;;x
+PROV216;Little Rockford;;;;;;;;;;;;x
 c_little_rockford;Little Rockford;;;;;;;;;;;;x
 c_little_rockford_adj;Rockfordian;;;;;;;;;;;;x
 PROV156;Pavlopolis;;;;;;;;;;;;x
@@ -502,7 +502,7 @@ c_roosevelt_adj;Roosevelter;;;;;;;;;;;;x
 PROV167;New Chicago;;;;;;;;;;;;x
 c_new_chicago;New Chicago;;;;;;;;;;;;x
 c_new_chicago_adj;New Chicagan;;;;;;;;;;;;x
-PROV168;Yarmouth;;;;;;;;;;;;x
+PROV217;Yarmouth;;;;;;;;;;;;x
 c_yarmouth;Yarmouth;;;;;;;;;;;;x
 c_yarmouth_adj;Yarmouther;;;;;;;;;;;;x
 PROV169;Byrd;;;;;;;;;;;;x
@@ -634,13 +634,10 @@ c_wagner_adj;Wagneroid;;;;;;;;;;;;x
 PROV211;Colina;;;;;;;;;;;;x
 c_colina;Colina;;;;;;;;;;;;x
 c_colina_adj;Colinan;;;;;;;;;;;;x
-PROV212;REPLACEME1;;;;;;;;;;;;x
-c_REPLACEME2;REPLACEME5;;;;;;;;;;;;x
-c_REPLACEME3_adj;REPLACEME4;;;;;;;;;;;;x
 
 
 #= Sea Provinces =#
-PROV319;Ronne Basin;;;;;;;;;;;;;x
+PROV395;Ronne Basin;;;;;;;;;;;;;x
 PROV320;Weddel Sea;;;;;;;;;;;;;x
 PROV321;Filchner Bay;;;;;;;;;;;;;x
 PROV322;Orville Coast;;;;;;;;;;;;;x
