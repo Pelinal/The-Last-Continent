@@ -1,0 +1,16 @@
+# 127 - Dakota
+title = c_dakota
+max_settlements = 5
+
+# Baronies
+	b_dakota = castle
+	b_stratford = city
+	b_breadwood = temple
+	#b_cleveland = {}
+	#b_riverdale = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

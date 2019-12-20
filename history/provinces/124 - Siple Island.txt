@@ -1,0 +1,15 @@
+# 124 - Siple Island
+title = c_siple_island
+max_settlements = 5
+
+# Baronies
+	b_siple_island = temple
+	b_xiao_dao = city
+	b_fudong = castle
+	#b_tuanjie
+	#b_zizai
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

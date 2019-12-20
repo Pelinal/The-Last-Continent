@@ -7,7 +7,7 @@ max_settlements = 4
 	#b_playfield
 	#b_shanrary
 # Misc
-culture = english
+culture = scottish
 religion = social_democratic
 	
 # History

@@ -1,0 +1,15 @@
+# 115 - Wangsiying
+title = c_wangsiying
+max_settlements = 4
+
+# Baronies
+	b_wangsiying = castle
+	b_nei_lu = city
+	#b_gege = city
+	#b_honghe = city
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

@@ -1,0 +1,15 @@
+# 213 - Jianwai
+title = c_jianwai
+max_settlements = 5
+
+# Baronies
+	b_jianwai = city
+	b_xiangshu = temple
+	b_zhuan_cheng = city
+	#b_diaodeng
+	#b_dadong
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

@@ -1,0 +1,15 @@
+# 104 - Takahe
+title = c_takahe
+max_settlements = 4
+
+# Baronies
+	b_takahe = castle
+	b_sundown = city
+	#b_petes_shack
+	#b_shrekloo
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

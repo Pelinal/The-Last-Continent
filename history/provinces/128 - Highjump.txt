@@ -1,0 +1,14 @@
+# 128 - Highjump
+title = c_highjump
+max_settlements = 4
+
+# Baronies
+	b_highjump = tribal
+	#b_fosbury
+	#b_dumas
+	#b_conway
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

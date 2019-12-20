@@ -1,0 +1,15 @@
+# 126 - Wright
+title = c_wright
+max_settlements = 4
+
+# Baronies
+	b_armour = castle
+	b_russell = city
+	#b_sippling
+	#b_wrigley
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

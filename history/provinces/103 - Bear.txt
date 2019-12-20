@@ -1,0 +1,17 @@
+# 103 - Bear
+title = c_bear
+max_settlements = 5
+
+# Baronies
+	b_bear = city
+	b_kobler = castle
+	b_murphie = city
+	b_capeport = temple
+	#b_smith_2 = {}
+	#b_inlettia = {}
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

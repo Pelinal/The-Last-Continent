@@ -1,0 +1,16 @@
+# 105 - Cordova
+title = c_cordova
+max_settlements = 5
+
+# Baronies
+	b_cordova = tribal
+	#b_abraham = {}
+	#b_philistine = {}
+	#b_antiochea = {}
+	#b_new_new_orleans = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

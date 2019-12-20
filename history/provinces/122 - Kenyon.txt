@@ -1,0 +1,15 @@
+# 122 - Kenyon
+title = c_kenyon
+max_settlements = 4
+
+# Baronies
+	b_kenyon = tribal
+	#b_kuritama
+	#b_liaoyuan
+	#b_nayeong
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

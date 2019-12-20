@@ -1,0 +1,14 @@
+# 111 - Dong
+title = c_dong
+max_settlements = 5
+
+# Baronies
+	b_dong = tribal
+	#b_quhou
+	#b_meizou
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

@@ -1,0 +1,16 @@
+# 113 - Xiangheyuan
+title = c_xiangheyuan
+max_settlements = 5
+
+# Baronies
+	b_xiangheyuan = city
+	b_qingrao = city
+	b_hamje = temple
+	#b_zoachang
+	#b_kaewang
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

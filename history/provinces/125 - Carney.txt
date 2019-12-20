@@ -1,0 +1,14 @@
+# 125 - Carney
+title = c_carney
+max_settlements = 3
+
+# Baronies
+	b_ramage = city
+	b_cherry = temple
+	#b_felt
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

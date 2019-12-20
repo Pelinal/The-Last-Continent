@@ -1,0 +1,16 @@
+# 99 - Walgreen
+title = c_walgreen
+max_settlements = 5
+
+# Baronies
+	b_walgreen = temple
+	b_haynes = city
+	b_brixton = city
+	#b_wulang = {}
+	#b_chengshi = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

@@ -1,0 +1,14 @@
+# 119 - Jintao
+title = c_jintao
+max_settlements = 3
+
+# Baronies
+	b_jintao = tribal
+	#b_ku_zao
+	#b_baise
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

@@ -1,0 +1,16 @@
+# 100 - Pine Island
+title = c_pine_island
+max_settlements = 5
+
+# Baronies
+	b_pine_island = city
+	b_brownton = castle
+	b_coldharbour = city
+	#b_meltwater = {}
+	#b_islington = {}
+	
+# Misc
+culture = american
+religion = corporate
+	
+# History

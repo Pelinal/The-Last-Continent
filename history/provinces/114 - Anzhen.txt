@@ -1,0 +1,14 @@
+# 114 - Anzhen
+title = c_anzhen
+max_settlements = 4
+
+# Baronies
+	b_anzhen = temple
+	b_taimian = city
+	#b_lasiweijiasi
+	#b_Jiujinshan
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

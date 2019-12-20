@@ -1,0 +1,13 @@
+# 214 - Youtian
+title = c_youtian
+max_settlements = 3
+
+# Baronies
+	b_youtian = tribal
+	#b_lingyu
+	#b_kongbai
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

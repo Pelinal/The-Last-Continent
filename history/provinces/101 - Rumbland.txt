@@ -1,0 +1,15 @@
+# 101 - Rumbland
+title = c_rumbland
+max_settlements = 5
+
+# Baronies
+	b_rumbland = city
+	b_granite_city = city
+	b_lewisburg = temple
+	#b_corona
+	#b_pharr
+# Misc
+culture = american
+religion = corporate
+	
+# History

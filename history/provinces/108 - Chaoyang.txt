@@ -1,0 +1,15 @@
+# 108 - Chaoyang
+title = c_chaoyang
+max_settlements = 5
+
+# Baronies
+	b_chaoyang = castle
+	b_xinxian = city
+	b_nanbianjie = city
+	#b_bingleng
+	#b_nunn
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

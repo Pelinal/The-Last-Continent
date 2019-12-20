@@ -1,13 +1,17 @@
 # 27 - Whirlwind
 title = c_whirlwind
-max_settlements = 3
+max_settlements = 6
 
 # Baronies
-	b_francis_island = tribal
-	#b_mill
+	b_whirlwind = temple
+	b_francis_island = castle
+	b_mill = city
+	#b_joerg = {}
+	#b_freeman = {}
+	#b_northrop = {}
 	
 # Misc
-culture = uninhabited
-religion = none
+culture = argentine
+religion = justicial
 	
 # History

@@ -1,0 +1,13 @@
+# 123 - Lowpoint
+title = c_lowpoint
+max_settlements = 3
+
+# Baronies
+	b_lowpoint = tribal
+	#b_redmond
+	#b_atmore
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

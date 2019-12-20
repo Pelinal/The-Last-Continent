@@ -1,0 +1,13 @@
+# 121- Xinzhou
+title = c_xinzhou
+max_settlements = 3
+
+# Baronies
+	b_xinzhou = tribal
+	#b_chulin
+	#b_samnan
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

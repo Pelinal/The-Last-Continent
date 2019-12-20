@@ -1,6 +1,6 @@
 #17 - Vernadsky
 
-title = c_mendel
+title = c_vernadsky
 max_settlements = 5
 
 # Baronies

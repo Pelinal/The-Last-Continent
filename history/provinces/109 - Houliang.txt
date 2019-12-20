@@ -1,0 +1,16 @@
+# 109 - Houliang
+title = c_houliang
+max_settlements = 5
+
+# Baronies
+	b_houliang = castle
+	b_toney = city
+	b_kohler = castle
+	#b_xiqian = {}
+	#b_feidifang = {}
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

@@ -1,0 +1,15 @@
+# 116 - Sunhe
+title = c_sunhe
+max_settlements = 5
+
+# Baronies
+	b_sunhe = city
+	b_yuanjing = temple
+	#b_xue_di = city
+	#b_tianshi = castle
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

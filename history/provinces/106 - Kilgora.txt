@@ -1,0 +1,15 @@
+# 106 - Kilgora
+title = c_kilgora
+max_settlements = 4
+
+# Baronies
+	b_kilgora = tribal
+	#b_littletown = {}
+	#b_overrated = {}
+	#b_obama = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

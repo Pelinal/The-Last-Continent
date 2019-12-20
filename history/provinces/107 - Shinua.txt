@@ -1,0 +1,17 @@
+# 107 - Shinua
+title = c_shinua
+max_settlements = 7
+
+# Baronies
+	b_zongbu = city
+	b_little_beijing = city
+	b_qingxiang = castle
+	b_shinua = temple
+	b_philbin = city
+	#b_herlacher = {}
+	#b_martin = {}
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

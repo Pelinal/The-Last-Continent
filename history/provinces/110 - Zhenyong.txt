@@ -1,0 +1,16 @@
+# 110 - Zhenyong
+title = c_zhenyong
+max_settlements = 5
+
+# Baronies
+	b_zhenyong = city
+	b_crary = castle
+	b_frakes = temple
+	#b_pingdan = {}
+	#b_wojuede_leng = {}
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History

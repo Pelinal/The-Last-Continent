@@ -1,0 +1,15 @@
+# 120 - Xianggang
+title = c_xianggang
+max_settlements = 3
+
+# Baronies
+	b_xianggang = tribal
+	#b_shaomen
+	#b_shanshu
+	
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

@@ -1,0 +1,13 @@
+# 118 - Qian De
+title = c_qian_de
+max_settlements = 3
+
+# Baronies
+	b_qian_de = tribal
+	#b_jiaorao
+	#b_nanliang
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

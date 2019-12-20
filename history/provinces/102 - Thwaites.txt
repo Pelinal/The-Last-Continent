@@ -1,0 +1,15 @@
+# 102 - Thwaites
+title = c_thwaites
+max_settlements = 4
+
+# Baronies
+	b_thwaites = city
+	b_the_tongue = temple
+	#b_zhixing = 
+	#b_oklahomer = 
+	
+# Misc
+culture = chinese
+religion = corporate
+	
+# History
