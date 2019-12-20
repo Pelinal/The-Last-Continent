@@ -30,7 +30,9 @@ e_antarctandes = {
 		
 		capital = 77 # Tierney
 		
-		welsh = "Cymru"
+		old_welsh = "Cymru"
+		
+		dignity = 25
 		
 		allow = {
 			culture = welsh
@@ -46,6 +48,27 @@ e_antarctandes = {
 					has_landed_title = c_williamson
 				}
 			}
+			hidden_tooltip = {
+				is_incapable = no
+				age = 16
+			}
+		}
+	}
+	
+	k_kemet = {
+		color = { 242 178 51 }
+		color2 = { 255 255 255 }
+		
+		dignity = 25
+		
+		allow = {
+			culture = egyptian
+			independent = yes
+			num_of_duke_titles = 3
+			
+			completely_controls = d_primiteva
+			completely_controls = d_foreverhome
+			
 			hidden_tooltip = {
 				is_incapable = no
 				age = 16
@@ -1047,7 +1070,7 @@ e_antarctandes = {
 	}
 	
 	k_amazonia = {
-		color = { 0 102 0 } # not actual, but certainly green
+		color = { 167 98 48 } # oRANGE!!
 		color2 = { 255 255 255 }
 		
 		capital = 86 # Doppler
@@ -1056,13 +1079,13 @@ e_antarctandes = {
 		quebecois = "Amazonie"
 		
 		d_bryan = {
-			color = { 134 179 0 }
+			color = { 179 45 0 }
 			color2 = { 255 255 255 }
 			
 			capital = 71 # Alison
 			
 			c_alison = {
-				color = { 134 179 0 }
+				color = { 179 45 0 }
 				color2 = { 255 255 255 }
 				
 				b_alison = {}
@@ -1072,7 +1095,7 @@ e_antarctandes = {
 				b_widepeak = {}
 			}
 			c_the_breach = {
-				color = { 77 49 0 }
+				color = {77 11 0}
 				color2 = { 255 255 255 }
 				
 				b_the_breach = {}
@@ -1081,7 +1104,7 @@ e_antarctandes = {
 				b_stonerun = {}
 			}
 			c_fletcher = {
-				color = { 62 102 95 }
+				color = { 102 75 62 }
 				color2 = { 255 255 255 }
 				
 				b_fletcher = {}
@@ -1090,7 +1113,7 @@ e_antarctandes = {
 				b_jagged_cove = {}
 			}
 			c_bryan = {
-				color = { 53 94 211 }
+				color = { 211 91 53 }
 				color2 = { 255 255 255 }
 				
 				b_bryan = {}
@@ -1101,13 +1124,13 @@ e_antarctandes = {
 		}
 		
 		d_eights = {
-			color = { 0 102 77 }
+			color = { 102 26 0 }
 			color2 = { 255 255 255 }
 			
 			capital = 80 # Anderson
 			
 			c_lepley = {
-				color = { 0 102 26 }
+				color = { 102 26 0 }
 				color2 = { 255 255 255 }
 				
 				b_lepley = {}
@@ -1117,7 +1140,7 @@ e_antarctandes = {
 			}
 			
 			c_anderson = {
-				color = { 0 102 77 }
+				color = { 179 46 0 }
 				color2 = {255 255 255}
 				
 				b_anderson = {}
@@ -1128,7 +1151,7 @@ e_antarctandes = {
 			}
 			
 			c_carpenter = {
-				color = { 0 51 102 }
+				color = { 102 51 0 }
 				color2 = {255 255 255}
 				
 				b_carpenter = {}
@@ -1138,7 +1161,7 @@ e_antarctandes = {
 			}
 			
 			c_waite = {
-				color = { 0 60 77 }
+				color = { 77 17 0 }
 				color2 = {255 255 255}
 				
 				b_waite = {}
@@ -1148,7 +1171,7 @@ e_antarctandes = {
 			}
 			
 			c_jones = {
-				color = { 0 204 153 }
+				color = { 204 51 0 }
 				color2 = {255 255 255}
 				
 				b_jones = {}
@@ -1159,7 +1182,7 @@ e_antarctandes = {
 		}
 		
 		d_thurston = {
-			color = { 0 179 0 }
+			color = { 179 98 0 }
 			color2 = { 255 255 255 }
 			
 			capital = 77 # Tierney
@@ -1167,9 +1190,9 @@ e_antarctandes = {
 			welsh = "Ynys Tomos"
 			
 			c_flying_fish = { # max settlements = 4
-				color = { 0 179 134 }
+				color = { 179 98 0 }
 				color2 = {255 255 255}
-								
+				
 				welsh = "Lledeheuol"
 				
 			
@@ -1184,7 +1207,7 @@ e_antarctandes = {
 			}
 			
 			c_williamson = { # max settlements = 5
-				color = { 134 179 0 }
+				color = { 179 135 0 }
 				color2 = {255 255 255}
 								
 				welsh = "Morgannwg"
@@ -1201,7 +1224,7 @@ e_antarctandes = {
 			}
 			
 			c_tierney = { # max settlements = 7
-				color = { 0 179 0 }
+				color = { 236 183 131 }
 				color2 = {255 255 255}
 								
 				welsh = "Haenaay"
@@ -1218,9 +1241,9 @@ e_antarctandes = {
 			}
 			
 			c_noville = { # max settlements = 5
-				color = { 67 112 67}
+				color = { 112 95 67 }
 				color2 = {255 255 255}
-							
+				
 				welsh = "Newydd"
 				
 				b_noville = {
@@ -1236,13 +1259,13 @@ e_antarctandes = {
 		}
 		
 		d_amazon = {
-			color = { 0 102 0  }
+			color = { 252 126 0 }
 			color2 = { 255 255 255 }
 			
 			capital = 86 # Doppler
 			
 			c_canisteo = {
-				color = { 89 179 0 }
+				color = { 179 90 0 }
 				color2 = {255 255 255}
 								
 				b_canisteo = {}
@@ -1252,7 +1275,7 @@ e_antarctandes = {
 			}
 			
 			c_spheres = {
-				color = { 0 179 179 }
+				color = { 216 197 175 }
 				color2 = {255 255 255}
 				
 				b_spheres = {}
@@ -1265,7 +1288,7 @@ e_antarctandes = {
 			}
 			
 			c_doppler = { # have 5/7 baronies built, with 3 cities and a temple and castle
-				color = { 0 102 0 }
+				color = { 252 126 0 }
 				color2 = {255 255 255}
 				
 				b_doppler = {}
@@ -1278,7 +1301,7 @@ e_antarctandes = {
 			}
 			
 			c_hq_two = {
-				color = { 0 0 179 }
+				color = { 255 64 0 }
 				color2 = {255 255 255}
 				
 				b_hq_two = {}
@@ -1293,7 +1316,7 @@ e_antarctandes = {
 			}
 			
 			c_bezos = {
-				color = { 89 0 179 }
+				color = { 140 73 0 }
 				color2 = {255 255 255}
 				
 				b_bezos = {}
@@ -1305,7 +1328,7 @@ e_antarctandes = {
 			}
 			
 			c_byfar = {
-				color = { 128 255 128 }
+				color = { 255 192 128 }
 				color2 = {255 255 255}
 				
 				b_byfar = {}
@@ -1316,13 +1339,13 @@ e_antarctandes = {
 		}
 		
 		d_alexa = {
-			color = { 27 102 107 }
+			color = { 107 72 27 }
 			color2 = { 255 255 255 }
 			
 			capital = 90 # Alexa
 			
 			c_kindle = {
-				color = { 27 46 106 }
+				color = { 106 48 27 }
 				color2 = {255 255 255}
 				
 				b_kindle = {}
@@ -1335,7 +1358,7 @@ e_antarctandes = {
 			}
 			
 			c_alexa = {
-				color = { 27 102 107 }
+				color = { 107 72 27 }
 				color2 = {255 255 255}
 				
 				b_alexa = {}
@@ -1348,7 +1371,7 @@ e_antarctandes = {
 			}
 			
 			c_twitch = {
-				color = { 71 200 209 }
+				color = { 209 149 71 }
 				color2 = {255 255 255}
 				
 				b_twitch = {}
@@ -1364,6 +1387,8 @@ e_antarctandes = {
 		d_primiteva = {
 			color = { 221 231 99 }
 			color2 = { 255 255 255 }
+			
+			egyptian = "Kemet"
 			
 			capital = 94 # Walden
 			
@@ -1435,6 +1460,335 @@ e_antarctandes = {
 				b_bliss = {}
 				b_eternis = {}
 				b_spikyheat = {}
+			}
+		}
+	}
+}
+
+# Marie Byrd Land
+e_marie_byrd_land = {
+	color = { 142 37 171 }
+	color2 = { 255 255 255 }
+	
+	capital = 70 # Russkaya
+	
+	argentine = "María Pájaro"
+	spanish = "María Pájaro"
+	chilean = "María Pájaro"
+	colombian = "María Pájaro"
+	american = "New America"
+	english = "Incognetia"
+	zealander = "Incognetia"
+	welsh = "Incognetia"
+	australian = "Incognetia"
+	scottish = "Incognetia"
+	canadian = "Incognetia"
+	russian = "Nevostrebovannyy"
+	egyptian = "Qaribiyya"
+	greek = "Makedónia"
+	chinese = "Xindìguo"
+	
+	k_heavenly_kingdom = { # most coastal provinces are city-ruled due to sinopec corporation
+		color = { 255 178 0 }
+		color2 = { 255 255 255 }
+		
+		capital = 107 # Shinua
+		
+		d_sinopec = {
+			color = { 220 153 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 107 # Shinua
+			
+			c_shinua = {
+				color = { 220 153 0 }
+				color2 = { 255 255 255 }
+				
+				english = "Philbin"
+				american = "Philbin"
+				
+				b_zongbu = {} # this should be provincial capital (city holding)
+				b_little_beijing = {}
+				b_qingxiang = {}
+				b_shinua = {}
+				b_philbin = {}
+				b_herlacher = {}
+				b_martin = {}
+			}
+			
+			c_chaoyang = {
+				
+				english = "Nunn"
+				american = "Nunn"
+				
+				b_chaoyang = {}
+				b_xinxian = {}
+				b_nanbianjie = {}
+				b_bingleng = {}
+				b_nunn = {}
+			}
+			c_houliang = {
+			
+				english = "Toney"
+				american = "Toney"
+				
+				b_houliang = {}
+				b_toney = {}
+				b_kohler = {}
+				b_xiqian = {}
+				b_feidifang = {}
+			}
+			
+			c_zhenyong = {
+				
+				english = "Crary"
+				american = "Crary"
+				
+				b_zhenyong = {}
+				b_crary = {}
+				b_frakes = {}
+				b_pingdan = {}
+				b_wojuede_leng = {}
+			}
+		}
+		
+		d_pine_island = {
+			color = { 201 197 111 }
+			color2 = { 255 255 255 }
+			
+			capital = 100 # Pine Island
+			
+			chinese = "Gaodì"
+			
+			c_rumbland = {
+				color = { 201 197 111 }
+				color2 = { 255 255 255 }
+				
+				chinese = "Longlong"
+				b_rumbland = {
+					chinese = "Longlong"
+				}
+			}
+			c_pine_island = {
+				color = { 222 219 167 }
+				color2 = { 255 255 255 }
+				
+				chinese = "Songdao"
+				b_pine_island = {
+					chinese = "Songdao"
+				}
+				b_brownton = {}
+				b_coldharbour = {}
+				b_meltwater = {}
+				b_islington = {}
+			}
+			c_dakota = {
+				color = { 171 167 64 }
+				color2 = { 255 255 255 }
+				
+				chinese = "Dáketa"
+				b_dakota = {
+					chinese = "Dáketa Zhou"
+				}
+				b_stratford = {}
+				b_breadwood = {}
+				b_cleveland = {}
+				b_riverdale = {}
+			}
+			
+		}
+		
+		d_walgreen = {
+			color = { 0 0 0 }
+			color2 = { 255 255 255 }
+			
+			capital = 99 # Walgreen
+			
+			chinese = "Qiang Lu"
+			
+			c_walgreen = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				chinese = "Qiang Lu"
+				b_walgreen = {
+					chinese = "Qiang Lu"
+				}
+				b_haynes = {}
+				b_brixton = {}
+				b_wulang = {}
+				b_chengshi = {}
+			}
+			c_cordova = {
+				
+				chinese = "Kerduowa"
+				b_cordova = {
+					chinese = "Kerduowa"
+				}
+				b_abraham = {}
+				b_philistine = {}
+				b_antiochea = {}
+				b_new_new_orleans = {}
+			}
+			
+			c_kilgora = {
+				
+				chinese = "Pingfang"
+				b_kilgora = {
+					chinese = "Pingfang"
+				}
+				b_littletown = {}
+				b_overrated = {}
+				b_obama = {}
+			}
+			
+			c_takahe = {
+				
+				b_takahe = {}
+				b_sundown = {}
+				b_petes_shack = {}
+				b_shrekloo = {}
+			}
+			
+			c_bear = {
+				chinese = "Xiongmao"
+				b_bear = {
+					chinese = "Xiongmao"
+				}
+				b_kobler = {}
+				b_murphie = {}
+				b_smith_2 = {}
+				b_capeport = {}
+				b_inlettia = {}
+			}	
+			
+			c_thwaites = {
+				chinese = "Zhixing"
+				b_thwaites = {}
+				b_the_tongue = {}
+				b_zhixing = {}
+				b_oklahomer = {}
+			}
+		}
+		
+		d_executive_commitee  = {
+			color = { 144 136 0 }
+			color2 = { 255 255 255 }
+			
+			capital = 120 # Xianggang
+			
+			chinese = "Xihuan"
+			
+			c_xianggang = {
+				color = { 144 136 0 }
+				color2 = { 255 255 255 }
+				
+				english = "Hong Kong"
+				american = "Hong Kong"
+				australian = "Hong Kong"
+				welsh = "Hong Kong"
+				
+				b_xianggang = {
+					english = "Hong Kong"
+					american = "Hong Kong"
+					australian = "Hong Kong"
+					welsh = "Hong Kong"
+					zealander = "Hong Kong"
+				}
+			}
+			
+			c_dong = {
+				b_dong = {}
+			}
+			
+			c_youtian = {
+				b_youtian = {}
+			}
+			
+			c_qian_de = {
+				b_qian_de = {}
+			}	
+		}
+		
+		d_bakutis = {
+			color = { 255 197 64 }
+			color2 = { 255 255 255 }
+			
+			chinese = "Bakutisi"
+			russian = "Bakutskya"
+			
+			capital = 112 # Jianwai
+			
+			c_jianwai = {
+				b_jianwai = {}
+			}
+			c_xiangheyuan = {
+				b_xiangheyuan = {}
+			}
+			c_anzhen = {
+				b_anzhen = {}
+			}
+			c_wangsiying = {
+				b_wangsiying = {}
+			}
+			c_sunhe = {
+				b_sunhe = {}
+			}
+		}
+		
+		d_kenyon = {
+			
+			capital = 122 # Kenyon
+			
+			chinese = "Gaoyuan"
+			
+			c_kenyon = {
+				chinese = "Gaoyuan"
+				b_kenyon = {
+					chinese = "Gaoyuan"
+				}
+			}
+			c_lowpoint = {
+				chinese = "Zuidian"
+				b_lowpoint = {
+					chinese = "Zuidian"
+				}
+			}
+			c_xinzhou = {
+				english = "Farstead"
+				american = "Farstead"
+				b_xinzhou = {
+					english = "Farstead"
+					american = "Farstead"
+				}
+			}
+		}
+		
+		d_americastan = {
+			
+			capital = 130 # WAIS Divide
+			chinese = "Meiguósitan"
+			
+			c_highjump = {
+				chinese = "Ching"
+				b_highjump = {
+					chinese = "Ching"
+				}
+			}
+			c_alexandria = {
+				chinese = "Chong"
+				b_alexandria = {
+					chinese = "Chong"
+				}
+			}
+			c_wais_divide = {
+				b_wais_divide = {}
+			}
+			b_meriby = {
+				b_meriby = {}
+				b_delisheller = {} 
+				b_robnia = {}
+				b_milltown = {}
 			}
 		}
 	}

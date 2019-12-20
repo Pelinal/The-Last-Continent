@@ -54,7 +54,7 @@ province;red;green;blue;x;x
 53;42;210;153;Sweeny;x
 54;127;57;134;Spaatz;x # w/ b_de_atley
 55;0;159;75;Smyley;x
-56;168;198;17;Vang;x
+56;168;198;17;Sky Blu;x
 57;0;30;60;Stange;x
 58;168;129;12;Hill;x
 59;169;150;22;Rydberg;x
@@ -68,7 +68,6 @@ province;red;green;blue;x;x
 67;168;141;72;Mistassini;x
 68;168;84;27;Newcomer;x
 69;168;132;77;Carvajal;x
-# END OF ANTARCTIC PENINSULA #
 70;126;81;4;Russkaya;x
 71;84;135;71;Alison;x
 72;42;45;98;The Breach;x
@@ -98,119 +97,125 @@ province;red;green;blue;x;x
 96;84;123;11;Foreverhome;x # b_guerin, b_revista, b_gravelle, b_urales
 97;168;156;52;Wildgrove;x # b_timberfell, b_bliss, b_eternis, b_spikyheat
 98;126;210;224;Eastpine;x # b_frankhole, b_egalitaria, b_sahlinsky, b_polanyi
-99;0;72;25;kanomon;x
-100;126;150;214;egayari;x
-101;1;63;135;laipp;x
-102;42;24;88;supenfan;x
-103;84;69;31;rutujin;x
-104;85;84;11;tacalla;x
-105;84;36;61;laydak;x
-106;0;57;0;sulak;x
-107;126;147;44;lizoul;x
-108;126;120;4;amegevon;x
-109;42;138;78;qonarak;x
-110;84;183;21;salele;x
-111;84;195;81;nururi;x
-112;42;144;213;seraide;x
-113;0;192;45;kaocek;x
-114;126;204;89;raipp;x
-115;168;138;7;ryoa;x
-116;0;96;0;wawujin;x
-117;126;150;9;lanaoge;x
-118;126;87;34;tikuba;x
-119;168;186;57;tyip;x
-120;42;108;73;relak;x
-121;84;75;61;sutujin;x
-122;0;3;225;degosgi;x
-123;168;108;2;rulanig;x
-124;126;141;14;acacevon;x
-125;0;186;15;rerah;x
-126;1;33;130;tizaria;x
-127;0;60;65;nocatan;x
-128;42;150;38;keith;x
-129;84;189;51;elomari;x
-130;0;96;205;epaofan;x
-131;0;156;215;eklenold;x
-132;43;96;13;ejosari;x
-133;84;162;11;nolaila;x
-134;84;42;91;qoruri;x
-135;42;57;163;waydak;x
-136;84;45;56;qict;x
-137;168;93;77;amasiza;x
-138;84;210;61;qosisha;x
-139;168;162;82;lutari;x
-140;126;51;99;dupende;x
-141;84;198;46;qunalla;x
-142;168;9;92;kaymosgi;x
-143;0;54;35;apisa;x
-144;126;0;84;basanes;x
-145;42;75;3;kabith;x
-146;84;15;51;lanayn;x
-147;126;186;44;turarda;x
-148;0;51;70;luroan;x
-149;42;57;58;terele;x
-150;126;66;24;neramaj;x
-151;0;24;30;nerict;x
-152;84;105;171;dorern;x
-153;43;126;18;elourda;x
-154;0;90;70;warda;x
-155;168;204;47;salamaj;x
-156;126;30;89;duri;x
-157;126;33;54;darda;x
-158;0;204;60;turele;x
-159;168;51;57;erurarda;x
-160;126;54;64;sayn;x
-161;84;0;26;nanak;x
-162;126;111;9;serekel;x
-163;168;201;82;danarfa;x
-164;84;186;86;nocak;x
-165;168;111;172;egarer;x
-166;42;117;173;kacatan;x
-167;42;111;38;biaguqu;x
-168;42;12;28;bizo;x
-169;168;21;52;raydak;x
-170;84;93;6;legaila;x
-171;84;3;91;qaila;x
-172;0;189;80;qeguri;x
-173;84;192;16;naluri;x
-174;42;204;223;qalict;x
-175;168;69;2;kutuddin;x
-176;126;105;79;kerence;x
-177;84;105;66;keranig;x
-178;0;27;95;qinoan;x
-179;0;93;35;rinern;x
-180;85;54;6;kayari;x
-181;84;6;56;rewuqu;x
-182;84;45;161;qalele;x
-183;0;36;90;dolamaj;x
-184;168;165;47;siten;x
-185;84;66;66;qeena;x
-186;42;129;83;walarak;x
-187;42;105;8;lolaide;x
-188;0;63;30;rocanig;x
-189;169;120;17;esawuqu;x
-190;42;198;88;socevon;x
-191;126;171;19;tocarfa;x
-192;168;159;17;eblaila;x
-193;126;90;99;edamele;x
-194;126;3;49;kohoan;x
-195;42;174;13;kikuqu;x
-196;84;129;41;rorayak;x
-197;0;0;55;tegak;x
-198;84;132;6;titari;x
-199;84;138;36;amegosgi;x
-200;0;21;65;wegizo;x
-201;42;27;158;kizo;x
-202;168;42;62;busaoge;x
-203;126;84;69;waluri;x
-204;84;192;221;qiemka;x
-205;84;108;31;araydegh;x
-206;168;51;162;sisarak;x
-207;0;3;20;ring;x
-208;0;180;85;tawasar;x
-209;42;114;3;syuu;x
-210;1;138;20;sern;x
-211;126;93;64;tartin;x
+# END OF ANTARCTANDES #
+99;0;72;25;Walgreen;x # chinese = "Qiang Lu"
+100;126;150;214;Pine Island;x chinese = "Songdao"
+101;1;63;135;Rumbland;x # chinese = "Longlong"
+102;42;24;88;Thwaites;x # chinese = "Zhixing"
+103;84;69;31;Bear;x # chinese = "Xiongmao"
+104;85;84;11;Takahe;x 
+105;84;36;61;Cordova;x # chinese = "Kerduowa"
+106;0;57;0;Kilgora;x # chinese = "Pingfang"
+107;126;147;44;Shinua;x # english = "Philbin"
+108;126;120;4;Chaoyang;x # english = "Nunn"
+109;42;138;78;Houliang;x # english = "Toney"
+110;84;183;21;Zhenyong;x # english = "Crary"
+111;84;195;81;Dong;x
+# duchy of bakutis START
+112;42;144;213;Jianwai;x 
+113;0;192;45;Xiangheyuan;x
+114;126;204;89;Anzhen;x
+115;168;138;7;Wangsiying;x
+116;0;96;0;Sunhe;x
+# duchy of bakutis END
+117;126;150;9;Youtian;x
+118;126;87;34;Qian De;x
+119;168;186;57;Jintao;x
+120;42;108;73;Xianggang;x
+121;84;75;61;Xinzhou;x
+122;0;3;225;Kenyon;x # chinese = "Gaoyuan"
+123;168;108;2;Lowpoint;x # chinese = "Zuidian"
+124;126;141;14;Siple Island;x
+125;0;186;15;Carney;x # b_ramage, b_cherry, b_felt
+126;1;33;130;Wright;x # b_armour, b_russell, b_sippling, b_wrigley
+127;0;60;65;Dakota;x
+128;42;150;38;Highjump;x
+129;84;189;51;Alexandria;x
+130;0;96;205;WAIS Divide;x
+131;0;156;215;Meriby;x # b_delisheller b_robnia b_milltown
+# END OF HEAVENLY_KINGDOM # chinese = "Tiānguó"
+132;43;96;13;Yugozapad;x
+133;84;162;11;Ames;x # russian = "Eyms"
+134;84;42;91;Flood;x # russian = "Potop" w/ b_bursey b_moulton
+135;42;57;163;Petras;x # russian = "Pyatras"
+136;84;45;56;Berlinskaya;x # russian = "Zemlya"
+137;168;93;77;Korpus;x # american/english = "Hul1"
+138;84;210;61;Wrigley;x # russian = "Volnistoy" w/ b_dean b_grant b_shepard b_forrester
+139;168;162;82;Fedorograd;x
+140;126;51;99;Balchen;x # russian = "Balchensky"
+141;84;198;46;Shirley;x # russian = "Shirli"
+142;168;9;92;Block;x # russian = "Blok"
+143;0;54;35;Fosdick;x # russian = "Fosdik"
+144;126;0;84;Mitchell;x # russian = "Domitchella"
+145;42;75;3;Khammond;x # english = "Hammond"
+146;84;15;51;Eduard VII;x
+147;126;186;44;McKinley;x # russian = "MakKinli"
+148;0;51;70;Okuma;x #
+149;42;57;58;Kiel;x # greek = "Korinthos"
+150;126;66;24;Bursey;x # russian = "Bursa"
+151;0;24;30;Clark;x # russian = "Klark"
+152;84;105;171;Mermansk;x
+153;43;126;18;Archangel;x # russian = "Arkangelsk"
+154;0;90;70;Waesche;x
+# END OF SOVETSKYA
+155;168;204;47;Little Rockford;x # greek = "Ligavráchos"
+156;126;30;89;Pavlopolis;x # english/american = "Pavlson"
+157;126;33;54;Tsiprachai;x 
+158;0;204;60;Rockefeller;x # greek = "Rokféler"
+159;168;51;57;Edessa;x
+160;126;54;64;Heraklion;x
+161;84;0;26;Nyusu;x
+162;126;111;9;Bostonia;x
+163;168;201;82;Amolato;x
+164;84;186;86;Hartris;x
+165;168;111;172;Sipledome;x
+166;42;117;173;Roosevelt;x # capital = b_little_america w/ b_kainan b_roosevelt
+167;42;111;38;New Chicago;x
+# END OF HELLAS #
+168;42;12;28;Yarmouth;x
+169;168;21;52;Byrd;x
+170;84;93;6;Greenwich;x
+171;84;3;91;Colington;x
+172;0;189;80;O'Brady;x
+173;84;192;16;Upstream Bravo;x
+174;42;204;223;Olympia;x
+175;168;69;2;Portland;x
+176;126;105;79;Jennaby;x
+177;84;105;66;Sanic;x
+178;0;27;95;Athletica;x
+179;0;93;35;Delta;x
+180;85;54;6;Gould;x
+181;84;6;56;Ready;x
+182;84;45;161;Ohio;x
+183;0;36;90;Wisconsin;x
+184;168;165;47;Whitmore;x
+185;84;66;66;Southmore;x
+186;42;129;83;Moore;x
+187;42;105;8;Woollard;x
+188;0;63;30;Falcatifolium;x
+189;169;120;17;Chessnut;x
+190;42;198;88;Ivywood;x
+191;126;171;19;Linck;x
+192;168;159;17;Radlinski;x
+193;126;90;99;Havola;x
+194;126;3;49;Hart;x
+195;42;174;13;Oddlyplaced;x
+196;84;129;41;Wrightnow;x
+197;0;0;55;Wattack;x
+198;84;132;6;Ellsworth;x
+199;84;138;36;Tyree;x
+200;0;21;65;Ninitz;x
+201;42;27;158;Sentinel;x
+202;168;42;62;Skytrain;x
+203;126;84;69;Union;x # chilean = "Parodi"
+204;84;192;221;Heritage;x
+205;84;108;31;Korff;x
+206;168;51;162;Henry;x
+207;0;3;20;Rosstip;x # chilean = "Nueva Santiago"
+208;0;180;85;Childscliff;x
+209;42;114;3;Foundation;x
+210;1;138;20;Wagner;x
+211;126;93;64;Colina;x
 212;0;69;60;rer-ada;x
 213;0;39;55;bacen;x
 214;85;174;26;wauba;x
@@ -319,7 +324,7 @@ province;red;green;blue;x;x
 317;127;102;14;kacayak;x
 318;0;66;200;teting;x
 ## SEA PROVS:
-319;0;174;205;;x # Ronne Ice Shelf
+319;1;175;205;;x # Ronne Ice Shelf
 320;126;183;129;;x # Weddel Sea
 321;0;135;205;;x # Filchner Ice Shelf
 322;42;120;183;;x # Orville Coast
@@ -333,8 +338,8 @@ province;red;green;blue;x;x
 330;84;27;216;;x # Drake Passage
 331;168;27;187;;x # Scotia Sea
 332;168;165;197;;x # Outer or Northern Weddel Sea
-333;0;186;165;;x # Southern Ocean
-334;126;30;139;;x # Atlantic Ocean
+333;0;186;165;;x # Bach Inlet
+334;126;30;139;;x # Pine Island Bay
 335;42;159;138;;x # Palmer Archipelago
 336;168;117;97;;x # Beascochea Bay
 337;126;84;219;;x # Wordie Ice Shelf
@@ -351,8 +356,8 @@ province;red;green;blue;x;x
 348;42;177;128;;x # Getz Ice Shelf
 349;126;54;214;;x  # Rupert Coast
 350;84;66;216;;x # Russian Sea
-351;42;90;178;;x # Saunders Coast
-352;42;30;168;;x # South Pacific Ocean
+351;42;90;178;;x # Nickerson Gulf
+352;42;30;168;;x # Peacock Sound
 353;168;105;187;;x # Ross Ice Shelf
 354;84;189;201;;x # Gould Coast
 355;42;114;153;;x # Siple Coast
@@ -368,8 +373,8 @@ province;red;green;blue;x;x
 365;126;168;204;;x # Dumont D'Urville Sea
 366;42;48;213;;x # Adélie Coast
 367;42;138;128;;x # Voyeykov Ice Shelf
-368;168;87;92;;x # N. Davis Sea
-369;84;105;216;;x # S. Davis Sea
+368;168;87;92;;x # Davis Sea
+369;84;105;216;;x # South Indian Basin
 370;126;159;154;;x # Vincennes Bay
 371;84;51;136;;x # Bay of Winds
 372;126;147;194;;x # Posadowsky Bay
@@ -379,7 +384,7 @@ province;red;green;blue;x;x
 376;84;54;156;;x # Bight of Hannan
 377;126;36;169;;x # Casey Bay
 378;0;195;160;;x # Lützow-Holm Bay
-379;0;114;195;;x # Indian Ocean
+379;0;114;195;;x # Russell Bay
 380;168;93;227;;x # Princess Ragnhild Coast
 381;126;177;199;;x # Fimbul Ice Shelf
 382;42;18;208;;x # Jelbert Iceshelf
@@ -387,14 +392,14 @@ province;red;green;blue;x;x
 384;0;201;145;;x # Norvegian Sea
 385;168;51;207;;x # Falklands Sea
 386;126;210;169;;x # Argentine Divide
-387;0;27;145;;x
-388;84;114;166;;x
-389;0;75;90;;x
-390;0;141;135;;x
-391;126;180;164;;x
-392;168;84;177;;x
-393;0;9;200;;x
-394;84;111;146;;x
+387;0;27;145;;x # Wrigley Gulf
+388;84;114;166;;x # Kong Håkon VII Hav
+389;0;75;90;;x # South Pacific Basin
+390;0;141;135;;x # Cosmonaut Sea
+391;126;180;164;;x # South Sandwich Trench
+392;168;84;177;;x # Palmer Arch
+393;0;9;200;;x # Cooperation Sea
+394;84;111;146;;x # Kerguelen Plateau
 395;168;123;132;;x
 396;168;69;152;;x
 397;84;69;181;;x
@@ -707,4 +712,4 @@ province;red;green;blue;x;x
 704;168;177;7;;x
 705;168;147;207;;x
 706;168;147;2;;x
-707;0;165;5;;x
+707;0;165;5;Zuchelli;x

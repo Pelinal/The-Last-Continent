@@ -1,0 +1,754 @@
+###############################################################
+###															###
+###					CULTURES OF ANTARCTICA					###
+###															###
+###############################################################
+
+iberian = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { occitangfx }
+
+	basque = {
+		graphical_cultures = { italiangfx trueoccitangfx occitangfx }
+		
+		color = { 0.55 0.42 0.04 }
+
+		male_names = {
+			Alfontso_Alphonse Alvar_Oliver Antso_Sancho Aznar_Aznar Belasko_Vasco Bermudo_Vermudo Bernart_Bernard Diego_Diaco Donato_Donatus Egidio_Egidius
+			Eneko_Inigo Erramun_Raymond Fernando_Ferdinand Fortun Galindo_Galindo Gartzia_Garcia Gilen_William Gontzal_Gonzalo Herramel Joanes_John
+			Ladron Lope_Lupo Luis_Louis Manrike_Amalric Martín_Martin Munio_Munio Nuño_Nuno Obeko_Obeko Ordoño_Ordono Pelaio_Pelagius Piarres_Peter
+			Ramiro_Ramiro Rodrigo_Roderick Vela_Vela Ximeno_Simon Zentulo_Centule
+
+			#Abdala Isa Ismail Mohamed Motarrif Muza Saad Salama Taur Yahya Yunus Zahir
+		}
+		female_names = {
+			Aines_Agnes Aldontza_Aldonza Andregoto Antsa_Sancha Belaskita Berengaria_Berengaria Blanka_Blanche Elbira_Elvira Eliza Emili_Emily
+			Estefania_Stephania Joana_Joan Konstantzia_Constance Maior_Mayor Maria_Maria Mentzia_Mencia Munia_Munia Nuña Oneka_Oneka Oria
+			Plazentzia_Plaisance Teresa_Teresa Toda_Toda Urraka_Urraca Ximena_Ximena
+		
+			#Awriya
+		}
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "ez"
+		female_patronym = "ez"
+		grammar_transform = spanish
+
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 5
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 55
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+
+		modifier = default_culture_modifier
+	}
+	spanish = {
+		graphical_cultures = { southerngfx }
+		
+		color = { 0.95 0.82 0.09 }
+		
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+
+		male_names = {
+			Alfonso_Alphonse Alonso_Alphonse Álvar_Oliver Álvaro_Oliver Bermudo_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
+ 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Guillén_William Guillermo_William Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
+			Manrique_Amalric Martín_Martin Munio_Munio Nuño_Nuno Ordoño_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_Roderick
+			Salvador_Salvador Sancho_Sancho Suero_Suero Tello Vela_Vela
+		}
+		female_names = {
+			Aldonza_Aldonza Anderquina Beatriz_Beatrice Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
+			Inés_Agnes Isabel_Elizabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
+			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
+		}
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "ez"
+		female_patronym = "ez"
+		grammar_transform = spanish
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}
+	argentine = {
+		graphical_cultures = { southerngfx }
+		
+		color = { 174 143 191 }
+		
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+
+		male_names = {
+			Alfonso_Alphonse Alonso_Alphonse Álvar_Oliver Álvaro_Oliver Bermudo_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
+ 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Guillén_William Guillermo_William Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
+			Manrique_Amalric Martín_Martin Munio_Munio Nuño_Nuno Ordoño_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_Roderick
+			Salvador_Salvador Sancho_Sancho Suero_Suero Tello Vela_Vela
+		}
+		female_names = {
+			Aldonza_Aldonza Anderquina Beatriz_Beatrice Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
+			Inés_Agnes Isabel_Elizabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
+			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
+		}
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "ez"
+		female_patronym = "ez"
+		grammar_transform = spanish
+
+		pat_grf_name_chance = 45
+		mat_grf_name_chance = 15
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 40
+		mat_grm_name_chance = 10
+		mother_name_chance = 40
+
+		modifier = default_culture_modifier
+	}
+	portuguese = {
+		graphical_cultures = { southerngfx }
+		
+		color = { 0.75 0.67 0.07 }
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+
+		male_names = {
+			Afonso_Alphonse Aires Álvaro_Oliver Bermudo_Vermudo Diogo_Diaco Egas Estêvão_Stephen Fernão_Ferdinand Fernando_Ferdinand Garcia_Garcia
+			Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Guterre_Walter Henrique_Henry Hermígio João_John Lopo_Lupo Lourenço_Laurence Martim_Martin
+			Mem_Mendo Mendo_Mendo Monio_Munio Muno_Munio Nuno_Nuno Paio_Pelagius Pedro_Peter Pero_Peter Pôncio_Pons Rodrigo_Roderick Rui_Roderick
+			Sancho_Sancho Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent
+		}
+		female_names = {
+			Aldara_Alduara Aldonça_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constança_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
+			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
+			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
+		}
+		from_dynasty_prefix = "de "
+		male_patronym = "es"
+		female_patronym = "es"
+		grammar_transform = spanish
+
+		modifier = default_culture_modifier
+
+		pat_grf_name_chance = 55
+		mat_grf_name_chance = 5
+		father_name_chance = 30
+		
+		pat_grm_name_chance = 60
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+	}
+}
+
+francophone = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx }
+
+	french = {
+		graphical_cultures = { frankishgfx westerngfx }
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+		
+		color = { 0.22 0.33 0.75 }
+		male_names = {
+			Adrien Alain Alexandre André Antoine Anton Auguste Augustin Benoît Christophe Denis Dominique Édouard Éric Étienne Eugène François Franck Frédéric Georges Gérard
+			Grégoire Guillaume Guy Henri Hugues Jacques Jacquot Jean Jeannot Jérôme Jules Julien Laurent Léon Louis Luc Lucas Marc Matthieu Maurice Michel Nicolas Noël Olivier
+			Patrick Patrice Pierre Sébastien Stéphane Théodore Théophile Thibaut Thibault Thierry Timothée Yves 
+		}
+		female_names = {
+			Adélaïde Adèle Adrienne Agathe Agnès Aimée Alexandrie Alix Amélie Anastasie Anaïs Andrée Anne Aurélie Aurore Brigitte Cécile Céline Célina Christelle Claude Claudine 
+			Dominique Dorothée Éléonore Élisabeth Élise Françoise Frédérique Hélène Henriette Inès Isabelle Jeanne Jeannine Juliette Laetitia Laure Luce Lucie Madeleine Marguerite 
+			Margot Marthe Monique Noémi Olivie Sophie Susanne Sylvie Thérèse Valentine Valérie Véronique Victoire Virginie Zoé
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+	quebecois = {
+		graphical_cultures = { frankishgfx westerngfx }
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+		
+		color = { 0.45 0.54 0.9 }
+		male_names = {
+			Édouard_Edward Érrard Étienne_Stephen Adalbert_Albert Adémar_Adémar Adrien_Adrian Aimery_Aymeric Alain_Alan Aldebert_Albert Aldéric Alphonse_Alphonse Amaury_Amalric
+			Amédée Ancel André_Andrew Angelbert Antoine_Antonius Archambaud_Archibald Arnaud_Arnold Arnault_Arnold Arnoul_Arnulf Aubry Aymar Barthélémi_Bartolomeus
+			Baudouin_Baldwin Benoît_Benedict Bérenger_Berengar Bernard_Bernard Bertrand_Bertrand Bohemond Boson_Boson Bouchard_Bouchard Centule_Centule Charles_Charles
+			Clotaire_Lothair Ebbon Enguerrand Eudes_Otto Eustache_Eustace Evrard Foulques_Folke François_Francis Frédéric_Frederick Géraud_Gerald Gargamel Gaucher Gaucelin_Joscelin
+			Gauthier_Walter Geoffroy_Godfrey Géraud_Gerard Gelduin Gilbert_Gilbert Gilles_Egidius Godefroy_Godfrey Guichard Guiges Guilhem_William Guillaume_William
+			Guy_Guy Hélie Hamelin Henri_Henry Herbert_Herbert Hildebert Hugues_Hugh Humbert_Humbert Jacques_Jacob Jaufré_Godfrey Jaspert Jean_John Josselin_Joscelin
+			Jourdain_Jordan Julien_Julian Léon Léonard Lothaire_Lothair Louis_Louis Loup_Lupo Manassès_Manasseh Mathieu_Matthew Maurice_Maurice Nicolas_Nicholas Ogier Onfroy Orson_Ursus Othon_Otto
+			Payen_Pagan Philippe_Philip Pierre_Peter Raimbaut Raoul_Ralph Raymond_Raymond Raynaud_Reinhold Renaud_Reinhold Richard_Richard Robert_Robert Robin Roger_Roger
+			Rorgon Rorgues Roubaud Savary Sigismond_Sigmund Simon_Simon Thibault_Theobald Thiébaut_Theobald Thierry_Thierry Thomas_Thomas Valeran Yves
+		}
+		female_names = {
+			Éléonore_Eleanor Élodie Étiennette Adèle_Adela Adalmode_Almodis Adelaide_Adelaide Adelinde_Adelinde Agathe_Agatha Agnès_Agnes Aléarde Alice_Alice Aliénor_Eleanor
+			Alix_Alice Almodis_Almodis Amelie_Amelia Anne_Anna Antoinette Arsinde_Arsenda Aude Aurengarde Béatrice_Beatrice Béatrix_Beatrice Belleassez Benoîte_Benedicta Bérengère
+			Berthe_Bertha Blanche_Blanche Bonne_Bonne Bourgogne Bourguigne Cécile_Cecilia Cathèrine_Catherine Charlotte Constance_Constance Denise_Denise Douce_Douce Echive Eglantine
+			Elisabeth_Elizabeth Emma_Emma Ermengarde_Ermengarde Ermessinde_Ermesinda Esclarmonde_Esclarmunda Euphrosine_Euphrosyne Eustachie Eve_Eva Gerberge_Gerberga
+			Gisèle_Gisela Guillaumette_Williamette Héloise_Eloise Helvis Hodierne Ide_Ida Ida_Ida Ildégarde_Hildegard Isabeau_Elizabeth Isabelle_Elizabeth Jeanne_Joan Judith_Judith
+			Julienne_Juliana Mafalda Mahaut_Matilda Margot Marguerite_Margaret Marie_Maria Marthe_Martha Mascarose_Mascarosa Mathilde_Matilda Mélisande_Melisende
+			Mélisende_Melisende Mélusine Péronelle_Peronella Pernelle_Peronella Perinne Pernette Plaisance_Plaisance Raymonde Sarrazine Solène Sophie_Sophia
+			Stéphanie_Stephania Sybille_Sibylla Tiburge_Tiburge Valence_Yolanda Yolande_Yolanda 
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 60
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 60
+		mother_name_chance = 10
+	}
+	
+	occitan = {
+		graphical_cultures = { trueoccitangfx occitangfx }
+		
+		color = { 0.2 0.26 0.5 }
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+
+		male_names = { 
+			Adhémar Acfred_Alfred Aimeric_Aymeric Alberic_Alberic Albert_Albert Aldebert_Albert Alias_Elijah Anfòs_Alphonse Amalric_Amalric Amaneus Ancelmes André_Andrew Archambaut_Archibald Arnaut_Arnold Artau_Artal Aton Audoïn Aymar_Aymeric Aymeric_Aymeric Aznar_Aznar
+			Barral Bartoumiéu_Bartolomeus Baudoïn_Baldwin Beneset_Benedict Bérard_Bernard Berenguié_Berengar Bermond_Vermudo Bernat_Bernard Bernat-Aton Bernat-Ezi Bertrand_Bertrand Blasi_Blaise Borel Boson_Boson Carles_Charles
+			Clamenç_Clement Centolh_Centule Dàvi_David Dat_Theodat Dodon Doumenge Duran Ebles_Otto Emmanuèl_Manuel Enric_Henry Ermengau Estève_Stephen Filip_Philip 
+			Ferrand_Ferdinand Florènç Folquet_Folke Francés_Francis Frederi_Frederick Garcia_Garcia Gaston_Gaston Gausbert_Gausbert Gautier_Walter Gilbèrt_Gilbert Girard_Gerard Girvais Godafres_Godfrey 
+			Gui_Guy Guichard Guigues_Guy Guilhèm_William Guiraud_Gerald Guitart_Gerard Ives Jacme_Jacob Jaufret_Godfrey Joan_John Jordan_Jordan Jorge_George 
+			Josselin_Joscelin Julian_Julian Laurènç_Laurence Leon_Leo Loïs_Louis Loui_Louis Lop_Lupo Marçau Martin_Martin Matfre_Manfred Matias_Matthew Milo Miquel_Michael
+			Nicholaus_Nicholas Odon_Otto Otton_Otto Pèire_Peter Péire-Arnaut Péire-Raimond Peranudet Pol_Paul Pons_Pons Raimond_Raymond Raimond-Berenguié_Raymond-Berengar Rainaut_Reinhold Rainer_Rainer
+			Raolf_Ralph Ricard_Richard Robèrt_Robert Rogier_Roger Sancho_Sancho Savarics Simon_Simon Tièrri_Thierry Tibaud_Theobald Toumas_Thomas Ubald Ubert_Humbert Uc_Hugh Ugues_Hugh
+			Vézian Vicenç_Vincent
+		}
+		female_names = {
+			Adèla_Adela Adalaïda_Adelaide Adeltrudis_Adeltrudis Agata_Agatha Aïna_Emma Ainès_Agnes Alaïs_Alice Alienòr_Eleanor Aliç_Alice Almòdis_Almodis Alpaïs Ana_Anna Arsenda_Arsenda Assalhida Ava
+			Azalaïs Azelma Bòna_Bonne Beatritz_Beatrice Berenguela Berta_Bertha Blanca_Blanche Brandimena Bregida_Brigid Brunissenda Camila Carlòta Caterina_Catherine Cecilia_Cecilia
+			Clara_Clara Clarmonda_Esclarmunda Clemència_Clementia Cloutilda_Clotilde Constància_Constance Dolça_Douce Eisabèu_Elizabeth Elena_Helen
+			Elisa_Elizabeth Elisabèta_Elizabeth Ermengarda_Ermengarde Ermessentz_Ermesinda Esclarmonda_Esclarmunda Estefania_Stephania Eufèmia Eufrosina_Euphrosyne
+			Faidida Filipa_Philippa Filomena Flòra_Flora Francesa_Francesca Garcenda Geneviva_Guinevere Gerbèrga_Gerberga Gersenda Gisla_Gisela Guigone Guilheumina_Willhelmina Heloise_Eloise
+			Ioulanda_Yolanda Isabèu_Elizabeth Isabèla_Elizabeth Joana_Joan Juliana_Juliana Lúcia_Lucia Laura_Laura Loïsa_Louise Mabila Madalena_Magdalena
+			Margarida_Margaret Maria_Maria Marquisa Marta_Martha Mascaròsa_Mascarosa Matilda_Matilda Melisènda_Melisende Navar Patricia_Patricia Peironèla_Peronella 
+			Petronilha_Petronilla Puelle Raisenda Raimonda Richènda_Ricarda Rosèla Rosa Sança_Sancha Sibilla_Sibylla Terèsa_Teresa Tiborg_Tiburge Verounica Violent_Yolanda
+		}
+		from_dynasty_prefix = "de "
+		grammar_transform = french
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+}
+
+british = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx } 
+	
+	english = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		from_dynasty_prefix = "of "
+		##bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+	}
+	
+	american = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 0.5 0.8 0.9 }
+		
+		parent = english
+		
+		male_names = {
+			Liam Noah William Will James Jamie Oliver Benjamin Ben Benny Elijah Lucas Luke Mason Logan Alexander Alex Ethan Jacob Jake Michael Mike Daniel Dan Henry Jackson
+			Sebastian Seb Aiden Matthew Matt Samuel Sam Sammy David Dave Joseph Joe Joey Carter Owen Wyatt John Jonny Johnny Jack Luke Jayden Dylan Grayson Levi Isaac Gabriel 
+			Julian Mateo Matteo Anthony Jaxon Lincoln Joshua Josh Christopher Chris Andrew Andy Theodore Theo Caleb Ryan Asher Nathan Nate Thomas Tom Tommy Leo Isaiah Charles 
+			Josiah Hudson Christian Hunter Connor Eli Ezra Aaron Landon Adrian Jonathan Nolan Jeremiah Easton Elias Colton Cameron Carson Robert Rob Robbie Robb Angel Maverick 
+			Nicholas Dominic Jaxson Greyson Adam Ian Austin Santiago Jordan Cooper Brayden Roman Evan Ezekiel Xavier Jose Jace Jameson Leonardo Bryson Axel Everett Parker Kayden
+			Miles Sawyer Jason Xander
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		from_dynasty_prefix = "of "
+		##bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+	}
+	
+	canadian = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 0.8 0.2 0.5 }
+		
+		parent = english
+		
+		male_names = {
+			Liam Noah William Will James Jamie Oliver Benjamin Ben Benny Elijah Lucas Luke Mason Logan Alexander Alex Ethan Jacob Jake Michael Mike Daniel Dan Henry Jackson
+			Sebastian Seb Aiden Matthew Matt Samuel Sam Sammy David Dave Joseph Joe Joey Carter Owen Wyatt John Jonny Johnny Jack Luke Jayden Dylan Grayson Levi Isaac Gabriel 
+			Julian Mateo Matteo Anthony Jaxon Lincoln Joshua Josh Christopher Chris Andrew Andy Theodore Theo Caleb Ryan Asher Nathan Nate Thomas Tom Tommy Leo Isaiah Charles 
+			Josiah Hudson Christian Hunter Connor Eli Ezra Aaron Landon Adrian Jonathan Nolan Jeremiah Easton Elias Colton Cameron Carson Robert Rob Robbie Robb Angel Maverick 
+			Nicholas Dominic Jaxson Greyson Adam Ian Austin Santiago Jordan Cooper Brayden Roman Evan Ezekiel Xavier Jose Jace Jameson Leonardo Bryson Axel Everett Parker Kayden
+			Miles Sawyer Jason Xander
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		from_dynasty_prefix = "of "
+		##bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+	}
+	
+	welsh = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 0.2 0.8 0.5 }
+		
+		parent = old_welsh
+		
+		male_names = {
+			Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		from_dynasty_prefix = "of "
+		##bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+	}
+	
+	scottish = {
+		graphical_cultures = { englishgfx westerngfx }
+		
+		color = { 0.2 0.2 0.8 }
+		
+		male_names = {
+			Oliver George Harry Noah Jack Leo Arthur Oscar Charlie Jacob Thomas Tom Henry William Will Alfie Archie Joshua Josh Freddie Theo Isaac James Alexander
+			Logan Edward Ethan Lucas Joseph Sebastian Theodore Finley Max Samuel Sam Sammy Harrison Benjamin Ben Daniel Dan Adam Teddy Mason Elijah Reuben Dylan 
+			Hunter Reggie Jason Rory Louie David Tommy Luca Albie Hugo Zachary Zack Albert Jude Toby Riley Ezra Carter Gabriel Gabe Roman Frankie Frank Harley
+			Frederick Fred Freddy Ronnie Jake Elliot Louis Jenson Stanley Bobby Michael Mike Jesse Finn Jayden Harvey Caleb Jackson Charles Matthew Matt Grayson Blake Liam 
+			Elliott Ellis Ralph Jasper Rowan Alex Ryan Felix Luke Dexter Ollie Leon Tobias Dominic John Jonny Johnny Seb Dave Joe Joey Christopher Chris Andrew Andy
+			Robert Rob Robbie Robb
+			
+			# Later Additions
+			Adrian Alan Anthony Augustus Bernard Dennis Eric Steven Eugene Francis Gerald Gregory Bill Jimmy Jerome Julius Julian Laurence Lewis Lukas Mark Marcus Morris 
+			Nicholas Patrick Peter Stephen Theophilus Theobald Terry Timothy Ives 
+		}
+		female_names = {
+			Olivia Liv Amelia Ava Isla Emily Mia Isabella Sophia Ella Grace Poppy Charlotte Lily Lillie Ivy Florence Evie Sophie Freya Evelyn Willow Phoebe Elsie Sienna Alice 
+			Jessica Jess Rosie Harper Daisy Sofia Isabelle Matilda Ruby Eva Emilia Scarlett Chloe Maya Esme Eliza Millie Imogen Aria Luna Layla Harriet Maisie Elizabeth 
+			Penelope Mila Erin Eleanor Lola Violet Bella Rose Emma Holly Molly Thea Ellie Lucy Hannah Lottie Nancy Ada Maria Lilly Zara Aurora Amber Georgia Robyn 
+			Robin Gracie Summer Jasmine Annabelle Bella Abigail Darcie Hallie Amelie Bonnie Iris Maryam Mariam Beatrice Anna Heidi Orla Arabella Clara Delilah Edith
+			Aisha Francesca Martha Ayla Zoe Zoey Lyla Sara Sarah Margot Felicity Margaret Angel
+			
+			# Later Additions
+			Adelaide Adela Adriana Agatha Agnes Amy Alexandria Alex Anastasia Andrea Ann Anne Audrey Bridget Cecilia Christine Claudia Dominica Dorothy 
+			Elisa Frances Fredericka Helen Ellen Henrietta Inez Isabel Joan Jean Jane Janine Juliet Latitia Laura Madeline Maggie Monica Naomi Susan 
+			Suzanne Sylvia Theresa Valentina Valerie Veronica Victoria Virginia
+		}
+		from_dynasty_prefix = "of "
+		##bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+	}
+}
+
+celtic = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx }
+
+	irish = {
+		graphical_cultures = { celticgfx }
+		
+		color = { 0.3 0.8 0.8 }
+
+		male_names = {
+			Aaron_Aaron Abbán Abner_Abner Abél_Abel Adomnán Áed_Hugh Áedgen Áeducán Áedán_Hugh Áengus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus
+			Ailill Ailpín_Alwin Ainbchellach Áindle Ainftech_Enfidaig Ainmere Airechtach Airfhindán Airfhinnán Airleid Airmedach Amalgaid Amlaíb_Olaf Anfudán Anlón Anmchaid Ánrothán Ardgal
+			Ardgar Art_Arthur Artbran Artgal Artgus Artucán Artúr_Arthur Assiucc Augaire Augustín_Augustine Aurthuile Báethgalach Báethíne Báetán Béoáed Barrfhind Beccán Berrach Bhátair_Walter
+			Blathmacc Bran_Bran Brandub Brangen Bressal Brian_Brian Briccéne Briccíne Broccán Bruatur Bruide_Bride Brénaind Brénainn Bróen Búaidbéo Caicher Cailech Cailte Cairbre_Carbrey
+			Cairell Caisséne Caissín Caissíne Canann Canannán Carlus_Charles Cathal Cathalán Cathassach Cathbad Cathmáel Cathmál Cathnio Cathub Causantín_Constantine Caílte Caínchomrac
+			Caíndelbán Ceithernach Cellach Cellachán Cennétig_Kentigern Cenn-Fáelad Cennlachán Cerball Cernach Cernachán Cian Ciarán Cilléne Cillíne Cináed_Kenneth Clemens_Clement Cobthach
+			Coirpre Colcu Colmán_Nicholas Columb_Nicholas Comgán Conaing Conall_Conall Conallán Conamail Conán_Conan Conchenn Conchobar Condla Congal Congalach Congus Conlang Conmac Conmacc
+			Conmáel Conmál Conn_Conn Connla Conrí Constans_Constantius Constantín_Constantine Corbb Corbán Corccán Corcrán Cormac Coscrach Coílboth Crimthann Crundmáel_Crundmáel Cruinnmáel_Crundmáel
+			Críchán Crónán Cuilén Cuindles Cuircthe Cummascach Cáemán Cóelbad Cóelub Cóemán Cú-Allaid Cú-Bretan Cú-Caech Cú-Cen Cú-Cen-Máthair Cú-Cúaráin Cú-Gamna Cú-Roí Cúanu Cúldub Cúán
+			Cúánán Dabíd_David Daigre Dalbach Dallán Daniél_Daniel Dathal Dathgus Demmán Diarmait_Dermid Doedgus Domangart Domnall_Donald Donn Donnchad_Duncan Donncuan_Duncan Donndubán Donngal
+			Donnucán_Duncan Doélgus Drost Drust Dub-dá-Lethe Dubcenn Dubgenn Dubh_Duff Dubhghall_Dugald Dubhglais_Douglas Dubthach Dubáed Dubán Duiblesc Duibne Dunáed Dálach Dícuill Díglach Dímmae
+			Dímmasach Dímmán Dínertach Dúnacán Dúnadach Dúnchad_Duncan Dúngal Dúngalach Dúnlang Éamonn_Edmund Echmarcach Échtgal Échtgus Echthigern Echuid Éicnech Éicnechán Eláir Énna Énri_Henry Éochad
+			Eochaid_Eochaid Eochu Eochucán Éogan_Eugene Erc_Eric Ercaid Ercáed Ercán Éremón Érennach Ernán Eterscél Eógan_Eugene Eóganán_Eugene Fachtna Fairchellach Fallaman Farannán Faílbe Fearghus_Fergus
+			Fechtnach Fedach Fearchar_Farquhar Fedelmid Feirgil Felic Fer-Fugaill Feradach_Feradach Ferdomnach Fergal Fergus_Fergus Fiachnae Fianchú Findbarr Fingen Finguine Finn_Finn Finnacán Finnbarr
+			Finnchú Finnlagh_Findlay Finnsnechtae Fintan Flaithbertach Flaithem Flaithemán Flaithgus Flaithrí Flann Flannacán Flannchad Flannán Fogartach Folachtach Forannán Forbassach Fothad Fothud
+			Fuacarta Fubthad Fuirechtach Fursu Fáelcar Fáelchad Fáelchú Fáeldobur Fáelgus Fáelán Fáelbe Fíachnae Fíadchú Fíngin Fínsnechta Fócarta Gabrán Garalt Garbith Gilla-Íosa Gilla-Brígte_Gilbert
+			Gilla-Coluim Gilla-Comgáin Gilla-Críst_Gilchrist Gilla-na-Náem Gilla-Pátraic_Gilpatrick Gilla-Ruad_Gilroy Glaisiuc Glaschu Glún-Iairn Gofraid_Godfrey Gormacán Gormgus Gormán Guaire Gáethán
+			Gáethíne Gósacht Iacob_Jacob Iarlaithe Imchad Indrechtach Ioseph_Joseph Íomhar_Ivar Labraid Lachtnae Lachtnán Lachtnéne Laidcenn Laidgenn Laidíne Laisrén Lennán_Lennon Lethlobur Liam_William
+			Liber Lochlann Loingsech Lonán Lorcán Lugh_Leon Lugaid Lugáed Láegaire Lóchéne Lóchíne Lóeguire Mac-Laisre Mainchíne Maine Manchán Martan Mathgamain Matudán Minchán Mo-Chonna Mo-Lua Móenach
+			Morand Morann Mugrón Muirchertach Muirecán Muiredach_Murdoch Muirgius Murchad Murchú Máel-Anfaid Máel-Bresail Máel-Brígte Máel-Cein Máel-Cianáin Máel-Ciaráin Máel-Coluim_Malcolm Máel-Corgis
+			Máel-Dubh_Maldoven Máel-Dúin Máel-Fothartaig Máel-Fábaill Máel-Íosa_Malise Máel-Máedóc Máel-Martain Máel-Mórda Máel-Muire_Malmure Máel-Míchíl Máel-Petair Máel-Pátraic Máel-Ruanaid Máel-Sechnaill
+			Máel-Tólai Máelán Máenach Máthair Múadán Nadarchu Nannid Natfraech Natfraich Natsluaig Nechtan_Nathan Niall_Nigel Niallgus Niallán Nuadu Odrán Óengus_Angus Óenucán Oisséne Oissíne Olcán Ólchobar
+			Onchú Orthanach Oscar_Oscar Pátraic_Patrick Petair_Peter Pilib_Philip Pól_Paul Proinsias_Francis Rechtabra Riacán Riaguil Robartach Rogallach Rogellach Ruah_Roy Ruaidrí_Roderick Ruarcc Rumann
+			Ráthach Rígán Ríán Ródán Rónchú Rónán_Ronan Rúadacán Rúadán Scandal Scandlán Scellán Scolaige Séaghdha_Shaw Séafra_Godfrey Séamas_Jacob Seán_John Sechnassach Selbach Senchán Seoán_John Sinach
+			Siothrún_Godfrey Slébíne Snedgus Sogan Somhairle_Somerled Suibne_Sweeny Sáerbrethach Sárán Séigíne Sétna Sétnae Tadg_Tadg Taithlech Talorc_Talore Talorcán_Talorcán Temnén Tigernach Tigernán
+			Tipraite Tomaltach Tomás_Thomas Torccán Trenchad Trengus Tressach Tuathalán Tuireann_Taran Tálán Tóla Túathal_Tuathal Ualgarg Ualan_Valentin Ualtar_Walter Úamnachán Uargal Uargalach Uargus
+			Uilliam_William Ultán
+		}
+		female_names = {
+			Ailbhe Aislinn Ashlynn Assumpta	Brea Brianna Bridget Cathleen Ciara Cierra Clodagh Colleen Dacey Deidre Devin Doreen Eibhlín Eileen Elva Enya
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "de "
+		male_patronym = "mac "
+		female_patronym = "nic "
+		prefix = yes
+
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+	}
+	
+	cornish = {
+		graphical_cultures = { celticgfx }
+		color = { 41 42 56 }
+		
+		male_names = {
+			Branek Branok Cador Cadwur Casworan Jago Jory Jowan Kenver Margh Massen Treeve Austol Austell Bryok Breok Clether Cleder Colan Colon De Day Gerens Goron Gorron Keneder Kenvern Madern 
+			Peran Perran Petrok Rewan Ruan
+		}
+		
+		female_names = {
+			Chesten Demelza Melenie Emblyn Eseld Isolde Gonetta Jowanet Kerensa Kerenza Lamorna Lowena Lowenna Meliora Meraud Beryan Conwenna Cryda Creeda Derwa Endelyn Endellion Endelienta Ia Eia
+			Ya Keyne Kayna Mabyn Mabena Morwen Morwenna Newlyn Newlyna Wenn Gwen Wenna Caja Delen Elestren Elowen Enor Gwennol Kelynen Kensa Keresen Melyonen Metheven Morgelyn Morenwyn Morvoren 
+			Nessa Rosen Rozen Rosenwyn Sowena Sowenna Steren Tegan Tregereth Tressa 
+		}
+		
+	}
+	old_welsh = {
+		graphical_cultures = { celticgfx }
+		
+		color = { 0.3 0.8 0.6 }
+
+		male_names = {
+			Adda Adgar_Edgar Adran_Adrian Aeddan_Hugh Alan_Alan Aldwr_Aldroenus Algwyn_Alwin Alisander_Alexander Alured_Alfred Alwyn_Alwin Anarawd
+			Andreas_Andrew Aneurin Anlaff_Olaf Anllech Annwn_Antoninus Argad_Arcadius Arod Arthen_Artemius Arthfael Arthfoddw_Arthbodus Arthwr_Arthur
+			Arthws Arthwys_Artorius Asa Asaph Awst_August Bangar Bedwyr Beli_Beli Berthgwyn_Berhtwine Berthwallt_Berthoald Bleddyn_Bleddyn Bledrig_Bledrig
+			Bleiddud_Bleiddud Branwaladr_Branwaladr Bride_Bride Briog_Briog Brochfael_Brogmaglus Brwt_Brutus Brwyn Brychan_Brychan Brân_Bran Cadell Cadeyrn
+			Cadfael Cadfan Cadog_Cadog Cadw_Cadw Cadwal Cadwaladr_Cadwaladr Cadwallon_Cadwallon Cadwared_Cadwared Cadwgan Cadwr_Cadwr Cai_Gaius Caid Cain
+			Caradog_Caradog Casnar Caswallon Cawdaf Cedig_Caedicius Cedwyn Ceneu Ceredig_Caratacus Clydog_Louis Coel Corentin_Corentin Cuhelyn
+			Custennin_Constantine Cwlfyn_Culmin Cwrig_Cyriacus Cydifor Cydrych Cynan_Conan Cynddelw_Cynddelw Cyndyddan_Cyndyddan Cynddylan Cyndeyrn_Kentigern
+			Cynfael_Cynfael Cynfarch_Cynfarch Cynfawr Cynfeddw Cynfelyn_Cynfelyn Cynfran Cynfyn Cyngar_Cyngar Cyngen_Cyngen Cynwallon_Cynwallon Cynwared
+			Cynwrig Cynwyd Cynyr Cysteint_Constans Dafydd_David Deheuwant Deiniol_Daniel Dewi_David Dogfael Drystan_Tristan Dumnagual Dwyfan_Damian
+			Dyfnarth_Donyarth Dyfnwal_Donald Dyfnwallon_Dyfnwallon Dynod_Donatus Dywel_Dywel Edern_Eternus Ednyfed_Ednyfed Ednywain Edryd_Ailred Edwyn_Edwin
+			Edylfred_Aethelfred Einion Elfin_Alwin Elidyr Elis Elisedd Elud Elystan_Alstan Emrys_Ambrosius Enfidaig_Enfidaig Erb_Urban Erclwf_Heracles
+			Eudaf_Octavius Ewyas Ffernfael_Ffernfael Ffilip_Philip Ffriog_Friog Ffwdwr Fragan_Fragan Ffransis_Fransis Fychan Fyrsil Gamon Garmon_Germanus
+			Geraint_Gerontius Gerallt_Gerald Glwyddien Glywys_Claudius Godwyn_Godwin Goronwy Gronw Gruffydd_Ruffinus Grygor_Gregory Guret Gwalchmai_Gavin
+			Gwen Gwenwynwyn Gwerstan_Werestan Gwerthefyr_Vortimer Gwerthern_Vortigern Gwydol_Vitalis Gwydolin_Vitalinus Gwyn_Finn Gwidyr Gwilym_William
+			Gwrfawr_Gwrfawr Gwrfoddw Gwrgant_Fergus Gwrgeneu_Gwrgeneu Gwrgi_Gwrgi Gwriad_Viriathius Harri_Henry Herewallt_Hereweald Huw_Hugh Hywel_Hywel
+			Iago_Jacob Ivor_Ivar Idnerth_Idnerth Idwal_Idwal Idwallon_Idwallon Iestyn_Justin Ieuan_John Ifor_Ivar Io Ioan_John Iolo Iorwerth Ithel_Ithel
+			Lles_Lucius Llew_Leon Llyr Llywarch_Llywarch Llywelyn Macsen_Maximos Madog_Matad Mael_Mael Maelcwn_Malcolm Maelgwn_Melgwn Maenyrch March_Marcus
+			Maredudd_Murdoch Math_Matthew Mawgan_Mawgan Meilyr Meirchion_Marcianus Meiriadog_Meriadoc Meirion_Marianus Merfyn_Merfyn Meurig_Maurice
+			Mihangel_Michael Morfarch_Morfarch Morgan_Morgan Morien_Morgen Morydd Mwyn_Mungo Myrddin_Martin Neithon_Nathan Nowy_Nowy Nynniaw Oswallt_Oswald
+			Owain_Eugene Oucydd_Eochaid Padern Padrig_Patrick Pandoff Pasgen_Pascentius Padarn_Paternus Pawl_Paul Pedr_Peter Peredyr Publig Pyr
+			Rheinallt_Reinhold Rhicert_Richard Rhigeneu_Ricenus Rhirid Rhiwal_Riwal Rhiwallon_Rhiwallon Rhobert_Robert Rhodri_Roderick Rhufon_Roman
+			Rhun_Rucenus Rhydderch_Roderick Rhydog Rhys Riaged_Riacet Richwin_Richwin Sandde_Sanctus Sawyl_Samuel Seferus_Severin Seisyll_Cecil Selyf_Solomon
+			Senyllt Serigi_Sergius Sieffre_Godfrey Sion Sior_George Siwauna Steffen_Stephen Stinian_Justinanius Sulien_Julian Taliesin_Telesinus Tegonwy
+			Tegwyd_Tadg Teilo Teithfalch Teudebur Tewdos_Theodosius Tewdrig_Thierry Tewdwr_Theodore Tomos_Thomas Trahaearn Tudur Tudwal_Tuathal
+			Tudwallon_Tudwallon Tydy Tyfoedd Tysilio Urien_Urbgenius Uthyr_Victor Ynyr_Honorius Ysfael
+		}
+		female_names = {
+			Addiena_Addiena Aelwyd_Aelwyd Aeronwen Aeronwy Afrella_Abrelda Alys_Alice Angharad Annes_Anna Annest_Agnes Annwyl Anowed Arddyn Arianrhod
+			Blodwen Bronwen_Bronwen Catrin_Catherine Ceindrych_Cagintria Ceridwen Cerie Cerys Cicely_Cecilia Clarisant Creirwy_Creirwy Cristin_Christina Danhadlwen
+			Delyth Denis_Denise Dwynwen Dwywai Dyddgu Efa_Eva Effros_Euphrasia Efrddyl_Aurelia Efyrddyl_Aurelia Eiliwedd Elaine_Elaine Elen_Helen Eleri_Hilaria
+			Elinion Elinor_Eleanor Ellyn Enid Essyllt_Hersilia Euronwy Ffelis_Felicia Ffion Fflur_Flora Ffraid_Brigit Glynys Gwen_Gwen Gwenasedd Gwenfrewi_Winifred Gwenhwyfach
+			Gwenhwyfar Gwenllian Gwenwyn Gwerfyl_Gwerfyl Gwladys_Claudia Haer Hawys_Hawise Heledd Hellawes Heulwen Hunydd Hywela Ilud Isabel_Elizabeth
+			Llear_Clara Llecci Lleigy Lleuca_Lucia Lowry Mabyn Maches Madrun_Matrona Maelrys Mair_Maria Mali Mallt Marared_Margaret Marchell_Marcella Margred_Margaret
+			Marwenna Mawd_Matilda Melisant_Melisende Morganna_Morganna Morien_Murron Myfanwy Nest_Agnes Nesta_Agnes Newlyna_Neulenna Non_Nonna
+			Olwen_Olwen Onbrawst Owena_Eugenia Prawst Ragnell_Ragnhild Rhiaindrech_Rioantdrec Rhiainfelt_Regina Rhiannon_Rhiannon Rhonwen Sannant Sara_Sarah
+			Senena Sibyl_Sibylla Sioned_Joan Siwan Siân_Joan Susanna_Susan Tangwystl_Tancostyla Tegla_Thecla Ysbail_Elizabeth Ystradwel
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "de "
+		male_patronym = "ap "
+		female_patronym = "ferch "
+		prefix = yes
+
+		modifier = default_culture_modifier
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+	}
+}
+
+arabic = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { muslimgfx }
+	
+	bedouin_arabic = { 
+		graphical_cultures = { arabicgfx muslimgfx }
+		
+		color = { 0.1 0.75 0.1 }
+
+		male_names = {
+			Abu-Bakr_Abu-Bakr Aarif Abdul-Gafur Abdul-Jaleel Abdul-Qadir Abdul-Wahab Abdul_Abdul Abdullah_Abdullah Aghlab Akin Ali_Ali Alim Aram Azam Bahir Burhanaddin
+			Fadil_Fadl Fadl_Fadl Faruk_Farroukh Ghalib Hafiz Halil_Khalil Hasan_Hasan Husam Hussayn_Hussein Ibrahim_Abraham Idris Is'mail_Ismail Isa Jabir Jalil Jibril_Gabriel Khaireddin Khalil_Khalil Mahdi Mahmud_Mahmud
+			Mansur Mirza Mubarak_Barak Muhammad_Muhammad Mukhtar Murad_Morad Musa_Moses Muslihiddin Muzaffaraddin Najib Nasr_Nasr Nizam Qawurd Ramadan_Ramadan Sa'daddin Sadiq Sami Samir Shaiban
+			Shamir Shujah Sulayman_Solomon Talib Ubayd Uways Yahya_Yahya Ya'qub_Jacob Youkhanna_John Yusuf_Joseph Zeyd
+		}
+		female_names = {
+			Adila Amsha Asiya Faghira Habiba Hanifa Jahaira Kamala Layla_Laila Maryam_Maria Nafisa Nyawela Parand Parween Paymaneh Paywand Qamara Rafiqa Rasa Rashida Reshawna
+			Saaman Sabba Saghar Sahba Sajida Samira Semeah Setara Shahrbano Shahzadah Shameem Shararah Sheeftah Sheeva Shogofa Shokouh Shola Sholah Simin Souzan
+			Taliba Tanaz Taneen Yagana Yakta Yasmin_Yasmin Zaynab
+		}
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+	egyptian = {
+		graphical_cultures = { egyptiangfx levantinegfx arabicgfx muslimgfx }
+		
+		color = { 242 178 51 }
+
+		male_names = {
+			Aaron_Aaron Abanoub Abderahman_Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah_Abdullah
+			Abianos_Abijah Abisalom Ablarion Abraam_Abraham Abu-Bakr_Abu-Bakr Adnan Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos
+			Ahmad_Ahmad Akbar_Akbar Alam Ali_Ali Amr Androus_Andrew Anthinos_Anthimos Arsenios_Arsenios Ashraf_Ashraf Asim
+			Athanasios_Athanasius Badr Bashir Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter Danyal_Daniel Dawlat Da’oud_David
+			Ezra_Ezra Farhan Firuz_Peroz Gabri’el_Gabriel Georgios_George Ghiyasaddin Habil_Abel Hakam_Hakam Hammud Hanri_Henry Haroun_Aaron Hisham
+			Hussayn_Hussein Ibrahim_Abraham Ilyas_Elijah Is'mail_Ismail Izzaddin Jalaaladdin Jawdat Jerjer_Gregory Kemaladdin Khalil_Khalil Krystafer_Christopher
+			Latif Lot Malik Matta_Matthew Mehtar Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Muammar Muhammad_Muhammad
+			Mukhtar Murad_Morad Murshid Musa_Moses Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra'uf Rafiq Ridwan Sabah Salim_Salim Sha'ban
+			Sharif Suhail Tadros_Theodore Tajaddin Tayyib Touma_Thomas Usama Walid Yahya_Yahya Yared Yassir Youkhanna_John Youssef_Joseph Zaia_Isaiah Zakariyah_Zachary
+		}
+		female_names = {
+			Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima_Fatima Halima 
+			Jamila Khadija Majida Mariam_Maria Nabila Nura Radiya Rana Sacmis Safiya 
+			Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra_Zahra
+		}
+		from_dynasty_prefix = "mn "
+		
+		male_patronym = "ibn "
+		female_patronym = "bint "
+		prefix = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+}
+
+unihabited_grp = {
+	alternate_start = { always = no }
+	graphical_cultures = { westerngfx }
+	
+	uninhabited = {
+		graphical_cultures = { westerngfx }
+		
+		color = { 0 0 0 }
+
+		male_names = {
+			nocharacter
+		}
+		female_names = {
+			nocharacter
+		}
+		dynasty_title_names = no
+		founder_named_dynasties = no
+
+		modifier = default_culture_modifier
+	}
+}
