@@ -1,0 +1,12 @@
+# 142 - Block
+title = c_block
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

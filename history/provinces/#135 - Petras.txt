@@ -1,0 +1,12 @@
+# 135 - Petras
+title = c_petras
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

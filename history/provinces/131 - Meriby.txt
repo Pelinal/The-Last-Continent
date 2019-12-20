@@ -1,0 +1,15 @@
+# 131 - Meriby
+title = c_meriby
+max_settlements = 4
+
+# Baronies
+	b_meriby = tribal
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

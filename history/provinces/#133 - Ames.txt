@@ -1,0 +1,12 @@
+# 133 - Ames
+title = c_ames
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

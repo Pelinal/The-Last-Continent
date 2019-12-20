@@ -1,0 +1,12 @@
+# 141 - Shirley
+title = c_shirley
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

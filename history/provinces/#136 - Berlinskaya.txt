@@ -1,0 +1,12 @@
+# 136 - Berlinskaya
+title = c_berlinskaya
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History
