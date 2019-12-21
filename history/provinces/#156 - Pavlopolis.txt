@@ -1,0 +1,15 @@
+# 155 - Pavlopolis
+title = c_pavlopolis
+max_settlements = 4
+
+# Baronies
+	b_pavlopolis = castle
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

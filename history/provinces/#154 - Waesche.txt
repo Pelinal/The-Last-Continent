@@ -1,0 +1,15 @@
+# 154 - Waesche
+title = c_waesche
+max_settlements = 4
+
+# Baronies
+	b_waesche = tribal
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

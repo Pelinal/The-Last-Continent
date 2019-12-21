@@ -1,0 +1,15 @@
+# 152 - Mermansk
+title = c_mermansk
+max_settlements = 4
+
+# Baronies
+	b_mermansk = tribal
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

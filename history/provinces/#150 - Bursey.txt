@@ -1,0 +1,15 @@
+# 150 - Bursey
+title = c_bursey
+max_settlements = 4
+
+# Baronies
+	b_bursey = tribal
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

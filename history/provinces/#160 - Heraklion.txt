@@ -1,0 +1,15 @@
+# 160 - Heraklion
+title = c_heraklion
+max_settlements = 4
+
+# Baronies
+	b_heraklion = tribal
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

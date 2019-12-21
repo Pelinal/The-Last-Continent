@@ -1,0 +1,15 @@
+# 159 - Edessa
+title = c_edessa
+max_settlements = 4
+
+# Baronies
+	b_edessa = temple
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

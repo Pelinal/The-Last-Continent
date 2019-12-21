@@ -1,0 +1,15 @@
+# 158 - Rockefeller
+title = c_rockefeller
+max_settlements = 4
+
+# Baronies
+	b_rockefeller = city
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

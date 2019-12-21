@@ -1832,7 +1832,7 @@ e_marie_byrd_land = {
 				b_skywalker = {}
 				b_solaris = {}
 			}
-			b_meriby = {
+			c_meriby = {
 				b_meriby = {}
 				b_delisheller = {} 
 				b_robnia = {}
@@ -2039,7 +2039,7 @@ e_marie_byrd_land = {
 					english = "Hammond"
 				}
 				b_mackay = {}
-				b_boyd = {
+				b_boyd = {}
 				b_steventon = {}
 				b_la_gorce = {}
 			}
@@ -2055,7 +2055,10 @@ e_marie_byrd_land = {
 				b_lincoln = {}
 			}
 			c_block = {
-				b_block = {}
+				russian = "Blok"
+				b_block = {
+					russian = "Blok"
+				}
 				b_chuggington = {}
 				b_lancaster = {}
 				b_south_bern = {}
@@ -2078,13 +2081,19 @@ e_marie_byrd_land = {
 				b_alexandra = {}
 			}
 			c_clark = {
-				b_clark = {}
+				russian = "Klark"
+				b_clark = {
+					russian = "Klark"
+				}
 				b_karpinskaya = {}
 				b_yuly = {}
 				b_ericson = {}
 			}
 			c_bursey = {
-				b_bursey = {}
+				russian = "Bursa"
+				b_bursey = {
+					russian = "Bursa"
+				}
 				b_fersmann = {}
 				b_shirsov = {}
 				b_perninsky = {}
@@ -2098,14 +2107,20 @@ e_marie_byrd_land = {
 			russian = "Revolyutsiya"
 			
 			c_little_rockford = {
-				b_little_rockford = {}
+				greek = "Ligavráchos"
+				b_little_rockford = {
+					greek = "Ligavráchos"
+				}
 				b_sacremento = {}
 				b_orienta = {}
 				b_southcity = {}
 				b_labrabor = {}
 			}
 			c_archangel = {
-				b_archangel = {}
+				russian = "Arkangelsk"
+				b_archangel = {
+					russian = "Arkangelsk"
+				}
 				b_st_christopher = {}
 				b_petersburg = {}
 				b_neueholme = {}

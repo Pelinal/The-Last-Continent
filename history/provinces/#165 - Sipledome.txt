@@ -1,0 +1,15 @@
+# 165 - Sipledome
+title = c_sipledome
+max_settlements = 4
+
+# Baronies
+	b_sipledome = castle
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

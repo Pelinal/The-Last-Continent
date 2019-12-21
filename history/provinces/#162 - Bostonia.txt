@@ -1,0 +1,15 @@
+# 162 - Bostonia
+title = c_bostonia
+max_settlements = 4
+
+# Baronies
+	b_bostonia = tribal
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

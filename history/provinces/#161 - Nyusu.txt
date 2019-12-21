@@ -1,0 +1,15 @@
+# 161 - Nyusu
+title = c_nyusu
+max_settlements = 4
+
+# Baronies
+	b_nyusu = city	
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

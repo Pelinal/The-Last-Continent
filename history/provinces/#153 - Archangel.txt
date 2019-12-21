@@ -1,0 +1,15 @@
+# 153 - Archangel
+title = c_archangel
+max_settlements = 4
+
+# Baronies
+	b_archangel = tribal
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

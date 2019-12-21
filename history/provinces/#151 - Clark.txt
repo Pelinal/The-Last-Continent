@@ -1,0 +1,15 @@
+# 151 - Clark
+title = c_clark
+max_settlements = 4
+
+# Baronies
+	b_clark = tribal
+	#b_delisheller
+	#b_robnia
+	#b_milltown
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History
