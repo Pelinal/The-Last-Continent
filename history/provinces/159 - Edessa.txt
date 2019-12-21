@@ -1,12 +1,15 @@
 # 159 - Edessa
 title = c_edessa
-max_settlements = 4
+max_settlements = 7
 
 # Baronies
 	b_edessa = temple
-	#b_delisheller
-	#b_robnia
-	#b_milltown
+	b_sruk = castle
+	b_bile = city
+	b_tulupe = city
+	#b_kaisun = {}
+	#b_samsat = {}
+	#b_edesurfa = {}
 	
 # Misc
 culture = greek

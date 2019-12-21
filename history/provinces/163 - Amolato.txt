@@ -4,9 +4,9 @@ max_settlements = 4
 
 # Baronies
 	b_amolato = castle
-	#b_delisheller
-	#b_robnia
-	#b_milltown
+	b_athenai = city
+	#b_gorgo = {}
+	#b_larissa = {}
 	
 # Misc
 culture = greek

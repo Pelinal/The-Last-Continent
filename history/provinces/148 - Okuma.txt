@@ -1,0 +1,16 @@
+# 148 - Okuma
+title = c_okuma
+max_settlements = 5
+
+# Baronies
+	b_okuma = temple
+	b_rockerfeller_okuma = castle
+	b_bartlett = city
+	#b_frazier = {}
+	#b_graceia = {}
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

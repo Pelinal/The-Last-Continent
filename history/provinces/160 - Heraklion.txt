@@ -1,0 +1,17 @@
+# 160 - Heraklion
+title = c_heraklion
+max_settlements = 6
+
+# Baronies
+	b_heraklion = castle
+	b_flaviopolis = city
+	b_polis = city
+	#b_zephyropoli = {}
+	#b_amastrine = {}
+	#b_tium = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

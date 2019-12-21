@@ -1,0 +1,18 @@
+# 149 - Kiel
+title = c_okuma
+max_settlements = 4
+
+# Baronies
+	b_corinth = city
+	b_kiel = city
+	b_prestrud = temple
+	b_nilsen = temple
+	b_shirase = castle
+	#b_altis = {}
+	#b_cephalonie = {}
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

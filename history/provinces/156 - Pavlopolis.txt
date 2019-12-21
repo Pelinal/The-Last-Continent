@@ -1,12 +1,13 @@
 # 155 - Pavlopolis
 title = c_pavlopolis
-max_settlements = 4
+max_settlements = 5
 
 # Baronies
 	b_pavlopolis = castle
-	#b_delisheller
-	#b_robnia
-	#b_milltown
+	b_hellene = city
+	#b_naous = {}
+	#b_nea_sparti = {}
+	#b_islandia = {}
 	
 # Misc
 culture = greek

@@ -1,0 +1,16 @@
+# 157 - Tsiprachai
+title = c_tsiprachai
+max_settlements = 5
+
+# Baronies
+	b_tsiprachai = tribal
+	#b_emporikos
+	#b_simae
+	#b_olympos = {}
+	#b_harran = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

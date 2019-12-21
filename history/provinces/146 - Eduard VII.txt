@@ -3,7 +3,10 @@ title = c_eduard_vii
 max_settlements = 4
 
 # Baronies
-
+	b_eduard = castle
+	b_seventon = temple
+	#b_josephine	= {}
+	#b_scott_nunatak = {}
 	
 # Misc
 culture = greek

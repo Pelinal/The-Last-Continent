@@ -1,0 +1,16 @@
+# 161 - Nyusu
+title = c_nyusu
+max_settlements = 5
+
+# Baronies
+	b_nyusu = castle	
+	b_new_ulm = temple
+	#b_gulfport = {}
+	#b_vicksberg = {}
+	#b_yazoocity = {}
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

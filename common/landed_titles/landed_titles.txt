@@ -2238,6 +2238,7 @@ e_marie_byrd_land = {
 				b_emporikos = {}
 				b_simae = {}
 				b_olympos = {}
+				b_harran = {}
 			}
 			
 			c_edessa = {
@@ -2251,7 +2252,6 @@ e_marie_byrd_land = {
 				b_kaisun = {}
 				b_samsat = {}
 				b_edesurfa = {}
-				b_harran = {}
 			}
 			
 			c_heraklion = {

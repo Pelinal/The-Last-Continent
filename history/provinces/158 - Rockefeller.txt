@@ -4,9 +4,9 @@ max_settlements = 4
 
 # Baronies
 	b_rockefeller = city
-	#b_delisheller
-	#b_robnia
-	#b_milltown
+	b_rockina = temple
+	#b_hardplace = {}
+	#b_iceting = {}
 	
 # Misc
 culture = greek

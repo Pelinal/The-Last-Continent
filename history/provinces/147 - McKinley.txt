@@ -3,7 +3,10 @@ title = c_mckinley
 max_settlements = 4
 
 # Baronies
-
+	b_mckinley = castle
+	b_neapolis = city
+	#b_saunders = {}
+	#b_pella = {}
 	
 # Misc
 culture = greek

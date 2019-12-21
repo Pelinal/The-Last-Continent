@@ -1,0 +1,18 @@
+# 165 - Sipledome
+title = c_sipledome
+max_settlements = 7
+
+# Baronies
+	b_sipledome = castle
+	b_salt_lake_city = city
+	b_washington = castle
+	b_liltree = temple
+	#b_firstcamp = {}
+	#b_oakmarch = {}
+	#b_chillblain = {}
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History
