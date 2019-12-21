@@ -1,8 +1,8 @@
-# 56 - Vang
-title = c_vang
+# 56 - Sky Blu
+title = c_sky_blu
 max_settlements = 4
 # Baronies
-	b_vang_barony = temple
+	b_sky_blu = temple
 	b_werner = city
 	#b_playfield
 	#b_shanrary

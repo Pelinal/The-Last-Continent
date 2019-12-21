@@ -1,0 +1,15 @@
+# 215 - Yugozapad
+title = c_yugozapad
+max_settlements = 7
+
+# Baronies
+	b_yugozapad = castle
+	b_illoqarfik = temple
+	#b_ironsbottom = {}
+	#b_ivanovo = {}
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

@@ -3,7 +3,10 @@ title = c_fosdick
 max_settlements = 4
 
 # Baronies
-
+	b_fosdick = castle
+	b_gluestick = city
+	#b_sandwich = {}
+	#b_lincoln = {}
 	
 # Misc
 culture = russian

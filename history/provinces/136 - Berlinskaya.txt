@@ -3,7 +3,10 @@ title = c_berlinskaya
 max_settlements = 4
 
 # Baronies
-
+	b_berlinskaya = city
+	b_christygor = castle
+	#b_novyyzal
+	#b_laboratoriya
 	
 # Misc
 culture = russian

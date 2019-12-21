@@ -1,0 +1,18 @@
+# 70 - Russkaya
+title = c_russkaya
+max_settlements = 7
+
+# Baronies
+	b_russkaya = castle
+	b_starvopol = city
+	b_dlinnyy_dom = castle
+	b_gray = temple
+	b_zemlya = city
+	#b_giles = {}
+	#b_malkreml = {}
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

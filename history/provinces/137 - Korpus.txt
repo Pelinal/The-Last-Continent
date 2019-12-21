@@ -1,0 +1,17 @@
+# 137 - Korpus
+title = c_korpus
+max_settlements = 6
+
+# Baronies
+	b_korpus = castle
+	b_landbay = city
+	b_groves = temple
+	b_cruzen = city
+	#b_sevetsky = {}
+	#b_hull_korpus = {}
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

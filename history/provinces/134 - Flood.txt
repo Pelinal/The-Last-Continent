@@ -3,7 +3,10 @@ title = c_flood
 max_settlements = 4
 
 # Baronies
-
+	b_flood = temple
+	b_bursey_flood = city 
+	#b_moulton = {}
+	#b_berlin = {}
 	
 # Misc
 culture = russian

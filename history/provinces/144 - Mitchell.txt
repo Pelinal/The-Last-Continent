@@ -3,7 +3,10 @@ title = c_mitchell
 max_settlements = 4
 
 # Baronies
-
+	b_mitchell = temple
+	b_driscoll = castle
+	#b_crevasse = {}
+	#b_guest = {}
 	
 # Misc
 culture = russian

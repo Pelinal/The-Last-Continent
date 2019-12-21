@@ -3,7 +3,11 @@ title = c_ames
 max_settlements = 4
 
 # Baronies
-
+	b_ames = castle
+	b_sputnik = city
+	b_gagarin = temple
+	#b_husky = {}
+	#b_nuukaqut = {}
 	
 # Misc
 culture = russian

@@ -4,9 +4,9 @@ max_settlements = 4
 
 # Baronies
 	b_archangel = tribal
-	#b_delisheller
-	#b_robnia
-	#b_milltown
+	#b_st_christopher
+	#b_petersburg
+	#b_neueholme
 	
 # Misc
 culture = uninhabited

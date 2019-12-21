@@ -1,0 +1,16 @@
+# 140 - Balchen
+title = c_balchen
+max_settlements = 5
+
+# Baronies
+	b_balchen = castle
+	b_allegheny = castle
+	b_mccoy = city
+	b_phillipa = {}
+	b_saraya = {}
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

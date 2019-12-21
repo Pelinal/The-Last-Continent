@@ -3,7 +3,10 @@ title = c_shirley
 max_settlements = 4
 
 # Baronies
-
+	b_shirley = castle
+	b_newman = temple
+	#b_roza = {}
+	#b_ozero = {}
 	
 # Misc
 culture = russian

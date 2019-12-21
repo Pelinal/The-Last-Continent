@@ -3,7 +3,10 @@ title = c_fedorograd
 max_settlements = 4
 
 # Baronies
-
+	b_fedorograd = city
+	b_bolshoy = temple
+	#b_gorodgorod
+	#b_novigrad
 	
 # Misc
 culture = russian

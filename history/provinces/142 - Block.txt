@@ -3,7 +3,10 @@ title = c_block
 max_settlements = 4
 
 # Baronies
-
+	b_block = city
+	b_chuggington = temple
+	b_lancaster = castle
+	#b_south_bern
 	
 # Misc
 culture = russian

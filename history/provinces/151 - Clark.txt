@@ -4,9 +4,9 @@ max_settlements = 4
 
 # Baronies
 	b_clark = tribal
-	#b_delisheller
-	#b_robnia
-	#b_milltown
+	#b_karpinskaya = {}
+	#b_yuly = {}
+	#b_ericson = {}
 	
 # Misc
 culture = uninhabited

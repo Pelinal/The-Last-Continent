@@ -4,9 +4,9 @@ max_settlements = 4
 
 # Baronies
 	b_mermansk = tribal
-	#b_delisheller
-	#b_robnia
-	#b_milltown
+	#b_volsk
+	#b_sulzberger
+	#b_alexandra
 	
 # Misc
 culture = uninhabited
