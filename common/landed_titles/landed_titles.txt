@@ -899,11 +899,11 @@ e_antarctandes = {
 				b_gardener = {}
 				b_crackpot = {}
 			}
-			c_vang = {
+			c_sky_blu = {
 				color = { 15 61 50 }
 				color2 = { 255 255 255 }
-					
-				b_vang_barony = {}
+				
+				b_sky_blu = {}
 				b_werner = {}
 				b_playfield = {}
 				b_shanrary = {}
@@ -1832,7 +1832,7 @@ e_marie_byrd_land = {
 				b_skywalker = {}
 				b_solaris = {}
 			}
-			c_meriby = {
+			b_meriby = {
 				b_meriby = {}
 				b_delisheller = {} 
 				b_robnia = {}
@@ -2055,10 +2055,7 @@ e_marie_byrd_land = {
 				b_lincoln = {}
 			}
 			c_block = {
-				russian = "Blok"
-				b_block = {
-					russian = "Blok"
-				}
+				b_block = {}
 				b_chuggington = {}
 				b_lancaster = {}
 				b_south_bern = {}
@@ -2081,19 +2078,13 @@ e_marie_byrd_land = {
 				b_alexandra = {}
 			}
 			c_clark = {
-				russian = "Klark"
-				b_clark = {
-					russian = "Klark"
-				}
+				b_clark = {}
 				b_karpinskaya = {}
 				b_yuly = {}
 				b_ericson = {}
 			}
 			c_bursey = {
-				russian = "Bursa"
-				b_bursey = {
-					russian = "Bursa"
-				}
+				b_bursey = {}
 				b_fersmann = {}
 				b_shirsov = {}
 				b_perninsky = {}
@@ -2107,20 +2098,14 @@ e_marie_byrd_land = {
 			russian = "Revolyutsiya"
 			
 			c_little_rockford = {
-				greek = "Ligavráchos"
-				b_little_rockford = {
-					greek = "Ligavráchos"
-				}
+				b_little_rockford = {}
 				b_sacremento = {}
 				b_orienta = {}
 				b_southcity = {}
 				b_labrabor = {}
 			}
 			c_archangel = {
-				russian = "Arkangelsk"
-				b_archangel = {
-					russian = "Arkangelsk"
-				}
+				b_archangel = {}
 				b_st_christopher = {}
 				b_petersburg = {}
 				b_neueholme = {}
@@ -2131,6 +2116,235 @@ e_marie_byrd_land = {
 				b_sidley_2 = {}
 				b_cumming = {}
 				b_wodenvale = {}
+			}
+		}
+	}
+	
+	k_hellas = {
+		color = { 30 30 200 }
+		color2 = { 255 255 255 }
+		
+		capital = 149 # Kiel
+		
+		d_shirase = {
+			color = { 161 15 25 }
+			color2 = { 255 255 255 }
+		
+			capital = 149 # Kiel
+			
+			greek = "Elláda"
+			
+			c_kiel = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				greek = "Korinthos"
+				
+				b_kiel = {}
+				b_corinth = {}
+				b_prestrud = {}
+				b_nilsen = {}
+				b_shirase = {}
+				b_altis = {}
+				b_cephalonie = {}
+			}
+			
+			c_okuma = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				greek = "Oreokastro"
+				
+				b_okuma = {
+					greek = "Oreokastro"
+				}
+				b_rockerfeller_okuma = {}
+				b_bartlett = {}
+				b_frazier = {}
+				b_graceia = {}
+			}
+			
+			c_mckinley = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				greek = "Neatolia"
+				russian = "MakKinli"
+				
+				b_mckinley = {}
+				b_neapolis = {}
+				b_saunders = {}
+				b_pella = {}
+			}
+			
+			c_eduard_vii = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_eduard = {}
+				b_seventon = {}
+				b_josephine	= {}
+				b_scott_nunatak = {}
+			}
+			
+			c_amolato = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				greek = "Amolatos"
+				
+				b_amolato = {
+					greek = "Amolatos"
+				}
+				b_athenai = {}
+				b_gorgo = {}
+				b_larissa = {}
+			}
+		}
+		
+		d_rockerfeller = {
+			color = { 161 15 25 }
+			color2 = { 255 255 255 }
+		
+			capital = 156 # Pavlopolis
+			
+			greek = "Voreia"
+			
+			c_pavlopolis = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				english = "Pavlson"
+				american = "Pavlson"
+				
+				b_pavlopolis = {
+					english = "Pavlson"
+					american = "Pavlson"
+				}
+				b_hellene = {}
+				b_naous = {}
+				b_nea_sparti = {}
+				b_islandia = {}
+			}
+			
+			c_tsiprachai = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_tsiprachai = {
+					english = "Pavlson"
+					american = "Pavlson"
+				}
+				b_emporikos = {}
+				b_simae = {}
+				b_olympos = {}
+			}
+			
+			c_edessa = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_edessa = {}
+				b_sruk = {}
+				b_bile = {}
+				b_tulupe = {}
+				b_kaisun = {}
+				b_samsat = {}
+				b_edesurfa = {}
+				b_harran = {}
+			}
+			
+			c_heraklion = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_heraklion = {}
+				b_flaviopolis = {}
+				b_polis = {}
+				b_zephyropoli = {}
+				b_amastrine = {}
+				b_tium = {}
+			}
+		}
+		
+		d_siple_coast = {
+			color = { 161 15 25 }
+			color2 = { 255 255 255 }
+		
+			capital = 165 # Sipledome
+			
+			greek = "Sippolis"
+			
+			c_sipledome = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				greek = "Sippolis"
+				
+				b_sipledome = {
+					greek = "Sippolis"
+				}
+				b_salt_lake_city = {}
+				b_washington = {}
+				b_liltree = {}
+				b_firstcamp = {}
+				b_oakmarch = {}
+				b_chillblain = {}
+			}
+			
+			c_rockefeller = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_rockefeller = {}
+				b_rockina = {}
+				b_hardplace = {}
+				b_iceting = {}
+			}
+			
+			c_new_chicago = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_new_chicago = {}
+				b_cadillac = {}
+				b_kalamazoo = {}
+				b_morehead = {}
+				b_alcatraz = {}
+			}
+			
+			c_nyusu = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_nyusu = {}
+				b_new_ulm = {}
+				b_gulfport = {}
+				b_vicksberg = {}
+				b_yazoocity = {}
+			}
+		}
+		
+		d_little_america = {
+			color = { 161 15 25 }
+			color2 = { 255 255 255 }
+		
+			capital = 166 # Roosevelt
+			
+			greek = "Sippolis"
+			
+			c_roosevelt = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				greek = "Sippolis"
+				
+				b_little_america_1 = {}
+				b_little_america_2 = {}
+				b_little_america_3 = {}
+				b_whalebay = {}
+				b_kainan = {}
+				b_clinton = {}
 			}
 		}
 	}

@@ -1,6 +1,6 @@
 # 1 - Falklands
 
-title = c_falkands
+title = c_falklands
 max_settlements = 7
 
 # Baronies
