@@ -1754,7 +1754,7 @@ e_marie_byrd_land = {
 			c_anzhen = {
 				b_anzhen = {}
 				b_lasiweijiasi = {}
-				b_Jiujinshan = {}
+				b_jiujinshan = {}
 			}
 			c_wangsiying = {
 				b_wangsiying = {}
@@ -1767,24 +1767,6 @@ e_marie_byrd_land = {
 				b_yuanjing = {}
 				b_xue_di = {}
 				b_tianshi = {}
-			}
-			c_siple_island = {
-				b_siple_island = {}
-				b_xiao_dao = {}
-				b_fudong = {}
-				b_tuanjie = {}
-				b_zizai = {}
-			}
-			c_carney = {
-				b_ramage = {}
-				b_cherry = {}
-				b_felt = {}			
-			}
-			c_wright = {
-				b_armour = {}
-				b_russell = {}
-				b_sippling = {}
-				b_wrigley = {}	
 			}
 		}
 		
@@ -1839,18 +1821,301 @@ e_marie_byrd_land = {
 			}
 			c_alexandria = {
 				chinese = "Chong"
-				b_alexandria = {
-					chinese = "Chong"
-				}
+				b_alexandria = {}
+				b_lakerville = {}
+				b_southfold = {}
+				b_chong = {}
 			}
 			c_wais_divide = {
 				b_wais_divide = {}
+				b_kero = {}
+				b_skywalker = {}
+				b_solaris = {}
 			}
 			b_meriby = {
 				b_meriby = {}
 				b_delisheller = {} 
 				b_robnia = {}
 				b_milltown = {}
+			}
+		}
+		
+		d_getzland = {
+		
+			capital = 124 # Siple Island
+			
+			c_siple_island = {
+				b_siple_island = {}
+				b_xiao_dao = {}
+				b_fudong = {}
+				b_tuanjie = {}
+				b_zizai = {}
+			}
+			c_carney = {
+				b_carney = {}
+				b_ramage = {}
+				b_cherry = {}
+				b_felt = {}			
+			}
+			c_wright = {
+				b_armour = {}
+				b_russell = {}
+				b_sippling = {}
+				b_wright = {}	
+			}
+		}
+	}
+	
+	k_sovetskya = {
+		color = { 161 15 25 }
+		color2 = { 255 255 255 }
+		
+		capital = 70 # Russkaya
+		
+		d_rupperta = {
+			color = { 161 15 25 }
+			color2 = { 255 255 255 }
+		
+			capital = 70 # Russkaya
+			
+			english = "Rupert"
+			welsh = "Rupert"
+			scottish = "Rupert"
+			american = "Rupert"
+			canadian = "Rupert"
+			australian = "Rupert"
+			zealander = "Rupert"
+			jamaican = "Rupert"
+			
+			c_russkaya = {
+				color = { 161 15 25 }
+				color2 = { 255 255 255 }
+				
+				b_russkaya = {}
+				b_starvopol = {}
+				b_dlinnyy_dom = {}
+				b_gray = {}
+				b_zemlya = {}
+				b_giles = {}
+				b_malkreml = {}
+			}
+			c_fedorograd = {
+				b_fedorograd = {}
+				b_bolshoy = {}
+				b_gorodgorod = {}
+				b_novigrad = {}
+			}
+			c_balchen = {
+				russian = "Balchensky"
+			
+				b_balchen = {
+					russian = "Balchensky"
+				}
+				b_allegheny = {}
+				b_mccoy = {}
+				b_phillipa = {}
+				b_saraya = {}
+			}
+			c_korpus = {
+				b_korpus = {}
+				b_landbay = {}
+				b_groves = {}
+				b_cruzen = {}
+				b_sevetsky = {}
+				b_hull_korpus = {}
+				
+				american = "Hul1"
+				english = "Hul1"
+			}
+			c_shirley = {
+				russian = "Shirli"
+				
+				b_shirley = {
+					russian = "Shirli"
+				}
+				b_newman = {}
+				b_roza = {}
+				b_ozero = {}
+			}
+		}
+		
+		d_khobbsa = {
+			color = { 161 15 25 }
+			color2 = { 255 255 255 }
+		
+			capital = 215 # Yugozapad
+			
+			english = "Hobbs"
+			welsh = "Hobbs"
+			scottish = "Hobbs"
+			american = "Hobbs"
+			canadian = "Hobbs"
+			australian = "Hobbs"
+			zealander = "Hobbs"
+			jamaican = "Hobbs"
+			
+			c_yugozapad = {
+				color = { 161 15 25 }
+				color2 = { 255 255 255 }
+				
+				b_yugozapad = {}
+				b_illoqarfik = {}
+				b_ironsbottom = {}
+				b_ivanovo = {}
+			}
+			c_ames = {
+				russian = "Eyms"
+				
+				b_ames = {
+					russian = "Eyms"
+				}
+				b_sputnik = {}
+				b_gagarin = {}
+				b_husky = {}
+				b_nuukaqut = {}
+			}
+			c_flood = {
+			
+				russian = "Potop"
+				b_flood = {
+					russian = "Potop"
+				}
+				b_bursey_flood = {}
+				b_moulton = {}
+				b_berlin = {}
+			}
+			c_wrigley = {
+				russian = "Volnistoy"
+				b_wrigley_2 = {
+					russian = "Volnistoy"
+				}
+				b_dean = {}
+				b_grant = {} 
+				b_shepard = {}
+				b_forrester = {}
+			}
+			c_berlinskaya = {
+				b_berlinskaya = {}
+				b_christygor = {}
+				b_novyyzal = {}
+				b_laboratoriya = {}
+			}
+			c_petras = {
+				russian = "Pyatras"
+				b_petras = {
+					russian = "Pyatras"
+				}
+				b_galla = {}
+				b_sidley = {}
+				b_usas = {}
+				b_aldaz = {}
+			}
+		}
+		
+		d_sondersky = {
+			color = { 161 15 25 }
+			color2 = { 255 255 255 }
+		
+			capital = 144 # Mitchell
+			
+			c_mitchell = {
+				color = { 161 15 25 }
+				color2 = { 255 255 255 }
+				
+				russian = "Domitchella"
+				
+				b_mitchell = {
+					russian = "Domitchella"
+				}
+				b_driscoll = {}
+				b_crevasse = {}
+				b_guest = {}
+			}
+			c_khammond = {
+				
+				english = "Hammond"
+				
+				b_khammond = {
+					english = "Hammond"
+				}
+				b_mackay = {}
+				b_boyd = {
+				b_steventon = {}
+				b_la_gorce = {}
+			}
+			c_fosdick = {
+				
+				russian = "Fosdik"
+				
+				b_fosdick = {
+					russian = "Fosdik"
+				}
+				b_gluestick = {}
+				b_sandwich = {}
+				b_lincoln = {}
+			}
+			c_block = {
+				b_block = {}
+				b_chuggington = {}
+				b_lancaster = {}
+				b_south_bern = {}
+			}
+		}
+		
+		d_pogranich = {
+			color = { 161 15 25 }
+			color2 = { 255 255 255 }
+		
+			capital = 152 # Mermansk
+			
+			c_mermansk = {
+				color = { 161 15 25 }
+				color2 = { 255 255 255 }
+				
+				b_mermansk = {}
+				b_volsk = {}
+				b_sulzberger = {}
+				b_alexandra = {}
+			}
+			c_clark = {
+				b_clark = {}
+				b_karpinskaya = {}
+				b_yuly = {}
+				b_ericson = {}
+			}
+			c_bursey = {
+				b_bursey = {}
+				b_fersmann = {}
+				b_shirsov = {}
+				b_perninsky = {}
+			}
+		}
+		
+		d_revolutia = {
+			color = { 0 0 0 }
+			color2 = { 255 255 255 }
+			
+			russian = "Revolyutsiya"
+			
+			c_little_rockford = {
+				b_little_rockford = {}
+				b_sacremento = {}
+				b_orienta = {}
+				b_southcity = {}
+				b_labrabor = {}
+			}
+			c_archangel = {
+				b_archangel = {}
+				b_st_christopher = {}
+				b_petersburg = {}
+				b_neueholme = {}
+			}
+			c_waesche = {
+				b_waesche = {}
+				b_hartigan = {}
+				b_sidley_2 = {}
+				b_cumming = {}
+				b_wodenvale = {}
 			}
 		}
 	}
