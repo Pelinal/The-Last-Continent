@@ -1,0 +1,16 @@
+# 130 - WAIS Divide
+title = c_wais_divide
+max_settlements = 5
+
+# Baronies
+	b_barre = tribal
+	#b_chicopee
+	#b_marion
+	#b_belle_glade
+	#b_zaneyville
+	#b_pampa
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

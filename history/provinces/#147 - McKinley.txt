@@ -1,0 +1,12 @@
+# 147 - McKinley
+title = c_mckinley
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

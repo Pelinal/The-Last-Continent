@@ -1,0 +1,12 @@
+# 139 - Fedorograd
+title = c_fedorograd
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

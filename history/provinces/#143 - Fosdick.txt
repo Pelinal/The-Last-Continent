@@ -1,0 +1,12 @@
+# 143 - Fosdick
+title = c_fosdick
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

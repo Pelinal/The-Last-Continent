@@ -1,0 +1,12 @@
+# 144 - Mitchell
+title = c_mitchell
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History

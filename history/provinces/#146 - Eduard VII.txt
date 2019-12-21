@@ -1,0 +1,12 @@
+# 146 - Eduard VII
+title = c_eduard_vii
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

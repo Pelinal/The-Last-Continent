@@ -1,0 +1,16 @@
+# 129 - Alexandria
+title = c_alexandria
+max_settlements = 6
+
+# Baronies
+	b_alexandria = city
+	b_brunswick = city
+	b_benington = castle
+	b_pontiac = temple
+	#b_yonkers
+	#b_rome
+# Misc
+culture = american
+religion = conservative
+	
+# History

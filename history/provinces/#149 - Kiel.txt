@@ -1,0 +1,12 @@
+# 149 - Kiel
+title = c_okuma
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

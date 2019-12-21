@@ -1,0 +1,12 @@
+# 145 - Khammond
+title = c_khammond
+max_settlements = 4
+
+# Baronies
+
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

@@ -1,0 +1,15 @@
+# 138 - Wrigley
+title = c_wrigley
+max_settlements = 4
+
+# Baronies
+	b_dean = temple
+	b_grant = city
+	#b_shepard
+	#b_forrester
+	
+# Misc
+culture = russian
+religion = communist
+	
+# History
