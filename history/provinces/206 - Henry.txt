@@ -1,9 +1,12 @@
 # 206 - Henry
 title = c_henry
-max_settlements = 
+max_settlements = 4
 
 # Baronies
-
+	b_henry = city
+	b_melle = temple
+	#b_penzlin = {}
+	#b_speicher = {}
 
 # Misc
 culture = english

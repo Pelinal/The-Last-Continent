@@ -1,0 +1,16 @@
+# 210 = Wagner
+title = c_wagner
+max_settlements = 5
+
+# Baronies
+	b_wagner = city
+	b_suydam = temple
+	#b_froststream = {}
+	#b_dullwich = {}
+	#b_babergh = {}
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

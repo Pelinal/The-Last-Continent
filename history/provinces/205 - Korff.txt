@@ -1,10 +1,13 @@
 # 205 - Korff
 title = c_korff
-max_settlements = 
+max_settlements = 4
 
 # Baronies
-
-
+	b_korff = castle
+	b_bad_laapshe = temple
+	#b_hettstedt = {}
+	#b_kerpen = {}
+	
 # Misc
 culture = english
 religion = conservative

@@ -1,9 +1,13 @@
 # 209 - Foundation
 title = c_foundation
-max_settlements = 
+max_settlements = 5
 
 # Baronies
-
+	b_foundation = city
+	b_gorecki = temple
+	b_hawks = castle
+	#b_andyson = {}
+	#b_halifax = {}
 	
 # Misc
 culture = english
