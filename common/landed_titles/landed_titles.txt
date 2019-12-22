@@ -2763,7 +2763,7 @@ e_marie_byrd_land = {
 			}
 		}
 		
-		d_ronneland = {
+		d_albion = {
 			color = { 200 200 100 }
 			color2 = { 255 255 255 }
 		
@@ -2841,6 +2841,35 @@ e_marie_byrd_land = {
 				b_ythanside = {}
 				b_newry = {}
 				b_vinegar_hill = {}
+			}
+		}
+		
+		d_the_ronnes = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 205 # Korff
+			
+			c_korff = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_korff = {}
+				b_melle = {}
+				b_penzlin = {}
+				b_speicher = {}
+			}
+			c_henry = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				french = "Henri"
+				quebecois = "Henri"
+				
+				b_henry = {}
+				b_bad_laapshe = {}
+				b_hettstedt = {}
+				b_kerpen = {}
 			}
 		}
 		

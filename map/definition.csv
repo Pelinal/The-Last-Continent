@@ -323,8 +323,8 @@ province;red;green;blue;x;x
 315;127;72;9;kegele;x
 316;126;90;204;ter-ine;x
 317;127;102;14;kacayak;x
-318;0;66;200;teting;x
 ## SEA PROVS:
+318;0;66;200;;x # Ronne Ice Shelf
 319;1;175;205;;x #BROKEN
 320;126;183;129;;x # Weddel Sea
 321;0;135;205;;x # Filchner Ice Shelf
@@ -401,8 +401,8 @@ province;red;green;blue;x;x
 392;168;84;177;;x # Palmer Arch
 393;0;9;200;;x # Cooperation Sea
 394;84;111;146;;x # Kerguelen Plateau
-395;168;123;132;;x # Ronne Ice Shelf
-396;168;69;152;;x
+395;168;123;132;;x # BROKE TOO
+396;168;69;152;;x # Ronne Sea
 397;84;69;181;;x
 398;0;99;215;;x
 399;168;204;197;;x
