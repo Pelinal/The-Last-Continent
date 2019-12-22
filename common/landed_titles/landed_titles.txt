@@ -2965,7 +2965,7 @@ e_marie_byrd_land = {
 				b_malloa = {}
 				b_lolol = {}
 			}
-			c_woolard = {
+			c_woollard = {
 				color = { 0 0 0 }
 				color2 = { 255 255 255 }
 				
