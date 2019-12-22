@@ -1,0 +1,12 @@
+# 205 - Korff
+title = c_korff
+max_settlements = 
+
+# Baronies
+
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

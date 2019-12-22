@@ -1,0 +1,16 @@
+# 203 - Union
+title = c_union
+max_settlements = 5
+
+# Baronies
+	b_union = castle
+	b_arturo_parodi = temple
+	#b_hercules = {}
+	#b_nueva_lima = {}
+	#b_palencia = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

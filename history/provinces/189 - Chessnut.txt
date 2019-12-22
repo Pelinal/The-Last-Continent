@@ -1,0 +1,14 @@
+# 189 - Chessnut
+title = c_chessnut
+max_settlements = 4
+
+# Baronies
+	b_falactifolium = tribal
+	b_anniston = {}
+	b_marion = {}
+	b_sheffield = {}
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

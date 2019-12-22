@@ -1,0 +1,15 @@
+# 186 - Moore
+title = c_moore
+max_settlements = 4
+
+# Baronies
+	b_more = tribal
+    #b_valdez = {}
+    #b_avondale = {}
+    #b_bisbee = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

@@ -1,0 +1,16 @@
+# 208 - Childscliff
+title = c_childscliff
+max_settlements = 
+
+# Baronies
+	b_childscliff = city
+	b_grasmere = castle
+	#b_belper = {}
+	#b_smithfield = {}
+	#b_test_valley = {}
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

@@ -1,0 +1,16 @@
+# 202 - Skytrain
+title = c_skytrain
+max_settlements = 5
+
+# Baronies
+	b_skytrain = city
+	b_constellation = temple
+	b_kings_cross = city
+	#b_station = {}
+	#b_hines = {}
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

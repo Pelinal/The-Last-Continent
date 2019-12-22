@@ -1,0 +1,17 @@
+# 194 - Hart
+title = c_hart
+max_settlements = 6
+
+# Baronies
+	b_hart= city
+	b_putogether_corner = temple
+	b_bog_walk = castle
+	#b_berrydale = {}
+	#b_spanish_town = {}
+	#b_magotty = {}
+	
+# Misc
+culture = jamaican
+religion = nationalist
+	
+# History

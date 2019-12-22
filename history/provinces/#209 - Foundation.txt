@@ -1,0 +1,12 @@
+# 209 - Foundation
+title = c_foundation
+max_settlements = 
+
+# Baronies
+
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

@@ -1,0 +1,16 @@
+# 201 - Sentinel
+title = c_sentinel
+max_settlements = 5
+
+# Baronies
+	b_sentinel = castle
+	b_lannz = temple
+	b_veems = castle
+	#b_peak = {} 
+	#b_girdridge = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

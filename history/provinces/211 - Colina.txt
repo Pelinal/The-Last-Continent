@@ -1,0 +1,16 @@
+# 211 - Colina
+title = c_colina
+max_settlements = 5
+
+# Baronies
+	b_colina = city
+	b_workington = city
+	b_battle = castle
+	#b_ware = {}
+	#b_fylde = {}
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

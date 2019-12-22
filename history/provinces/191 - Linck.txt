@@ -1,0 +1,16 @@
+# 191 - Linck
+title = c_linck
+max_settlements = 4
+
+# Baronies
+	b_linck = tribal
+	b_tombstone = {}
+	b_magnolia = {}
+	b_rogers = {}
+	b_zelda = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

@@ -1,0 +1,17 @@
+# 193 - Havola
+title = c_havola
+max_settlements = 6
+
+# Baronies
+	b_havola = temple
+	b_gutters = city
+	b_wales = castle
+	#b_papine {}
+	#b_mount_diabolo {}
+	#b_donegal = {} 
+	
+# Misc
+culture = jamaican
+religion = nationalist
+	
+# History

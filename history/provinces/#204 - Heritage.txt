@@ -1,0 +1,16 @@
+# 204 - Heritage
+title = c_heritage
+max_settlements = 5
+
+# Baronies
+	b_heritage = city
+	b_slough = city
+	b_fjordsan = temple
+	b_frostworth = {}
+	b_locharch = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

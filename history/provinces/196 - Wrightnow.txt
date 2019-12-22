@@ -1,0 +1,17 @@
+# 196 - Wrightnow
+title = c_wrightnow
+max_settlements = 6
+
+# Baronies
+	b_wrigtnow = city
+	b_laguna_verde = castle
+	b_la_estrella = temple
+	#b_pelarco = {}
+	#b_quelue = {}
+	#b_corral = {}
+	
+# Misc
+culture = chilean
+religion = radical
+	
+# History

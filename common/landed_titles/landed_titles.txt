@@ -2746,7 +2746,7 @@ e_marie_byrd_land = {
 				
 				english = "Ninitz-upon-Ronne"
 				
-				b_nintz = {}
+				b_ninitz = {}
 				b_minnesota = {}
 				b_andersson = {}
 				b_dott = {} 

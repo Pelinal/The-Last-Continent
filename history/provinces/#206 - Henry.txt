@@ -1,0 +1,12 @@
+# 206 - Henry
+title = c_henry
+max_settlements = 
+
+# Baronies
+
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

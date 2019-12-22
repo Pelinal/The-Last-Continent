@@ -1,0 +1,16 @@
+# 199 - Tyree
+title = c_tyree
+max_settlements = 5
+
+# Baronies
+	b_tyree = castle
+	b_vinson_massif = city
+	#b_siga = {}
+	#b_ugarit = {} 
+	#b_gerbal = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

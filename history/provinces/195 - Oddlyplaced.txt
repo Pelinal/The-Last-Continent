@@ -1,0 +1,17 @@
+# 195 - Oddlyplaced
+title = c_oddlyplaced
+max_settlements = 6
+
+# Baronies
+	b_oddlyplaced= city
+	b_half_way_tree = temple
+	b_danks = city
+	#b_ythanside = {}
+	#b_newry = {}
+	#b_vinegar_hill = {}
+	
+# Misc
+culture = jamaican
+religion = nationalist
+	
+# History

@@ -1,0 +1,17 @@
+# 187 - Woolard
+title = c_woolard
+max_settlements = 6
+
+# Baronies
+	b_woolard = temple
+    b_retiro = city
+    b_bahia_inglesa = castle
+    #b_la_higuera = {}
+    #b_el_salado = {}
+    #b_pinto = {}
+	
+# Misc
+culture = chilean
+religion = radical
+	
+# History

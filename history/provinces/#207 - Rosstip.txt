@@ -1,0 +1,15 @@
+# 207 - Rosstip
+title = c_rosstip
+max_settlements = 4
+
+# Baronies
+	b_rosstip = castle
+	b_zumberge = city
+	#b_henley = {} 
+	#b_camble = {}
+
+# Misc
+culture = english
+religion = conservative
+	
+# History

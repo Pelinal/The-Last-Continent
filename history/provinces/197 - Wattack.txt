@@ -1,0 +1,16 @@
+# 197 - Wattack
+title = c_wattack
+max_settlements = 6
+
+# Baronies
+	b_wrigtnow = city
+	b_lloca = city
+	b_tongoy = castle
+	b_putre = temple
+	#b_malloa = {}
+	#b_lolol = {}
+# Misc
+culture = chilean
+religion = radical
+	
+# History

@@ -1,0 +1,14 @@
+# 188 - Falcatifolium
+title = c_falcatifolium
+max_settlements = 6
+
+# Baronies
+	b_falactifolium = tribal
+    #b_homer = {}
+    #b_kingman = {}
+    #b_nome = {}   
+# Misc
+culture = uninhabited
+religion = none
+	
+# History
