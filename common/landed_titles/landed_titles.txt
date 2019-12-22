@@ -2353,7 +2353,7 @@ e_marie_byrd_land = {
 		color = { 200 200 100 }
 		color2 = { 255 255 255 }
 		
-		capital = 149 # Byrd Surface Camp
+		capital = 169 # Byrd Surface Camp
 		
 		d_obrady = {
 			color = { 200 200 100 }
@@ -2439,6 +2439,174 @@ e_marie_byrd_land = {
 				b_kellogg = {}
 				b_carthage_ohio = {}
 				b_jeffersonville = {}
+			}
+		}
+		
+		d_greater_yarmouth = {
+			color = { 0 0 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 217 # Yarmouth
+			
+			c_yarmouth = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_yarmouth = {}
+				b_norwich = {}
+				b_towson = {}
+				b_silverspring = {}
+				b_bath = {}
+			}
+			c_hartris = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_hartris = {}
+				b_athol = {}
+				b_debham = {}
+				b_liverpool = {}
+				b_cohasset = {}
+			}
+		}
+		
+		d_byrd = {
+			color = { 0 0 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 169 # Byrd
+			
+			c_byrd = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_byrd = {}
+				b_seabees = {}
+				b_deep_freeze = {}
+				b_dawson = {}
+				b_northwind = {}
+				b_turtle = {}
+				b_bindschalder = {}
+			}
+			c_portland = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_portland = {}
+				b_canton = {}
+				b_brooklyn = {}
+				b_truro = {}
+				b_webster = {}
+			}
+			c_jennaby = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				american = "Icestream Bravo"
+				
+				b_jennaby = {
+					american = "Icestream Bravo"
+				}
+				b_woods_hole = {}
+				b_benton = {}
+				b_charlefoix = {}
+				b_dearborne = {}
+			}
+			c_upstream_bravo = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_upstream_bravo = {}
+				b_flint = {}
+				b_unicorn = {}
+				b_dragon_shear = {}
+				b_chiang = {}
+				b_dionne = {}
+				b_cunningham = {}
+			}
+		}
+		
+		d_new_wyoming = {
+			color = { 0 0 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 162 # bostonia
+			
+			c_bostonia = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_bostonia = {}
+				b_hancock = {}
+				b_livonia = {}
+				b_mackinaw = {}
+				b_warren = {}
+			}
+			c_greenwich = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_greenwich = {}
+				b_westmunster = {}
+				b_albertea = {}
+				b_bemidji = {}
+				b_stillwater = {}
+			}
+			c_sanic = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_sanic = {}
+				b_megadrive = {}
+				b_micromachine = {}
+				b_bandicoot = {}
+				b_knuckles = {}
+			}
+			c_delta = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_delta = {}
+				b_icestream = {}
+				b_biloxi = {}
+				b_laurel = {}
+				b_westpoint = {}
+			}
+		}
+		
+		d_mooretania = {
+			color = { 0 0 0 }
+			color2 = { 255 255 255 }
+		
+			capital = 162 # bostonia
+			
+			c_athletica = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_athletica = {}
+				b_treadmill = {}
+				b_crosstrainer = {}
+				b_bicycleta = {}
+			}
+			c_southmore = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_southmore = {}
+				b_hollick = {}
+				b_boon = {}
+				b_fulton = {}
+				b_independence = {}
+			}
+			c_whitmore = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_whitmore = {}
+				b_joplin = {}
+				b_salem = {}
+				b_san_carlos = {}
 			}
 		}
 	}
