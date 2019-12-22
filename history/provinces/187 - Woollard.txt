@@ -1,5 +1,5 @@
-# 187 - Woolard
-title = c_woolard
+# 187 - Woollard
+title = c_woollard
 max_settlements = 6
 
 # Baronies
