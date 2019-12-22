@@ -991,17 +991,6 @@ e_antarctandes = {
 			color = { 20 82 20 }
 			color2 = { 255 255 255 }
 			
-			c_siple = {
-				color = {20 82 20}
-				color2 = {255 255 255}
-				
-				b_siple = {}
-				b_wonderarch = {}
-				b_katsufrakis = {}
-				b_utahing = {}
-				b_star = {}
-				b_riverpass = {}
-			}
 			c_thomas = {
 				color = {45 185 45}
 				color2 = {255 255 255}
@@ -1020,12 +1009,6 @@ e_antarctandes = {
 				b_flintdrift = {}
 				b_washingtown = {}
 			}
-		}
-		
-		d_zumberge = {
-			color = { 184 184 46 }
-			color2 = { 255 255 255 }
-			
 			c_sky_hi = {
 				color = { 230 230 153 }
 				color2 = { 255 255 255 }
@@ -1036,6 +1019,23 @@ e_antarctandes = {
 				b_albany = {}
 				b_hannover = {}
 				b_sealand = {}
+			}
+		}
+		
+		d_zumberge = {
+			color = { 184 184 46 }
+			color2 = { 255 255 255 }
+			
+			c_siple = {
+				color = {20 82 20}
+				color2 = {255 255 255}
+				
+				b_siple = {}
+				b_wonderarch = {}
+				b_katsufrakis = {}
+				b_utahing = {}
+				b_star = {}
+				b_riverpass = {}
 			}
 			
 			c_newcomer = {
@@ -2607,6 +2607,349 @@ e_marie_byrd_land = {
 				b_joplin = {}
 				b_salem = {}
 				b_san_carlos = {}
+			}
+		}
+	}
+	
+	# British Antarctic Territory
+	k_british_antarctica = {
+		color = { 230 40 50 }
+		color2 = { 255 255 255 }
+		
+		capital = 169 # Byrd Surface Camp
+		
+		d_pitcairnshire = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 174 # Olympia
+			
+			c_radlinski = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_radlinski = {}
+				b_seelig = {}
+				b_chapman = {}
+				b_shalakusha = {}
+				b_kamyshin = {}
+				b_zelenogorsk = {}   
+			}
+			c_hart = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_hart = {}
+				b_putogether_corner = {}
+				b_bog_walk = {}
+				b_berrydale = {}
+				b_spanish_town = {}
+				b_magotty = {}
+			}
+			c_havola = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_havola = {}
+				b_gutters = {}
+				b_wales = {}
+				b_papine {}
+				b_mount_diabolo {}
+				b_donegal = {}
+			}
+			c_linck = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_linck = {}
+				b_tombstone = {}
+				b_magnolia = {}
+				b_rogers = {}
+				b_zelda = {}
+			}
+		}
+		
+		d_south_midlands = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 188 # Falcatifolium
+			
+			c_falcatifolium = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_falcatifolium = {}
+				b_humus = {}
+				b_kingman = {}
+				b_nome = {}  
+			}
+			c_chessnut = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_chessnut = {}
+				b_anniston = {}
+				b_marion = {}
+				b_sheffield = {}
+			}
+			c_ivywood = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_ivywood = {}
+				b_melton = {}
+				b_gainsborough = {}
+				b_craven = {}
+				b_hexham = {}
+			}
+			c_moore = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_moore = {}
+				b_valdez = {}
+				b_avondale = {}
+				b_bisbee = {}
+			}
+		}
+		
+		d_sentinel = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 201 # Sentinel
+			
+			c_sentinel = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_sentinel = {}
+				b_lannz = {}
+				b_veems = {}
+				b_peak = {} 
+				b_girdridge = {}
+			}
+			c_tyree = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_tyree = {}
+				b_vinson_massif = {}
+				b_siga = {}
+				b_ugarit = {} 
+				b_gerbal = {}
+			}
+			c_ninitz = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				english = "Ninitz-upon-Ronne"
+				
+				b_nintz = {}
+				b_minnesota = {}
+				b_andersson = {}
+				b_dott = {} 
+			}
+			c_skytrain = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_skytrain = {}
+				b_constellation = {}
+				b_kings_cross = {}
+				b_station = {}
+				b_hines = {}
+			}
+		}
+		
+		d_ronneland = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 209 # Foundation
+			
+			chilean = "Tierra del Rodolfo"
+			argentine = "Tierra del Rodolfo"
+			spanish = "Tierra del Rodolfo"
+			brazilian = "Tierras do Rodolfo"
+			
+			c_wagner = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_wagner = {}
+				b_suydam = {}
+				b_froststream = {}
+				b_dullwich = {}
+				b_babergh = {}
+			}
+			c_foundation = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_foundation = {}
+				b_gorecki = {}
+				b_hawks = {}
+				b_andyson = {}
+				b_halifax = {}
+			}
+			c_colina = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_colina = {}
+				b_workington = {}
+				b_battle = {}
+				b_ware = {}
+				b_fylde = {}
+			}
+			c_childscliff = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_childscliff = {}
+				b_grasmere = {}
+				b_belper = {}
+				b_smithfield = {}
+				b_test_valley = {}
+			}
+			c_wrightnow = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				chilean = "La Estrella"
+				
+				b_wrightnow  = {}
+				b_laguna_verde = {}
+				b_la_estrella = {}
+				b_pelarco = {}
+				b_quelue = {}
+				b_corral = {}
+			}
+			c_oddlyplaced = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				chilean = "Pinguito"
+				
+				b_oddlyplaced = {
+					chilean = "Pinguito"
+				}
+				b_half_way_tree = {}
+				b_danks = {}
+				b_ythanside = {}
+				b_newry = {}
+				b_vinegar_hill = {}
+			}
+		}
+		
+		d_heritage = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 203 # Union
+			
+			chilean = "Hereje"
+			argentine = "Hereje"
+			spanish = "Hereje"
+			brazilian = "Herejo"
+			
+			c_rosstip = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				
+				b_rosstip = {}
+				b_zumberge = {}
+				b_henley = {} 
+				b_camble = {}
+			}
+			c_heritage = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				chilean = "Hereje"
+				argentine = "Hereje"
+				spanish = "Hereje"
+				brazilian = "Herejo"
+				
+				b_heritage = {}
+				b_slough = {}
+				b_fjordsan = {} 
+				b_frostworth = {}
+				b_locharch = {}
+			}
+			c_union = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				chilean = "Parodi"
+				
+				b_union = {
+					chilean = "Uniones"
+				}
+				b_arturo_parodi = {}
+				b_hercules = {}
+				b_nueva_lima = {}
+				b_palencia = {}
+			}
+		}
+		
+		d_ellsworth = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 198 # Ellsworth
+			
+			chilean = "Segovia"
+			argentine = "Segovia"
+			spanish = "Segovia"
+			brazilian = "Segovio"
+			
+			c_ellsworth = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				chilean = "Segovia"
+				
+				b_ellsworth = {
+					chilean = "Segovia"
+				}
+				b_moutana = {}
+				b_surbiton = {}
+				b_winnersh = {} 
+				b_earley = {}
+			}
+			c_wattack = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				chilean = "Nueva Santiago"
+				
+				b_wattack = {
+					chilean = "Nueva Santiago"
+				}
+				b_lloca = {}
+				b_tongoy = {}
+				b_putre = {}
+				b_malloa = {}
+				b_lolol = {}
+			}
+			c_woolard = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				chilean = "Copiapó"
+				
+				b_woolard = {
+					chilean = "Copiapó"
+				}
+				b_retiro = {}
+				b_bahia_inglesa = {}
+				b_la_higuera = {}
+				b_el_salado = {}
+				b_pinto = {}
 			}
 		}
 	}
