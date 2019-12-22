@@ -1832,7 +1832,7 @@ e_marie_byrd_land = {
 				b_skywalker = {}
 				b_solaris = {}
 			}
-			b_meriby = {
+			c_meriby = {
 				b_meriby = {}
 				b_delisheller = {} 
 				b_robnia = {}
@@ -2345,6 +2345,100 @@ e_marie_byrd_land = {
 				b_whalebay = {}
 				b_kainan = {}
 				b_clinton = {}
+			}
+		}
+	}
+	
+	k_byrd = {
+		color = { 200 200 100 }
+		color2 = { 255 255 255 }
+		
+		capital = 149 # Byrd Surface Camp
+		
+		d_obrady = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 174 # Olympia
+			
+			c_olympia = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_olympia = {}
+				b_homer = {}
+				b_alton = {}
+				b_decatur = {}
+				b_joilet = {}
+				b_lisle = {}
+			}
+			c_colington = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_colington = {}
+				b_la_salle = {}
+				b_herrin = {}
+				b_lombard = {}
+				b_mundelein = {}
+			}
+			c_obrady = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_obrady = {}
+				b_bastrop = {}
+				b_monroe = {}
+				b_waterville = {}
+				b_hyatt = {}
+			}
+		}
+		
+		d_gould = {
+			color = { 200 200 100 }
+			color2 = { 255 255 255 }
+		
+			capital = 174 # Olympia
+			
+			c_gould = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_gould = {}
+				b_harold = {}
+				b_tapley = {}
+				b_axel = {}
+				b_heiberg = {}
+			}
+			c_ready = { # actually localised as 'Reedy'
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_ready = {}
+				b_escarpment = {}
+				b_watson = {}
+				b_emmitsburg = {}
+				b_summit = {}
+			}
+			c_wisconsin = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_wisconsin = {}
+				b_lebanon = {}
+				b_tuskegee = {}
+				b_concord = {}
+				b_sebring = {}
+			}
+			c_ohio = {
+				color = { 0 0 0 }
+				color2 = { 255 255 255 }
+				
+				b_ohio = {}
+				b_calhoun = {}
+				b_kellogg = {}
+				b_carthage_ohio = {}
+				b_jeffersonville = {}
 			}
 		}
 	}
