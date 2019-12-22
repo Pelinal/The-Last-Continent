@@ -1,0 +1,16 @@
+# 185 - Southmore
+title = c_southmore
+max_settlements = 5
+
+# Baronies
+	b_southmore = tribal
+	#b_hollick = {}
+	#b_boon = {}
+	#b_fulton = {}
+	#b_independence = {}
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

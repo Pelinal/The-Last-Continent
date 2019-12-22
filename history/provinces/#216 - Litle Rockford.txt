@@ -1,0 +1,16 @@
+# 216 - Little Rockford
+title = c_little_rockford
+max_settlements = 4
+
+# Baronies
+    b_jennaby = temple
+    b_woods_hole = city
+    #b_benton = {}
+    #b_charlefoix = {}
+	#b_dearborne = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

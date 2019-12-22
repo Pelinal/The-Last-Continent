@@ -1,0 +1,16 @@
+# 171 - Colington
+title = c_colington
+max_settlements = 5
+
+# Baronies
+	b_colington = castle
+	b_la_salle = city
+	b_herrin = temple
+	#b_lombard
+	#b_mundelein
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

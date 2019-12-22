@@ -1,0 +1,16 @@
+# 183 - Wisconsin
+title = c_wisconsin
+max_settlements = 5
+
+# Baronies
+	b_wisconsin = castle
+	b_lebanon = city
+	#b_tuskegee = {}
+	#b_concord = {}
+	#b_sebring = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

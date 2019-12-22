@@ -1,0 +1,16 @@
+# 182 - Ohio
+title = c_ohio
+max_settlements = 5
+
+# Baronies
+	b_ohio = city
+	b_calhoun = temple
+	b_kellogg = castle
+	#b_carthage_ohio = {}
+	#b_jeffersonville = {}
+	
+# Misc
+culture = jamaican
+religion = nationalist
+	
+# History

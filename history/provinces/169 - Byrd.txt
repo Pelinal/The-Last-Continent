@@ -1,0 +1,18 @@
+# 169 - Byrd
+title = c_byrd
+max_settlements = 7
+
+# Baronies
+    b_byrd = castle
+    b_seabees = castle
+    b_deep_freeze = temple
+    b_dawson = city
+    #b_northwind = {}
+    #b_turtle = {}
+    #b_bindschalder = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

@@ -1,0 +1,16 @@
+# 217 - Yarmouth
+title = c_yarmouth
+max_settlements = 5
+
+# Baronies
+    b_yarmouth = castle
+    b_norwich = temple
+    b_towson = city
+    #b_silverspring = {}
+    #b_bath = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

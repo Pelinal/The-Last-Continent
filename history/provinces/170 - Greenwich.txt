@@ -1,0 +1,15 @@
+# 170 - Greenwich
+title = c_greenwich
+
+#Baronies
+	b_greenwich = tribal
+	#b_westmunster = {}
+	#b_albertea = {}
+	#b_bemidji = {}
+	#b_stillwater = {}
+	
+#Misc
+culture = uninhabited
+religion = none
+
+#History

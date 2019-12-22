@@ -4,9 +4,11 @@ max_settlements = 4
 
 # Baronies
 	b_bostonia = tribal
-	#b_delisheller
-	#b_robnia
-	#b_milltown
+	#b_hancock = {}
+	#b_livonia = {}
+	#b_mackinaw = {}
+	#b_warren = {}
+ 
 	
 # Misc
 culture = uninhabited

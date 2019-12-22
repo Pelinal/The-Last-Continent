@@ -1,0 +1,16 @@
+# 175 - Portland
+title = c_portland
+max_settlements = 5
+
+# Baronies
+    b_portland = temple
+    b_canton = city
+    #b_brooklyn = {}
+    #b_truro = {}
+    #b_webster = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

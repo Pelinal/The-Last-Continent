@@ -1,0 +1,16 @@
+# 180 - Gould
+title = c_gould
+max_settlements = 5
+
+# Baronies
+	b_gould = temple
+	b_harold = castle
+	b_tapley = castle
+	#b_axel = {}
+	#b_heiberg = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

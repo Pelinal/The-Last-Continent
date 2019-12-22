@@ -1,0 +1,15 @@
+# 184 - Whitmore
+title = c_whitmore
+max_settlements = 5
+
+# Baronies
+	b_whitmore = tribal
+	#b_joplin = {}
+	#b_salem = {}
+	#b_san_carlos = {}
+
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

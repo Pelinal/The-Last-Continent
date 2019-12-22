@@ -1,0 +1,16 @@
+# 167 - New Chicago
+title = c_new_chicago
+max_settlements = 5
+
+# Baronies
+	b_new_chicago = city
+	b_cadillac = castle
+	b_kalamazoo = castle
+	#b_morehead = {}
+	#b_alcatraz = {}
+	
+# Misc
+culture = greek
+religion = conservative
+	
+# History

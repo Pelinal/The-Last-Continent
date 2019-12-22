@@ -1,0 +1,16 @@
+# 181 - Ready
+title = c_ready
+max_settlements = 5
+
+# Baronies
+	b_ready = castle
+	b_escarpment = temple
+	#b_watson = {}
+	#b_emmitsburg = {}
+	#b_summit = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

@@ -1,0 +1,18 @@
+# 173 - Upstream Bravo
+title = c_upstream_bravo
+max_settlements = 7
+
+# Baronies
+    b_upstream_bravo = castle
+    b_flint = city
+    b_unicorn = temple
+    b_dragon_shear = castle
+    #b_chiang = {}
+    #b_dionne = {}
+    #b_cunningham = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

@@ -1,0 +1,16 @@
+# 179 - Delta
+title = c_delta
+max_settlements = 5
+
+# Baronies
+    b_delta = tribal
+    #b_icestream = {}
+    #b_biloxi = {}
+    #b_laurel = {}
+    #b_westpoint = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

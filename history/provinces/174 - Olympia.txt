@@ -1,0 +1,17 @@
+# 174 - Olympia
+title = c_olympia
+max_settlements = 6
+
+# Baronies
+	b_olympia = castle
+	b_homer = city
+	b_alton = city
+	#b_decatur = {}
+	#b_joilet = {}
+	#b_lisle = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

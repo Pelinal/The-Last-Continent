@@ -1,0 +1,16 @@
+# 164 - Hartris
+title = c_hartris
+max_settlements = 5
+
+# Baronies
+	b_hartris = city
+    b_athol = castle
+    b_debham = temple
+    #b_liverpool = {}
+    #b_cohasset = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

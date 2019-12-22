@@ -1,0 +1,15 @@
+# 176 - Jennaby
+title = c_jennaby
+max_settlements = 4
+
+# Baronies
+    b_jennaby = temple
+    b_woods_hole = city
+    #b_benton = {}
+    #b_charlefoix = {}
+	#b_dearborne = {}
+# Misc
+culture = american
+religion = conservative
+	
+# History

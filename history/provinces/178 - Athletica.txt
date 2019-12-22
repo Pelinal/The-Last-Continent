@@ -1,0 +1,15 @@
+# 178 - Athletica
+title = c_athletica
+max_settlements = 4
+
+# Baronies
+	b_athletica = tribal
+	#b_treadmill = {}
+	#b_crosstrainer = {}
+	#b_bicycleta = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History

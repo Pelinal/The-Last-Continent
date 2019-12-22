@@ -1,0 +1,17 @@
+# 166 - Roosevelt
+title = c_roosevelt
+max_settlements = 6
+
+# Baronies
+	b_little_america_1 = city
+	b_little_america_2 = temple
+	b_little_america_3 = city
+	#b_whalebay = {}
+	#b_kainan = {}
+	#b_clinton = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

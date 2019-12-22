@@ -1,0 +1,16 @@
+# 172 - O'Brady
+title = c_obrady
+max_settlements = 5
+
+# Baronies
+	b_obrady = temple
+	b_bastrop = castle
+	#b_monroe = {}
+	#b_waterville = {}
+	#b_hyatt = {}
+	
+# Misc
+culture = american
+religion = conservative
+	
+# History

@@ -1,0 +1,16 @@
+# 177 - Sanic
+title = c_sanic
+max_settlements = 6
+
+# Baronies
+	b_sanic = tribal
+	#b_megadrive = {}
+	#b_micromachine = {}
+	#b_bandicoot = {}
+	#b_knuckles = {}
+	
+# Misc
+culture = uninhabited
+religion = none
+	
+# History
