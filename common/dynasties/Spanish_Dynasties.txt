@@ -1,0 +1,2210 @@
+# Basque Dynasties
+1 = {
+	name = "Agirre"
+	culture = "basque"
+}
+
+2 = {
+	name = "Aguirre"
+	culture = "basque"
+}
+
+3 = {
+	name = "Aristizabal"
+	culture = "basque"
+}
+
+4 = {
+	name = "Bacque"
+	culture = "basque"
+}
+
+5 = {
+	name = "Biskarret"
+	culture = "basque"
+}
+
+6 = {
+	name = "Elizabelar"
+	culture = "basque"
+}
+
+7 = {
+	name = "Elizondo"
+	culture = "basque"
+}
+
+8 = {
+	name = "Etxeberri"
+	culture = "basque"
+}
+
+9 = {
+	name = "Goyeneche"
+	culture = "basque"
+}
+
+10 = {
+	name = "Iriarte"
+	culture = "basque"
+}
+
+11 = {
+	name = "Lardizábal"
+	culture = "basque"
+}
+
+12 = {
+	name = "Lumbier"
+	culture = "basque"
+}
+
+13 = {
+	name = "Olloki"
+	culture = "basque"
+}
+
+14 = {
+	name = "Mendoza"
+	culture = "basque"
+}
+
+15 = {
+	name = "Nafarro"
+	culture = "basque"
+}
+
+16 = {
+	name = "Olebeaga"
+	culture = "basque"
+}
+
+17 = {
+	name = "Orzabal"
+	culture = "basque"
+}
+
+18 = {
+	name = "Ochoa"
+	culture = "basque"
+}
+
+19 = {
+	name = "Oyanguren"
+	culture = "basque"
+}
+
+20 = {
+	name = "Putxeta"
+	culture = "basque"
+}
+
+21 = {
+	name = "Semen"
+	culture = "basque"
+}
+
+22 = {
+	name = "Sorapuru"
+	culture = "basque"
+}
+
+23 = {
+	name = "Telleria"
+	culture = "basque"
+}
+
+24 = {
+	name = "Torróntegui"
+	culture = "basque"
+}
+
+25 = {
+	name = "Ugarte"
+	culture = "basque"
+}
+
+26 = {
+	name = "Uzain"
+	culture = "basque"
+}
+
+27 = {
+	name = "Ybiricu"
+	culture = "basque"
+}
+
+28 = {
+	name = "Yaben"
+	culture = "basque"
+}
+
+29 = {
+	name = "Katarain"
+	culture = "basque"
+}
+
+30 = {
+	name = "Zubiria"
+	culture = "basque"
+}
+
+#Spanish Dynasties
+31 = {
+	name = "Abrego"
+	culture = "spanish"
+}
+
+32 = {
+	name = "Acaya"
+	culture = "spanish"
+}
+
+33 = {
+	name = "Aflor"
+	culture = "spanish"
+}
+
+34 = {
+	name = "Alarcón"
+	culture = "spanish"
+}
+
+35 = {
+	name = "Arroyo"
+	culture = "spanish"
+}
+
+36 = {
+	name = "Barbero"
+	culture = "spanish"
+}
+
+37 = {
+	name = "Belrio"
+	culture = "spanish"
+}
+
+38 = {
+	name = "Caballero"
+	culture = "spanish"
+}
+
+39 = {
+	name = "Caceres"
+	culture = "spanish"
+}
+
+40 = {
+	name = "Calvetto"
+	culture = "spanish"
+}
+
+41 = {
+	name = "Casarez"
+	culture = "spanish"
+}
+
+42 = {
+	name = "Chiclana"
+	culture = "spanish"
+}
+
+43 = {
+	name = "Del Rosario"
+	culture = "spanish"
+}
+
+44 = {
+	name = "Espejo"
+	culture = "spanish"
+}
+
+45 = {
+	name = "Feliciano"
+	culture = "spanish"
+}
+
+46 = {
+	name = "Galarza"
+	culture = "spanish"
+}
+
+47 = {
+	name = "Gallegos"
+	culture = "spanish"
+}
+
+48 = {
+	name = "Gálvez"
+	culture = "spanish"
+}
+
+49 = {
+	name = "Gedeón"
+	culture = "spanish"
+}
+
+50 = {
+	name = "Ginebra"
+	culture = "spanish"
+}
+
+51 = {
+	name = "Granados"
+	culture = "spanish"
+}
+
+52 = {
+	name = "Henares"
+	culture = "spanish"
+}
+
+53 = {
+	name = "Illescas"
+	culture = "spanish"
+}
+
+54 = {
+	name = "Jara"
+	culture = "spanish"
+}
+
+55 = {
+	name = "Julio"
+	culture = "spanish"
+}
+
+56 = {
+	name = "Lamo"
+	culture = "spanish"
+}
+
+57 = {
+	name = "Leones"
+	culture = "spanish"
+}
+
+58 = {
+	name = "Marchena"
+	culture = "spanish"
+}
+
+59 = {
+	name = "Montano"
+	culture = "spanish"
+}
+
+60 = {
+	name = "Montes de Oca"
+	culture = "spanish"
+}
+
+61 = {
+	name = "Monzon"
+	culture = "spanish"
+}
+
+62 = {
+	name = "Navas"
+	culture = "spanish"
+}
+
+63 = {
+	name = "Nieto"
+	culture = "spanish"
+}
+
+64 = {
+	name = "Orbregón"
+	culture = "spanish"
+}
+
+65 = {
+	name = "Pagán"
+	culture = "spanish"
+}
+
+66 = {
+	name = "Pastrana"
+	culture = "spanish"
+}
+
+67 = {
+	name = "Rubalcava"
+	culture = "spanish"
+}
+
+68 = {
+	name = "Sarcos"
+	culture = "spanish"
+}
+
+69 = {
+	name = "Segura"
+	culture = "spanish"
+}
+
+70 = {
+	name = "Téllez"
+	culture = "spanish"
+}
+
+71 = {
+	name = "Valez"
+	culture = "spanish"
+}
+
+72 = {
+	name = "Verdejo"
+	culture = "spanish"
+}
+
+73 = {
+	name = "Jiménez"
+	culture = "spanish"
+}
+
+74 = {
+	name = "Zapata"
+	culture = "spanish"
+}
+
+75 = {
+	name = "Velasco"
+	culture = "spanish"
+}
+
+76 = {
+	name = "Vivanco"
+	culture = "spanish"
+}
+
+77 = {
+	name = "Yesca"
+	culture = "spanish"
+}
+
+78 = {
+	name = "Zamora"
+	culture = "spanish"
+}
+
+79 = {
+	name = "Venegas"
+	culture = "spanish"
+}
+
+80 = {
+	name = "Verdecia"
+	culture = "spanish"
+}
+
+#Colombian Dynasties
+81 = {
+	name = "Achio"
+	culture = "colombian"
+}
+
+82 = {
+	name = "Acuna"
+	culture = "colombian"
+}
+
+83 = {
+	name = "Ailán"
+	culture = "colombian"
+}
+
+84 = {
+	name = "Alvalle"
+	culture = "colombian"
+}
+
+85 = {
+	name = "Arriva"
+	culture = "colombian"
+}
+
+86 = {
+	name = "Barrino"
+	culture = "colombian"
+}
+
+87 = {
+	name = "Bedor"
+	culture = "colombian"
+}
+
+88 = {
+	name = "Caballo"
+	culture = "colombian"
+}
+
+89 = {
+	name = "Campuzano"
+	culture = "colombian"
+}
+
+90 = {
+	name = "Canizales"
+	culture = "colombian"
+}
+
+91 = {
+	name = "Capriel"
+	culture = "colombian"
+}
+
+92 = {
+	name = "De Jesus"
+	culture = "colombian"
+}
+
+93 = {
+	name = "Fulcar"
+	culture = "colombian"
+}
+
+94 = {
+	name = "Govea"
+	culture = "colombian"
+}
+
+95 = {
+	name = "Griminesa"
+	culture = "colombian"
+}
+
+96 = {
+	name = "Martinez"
+	culture = "colombian"
+}
+
+97 = {
+	name = "Naiza"
+	culture = "colombian"
+}
+
+98 = {
+	name = "Neico"
+	culture = "colombian"
+}
+
+99 = {
+	name = "Rulfo"
+	culture = "colombian"
+}
+
+100 = {
+	name = "Sarcos"
+	culture = "colombian"
+}
+
+101 = {
+	name = "Seres"
+	culture = "colombian"
+}
+
+102 = {
+	name = "Torriente"
+	culture = "colombian"
+}
+
+103 = {
+	name = "Uvalle"
+	culture = "colombian"
+}
+
+104 = {
+	name = "Villalba"
+	culture = "colombian"
+}
+
+105 = {
+	name = "Yesca"
+	culture = "colombian"
+}
+
+106 = {
+	name = "Yisselin"
+	culture = "colombian"
+}
+
+107 = {
+	name = "Zegarra"
+	culture = "colombian"
+}
+
+108 = {
+	name = "Aguiler"
+	culture = "colombian"
+}
+
+109 = {
+	name = "Achio"
+	culture = "colombian"
+}
+
+110 = {
+	name = "Acuna"
+	culture = "colombian"
+}
+
+#Peruvian Dynasties
+111 = {
+	name = "Amorena"
+	culture = "peruvian"
+}
+
+112 = {
+	name = "Avienda"
+	culture = "peruvian"
+}
+
+113 = {
+	name = "Achio"
+	culture = "peruvian"
+}
+
+114 = {
+	name = "Acuna"
+	culture = "peruvian"
+}
+
+115 = {
+	name = "Ailán"
+	culture = "peruvian"
+}
+
+116 = {
+	name = "Alvalle"
+	culture = "peruvian"
+}
+
+117 = {
+	name = "Arriva"
+	culture = "peruvian"
+}
+
+118 = {
+	name = "Barrino"
+	culture = "peruvian"
+}
+
+119 = {
+	name = "Bedor"
+	culture = "peruvian"
+}
+
+120 = {
+	name = "Caballo"
+	culture = "peruvian"
+}
+
+121 = {
+	name = "Campuzano"
+	culture = "peruvian"
+}
+
+122 = {
+	name = "Canizales"
+	culture = "peruvian"
+}
+
+123 = {
+	name = "Capriel"
+	culture = "peruvian"
+}
+
+124 = {
+	name = "De Jesus"
+	culture = "peruvian"
+}
+
+125 = {
+	name = "Fulcar"
+	culture = "peruvian"
+}
+
+126 = {
+	name = "Govea"
+	culture = "peruvian"
+}
+
+127 = {
+	name = "Griminesa"
+	culture = "peruvian"
+}
+
+128 = {
+	name = "Martinez"
+	culture = "peruvian"
+}
+
+129 = {
+	name = "Naiza"
+	culture = "peruvian"
+}
+
+130 = {
+	name = "Neico"
+	culture = "peruvian"
+}
+
+131 = {
+	name = "Rulfo"
+	culture = "peruvian"
+}
+
+132 = {
+	name = "Sarcos"
+	culture = "peruvian"
+}
+
+133 = {
+	name = "Seres"
+	culture = "peruvian"
+}
+
+134 = {
+	name = "Torriente"
+	culture = "peruvian"
+}
+
+135 = {
+	name = "Uvalle"
+	culture = "peruvian"
+}
+
+136 = {
+	name = "Villalba"
+	culture = "peruvian"
+}
+
+137 = {
+	name = "Yesca"
+	culture = "peruvian"
+}
+
+138 = {
+	name = "Yisselin"
+	culture = "peruvian"
+}
+
+139 = {
+	name = "Zegarra"
+	culture = "peruvian"
+}
+
+140 = {
+	name = "Aguiler"
+	culture = "peruvian"
+}
+
+#Guarani Dynasties
+141 = {
+	name = "Amorena"
+	culture = "guarani"
+}
+
+142 = {
+	name = "Avienda"
+	culture = "guarani"
+}
+
+143 = {
+	name = "Achio"
+	culture = "guarani"
+}
+
+144 = {
+	name = "Acuna"
+	culture = "guarani"
+}
+
+145 = {
+	name = "Ailán"
+	culture = "guarani"
+}
+
+146 = {
+	name = "Alvalle"
+	culture = "guarani"
+}
+
+147 = {
+	name = "Arriva"
+	culture = "guarani"
+}
+
+148 = {
+	name = "Barrino"
+	culture = "guarani"
+}
+
+149 = {
+	name = "Bedor"
+	culture = "guarani"
+}
+
+150 = {
+	name = "Caballo"
+	culture = "guarani"
+}
+
+151 = {
+	name = "Campuzano"
+	culture = "guarani"
+}
+
+152 = {
+	name = "Canizales"
+	culture = "guarani"
+}
+
+153 = {
+	name = "Capriel"
+	culture = "guarani"
+}
+
+154 = {
+	name = "De Jesus"
+	culture = "guarani"
+}
+
+155 = {
+	name = "Fulcar"
+	culture = "guarani"
+}
+
+156 = {
+	name = "Govea"
+	culture = "guarani"
+}
+
+157 = {
+	name = "Griminesa"
+	culture = "guarani"
+}
+
+158 = {
+	name = "Martinez"
+	culture = "guarani"
+}
+
+159 = {
+	name = "Naiza"
+	culture = "guarani"
+}
+
+160 = {
+	name = "Neico"
+	culture = "guarani"
+}
+
+161 = {
+	name = "Rulfo"
+	culture = "guarani"
+}
+
+162 = {
+	name = "Sarcos"
+	culture = "guarani"
+}
+
+163 = {
+	name = "Seres"
+	culture = "guarani"
+}
+
+164 = {
+	name = "Torriente"
+	culture = "guarani"
+}
+
+165 = {
+	name = "Uvalle"
+	culture = "guarani"
+}
+
+166 = {
+	name = "Villalba"
+	culture = "guarani"
+}
+
+167 = {
+	name = "Yesca"
+	culture = "guarani"
+}
+
+168 = {
+	name = "Yisselin"
+	culture = "guarani"
+}
+
+169 = {
+	name = "Zegarra"
+	culture = "guarani"
+}
+
+170 = {
+	name = "Aguiler"
+	culture = "guarani"
+}
+
+#Venezuelan Dynasties
+171 = {
+	name = "Amorena"
+	culture = "venezuelan"
+}
+
+172 = {
+	name = "Avienda"
+	culture = "venezuelan"
+}
+
+173 = {
+	name = "Achio"
+	culture = "venezuelan"
+}
+
+174 = {
+	name = "Acuna"
+	culture = "venezuelan"
+}
+
+175 = {
+	name = "Ailán"
+	culture = "venezuelan"
+}
+
+176 = {
+	name = "Alvalle"
+	culture = "venezuelan"
+}
+
+177 = {
+	name = "Arriva"
+	culture = "venezuelan"
+}
+
+178 = {
+	name = "Barrino"
+	culture = "venezuelan"
+}
+
+179 = {
+	name = "Bedor"
+	culture = "venezuelan"
+}
+
+180 = {
+	name = "Caballo"
+	culture = "venezuelan"
+}
+
+181 = {
+	name = "Campuzano"
+	culture = "venezuelan"
+}
+
+182 = {
+	name = "Canizales"
+	culture = "venezuelan"
+}
+
+183 = {
+	name = "Capriel"
+	culture = "venezuelan"
+}
+
+184 = {
+	name = "De Jesus"
+	culture = "venezuelan"
+}
+
+185 = {
+	name = "Fulcar"
+	culture = "venezuelan"
+}
+
+186 = {
+	name = "Govea"
+	culture = "venezuelan"
+}
+
+187 = {
+	name = "Griminesa"
+	culture = "venezuelan"
+}
+
+188 = {
+	name = "Martinez"
+	culture = "venezuelan"
+}
+
+189 = {
+	name = "Naiza"
+	culture = "venezuelan"
+}
+
+190 = {
+	name = "Neico"
+	culture = "venezuelan"
+}
+
+191 = {
+	name = "Rulfo"
+	culture = "venezuelan"
+}
+
+192 = {
+	name = "Sarcos"
+	culture = "venezuelan"
+}
+
+193 = {
+	name = "Seres"
+	culture = "venezuelan"
+}
+
+194 = {
+	name = "Torriente"
+	culture = "venezuelan"
+}
+
+195 = {
+	name = "Uvalle"
+	culture = "venezuelan"
+}
+
+196 = {
+	name = "Villalba"
+	culture = "venezuelan"
+}
+
+197 = {
+	name = "Yesca"
+	culture = "venezuelan"
+}
+
+198 = {
+	name = "Yisselin"
+	culture = "venezuelan"
+}
+
+199 = {
+	name = "Zegarra"
+	culture = "venezuelan"
+}
+
+200 = {
+	name = "Aguiler"
+	culture = "venezuelan"
+}
+
+#Argentine Dynasties
+201 = {
+	name = "Amorena"
+	culture = "argentine"
+}
+
+202 = {
+	name = "Avienda"
+	culture = "argentine"
+}
+
+203 = {
+	name = "Russo"
+	culture = "argentine"
+}
+
+204 = {
+	name = "Paz"
+	culture = "argentine"
+}
+
+205 = {
+	name = "Vega"
+	culture = "argentine"
+}
+
+206 = {
+	name = "Costa"
+	culture = "argentine"
+}
+
+207 = {
+	name = "Bruno"
+	culture = "argentine"
+}
+
+208 = {
+	name = "Romano"
+	culture = "argentine"
+}
+
+209 = {
+	name = "Morales"
+	culture = "argentine"
+}
+
+210 = {
+	name = "Rios"
+	culture = "argentine"
+}
+
+211 = {
+	name = "Miranda"
+	culture = "argentine"
+}
+
+212 = {
+	name = "Franco"
+	culture = "argentine"
+}
+
+213 = {
+	name = "Rey"
+	culture = "argentine"
+}
+
+214 = {
+	name = "Castillo"
+	culture = "argentine"
+}
+
+215 = {
+	name = "Campos"
+	culture = "argentine"
+}
+
+216 = {
+	name = "Bianchi"
+	culture = "argentine"
+}
+
+217 = {
+	name = "Luna"
+	culture = "argentine"
+}
+
+218 = {
+	name = "Correa"
+	culture = "argentine"
+}
+
+219 = {
+	name = "Ferreyra"
+	culture = "argentine"
+}
+
+220 = {
+	name = "Navarro"
+	culture = "argentine"
+}
+
+221 = {
+	name = "Quiroga"
+	culture = "argentine"
+}
+
+222 = {
+	name = "Colombo"
+	culture = "argentine"
+}
+
+223 = {
+	name = "Cohen"
+	culture = "argentine"
+}
+
+224 = {
+	name = "Pereira"
+	culture = "argentine"
+}
+
+225 = {
+	name = "Vera"
+	culture = "argentine"
+}
+
+226 = {
+	name = "Lorenzo"
+	culture = "argentine"
+}
+
+227 = {
+	name = "Gil"
+	culture = "argentine"
+}
+
+228 = {
+	name = "Santos"
+	culture = "argentine"
+}
+
+229 = {
+	name = "Delgado"
+	culture = "argentine"
+}
+
+230 = {
+	name = "Godoy"
+	culture = "argentine"
+}
+
+231 = {
+	name = "Rivas"
+	culture = "argentine"
+}
+
+232 = {
+	name = "Rivero"
+	culture = "argentine"
+}
+
+233 = {
+	name = "Gallo"
+	culture = "argentine"
+}
+
+234 = {
+	name = "Peralta"
+	culture = "argentine"
+}
+
+235 = {
+	name = "Soto"
+	culture = "argentine"
+}
+
+236 = {
+	name = "Figueroa"
+	culture = "argentine"
+}
+
+237 = {
+	name = "Juarez"
+	culture = "argentine"
+}
+
+238 = {
+	name = "Marino"
+	culture = "argentine"
+}
+
+239 = {
+	name = "Ponce"
+	culture = "argentine"
+}
+
+240 = {
+	name = "Calvo"
+	culture = "argentine"
+}
+
+241 = {
+	name = "Caceres"
+	culture = "argentine"
+}
+
+242 = {
+	name = "Romero"
+	culture = "argentine"
+}
+
+243 = {
+	name = "Carrizo"
+	culture = "argentine"
+}
+
+244 = {
+	name = "Vargas"
+	culture = "argentine"
+}
+
+245 = {
+	name = "Alguilar"
+	culture = "argentine"
+}
+
+246 = {
+	name = "Ledesma"
+	culture = "argentine"
+}
+
+247 = {
+	name = "Guzman"
+	culture = "argentine"
+}
+
+248 = {
+	name = "Soria"
+	culture = "argentine"
+}
+
+249 = {
+	name = "Villalba"
+	culture = "argentine"
+}
+
+250 = {
+	name = "Prieto"
+	culture = "argentine"
+}
+
+#Chilean Dynasties
+251 = {
+	name = "Maldonado"
+	culture = "chilean"
+}
+
+252 = {
+	name = "Garcia"
+	culture = "chilean"
+}
+
+253 = {
+	name = "Perez"
+	culture = "chilean"
+}
+
+254 = {
+	name = ""
+	culture = "chilean"
+}
+
+255 = {
+	name = "Guzman"
+	culture = "chilean"
+}
+
+256 = {
+	name = "Ortiz"
+	culture = "chilean"
+}
+
+257 = {
+	name = "Zuniga"
+	culture = "chilean"
+}
+
+258 = {
+	name = "Aguilera"
+	culture = "chilean"
+}
+
+259 = {
+	name = "Gallardo"
+	culture = "chilean"
+}
+
+260 = {
+	name = "Godoy"
+	culture = "chilean"
+}
+
+261 = {
+	name = "Orellana"
+	culture = "chilean"
+}
+
+262 = {
+	name = "Salazar"
+	culture = "chilean"
+}
+
+263 = {
+	name = "Garrido"
+	culture = "chilean"
+}
+
+264 = {
+	name = "Henriquez"
+	culture = "chilean"
+}
+
+265 = {
+	name = "Aravena"
+	culture = "chilean"
+}
+
+266 = {
+	name = "Pizarro"
+	culture = "chilean"
+}
+
+267 = {
+	name = "Saavedra"
+	culture = "chilean"
+}
+
+268 = {
+	name = "Sandoval"
+	culture = "chilean"
+}
+
+269 = {
+	name = "Caceres"
+	culture = "chilean"
+}
+
+270 = {
+	name = "Navarro"
+	culture = "chilean"
+}
+
+271 = {
+	name = "Salinas"
+	culture = "chilean"
+}
+
+272 = {
+	name = "Romero"
+	culture = "chilean"
+}
+
+273 = {
+	name = "Jimenez"
+	culture = "chilean"
+}
+
+274 = {
+	name = "Pena"
+	culture = "chilean"
+}
+
+275 = {
+	name = "Ruiz"
+	culture = "chilean"
+}
+
+276 = {
+	name = "Leiva"
+	culture = "chilean"
+}
+
+277 = {
+	name = "Cardenas"
+	culture = "chilean"
+}
+
+278 = {
+	name = "Parra"
+	culture = "chilean"
+}
+
+279 = {
+	name = "Bustos"
+	culture = "chilean"
+}
+
+280 = {
+	name = "Escobar"
+	culture = "chilean"
+}
+
+281 = {
+	name = "Vidal"
+	culture = "chilean"
+}
+
+282 = {
+	name = "Yanez"
+	culture = "chilean"
+}
+
+283 = {
+	name = "Lagos"
+	culture = "chilean"
+}
+
+284 = {
+	name = "Valdes"
+	culture = "chilean"
+}
+
+285 = {
+	name = "Donoso"
+	culture = "chilean"
+}
+
+286 = {
+	name = "Moreno"
+	culture = "chilean"
+}
+
+287 = {
+	name = "Carvajal"
+	culture = "chilean"
+}
+
+288 = {
+	name = "Medina"
+	culture = "chilean"
+}
+
+289 = {
+	name = "Alvarado"
+	culture = "chilean"
+}
+
+290 = {
+	name = "Bustamante"
+	culture = "chilean"
+}
+
+291 = {
+	name = "Pino"
+	culture = "chilean"
+}
+
+292 = {
+	name = "Pinto"
+	culture = "chilean"
+}
+
+293 = {
+	name = "Maldonado"
+	culture = "chilean"
+}
+
+294 = {
+	name = "Palma"
+	culture = "chilean"
+}
+
+295 = {
+	name = "Toro"
+	culture = "chilean"
+}
+
+296 = {
+	name = "Arriagada"
+	culture = "chilean"
+}
+
+297 = {
+	name = "Acuna"
+	culture = "chilean"
+}
+
+298 = {
+	name = "Arancibia"
+	culture = "chilean"
+}
+
+299 = {
+	name = "Cerda"
+	culture = "chilean"
+}
+
+300 = {
+	name = "Acevedo"
+	culture = "chilean"
+}
+
+#Portuguese Dynasties
+301 = {
+	name = "Guerrero"
+	culture = "portuguese"
+}
+
+302 = {
+	name = "Sanhueza"
+	culture = "portuguese"
+}
+
+303 = {
+	name = "Navarrete"
+	culture = "portuguese"
+}
+
+304 = {
+	name = "Aguilar"
+	culture = "portuguese"
+}
+
+305 = {
+	name = "Abreu"
+	culture = "portuguese"
+}
+
+306 = {
+	name = "Acosta"
+	culture = "portuguese"
+}
+
+307 = {
+	name = "Afonso"
+	culture = "portuguese"
+}
+
+308 = {
+	name = "Baros"
+	culture = "portuguese"
+}
+
+309 = {
+	name = "Barreto"
+	culture = "portuguese"
+}
+
+310 = {
+	name = "Basto"
+	culture = "portuguese"
+}
+
+311 = {
+	name = "Carrico"
+	culture = "portuguese"
+}
+
+312 = {
+	name = "Carris"
+	culture = "portuguese"
+}
+
+313 = {
+	name = "Carvalho"
+	culture = "portuguese"
+}
+
+314 = {
+	name = "Dos Santos"
+	culture = "portuguese"
+}
+
+315 = {
+	name = "Duarte"
+	culture = "portuguese"
+}
+
+316 = {
+	name = "Dutra"
+	culture = "portuguese"
+}
+
+317 = {
+	name = "Fidalgo"
+	culture = "portuguese"
+}
+
+318 = {
+	name = "Fiel"
+	culture = "portuguese"
+}
+
+319 = {
+	name = "Figueira"
+	culture = "portuguese"
+}
+
+320 = {
+	name = "Goncalves"
+	culture = "portuguese"
+}
+
+321 = {
+	name = "Gouveia"
+	culture = "portuguese"
+}
+
+322 = {
+	name = "Graca"
+	culture = "portuguese"
+}
+
+323 = {
+	name = "Jeronimo"
+	culture = "portuguese"
+}
+
+324 = {
+	name = "Joaquim"
+	culture = "portuguese"
+}
+
+325 = {
+	name = "Judice"
+	culture = "portuguese"
+}
+
+326 = {
+	name = "Linhares"
+	culture = "portuguese"
+}
+
+327 = {
+	name = "Lois"
+	culture = "portuguese"
+}
+
+328 = {
+	name = "Lomba"
+	culture = "portuguese"
+}
+
+329 = {
+	name = "Moniz"
+	culture = "portuguese"
+}
+
+330 = {
+	name = "Monserrate"
+	culture = "portuguese"
+}
+
+331 = {
+	name = "Montalto"
+	culture = "portuguese"
+}
+
+332 = {
+	name = "Naves"
+	culture = "portuguese"
+}
+
+333 = {
+	name = "Nazario"
+	culture = "portuguese"
+}
+
+334 = {
+	name = "Neto"
+	culture = "portuguese"
+}
+
+335 = {
+	name = "Oliveira"
+	culture = "portuguese"
+}
+
+336 = {
+	name = "Ornelas"
+	culture = "portuguese"
+}
+
+337 = {
+	name = "Osorio"
+	culture = "portuguese"
+}
+
+338 = {
+	name = "Peixoto"
+	culture = "portuguese"
+}
+
+339 = {
+	name = "Penso"
+	culture = "portuguese"
+}
+
+340 = {
+	name = "Pereira"
+	culture = "portuguese"
+}
+
+341 = {
+	name = "Quadros"
+	culture = "portuguese"
+}
+
+342 = {
+	name = "Quintal"
+	culture = "portuguese"
+}
+
+343 = {
+	name = "Quintela"
+	culture = "portuguese"
+}
+
+344 = {
+	name = "Rebelo"
+	culture = "portuguese"
+}
+
+345 = {
+	name = "Regalado"
+	culture = "portuguese"
+}
+
+346 = {
+	name = "Rego"
+	culture = "portuguese"
+}
+
+347 = {
+	name = "Santa"
+	culture = "portuguese"
+}
+
+348 = {
+	name = "Saraiva"
+	culture = "portuguese"
+}
+
+349 = {
+	name = "Sardinha"
+	culture = "portuguese"
+}
+
+350 = {
+	name = "Telles"
+	culture = "portuguese"
+}
+
+#Brazilian Dynasties
+351 = {
+	name = "Teves"
+	culture = "brazilian"
+}
+
+352 = {
+	name = "Texeira"
+	culture = "brazilian"
+}
+
+353 = {
+	name = "Vieyra"
+	culture = "brazilian"
+}
+
+354 = {
+	name = "Villela"
+	culture = "brazilian"
+}
+
+355 = {
+	name = "Moura"
+	culture = "brazilian"
+}
+
+356 = {
+	name = "Conceicao"
+	culture = "brazilian"
+}
+
+357 = {
+	name = "Mendes"
+	culture = "brazilian"
+}
+
+358 = {
+	name = "Borges"
+	culture = "brazilian"
+}
+
+359 = {
+	name = "Brito"
+	culture = "brazilian"
+}
+
+360 = {
+	name = "Paula"
+	culture = "brazilian"
+}
+
+361 = {
+	name = "Miranda"
+	culture = "brazilian"
+}
+
+362 = {
+	name = "Garcia"
+	culture = "brazilian"
+}
+
+363 = {
+	name = "Fonseca"
+	culture = "brazilian"
+}
+
+364 = {
+	name = "Barros"
+	culture = "brazilian"
+}
+
+365 = {
+	name = "Correa"
+	culture = "brazilian"
+}
+
+366 = {
+	name = "Leite"
+	culture = "brazilian"
+}
+
+367 = {
+	name = "Guimaraes"
+	culture = "brazilian"
+}
+
+368 = {
+	name = "Azevedo"
+	culture = "brazilian"
+}
+
+369 = {
+	name = "Monteiro"
+	culture = "brazilian"
+}
+
+370 = {
+	name = "Coelho"
+	culture = "brazilian"
+}
+
+371 = {
+	name = "Medeiros"
+	culture = "brazilian"
+}
+
+372 = {
+	name = "Faria"
+	culture = "brazilian"
+}
+
+373 = {
+	name = "Duarte"
+	culture = "brazilian"
+}
+
+374 = {
+	name = "Nogueira"
+	culture = "brazilian"
+}
+
+375 = {
+	name = "Morais"
+	culture = "brazilian"
+}
+
+376 = {
+	name = "Pinheiro"
+	culture = "brazilian"
+}
+
+377 = {
+	name = "Reis"
+	culture = "brazilian"
+}
+
+378 = {
+	name = "Matos"
+	culture = "brazilian"
+}
+
+379 = {
+	name = "Pires"
+	culture = "brazilian"
+}
+
+380 = {
+	name = "Macedo"
+	culture = "brazilian"
+}
+
+381 = {
+	name = "Camargo"
+	culture = "brazilian"
+}
+
+382 = {
+	name = "Siqueira"
+	culture = "brazilian"
+}
+
+383 = {
+	name = "Neves"
+	culture = "brazilian"
+}
+
+384 = {
+	name = "Queiroz"
+	culture = "brazilian"
+}
+
+385 = {
+	name = "Assis"
+	culture = "brazilian"
+}
+
+386 = {
+	name = "Aguiar"
+	culture = "brazilian"
+}
+
+387 = {
+	name = "Menezes"
+	culture = "brazilian"
+}
+
+388 = {
+	name = "Bezerra"
+	culture = "brazilian"
+}
+
+389 = {
+	name = "Magalhaes"
+	culture = "brazilian"
+}
+
+390 = {
+	name = "Farias"
+	culture = "brazilian"
+}
+
+391 = {
+	name = "Abreu"
+	culture = "brazilian"
+}
+
+392 = {
+	name = "Franca"
+	culture = "brazilian"
+}
+
+393 = {
+	name = "Amorim"
+	culture = "brazilian"
+}
+
+394 = {
+	name = "Viana"
+	culture = "brazilian"
+}
+
+395 = {
+	name = "Sobrinho"
+	culture = "brazilian"
+}
+
+396 = {
+	name = "Correia"
+	culture = "brazilian"
+}
+
+397 = {
+	name = "Braga"
+	culture = "brazilian"
+}
+
+398 = {
+	name = "Mendonca"
+	culture = "brazilian"
+}
+
+399 = {
+	name = "Figueiredo"
+	culture = "brazilian"
+}
+
+400 = {
+	name = "Tavares"
+	culture = "brazilian"
+}
+
+#Mexican Dynasties
+401 = {
+	name = "Xavier"
+	culture = "mexican"
+}
+
+402 = {
+	name = "Mello"
+	culture = "mexican"
+}
+
+403 = {
+	name = "Paiva"
+	culture = "mexican"
+}
+
+404 = {
+	name = "Mota"
+	culture = "mexican"
+}
+
+405 = {
+	name = "Abarca"
+	culture = "mexican"
+}
+
+406 = {
+	name = "Acosta"
+	culture = "mexican"
+}
+
+407 = {
+	name = "Aguado"
+	culture = "mexican"
+}
+
+408 = {
+	name = "Alonso"
+	culture = "mexican"
+}
+
+409 = {
+	name = "Arce"
+	culture = "mexican"
+}
+
+410 = {
+	name = "Barros"
+	culture = "mexican"
+}
+
+411 = {
+	name = "Belmonte"
+	culture = "mexican"
+}
+
+412 = {
+	name = "Blanco"
+	culture = "mexican"
+}
+
+413 = {
+	name = "Borja"
+	culture = "mexican"
+}
+
+414 = {
+	name = "Campos"
+	culture = "mexican"
+}
+
+415 = {
+	name = "Casal"
+	culture = "mexican"
+}
+
+416 = {
+	name = "Castellano"
+	culture = "mexican"
+}
+
+417 = {
+	name = "Cuesta"
+	culture = "mexican"
+}
+
+418 = {
+	name = "Espino"
+	culture = "mexican"
+}
+
+419 = {
+	name = "Flores"
+	culture = "mexican"
+}
+
+420 = {
+	name = "Fonseca"
+	culture = "mexican"
+}
+
+421 = {
+	name = "Fuentes"
+	culture = "mexican"
+}
+
+422 = {
+	name = "Gallegos"
+	culture = "mexican"
+}
+
+423 = {
+	name = "Gaspar"
+	culture = "mexican"
+}
+
+424 = {
+	name = "Guerra"
+	culture = "mexican"
+}
+
+425 = {
+	name = "Gutiérrez"
+	culture = "mexican"
+}
+
+426 = {
+	name = "Iglesias"
+	culture = "mexican"
+}
+
+427 = {
+	name = "María"
+	culture = "mexican"
+}
+
+428 = {
+	name = "Márquez"
+	culture = "mexican"
+}
+
+429 = {
+	name = "Molina"
+	culture = "mexican"
+}
+
+430 = {
+	name = "Nieves"
+	culture = "mexican"
+}
+
+431 = {
+	name = "Ochoa"
+	culture = "mexican"
+}
+
+432 = {
+	name = "Palomo"
+	culture = "mexican"
+}
+
+433 = {
+	name = "Quintana"
+	culture = "mexican"
+}
+
+434 = {
+	name = "Rivera"
+	culture = "mexican"
+}
+
+435 = {
+	name = "Robles"
+	culture = "mexican"
+}
+
+436 = {
+	name = "Rojas"
+	culture = "mexican"
+}
+
+437 = {
+	name = "Rubio"
+	culture = "mexican"
+}
+
+438 = {
+	name = "San Nicolás"
+	culture = "mexican"
+}
+
+439 = {
+	name = "Silva"
+	culture = "mexican"
+}
+
+440 = {
+	name = "Ortega"
+	culture = "mexican"
+}
