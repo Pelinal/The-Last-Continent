@@ -4,6 +4,34 @@
 ###															###
 ###############################################################
 
+## INDEX ##
+# Iberian:
+	# basque
+	# spanish
+	# colombian
+	# peruvian
+	# guarani
+	# venezuelan
+	# argentine
+	# chilean
+	# portuguese
+	# brazilian
+	# mexican
+## Francophone:
+	# french
+	# quebecois
+	# occitan
+## British:
+	# english
+	# american
+	# canadian
+	# zealander
+	# australian
+	# south_african
+	# welsh
+	# scottish
+	# jamaican
+
 iberian = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { occitangfx }
@@ -600,6 +628,72 @@ british = {
 		mat_grm_name_chance = 10
 		mother_name_chance = 5
 	}
+	
+	jamaican = {
+		graphical_cultures = { africangfx westerngfx }
+		
+		color = { 130 181 80 }
+		
+		male_names = {
+			Devon Winston Junior Leroy Fitzroy Teddy Mark Courtney Glenmore Desomond Glenroy Tony Clive Donavan Bunny Vance Vashan Vishon Waverly Umar 
+			Alton Oniel Sheldon Hopeton Horace Kenroy Kingsley Linford Livington Nigel Radcliff Renford Rohan Aaron Adam Adrian Adric Alex Alexander Algernon 
+			Alphonse Alwan Amadom Aman Amani Amber Amos Andre Andreas Andrew Anthone Anthony Antiere Antoine Antonio Aray Arcus Armstrong Autry Azibo Bailey Baron 
+			Barrington Bartt Ben Benjamin Benton Bevaun Billy Booker Bowie Bradley Brendon Busta Calbert Calvin Canard Carl Carnell Cartier Casim Cassius Cavin 
+			Chante Charles Charlie Christopher Clarence Clayton Cleavant Cleavon Clement Clendon Clester  Wayan Wendell Wesley Wilburn William Wardell Warwick 
+			Cleveland Clifton Clinton Cody Connor Cordell Corey Cornelius Cornell Cornia Daevin Daevon Dajon Dajuan Dallan Dallen Dalton Damarco Damon Damone
+			Dandrae Dandras Dangelo  Daniel Daquain Darel Darell Darik Darius Darnay Darnel Darrian Daryn Dauntay David Davion Dayton Deaengelo Deandra
+			Deandrae Deangelo De-Angelo Deaundra  Deaven Dedrian Deelon Dejohn Delane Delford Dell Delmar Delon Delonn Delroy Demaine Demarion Demery Demetrius
+			Demonde Demont De-Morris Dennard Denzel Deole Deon Dequain Deron De'ron Derrick Deshane Devain Deval Devan Deven Devondre Devontae Dewain Dewan 
+			Dexter Diondre Diron Dixon Dominic Donall Dontrell Dorsey Duane Dubal Duron Duval Dylan Eason Eddie Edgerin Edward Edward  Edwyn Eldrick Elliot 
+			Ellis Elton Emmet Ennis Ernard Erskine Ervan Ethan Evander Ewan Fayard Ferric Finlay Finley Garfield Garlan Garon George Gerain Geroy Ghana
+			Glover Godrell Grant Guyton Harrison Harry Harvey Hasan Henry Hosea Isaac Isiah Jacob Jake Jamaall Jamaar Jamal Jamar Jamarco Jamarr Jamel Jamero
+			James Jamie Janard Janile Jaquin Jared Jarek Jarel Jarell Jaric Jarmarr Jarrick Jarvis Jason Jaumar Javan Jay Jemarcus Jenell Jerom Jerome Jeron
+			Jerrick Jessan Jimar Jimarcus Joe Joel John John Jolice Jomo Jonathan Jonathon Jordan Jorell Joseph Josh Joshua Jovan Jude Judean Judge Kadema Kai
+			Kamau Karam Karlus Kasen Kaven Kaynard Keandre Keenan Keifer Kenard Kendell Kendrick Kenton Keon Keyair Keyon  Kian Kieran Kimbel Kojo Kordal Kordell
+			Kristion Kwamie Kyle Lamar Lamark Lamarr Lamont Lance Laran Larent Larice Larmar Laron Lasean Lasil Lason Lathan Latrell Latrivis Lavan Lavernus 
+			Ledell Lemar Lemarr Lemuel Leo Leon Leron Lester Levon Lewis Liam Lincoln Liron Lloyd Logan Louis Lovell Luca Lucas Lucius Luke Luther Lyron Major 
+			Malik Mancel Marcus Maron Marques Martel Martin Marvin Mason Matthew Max Michael Mikal Montel Montell Montez Nathan Natrick Nelson Nero Nicholas Noah
+			Norrece Odell Oliver Orpheus Oscar Otis Owen Patrice Patrick Peter Rachard Radd Ramell Randall Rashan Rashard Raymone Raynard Reggie Reggis Reshay 
+			Rhashan Robaire Robert Rodell Rodney Romain Romeo Romon Romone Romy Rondall Rondy Roscoe Rufus Ryan Sam Sammy Samuel Samuel Santana Sayon Scott Sean
+			Sean  Sebastian Sebastion Serek Shan Shandrel Shawnte Sheik Sherwin Sidell Simeon Smokey Souley Spencer Spike Steadman Sterlin Steve Stevie Sylvester 
+			Talin Tameron Taye Taylan Taylor Terell Terris Thomas Tion Toby Tom Travon Trayvon Trece Trejean Tremaine Trenton Treshaun Treven Trone Tupac Turell 
+			Twain Ty Tyjon Tyler Tyreck Tyree Tyreese Tyrek Tyrell Tyronne Tyrus 
+			Winton Wyclef Xavier Zachary 
+		}
+		female_names = {
+			Abigail Abrianna Adelaide Aiesha Aimee Aleale Alexandra Alice Alicia Alisa Alisha Alisha Althea Amarika Amber Amelia Amy Angelina Angelique Anna Aretha 
+			Aurelia Ayana Bertena Bertrise Bethany Breeon Breona Breonia Breyona Brianna Brie Briona Brione Brooke Bryah Butterfly Cantrice Carsandra Caryne Cassandra
+			Chantrelle Charlotte Charlotte Chemier Chloe Chrystyna Cleona Corine Courtney Cozzie Cyiarra Daisy Daloris Dana Danielle Danielle Dashay Davina Debara 
+			Deisha Delilah Desiree Desreta Destiny Devisha Dominique Dondrea Donna Dorsey Duchess Earlene Edwina Eleanor Eleasha Eleesha Elesha Elizabeth Ella Ellesha
+			Ellie Elois Eloise Emily Emma Erin Ernestine Eve Evie Eyana Ezola Fajah Fawn Francelle Francesca Freya Gardenia Gelisa Gemma Georgia Georgina Germaine Grace
+			Hannah Harriet Henrietta Hollie Holly Hosanna Hyacinth Imogen Isabel Isabella Isabelle Isobel Jacinta Jacquie Jade Jalissa Jamila Janeka Janice Jasmine Javina
+			Jelan Jennifer Jessica Jessica Joanne Jocelyn Jodie Joelle Kalisa Kalise Kate Katherine Katie Kea Keandra Keisha Kina Kiyana Kolonda Koyana Laketta Lakitia
+			Lakresha  Lakyta Lamesha Lameshia Lanecia Lara Lashaunta Lateia Lateica Laticia Latonya Latore Latoria Latorray Latoya Latreece Latreese Laura Lauren Leah
+			Lecia Lela Leonda Lesia Libby Lily Llysha Louella Louise Lucy Lydia Mabinty Machele Madeleine Maisie Malene Marietta Marisha Mattie Maurita Melcia Melea Melissa
+			Mercedes Mia Millie Mishon Molly Monette Morgan Mylandra Naomi Natalie Necie Nicole Nikkya Nyesha Octavia Odessa Olivia Ordena Ornella Paulina Phoebe Poppy
+			Precious Quanesha Quanesia Quansha Queisha Raca Rachel Rakesha Ramerra Rasheba Rashona Raven Rayhelle Rebecca Redonna Renatta Renell Resaunna Roshawna Rosie
+			Ruby Sakina Samantha Santianna Sapphire Saquina Sarah Seanna Secoiya Serena Shakeia Shakeina Shakia Shakina Shalesia Shalonna Shamecca Shandee Shandrice Shaneta
+			Shanise Shanish Shannel Shantair Shantaya Shantel Shantese Sharise Sharisha Sharonda Sharrita Shauna Shaundra Shekeia Shenice Sherece Sheree Shona Shonelle
+			Shontal Shontaya Shontecia Siarah Sierra Sophia Sophie Stephanie Stephonjia Tachell Taheisha Taisha Takecia Takeisha Takira Takola Talasia Taleisha Talicia Tameca
+			Tamecia Tamila Tandi Tanesa  Tanish Tany Tashaonda Tashelle Tashina Tasiya Tauni Tawanda Tawney Tawni Taye Tayshia Teana Teena Tegan Teja Tekeysia Teleisia Teona
+			Tia Tia Tiana Tiffany Tinecia Tinesha Tisha Tiyah T'kelah Tonya Toshelle Tracia Trae Tralena Traneise Travia Treina Tremelle Trina Trinika Trinique Tya Tyaishia
+			Tychell Tye Tylena Tyneice Tyonna Tyshell Valeria Vantrice Velena Vertise Victoria Viera Vondra Vonnie Vontriece Wakeisha Wandalyn Wilma Wygenia Wyndolyn Xaviera 
+			Yanika Yasmin Yevette YoLanda Zaierra Zara Zekia Zelda Zoe Zola 
+		}
+		from_dynasty_prefix = "of "
+		##bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+	}
 }
 
 celtic = {
@@ -663,7 +757,7 @@ celtic = {
 	
 	cornish = {
 		graphical_cultures = { celticgfx }
-		color = { 41 42 56 }
+		color = { 20 26 77 }
 		
 		male_names = {
 			Branek Branok Cador Cadwur Casworan Jago Jory Jowan Kenver Margh Massen Treeve Austol Austell Bryok Breok Clether Cleder Colan Colon De Day Gerens Goron Gorron Keneder Kenvern Madern 
@@ -680,7 +774,7 @@ celtic = {
 	old_welsh = {
 		graphical_cultures = { celticgfx }
 		
-		color = { 0.3 0.8 0.6 }
+		color = { 20 77 72 }
 
 		male_names = {
 			Adda Adgar_Edgar Adran_Adrian Aeddan_Hugh Alan_Alan Aldwr_Aldroenus Algwyn_Alwin Alisander_Alexander Alured_Alfred Alwyn_Alwin Anarawd
@@ -776,7 +870,7 @@ arabic = {
 	egyptian = {
 		graphical_cultures = { egyptiangfx levantinegfx arabicgfx muslimgfx }
 		
-		color = { 242 178 51 }
+		color = { 155 156 112 }
 
 		male_names = {
 			Aaron_Aaron Abanoub Abderahman_Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah_Abdullah
@@ -802,6 +896,51 @@ arabic = {
 		
 		dynasty_title_names = yes
 		founder_named_dynasties = yes
+
+		modifier = default_culture_modifier
+	}
+}
+
+greek_group = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
+	
+	greek = {
+		graphical_cultures = { byzantinegfx }
+		
+		color = { 172 116 149 }
+
+		male_names = {
+			Acamas Akamas Alekos Alexandros Alexei Alexis Alexius Anastasius Andreas Angelos Antonios Antonis Apostolos Aristophanes Athan Athanasius Charalambos Charis Christodoulos Christos
+			Chrysanthos Costas Damaskinos Damian Damion Damon Demetre Demetris Demitri Demitrios Dimitris Dimos Dorotheos Dysmas Eleutherios Elias Emmanouil Eustathius Evangelos Georgios Giorgos
+			Gregorios  Herakleitos Hermogenes Homeros Iakovos Ilias Ioannis Isidore Ivy Iason Iatros Iesous Ioseph Iosipos Sifis Kokos Konstantinos Kostis Lambros Leonidas Leontios Loukas Luca
+			Lycurgus Manolis Marcos Marios Matthaios Miltiades Nectarios Neoklis Nestor Nicephorus Nicetas Nikolaos Nikos Orestes Panagiotis Pantelis Paraskevas Paris Pavlos Perikles Petros Phaedon
+			Plutarch Ploutarhos Ploutarkhos Polychronis Poseidippos Pygmalion Rhomaion Sakis Simon Simeon Simoleon Simenonos Sotirios Sotiris Spiridon Spiro Spyro Spyridon Stathis Stavros Stelios 
+			Tassos Thaddeus Thanasis Thanos Themistocles Theodore Theodoros Theofanis Theophilus Therapont Timotheos Timoleon Ulysses Vassilios Vissarion Yannis Zenobios Zoilos
+			
+			# Added
+			Bartholomaios Bartolomaios Zenon Seleukos Cassandros
+		}
+		female_names = {
+			Alessia Alexandra Alina Amalia Amaryllis Anastasia Angeliki Angelina Anna Callisto (mythology) Carissa Carolina Cassandra Charis Chloe Christa Christina Christine Crino Cynthia Daphne
+			Deianira Despina Dina Dorothea Eftychia Ekaterini Elektra Elena Eleni Eliana Elina Elisa Eudoxia Euthemia Fotini Georgia Georgiana Helen Helena Helene Hermione Hero Hilda Ioanna Irene
+			Irina Ivy Julia Katerina Lena Lidia Lydia Margaret Maria Marianne Mary Medea Melania Melina Melissa Moira Nadia Natalia Nika Nikoleta Nikolina Nyx Olga Olivia Olympias Panorea Philippa
+			Phoebe Sandra Simonis Simona Sondra Sophia Sotiria Stamatia Stefania Stella Tatiana Theodora Valentina Valeria Vera Veronica Yianna Zenobia Zoe
+		}
+
+		from_dynasty_prefix = "of "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 5
+		mat_grf_name_chance = 5
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 5
+		mat_grm_name_chance = 5
+		mother_name_chance = 0
+		
+		disinherit_from_blinding = yes
 
 		modifier = default_culture_modifier
 	}
@@ -857,7 +996,7 @@ slavic = {
 	ukrainian = {
 		graphical_cultures = { easternslavicgfx }
 		
-		color = {  }
+		color = { 95 95 255 }
 		alternate_start = {
 			OR = {
 				year >= 800
@@ -1159,6 +1298,7 @@ chinese_group = {
 unihabited_grp = {
 	alternate_start = { always = no }
 	graphical_cultures = { westerngfx }
+	#playable = no
 	
 	uninhabited = {
 		graphical_cultures = { westerngfx }

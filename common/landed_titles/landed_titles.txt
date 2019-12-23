@@ -1187,17 +1187,17 @@ e_antarctandes = {
 			
 			capital = 77 # Tierney
 			
-			welsh = "Ynys Tomos"
+			old_welsh = "Ynys Tomos"
 			
 			c_flying_fish = { # max settlements = 4
 				color = { 179 98 0 }
 				color2 = {255 255 255}
 				
-				welsh = "Lledeheuol"
+				old_welsh = "Lledeheuol"
 				
 			
 				b_flying_fish = {
-					welsh = "Lledeheuol"
+					old_welsh = "Lledeheuol"
 				}
 				b_petersen = {}
 				b_simpson = {}
@@ -1210,10 +1210,10 @@ e_antarctandes = {
 				color = { 179 135 0 }
 				color2 = {255 255 255}
 								
-				welsh = "Morgannwg"
+				old_welsh = "Morgannwg"
 			
 				b_williamson = {
-					welsh = "Morgannwg"
+					old_welsh = "Morgannwg"
 				}
 				b_tinglof = {}
 				b_king_th = {}
@@ -1227,10 +1227,10 @@ e_antarctandes = {
 				color = { 236 183 131 }
 				color2 = {255 255 255}
 								
-				welsh = "Haenaay"
+				old_welsh = "Haenaay"
 				
 				b_tierney = {
-					welsh = "Haenaay"
+					old_welsh = "Haenaay"
 				}
 				b_evans = {} 
 				b_lofgren = {} 
@@ -1244,10 +1244,10 @@ e_antarctandes = {
 				color = { 112 95 67 }
 				color2 = {255 255 255}
 				
-				welsh = "Newydd"
+				old_welsh = "Newydd"
 				
 				b_noville = {
-					welsh = "Newydd"
+					old_welsh = "Newydd"
 				}
 				b_peale = {}
 				b_ball = {}

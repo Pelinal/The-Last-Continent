@@ -1,0 +1,66 @@
+### Antarctica - Religions' Localisation File ###
+
+
+POLITICIAN;Politician;;;;;;;;;;;;x
+democractic;Democractic;;;;;;;;;;;;x
+SPREAD_DEMOCRACY;War to Spread Democracy;;;;;;;;;;;;x
+THE_CONSTITUTION;The Constitution;;;;;;;;;;;;x
+VAL_SOLIDARITY;Solidarity;;;;;;;;;;;;x
+VAL_FAMILISM;Familism;;;;;;;;;;;;x
+VAL_THE_RULE_OF_LAW;the Rule of Law;;;;;;;;;;;;x
+VAL_CIVIL_SOCIETY;Civil Society;;;;;;;;;;;;x
+VAL_PRIVATE_PROPERTY;Private Property;;;;;;;;;;;;x
+conservative;Conservative;;;;;;;;;;;;x
+conservative_full;Conservative;;;;;;;;;;;;x
+conservative_DESC;Conservatism is a political philosophy promoting traditional social institutions in the context of culture and civilization. The central tenets of conservatism include tradition, organic society, hierarchy, authority, and property rights. Conservatives seek to preserve a range of institutions such as religion and parliamentary government with the aim of emphasizing social stability and continuity.\n;;;;;;;;;;;;x
+CONSERVATISM;Conservatism;;;;;;;;;;;;x
+DER_SOZIALDEMOKRAT;Der Sozialdemokrat;;;;;;;;;;;;x
+VAL_CIVIL_LIBERTIES;Civil Liberties;;;;;;;;;;;;x
+VAL_ENVIROMENTALISM;Environmentalism;;;;;;;;;;;;x
+VAL_LABOUR_RIGHTS;Labour Rights;;;;;;;;;;;;x
+VAL_NATIONALISATION;Nationalisation;;;;;;;;;;;;x
+VAL_WELFARE_STATE;Welfare State;;;;;;;;;;;;x
+social_democratic;Social Democrat;;;;;;;;;;;;x
+social_democratic_full;Social Democratic;;;;;;;;;;;;x
+social_democratic_DESC;Social democracy is an ideology that supports economic and social interventions to promote social justice within a liberal democratic polity and capitalist economy. The protocols and norms used to accomplish this involve a commitment to representative and participatory democracy, measures for income redistribution, regulation of the economy in the general interest and social welfare provisions.\n;;;;;;;;;;;;x
+SOCIAL_DEMOCRACY;Social Democracy;;;;;;;;;;;;x
+THE_BILL_OF_RIGHTS;The Bill of Rights;;;;;;;;;;;;x
+VAL_OPEN_SOCIETY;Open Society;;;;;;;;;;;;x
+VAL_MARKET_ECONOMY;Market Economy;;;;;;;;;;;;x
+VAL_POLITICAL_FREEDOMS;Political Freedoms;;;;;;;;;;;;x
+liberal_democratic;Liberal Democrat;;;;;;;;;;;;x
+liberal_democratic_full;Liberal Democratic;;;;;;;;;;;;x
+liberal_democratic_DESC;A liberal democracy is where representative democracy operates under the principles of classical liberalism. It is characterised by elections between multiple distinct political parties, a separation of powers into different branches of government, the rule of law in everyday life as part of an open society, a market economy with private property and the equal protection of human rights, civil rights, civil liberties and political freedoms for all people.\n;;;;;;;;;;;;x
+LIBERAL_DEMOCRACY;Liberal Democracy;;;;;;;;;;;;x
+PRINCIPLES_OF_POLITICAL_ECONOMY;Principles of Political Economy;;;;;;;;;;;;x
+VAL_SOCIAL_REFORM;Social Reform;;;;;;;;;;;;x
+VAL_ECONOMIC_DEVELOPMENT;Economic Development;;;;;;;;;;;;x
+VAL_FREEDOM_OF_MOVEMENT;Freedom of Movement;;;;;;;;;;;;x
+VAL_SOCIAL_ORGANISATION;Social Organisation;;;;;;;;;;;;x
+VAL_TECHNOLOGICAL_PROGRESS;Technological Progress;;;;;;;;;;;;x
+VAL_IDEA_OF_PROGRESS;the Idea of Progress;;;;;;;;;;;;x
+progressive;Progressive;;;;;;;;;;;;x
+progressive_full;Progressive;;;;;;;;;;;;x
+progressive_DESC;Progressivism is the support for or advocacy of social reform. As a philosophy, it is based on the idea of progress, which asserts that advancements in science, technology, economic development and social organization are vital to the improvement of the human condition.\n;;;;;;;;;;;;x
+PROGRESSIVISM;Progressivism;;;;;;;;;;;;x
+WOMENS_RIGHTS_AND_MENS_INJUSTICE;Womens' Rights and Mens' Injustice;;;;;;;;;;;;x
+VAL_WOMENS_RIGHTS;Womens' Rights;;;;;;;;;;;;x
+VAL_EQUALITY_OF_SEXES;Equality of the Sexes;;;;;;;;;;;;x
+VAL_SOCIAL_JUSTICE;Social Justice;;;;;;;;;;;;x
+VAL_EQUAL_PAY;Equal Pay;;;;;;;;;;;;x
+VAL_MATRIACHY;Matriarchy;;;;;;;;;;;;x
+feminist;Feminist;;;;;;;;;;;;x
+feminist_full;Feminist;;;;;;;;;;;;x
+feminist_DESC;Feminism is a range of social movements, political movements, and ideologies that aim to define, establish, and achieve the political, economic, personal, and social equality of the sexes.[a][2][3][4][5] Feminism incorporates the position that societies prioritize the male point of view, and that women are treated unfairly within those societies.\n;;;;;;;;;;;;x
+FEMINISM;Feminism;;;;;;;;;;;;x
+LE_LIBERTAIRE;Le Libertaire;;;;;;;;;;;;x
+VAL_POLITICAL_FREEDOM;Political Freedom;;;;;;;;;;;;x
+VAL_ANTI_AUTHORITARIANISM;Anti-Authoritarianism;;;;;;;;;;;;x
+VAL_DECENTRALISIATION;Decentralisation;;;;;;;;;;;;x
+VAL_SELF_GOVERNANCE;Self Governance;;;;;;;;;;;;x
+VAL_FREE_MARKET;Free Market;;;;;;;;;;;;x
+VAL_CIVIL_DISOBEDIENCE;Civil Disobedience;;;;;;;;;;;;x
+libertarian;Libertarian;;;;;;;;;;;;x
+libertarian_full;Libertarian;;;;;;;;;;;;x
+libertarian_DESC;;;;;;;;;;;;;x
+

@@ -3,7 +3,13 @@ title = c_wais_divide
 max_settlements = 5
 
 # Baronies
-	b_barre = tribal
+	b_wais_divide = tribal
+	#b_kero = {}
+	#b_skywalker = {}
+	#b_solaris = {}
+	
+	## excuse me wat
+	#b_barre = tribal
 	#b_chicopee
 	#b_marion
 	#b_belle_glade
