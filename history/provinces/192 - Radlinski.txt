@@ -4,11 +4,11 @@ max_settlements = 6
 
 # Baronies
 	b_radlinski = tribal
-	b_seelig = {}
-	b_chapman = {}
-	b_shalakusha = {}
-	b_kamyshin = {}
-	b_zelenogorsk = {}    
+	#b_seelig = {}
+	#b_chapman = {}
+	#b_shalakusha = {}
+	#b_kamyshin = {}
+	#b_zelenogorsk = {}    
 	
 # Misc
 culture = uninhabited

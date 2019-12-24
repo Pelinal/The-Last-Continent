@@ -6,8 +6,8 @@ max_settlements = 5
 	b_heritage = city
 	b_slough = city
 	b_fjordsan = temple
-	b_frostworth = {}
-	b_locharch = {}
+	#b_frostworth = {}
+	#b_locharch = {}
 
 # Misc
 culture = english

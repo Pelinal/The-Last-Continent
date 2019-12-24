@@ -3,8 +3,8 @@ title = c_falcatifolium
 max_settlements = 6
 
 # Baronies
-	b_falactifolium = tribal
-    #b_homer = {}
+	b_falcatifolium = tribal
+    #b_humus = {}
     #b_kingman = {}
     #b_nome = {}   
 # Misc

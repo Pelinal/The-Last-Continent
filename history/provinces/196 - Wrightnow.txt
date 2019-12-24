@@ -3,7 +3,7 @@ title = c_wrightnow
 max_settlements = 6
 
 # Baronies
-	b_wrigtnow = city
+	b_wrightnow = city
 	b_laguna_verde = castle
 	b_la_estrella = temple
 	#b_pelarco = {}

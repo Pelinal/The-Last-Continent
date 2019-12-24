@@ -4,9 +4,9 @@ max_settlements = 4
 
 # Baronies
 	b_ivywood = tribal
-	b_anniston = {}
-	b_marion = {}
-	b_sheffield = {}
+	#b_anniston = {}
+	#b_marion = {}
+	#b_sheffield = {}
 # Misc
 culture = uninhabited
 religion = none

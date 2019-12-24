@@ -2,9 +2,9 @@
 title = c_fossil_bluff
 max_settlements = 7
 # Baronies
-	b_fossil_bluff = temple
+	b_fossil_bluff = castle
 	b_skiway = city
-	b_twin_otters = castle
+	b_twin_otters = temple
 	#b_giza = {}
 	#b_tescos = {}
 	#b_pearce = {}

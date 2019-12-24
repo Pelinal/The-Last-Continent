@@ -922,7 +922,7 @@ greek_group = {
 			Bartholomaios Bartolomaios Zenon Seleukos Cassandros
 		}
 		female_names = {
-			Alessia Alexandra Alina Amalia Amaryllis Anastasia Angeliki Angelina Anna Callisto (mythology) Carissa Carolina Cassandra Charis Chloe Christa Christina Christine Crino Cynthia Daphne
+			Alessia Alexandra Alina Amalia Amaryllis Anastasia Angeliki Angelina Anna Callisto Carissa Carolina Cassandra Charis Chloe Christa Christina Christine Crino Cynthia Daphne
 			Deianira Despina Dina Dorothea Eftychia Ekaterini Elektra Elena Eleni Eliana Elina Elisa Eudoxia Euthemia Fotini Georgia Georgiana Helen Helena Helene Hermione Hero Hilda Ioanna Irene
 			Irina Ivy Julia Katerina Lena Lidia Lydia Margaret Maria Marianne Mary Medea Melania Melina Melissa Moira Nadia Natalia Nika Nikoleta Nikolina Nyx Olga Olivia Olympias Panorea Philippa
 			Phoebe Sandra Simonis Simona Sondra Sophia Sotiria Stamatia Stefania Stella Tatiana Theodora Valentina Valeria Vera Veronica Yianna Zenobia Zoe

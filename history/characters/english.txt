@@ -1,0 +1,15 @@
+# English chars
+
+696969 = {
+	name = "Joshua"
+	dynasty = 6969 # Tabner
+	culture = english
+	religion = conservative
+	
+	2100.1.1 = {
+		birth = yes
+	}
+	2190.1.1 = {
+		death = yes
+	}
+}

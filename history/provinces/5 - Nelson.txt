@@ -3,9 +3,9 @@ title = c_nelson
 max_settlements = 5
 
 # Baronies
-	b_eco_nelson = temple
-	b_great_wall = castle
 	b_maldonado = city
+	b_great_wall = castle
+	b_eco_nelson = temple
 	#b_risopatron = {}
 	#b_greenwich = {}
 	

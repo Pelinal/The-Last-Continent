@@ -3,7 +3,7 @@ title = c_the_breach
 max_settlements = 3
 
 # Baronies
-	b_the_breach = {}
+	b_the_breach = tribal
 	#b_longtrail = {}
 	#b_flatlake = {}
 	#b_stonerun = {}

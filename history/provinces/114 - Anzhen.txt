@@ -3,10 +3,10 @@ title = c_anzhen
 max_settlements = 4
 
 # Baronies
-	b_anzhen = temple
-	b_taimian = city
+	b_anzhen = city
+	b_taimian = castle
 	#b_lasiweijiasi
-	#b_Jiujinshan
+	#b_jiujinshan
 # Misc
 culture = chinese
 religion = corporate

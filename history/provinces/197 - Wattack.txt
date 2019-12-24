@@ -1,14 +1,15 @@
 # 197 - Wattack
 title = c_wattack
-max_settlements = 6
+max_settlements = 4
 
 # Baronies
-	b_wrigtnow = city
+	b_wattack = castle
 	b_lloca = city
-	b_tongoy = castle
-	b_putre = temple
-	#b_malloa = {}
-	#b_lolol = {}
+	b_tongoy = temple
+	#b_putre = temple
+	#b_malloa = castle
+	#b_lolol = castle
+	
 # Misc
 culture = chilean
 religion = radical

@@ -3,7 +3,7 @@ title = c_esperanza
 max_settlements = 5
 
 # Baronies
-	b_esperanza = temple
+	b_esperanza = city
 	b_duse = city
 	b_elichiribehety = castle
 	b_cape_kjellman = temple

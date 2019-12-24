@@ -4,10 +4,10 @@ max_settlements = 4
 
 # Baronies
 	b_linck = tribal
-	b_tombstone = {}
-	b_magnolia = {}
-	b_rogers = {}
-	b_zelda = {}
+	#b_tombstone = {}
+	#b_magnolia = {}
+	#b_rogers = {}
+	#b_zelda = {}
 	
 # Misc
 culture = uninhabited

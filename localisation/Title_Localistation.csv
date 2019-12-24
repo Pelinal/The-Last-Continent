@@ -1,4 +1,4 @@
-e_antartica;Antartica;;;;;;;;;;;;x
+e_antarctica;Antarctica;;;;;;;;;;;;x
 e_antarctandes;Antarctandes;;;;;;;;;;;;x
 k_wales;Wales;;;;;;;;;;;;x
 k_kemet;Kemet;;;;;;;;;;;;x
@@ -7,16 +7,16 @@ d_falklands;Falklands;;;;;;;;;;;;x
 d_south_orkney;South Orkney;;;;;;;;;;;;x
 d_trinity;Trinity;;;;;;;;;;;;x
 b_andersson_island;Andersson Island;;;;;;;;;;;;x
-b_o_higgins;O Higgins;;;;;;;;;;;;x
+b_o_higgins;O'Higgins;;;;;;;;;;;;x
 b_astrolabe;Astrolabe;;;;;;;;;;;;x
 b_botany_bay;Botany Bay;;;;;;;;;;;;x
 b_bransfield;Bransfield;;;;;;;;;;;;x
-b_trinity_island;Trinity Island;;;;;;;;;;;;x
+b_trinity_island;Triniton;;;;;;;;;;;;x
 b_primavera;Primavera;;;;;;;;;;;;x
 b_deception;Deception;;;;;;;;;;;;x
 b_tower_island;Tower Island;;;;;;;;;;;;x
 b_san_nicolas;San Nicolas;;;;;;;;;;;;x
-b_cape_longing;Cape Longing;;;;;;;;;;;;x
+b_cape_longing;Longing;;;;;;;;;;;;x
 b_earsen;Earsen;;;;;;;;;;;;x
 b_gustavia;Gustavia;;;;;;;;;;;;x
 b_petrel;Petrel;;;;;;;;;;;;x
@@ -38,7 +38,7 @@ b_mann;Mann;;;;;;;;;;;;x
 b_camara;Camara;;;;;;;;;;;;x
 b_ohridski;Ohridski;;;;;;;;;;;;x
 b_juan_carlos;Juan Carlos;;;;;;;;;;;;x
-b_eco_nelson;Eco Nelson;;;;;;;;;;;;x
+b_eco_nelson;Eco-Nelson;;;;;;;;;;;;x
 b_risopatron;Risopatron;;;;;;;;;;;;x
 b_great_wall;Great Wall;;;;;;;;;;;;x
 b_maldonado;Maldonado;;;;;;;;;;;;x
@@ -83,18 +83,18 @@ b_tunstead;Tunstead;;;;;;;;;;;;x
 b_adie;Adie;;;;;;;;;;;;x
 b_churchill;Churchill;;;;;;;;;;;;x
 b_jason;Jason;;;;;;;;;;;;x
-b_cape_dissapointment;Cape Dissapointment;;;;;;;;;;;;x
+b_cape_dissapointment;Dissapointment;;;;;;;;;;;;x
 b_alexanera;Alexanera;;;;;;;;;;;;x
 b_foyn;Foyn;;;;;;;;;;;;x
 b_teresita;Teresita;;;;;;;;;;;;x
 b_cabinet;Cabinet;;;;;;;;;;;;x
 b_colestead;Colestead;;;;;;;;;;;;x
 b_brown;Brown;;;;;;;;;;;;x
-b_cpt_cobben;Cpt Cobben;;;;;;;;;;;;x
+b_cpt_cobben;Cpt. Cobben;;;;;;;;;;;;x
 b_pittham;Pittham;;;;;;;;;;;;x
-b_fort_oriley;Fort Oriley;;;;;;;;;;;;x
+b_fort_oriley;Fort O'Riley;;;;;;;;;;;;x
 d_palmer;Palmer;;;;;;;;;;;;x
-b_palmer_station;Palmer Station;;;;;;;;;;;;x
+b_palmer_station;Palmer;;;;;;;;;;;;x
 b_anvers;Anvers;;;;;;;;;;;;x
 b_bismarck;Bismarck;;;;;;;;;;;;x
 b_mcdonald;Mcdonald;;;;;;;;;;;;x
@@ -158,7 +158,7 @@ b_wilkins;Wilkins;;;;;;;;;;;;x
 b_collier;Collier;;;;;;;;;;;;x
 b_hearst;Hearst;;;;;;;;;;;;x
 b_agassiz;Agassiz;;;;;;;;;;;;x
-b_mobiloil;Mobil Oil;;;;;;;;;;;;x
+b_mobiloil;Mobiloil;;;;;;;;;;;;x
 b_boggs;Boggs;;;;;;;;;;;;x
 b_jeremy;Jeremy;;;;;;;;;;;;x
 b_bugge;Bugge;;;;;;;;;;;;x
@@ -209,7 +209,7 @@ b_bowman;Bowman;;;;;;;;;;;;x
 b_adams;Adams;;;;;;;;;;;;x
 b_wetmore;Wetmore;;;;;;;;;;;;x
 b_copper_nunataks;Copper Nunataks;;;;;;;;;;;;x
-b_latady_mts;Latady Mts;;;;;;;;;;;;x
+b_latady_mts;Latadies;;;;;;;;;;;;x
 b_veers;Veers;;;;;;;;;;;;x
 b_spear;Spear;;;;;;;;;;;;x
 b_hauberg;Hauberg;;;;;;;;;;;;x
@@ -227,7 +227,7 @@ b_sweeny;Sweeny;;;;;;;;;;;;x
 b_seward;Seward;;;;;;;;;;;;x
 b_jorge;Jorge;;;;;;;;;;;;x
 b_pretticold;Pretticold;;;;;;;;;;;;x
-d_alexander_island;Alexander Island;;;;;;;;;;;;x
+d_alexander_island;Alejandero;;;;;;;;;;;;x
 b_soyuz;Soyuz;;;;;;;;;;;;x
 b_lazarev;Lazarev;;;;;;;;;;;;x
 b_rothschild;Rothschild;;;;;;;;;;;;x
@@ -262,7 +262,7 @@ b_le_may;Le May;;;;;;;;;;;;x
 k_ellsworth;Ellsworth;;;;;;;;;;;;x
 d_new_scilly;New Scilly;;;;;;;;;;;;x
 b_spaatz;Spaatz;;;;;;;;;;;;x
-b_de_atley;De Atley;;;;;;;;;;;;x
+b_de_atley;DeAtley;;;;;;;;;;;;x
 b_grimsby;Grimsby;;;;;;;;;;;;x
 b_crumble;Crumble;;;;;;;;;;;;x
 b_yougney;Yougney;;;;;;;;;;;;x
@@ -318,9 +318,9 @@ b_fowler;Fowler;;;;;;;;;;;;x
 b_nunataka;Nunataka;;;;;;;;;;;;x
 b_flintdrift;Flintdrift;;;;;;;;;;;;x
 b_washingtown;Washingtown;;;;;;;;;;;;x
-b_sky_hi;Sky Hi;;;;;;;;;;;;x
+b_sky_hi;Sky-Hi;;;;;;;;;;;;x
 b_cloudsedge;Cloudsedge;;;;;;;;;;;;x
-b_mcarthur;Mcarthur;;;;;;;;;;;;x
+b_mcarthur;McArthur;;;;;;;;;;;;x
 b_albany;Albany;;;;;;;;;;;;x
 b_hannover;Hannover;;;;;;;;;;;;x
 b_sealand;Sealand;;;;;;;;;;;;x
@@ -367,7 +367,7 @@ b_dendtler;Dendtler;;;;;;;;;;;;x
 b_venablea;Venablea;;;;;;;;;;;;x
 b_farwell;Farwell;;;;;;;;;;;;x
 b_anderson;Anderson;;;;;;;;;;;;x
-b_ncnamara;Ncnamara;;;;;;;;;;;;x
+b_ncnamara;McNamara;;;;;;;;;;;;x
 b_johnson;Johnson;;;;;;;;;;;;x
 b_dustin;Dustin;;;;;;;;;;;;x
 b_farspear;Farspear;;;;;;;;;;;;x
@@ -391,7 +391,7 @@ b_henry;Henry;;;;;;;;;;;;x
 b_davies;Davies;;;;;;;;;;;;x
 b_williamson;Williamson;;;;;;;;;;;;x
 b_tinglof;Tinglof;;;;;;;;;;;;x
-b_king_th;King Th;;;;;;;;;;;;x
+b_king_th;King;;;;;;;;;;;;x
 b_wagoner;Wagoner;;;;;;;;;;;;x
 b_kearns;Kearns;;;;;;;;;;;;x
 b_potaka;Potaka;;;;;;;;;;;;x
@@ -408,7 +408,7 @@ b_peale;Peale;;;;;;;;;;;;x
 b_ball;Ball;;;;;;;;;;;;x
 b_murphy;Murphy;;;;;;;;;;;;x
 b_koether;Koether;;;;;;;;;;;;x
-b_o_dowd;O Dowd;;;;;;;;;;;;x
+b_o_dowd;O'Dowd;;;;;;;;;;;;x
 b_parker;Parker;;;;;;;;;;;;x
 d_amazon;Amazon;;;;;;;;;;;;x
 b_canisteo;Canisteo;;;;;;;;;;;;x
@@ -451,12 +451,12 @@ b_kindle;Kindle;;;;;;;;;;;;x
 b_audible;Audible;;;;;;;;;;;;x
 b_joyo;Joyo;;;;;;;;;;;;x
 b_comixology;Comixology;;;;;;;;;;;;x
-b_createspace;Createspace;;;;;;;;;;;;x
+b_createspace;CreateSpace;;;;;;;;;;;;x
 b_brilliance;Brilliance;;;;;;;;;;;;x
 b_eero;Eero;;;;;;;;;;;;x
 b_alexa;Alexa;;;;;;;;;;;;x
 b_robotica;Robotica;;;;;;;;;;;;x
-b_lab126;Lab126;;;;;;;;;;;;x
+b_lab126;Lab 126;;;;;;;;;;;;x
 b_kuiper;Kuiper;;;;;;;;;;;;x
 b_ring;Ring;;;;;;;;;;;;x
 b_shelfair;Shelfair;;;;;;;;;;;;x
@@ -466,8 +466,8 @@ b_ninja;Ninja;;;;;;;;;;;;x
 b_florry;Florry;;;;;;;;;;;;x
 b_kusailix;Kusailix;;;;;;;;;;;;x
 b_souq;Souq;;;;;;;;;;;;x
-b_wholefood;Wholefood;;;;;;;;;;;;x
-b_healthnav;Healthnav;;;;;;;;;;;;x
+b_wholefood;Wholefoods;;;;;;;;;;;;x
+b_healthnav;HealthNav;;;;;;;;;;;;x
 d_primiteva;Primiteva;;;;;;;;;;;;x
 b_thoreau;Thoreau;;;;;;;;;;;;x
 b_woodcock;Woodcock;;;;;;;;;;;;x
@@ -553,12 +553,12 @@ b_overrated;Overrated;;;;;;;;;;;;x
 b_obama;Obama;;;;;;;;;;;;x
 b_takahe;Takahe;;;;;;;;;;;;x
 b_sundown;Sundown;;;;;;;;;;;;x
-b_petes_shack;Petes Shack;;;;;;;;;;;;x
+b_petes_shack;Pete's Shack;;;;;;;;;;;;x
 b_shrekloo;Shrekloo;;;;;;;;;;;;x
 b_bear;Bear;;;;;;;;;;;;x
 b_kobler;Kobler;;;;;;;;;;;;x
 b_murphie;Murphie;;;;;;;;;;;;x
-b_smith_2;Smith 2;;;;;;;;;;;;x
+b_smith_2;Smith;;;;;;;;;;;;x
 b_capeport;Capeport;;;;;;;;;;;;x
 b_inlettia;Inlettia;;;;;;;;;;;;x
 b_thwaites;Thwaites;;;;;;;;;;;;x
@@ -623,7 +623,7 @@ b_alexandria;Alexandria;;;;;;;;;;;;x
 b_lakerville;Lakerville;;;;;;;;;;;;x
 b_southfold;Southfold;;;;;;;;;;;;x
 b_chong;Chong;;;;;;;;;;;;x
-b_wais_divide;Wais Divide;;;;;;;;;;;;x
+b_wais_divide;WAIS Divide;;;;;;;;;;;;x
 b_kero;Kero;;;;;;;;;;;;x
 b_skywalker;Skywalker;;;;;;;;;;;;x
 b_solaris;Solaris;;;;;;;;;;;;x
@@ -667,7 +667,7 @@ b_landbay;Landbay;;;;;;;;;;;;x
 b_groves;Groves;;;;;;;;;;;;x
 b_cruzen;Cruzen;;;;;;;;;;;;x
 b_sevetsky;Sevetsky;;;;;;;;;;;;x
-b_hull_korpus;Hull Korpus;;;;;;;;;;;;x
+b_hull_korpus;Hull;;;;;;;;;;;;x
 b_shirley;Shirley;;;;;;;;;;;;x
 b_newman;Newman;;;;;;;;;;;;x
 b_roza;Roza;;;;;;;;;;;;x
@@ -683,10 +683,10 @@ b_gagarin;Gagarin;;;;;;;;;;;;x
 b_husky;Husky;;;;;;;;;;;;x
 b_nuukaqut;Nuukaqut;;;;;;;;;;;;x
 b_flood;Flood;;;;;;;;;;;;x
-b_bursey_flood;Bursey Flood;;;;;;;;;;;;x
+b_bursey_flood;Bursey;;;;;;;;;;;;x
 b_moulton;Moulton;;;;;;;;;;;;x
 b_berlin;Berlin;;;;;;;;;;;;x
-b_wrigley_2;Wrigley 2;;;;;;;;;;;;x
+b_wrigley_2;Wrigley;;;;;;;;;;;;x
 b_dean;Dean;;;;;;;;;;;;x
 b_grant;Grant;;;;;;;;;;;;x
 b_shepard;Shepard;;;;;;;;;;;;x
@@ -719,7 +719,7 @@ b_chuggington;Chuggington;;;;;;;;;;;;x
 b_lancaster;Lancaster;;;;;;;;;;;;x
 b_south_bern;South Bern;;;;;;;;;;;;x
 d_pogranich;Pogranich;;;;;;;;;;;;x
-b_mermansk;Mermansk;;;;;;;;;;;;x
+b_mermansk;Murmansk;;;;;;;;;;;;x
 b_volsk;Volsk;;;;;;;;;;;;x
 b_sulzberger;Sulzberger;;;;;;;;;;;;x
 b_alexandra;Alexandra;;;;;;;;;;;;x
@@ -756,7 +756,7 @@ b_shirase;Shirase;;;;;;;;;;;;x
 b_altis;Altis;;;;;;;;;;;;x
 b_cephalonie;Cephalonie;;;;;;;;;;;;x
 b_okuma;Okuma;;;;;;;;;;;;x
-b_rockerfeller_okuma;Okuma;;;;;;;;;;;;x
+b_rockerfeller_okuma;Rockefeller;;;;;;;;;;;;x
 b_bartlett;Bartlett;;;;;;;;;;;;x
 b_frazier;Frazier;;;;;;;;;;;;x
 b_graceia;Graceia;;;;;;;;;;;;x
@@ -819,14 +819,14 @@ b_gulfport;Gulfport;;;;;;;;;;;;x
 b_vicksberg;Vicksberg;;;;;;;;;;;;x
 b_yazoocity;Yazoocity;;;;;;;;;;;;x
 d_little_america;Little America;;;;;;;;;;;;x
-b_little_america_1;Little America 1;;;;;;;;;;;;x
-b_little_america_2;Little America 2;;;;;;;;;;;;x
-b_little_america_3;Little America 3;;;;;;;;;;;;x
+b_little_america_1;Little America I;;;;;;;;;;;;x
+b_little_america_2;Little America II;;;;;;;;;;;;x
+b_little_america_3;Little America III;;;;;;;;;;;;x
 b_whalebay;Whalebay;;;;;;;;;;;;x
 b_kainan;Kainan;;;;;;;;;;;;x
 b_clinton;Clinton;;;;;;;;;;;;x
 k_byrd;Byrd;;;;;;;;;;;;x
-d_obrady;Obrady;;;;;;;;;;;;x
+d_obrady;O'brady;;;;;;;;;;;;x
 b_olympia;Olympia;;;;;;;;;;;;x
 b_homer;Homer;;;;;;;;;;;;x
 b_alton;Alton;;;;;;;;;;;;x
@@ -934,7 +934,7 @@ b_whitmore;Whitmore;;;;;;;;;;;;x
 b_joplin;Joplin;;;;;;;;;;;;x
 b_salem;Salem;;;;;;;;;;;;x
 b_san_carlos;San Carlos;;;;;;;;;;;;x
-k_british_antarctica;British Antarctica;;;;;;;;;;;;x
+k_british_antarctica;Ronneland;;;;;;;;;;;;x
 d_pitcairnshire;Pitcairnshire;;;;;;;;;;;;x
 b_radlinski;Radlinski;;;;;;;;;;;;x
 b_seelig;Seelig;;;;;;;;;;;;x
@@ -1064,9 +1064,15 @@ b_tongoy;Tongoy;;;;;;;;;;;;x
 b_putre;Putre;;;;;;;;;;;;x
 b_malloa;Malloa;;;;;;;;;;;;x
 b_lolol;Lolol;;;;;;;;;;;;x
-b_woolard;Woolard;;;;;;;;;;;;x
+b_woollard;Woollard;;;;;;;;;;;;x
 b_retiro;Retiro;;;;;;;;;;;;x
 b_bahia_inglesa;Bahia Inglesa;;;;;;;;;;;;x
 b_la_higuera;La Higuera;;;;;;;;;;;;x
 b_el_salado;El Salado;;;;;;;;;;;;x
 b_pinto;Pinto;;;;;;;;;;;;x
+b_brunswick;Brunswick;;;;;;;;;;;;x
+b_benington;Benington;;;;;;;;;;;;x
+b_pontiac;Pontiac;;;;;;;;;;;;x
+b_yonkers;Yonkers;;;;;;;;;;;;x
+b_rome;Rome;;;;;;;;;;;;x
+b_taimian;Taimian;;;;;;;;;;;;x

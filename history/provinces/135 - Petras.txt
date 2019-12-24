@@ -6,8 +6,8 @@ max_settlements = 5
 	b_petras = castle
 	b_galla = temple
 	b_sidley = castle
-	b_usas = {}
-	b_aldaz = {}
+	#b_usas = {}
+	#b_aldaz = {}
 	
 # Misc
 culture = russian

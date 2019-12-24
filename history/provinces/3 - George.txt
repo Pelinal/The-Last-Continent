@@ -3,13 +3,13 @@ title = c_george
 max_settlements = 7
 
 # Baronies
-	b_george = temple
-	b_comandante_ferraz = castle
+	b_george = castle
+	b_comandante_ferraz = temple
 	b_artigas = city
-	b_jubany = {}
-	b_arctowski = {}
-	b_bellinghausen = {}
-	b_machu_picchu = {}
+# b_jubany = castle
+# b_arctowski = castle
+# b_bellinghausen = castle
+# b_machu_picchu = castle
 	
 # Misc
 culture = brazilian

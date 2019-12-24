@@ -1,5 +1,5 @@
 # 149 - Kiel
-title = c_okuma
+title = c_kiel
 max_settlements = 4
 
 # Baronies

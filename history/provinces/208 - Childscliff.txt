@@ -1,6 +1,6 @@
 # 208 - Childscliff
 title = c_childscliff
-max_settlements = 
+max_settlements = 4
 
 # Baronies
 	b_childscliff = city

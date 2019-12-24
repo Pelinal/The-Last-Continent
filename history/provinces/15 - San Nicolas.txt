@@ -3,10 +3,10 @@ title = c_san_nicolas
 max_settlements = 4
 
 # Baronies
-	b_san_nicolas = {}
-	b_cape_longing = {}
-	b_earsen = {}
-	b_gustavia = {}
+	b_san_nicolas = city
+	b_cape_longing = castle
+	b_earsen = temple
+	#b_gustavia = castle
 	
 # Misc
 culture = argentine

@@ -3,10 +3,10 @@ title = c_primavera
 max_settlements = 4
 
 # Baronies
-		b_primavera = temple
-		b_deception = castle
-		#b_charcot
-		#b_tower_island
+	b_primavera = castle
+	b_deception = temple
+	#b_charcot
+	#b_tower_island
 	
 # Misc
 culture = argentine

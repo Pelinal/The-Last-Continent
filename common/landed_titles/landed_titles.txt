@@ -1,5 +1,5 @@
-e_antartica = {
-	color = { 35 35 35 }
+e_antarctica = {
+	color = { 220 220 220 }
 	color2 = { 255 255 255 }
 
 	title = emperor
@@ -1039,7 +1039,7 @@ e_antarctandes = {
 			}
 			
 			c_newcomer = {
-				color = { 82 82 20 }
+				color = { 144 144 35 }
 				color2 = { 255 255 255 }
 	
 				b_newcomer = {}
@@ -1412,7 +1412,7 @@ e_antarctandes = {
 				b_anchorock = {}
 			}
 			c_eastpine = {
-				color = { 131 231 101 }
+				color = { 231 201 101 }
 				color2 = {255 255 255}
 				
 				b_eastpine = {}
@@ -1465,7 +1465,7 @@ e_antarctandes = {
 	}
 }
 
-# Marie Byrd Land
+# Marie Byrd Land 
 e_marie_byrd_land = {
 	color = { 142 37 171 }
 	color2 = { 255 255 255 }
@@ -1485,23 +1485,25 @@ e_marie_byrd_land = {
 	canadian = "Incognetia"
 	russian = "Nevostrebovannyy"
 	egyptian = "Qaribiyya"
-	greek = "Makedónia"
-	chinese = "Xindìguo"
+	greek = "Nea Makedónia"
+	chinese = "Shénzhou"
 	
 	k_heavenly_kingdom = { # most coastal provinces are city-ruled due to sinopec corporation
-		color = { 255 178 0 }
+		color = { 110 101 194 } # 133 60 184 - old
 		color2 = { 255 255 255 }
+		
+		chinese = "Tianguó"
 		
 		capital = 107 # Shinua
 		
 		d_sinopec = {
-			color = { 220 153 0 }
+			color = { 90 47 120 }
 			color2 = { 255 255 255 }
 		
 			capital = 107 # Shinua
 			
 			c_shinua = {
-				color = { 220 153 0 }
+				color = { 131 69 175 }
 				color2 = { 255 255 255 }
 				
 				english = "Philbin"
@@ -1517,6 +1519,8 @@ e_marie_byrd_land = {
 			}
 			
 			c_chaoyang = {
+				color = { 49 25 65 }
+				color2 = { 255 255 255 }
 				
 				english = "Nunn"
 				american = "Nunn"
@@ -1528,6 +1532,8 @@ e_marie_byrd_land = {
 				b_nunn = {}
 			}
 			c_houliang = {
+				color = { 167 119 201 }
+				color2 = { 255 255 255 }
 			
 				english = "Toney"
 				american = "Toney"
@@ -1540,6 +1546,8 @@ e_marie_byrd_land = {
 			}
 			
 			c_zhenyong = {
+				color = { 66 37 93 }
+				color2 = { 255 255 255 }
 				
 				english = "Crary"
 				american = "Crary"
@@ -1553,7 +1561,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_pine_island = {
-			color = { 201 197 111 }
+			color = { 175 69 166 }
 			color2 = { 255 255 255 }
 			
 			capital = 100 # Pine Island
@@ -1561,7 +1569,7 @@ e_marie_byrd_land = {
 			chinese = "Gaodì"
 			
 			c_rumbland = {
-				color = { 201 197 111 }
+				color = { 175 69 166 }
 				color2 = { 255 255 255 }
 				
 				chinese = "Longlong"
@@ -1574,7 +1582,7 @@ e_marie_byrd_land = {
 				b_pharr = {}
 			}
 			c_pine_island = {
-				color = { 222 219 167 }
+				color = { 48 19 46 }
 				color2 = { 255 255 255 }
 				
 				chinese = "Songdao"
@@ -1587,7 +1595,7 @@ e_marie_byrd_land = {
 				b_islington = {}
 			}
 			c_dakota = {
-				color = { 171 167 64 }
+				color = { 201 119 194 }
 				color2 = { 255 255 255 }
 				
 				chinese = "Dáketa"
@@ -1603,7 +1611,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_walgreen = {
-			color = { 0 0 0 }
+			color = { 54 47 120 }
 			color2 = { 255 255 255 }
 			
 			capital = 212 # Walgreen
@@ -1611,7 +1619,7 @@ e_marie_byrd_land = {
 			chinese = "Qiang Lu"
 			
 			c_walgreen = {
-				color = { 0 0 0 }
+				color = { 54 47 120 }
 				color2 = { 255 255 255 }
 				
 				chinese = "Qiang Lu"
@@ -1624,6 +1632,8 @@ e_marie_byrd_land = {
 				b_chengshi = {}
 			}
 			c_cordova = {
+				color = { 195 192 230 }
+				color2 = { 255 255 255 }
 				
 				chinese = "Kerduowa"
 				b_cordova = {
@@ -1636,6 +1646,8 @@ e_marie_byrd_land = {
 			}
 			
 			c_kilgora = {
+				color = { 94 61 157 }
+				color2 = { 255 255 255 }
 				
 				chinese = "Pingfang"
 				b_kilgora = {
@@ -1647,6 +1659,8 @@ e_marie_byrd_land = {
 			}
 			
 			c_takahe = {
+				color = { 208 138 166 }
+				color2 = { 255 255 255 }
 				
 				b_takahe = {}
 				b_sundown = {}
@@ -1655,6 +1669,9 @@ e_marie_byrd_land = {
 			}
 			
 			c_bear = {
+				color = { 54 47 120 }
+				color2 = { 255 255 255 }
+				
 				chinese = "Xiongmao"
 				b_bear = {
 					chinese = "Xiongmao"
@@ -1667,6 +1684,9 @@ e_marie_byrd_land = {
 			}	
 			
 			c_thwaites = {
+				color = { 138 55 89 }
+				color2 = { 255 255 255 }
+				
 				chinese = "Zhixing"
 				b_thwaites = {}
 				b_the_tongue = {}
@@ -1676,7 +1696,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_executive_commitee  = {
-			color = { 144 136 0 }
+			color = { 33 29 71 }
 			color2 = { 255 255 255 }
 			
 			capital = 120 # Xianggang
@@ -1684,7 +1704,7 @@ e_marie_byrd_land = {
 			chinese = "Xihuan"
 			
 			c_xianggang = {
-				color = { 144 136 0 }
+				color = { 16 14 35 }
 				color2 = { 255 255 255 }
 				
 				english = "Hong Kong"
@@ -1704,23 +1724,35 @@ e_marie_byrd_land = {
 			}
 			
 			c_dong = {
+				color = { 16 14 35 }
+				color2 = { 255 255 255 }
+				
 				b_dong = {}
 				b_quhou = {}
 				b_meizou ={}
 			}
 			
 			c_youtian = {
+				color = { 79 69 176 }
+				color2 = { 255 255 255 }
+				
 				b_youtian = {}
 				b_lingyu = {}
 				b_kongbai = {}
 			}
 			
 			c_qian_de = {
+				color = { 60 75 157 }
+				color2 = { 255 255 255 }
+				
 				b_qian_de = {}
 				b_jiaorao = {}
 				b_nanliang = {}
 			}
 			c_jintao = {
+				color = { 79 28 170 }
+				color2 = { 255 255 255 }
+				
 				b_jintao = {}
 				b_ku_zao = {}
 				b_baise	= {}	
@@ -1728,7 +1760,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_bakutis = {
-			color = { 255 197 64 }
+			color = { 177 88 154 }
 			color2 = { 255 255 255 }
 			
 			chinese = "Bakutisi"
@@ -1737,6 +1769,9 @@ e_marie_byrd_land = {
 			capital = 112 # Jianwai
 			
 			c_jianwai = {
+				color = { 177 88 154 }
+				color2 = { 255 255 255 }
+				
 				american = "San Francisco"
 				b_jianwai = {}
 				b_xiangshu = {}
@@ -1745,6 +1780,9 @@ e_marie_byrd_land = {
 				b_dadong = {}
 			}
 			c_xiangheyuan = {
+				color = { 128 60 111 }
+				color2 = { 255 255 255 }
+			
 				b_xiangheyuan = {}
 				b_qingrao = {}
 				b_hamje = {}
@@ -1752,17 +1790,29 @@ e_marie_byrd_land = {
 				b_kaewang = {}
 			}
 			c_anzhen = {
+				color = { 128 60 88 }
+				color2 = { 255 255 255 }
+				
 				b_anzhen = {}
+				b_taimian = {}
 				b_lasiweijiasi = {}
 				b_jiujinshan = {}
 			}
 			c_wangsiying = {
+				color = { 201 140 186 }
+				color2 = { 255 255 255 }
+				
 				b_wangsiying = {}
 				b_nei_lu = {}
 				b_gege = {}
 				b_honghe = {}
 			}
 			c_sunhe = {
+				color = { 52 32 46 }
+				color2 = { 255 255 255 }
+				
+				russian = "Zemlya"
+				
 				b_sunhe = {}
 				b_yuanjing = {}
 				b_xue_di = {}
@@ -1771,12 +1821,17 @@ e_marie_byrd_land = {
 		}
 		
 		d_kenyon = {
+			color = { 69 77 196 }
+			color2 = { 255 255 255 }
 			
 			capital = 122 # Kenyon
 			
 			chinese = "Gaoyuan"
 			
 			c_kenyon = {
+				color = { 69 77 196 }
+				color2 = { 255 255 255 }
+				
 				chinese = "Gaoyuan"
 				b_kenyon = {
 					chinese = "Gaoyuan"
@@ -1786,14 +1841,21 @@ e_marie_byrd_land = {
 				b_nayeong = {}
 			}
 			c_lowpoint = {
+				color = { 12 13 37 }
+				color2 = { 255 255 255 }
+				
 				chinese = "Zuidian"
 				b_lowpoint = {
 					chinese = "Zuidian"
 				}
 				b_redmond = {}
 				b_atmore = {}
+				b_southfold = {}
 			}
 			c_xinzhou = {
+				color = { 160 145 221 }
+				color2 = { 255 255 255 }
+				
 				english = "Farstead"
 				american = "Farstead"
 				b_xinzhou = {
@@ -1802,15 +1864,21 @@ e_marie_byrd_land = {
 				}
 				b_chulin = {}
 				b_samnan = {}
+				b_lakerville = {}
 			}
 		}
 		
 		d_americastan = {
+			color = { 45 75 139 }
+			color2 = { 255 255 255 }
 			
 			capital = 130 # WAIS Divide
 			chinese = "Meiguósitan"
 			
 			c_highjump = {
+				color = { 26 44 81 }
+				color2 = { 255 255 255 }
+				
 				chinese = "Ching"
 				b_highjump = {
 					chinese = "Ching"
@@ -1820,19 +1888,31 @@ e_marie_byrd_land = {
 				b_conway = {}
 			}
 			c_alexandria = {
+				color = { 45 98 139 }
+				color2 = { 255 255 255 }
+				
 				chinese = "Chong"
 				b_alexandria = {}
-				b_lakerville = {}
-				b_southfold = {}
+				b_brunswick = {}
+				b_benington = {}
+				b_pontiac = {}
+				b_yonkers = {}
+				b_rome = {}
 				b_chong = {}
 			}
 			c_wais_divide = {
+				color = { 68 108 194 }
+				color2 = { 255 255 255 }
+				
 				b_wais_divide = {}
 				b_kero = {}
 				b_skywalker = {}
 				b_solaris = {}
 			}
 			c_meriby = {
+				color = { 87 118 177 }
+				color2 = { 255 255 255 }
+				
 				b_meriby = {}
 				b_delisheller = {} 
 				b_robnia = {}
@@ -1841,23 +1921,34 @@ e_marie_byrd_land = {
 		}
 		
 		d_getzland = {
-		
+			color = { 45 3 240 }
+			color2 = { 255 255 255 }
+			
 			capital = 124 # Siple Island
 			
 			c_siple_island = {
+				color = { 45 3 240 }
+				color2 = { 255 255 255 }
+				
 				b_siple_island = {}
-				b_xiao_dao = {}
+				b_xiao_dao = {}	
 				b_fudong = {}
 				b_tuanjie = {}
 				b_zizai = {}
 			}
 			c_carney = {
+				color = { 100 67 253 }
+				color2 = { 255 255 255 }
+				
 				b_carney = {}
 				b_ramage = {}
 				b_cherry = {}
 				b_felt = {}			
 			}
 			c_wright = {
+				color = { 178 153 227 }
+				color2 = { 255 255 255 }
+				
 				b_armour = {}
 				b_russell = {}
 				b_sippling = {}
@@ -1900,12 +1991,18 @@ e_marie_byrd_land = {
 				b_malkreml = {}
 			}
 			c_fedorograd = {
+				color = { 231 22 36 }
+				color2 = { 255 255 255 }
+				
 				b_fedorograd = {}
 				b_bolshoy = {}
 				b_gorodgorod = {}
 				b_novigrad = {}
 			}
 			c_balchen = {
+				color = { 53 5 8 }
+				color2 = { 255 255 255 }
+				
 				russian = "Balchensky"
 			
 				b_balchen = {
@@ -1917,6 +2014,9 @@ e_marie_byrd_land = {
 				b_saraya = {}
 			}
 			c_korpus = {
+				color = { 235 39 53 }
+				color2 = { 255 255 255 }
+				
 				b_korpus = {}
 				b_landbay = {}
 				b_groves = {}
@@ -1928,6 +2028,9 @@ e_marie_byrd_land = {
 				english = "Hul1"
 			}
 			c_shirley = {
+				color = { 91 8 14 }
+				color2 = { 255 255 255 }
+				
 				russian = "Shirli"
 				
 				b_shirley = {
@@ -1940,7 +2043,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_khobbsa = {
-			color = { 161 15 25 }
+			color = { 114 21 11 }
 			color2 = { 255 255 255 }
 		
 			capital = 215 # Yugozapad
@@ -1955,7 +2058,7 @@ e_marie_byrd_land = {
 			jamaican = "Hobbs"
 			
 			c_yugozapad = {
-				color = { 161 15 25 }
+				color = { 114 21 11 }
 				color2 = { 255 255 255 }
 				
 				b_yugozapad = {}
@@ -1964,6 +2067,9 @@ e_marie_byrd_land = {
 				b_ivanovo = {}
 			}
 			c_ames = {
+				color = { 44 8 4 }
+				color2 = { 255 255 255 }
+				
 				russian = "Eyms"
 				
 				b_ames = {
@@ -1975,6 +2081,8 @@ e_marie_byrd_land = {
 				b_nuukaqut = {}
 			}
 			c_flood = {
+				color = { 237 82 65 }
+				color2 = { 255 255 255 }
 			
 				russian = "Potop"
 				b_flood = {
@@ -1985,6 +2093,9 @@ e_marie_byrd_land = {
 				b_berlin = {}
 			}
 			c_wrigley = {
+				color = { 221 41 21 }
+				color2 = { 255 255 255 }
+				
 				russian = "Volnistoy"
 				b_wrigley_2 = {
 					russian = "Volnistoy"
@@ -1995,12 +2106,18 @@ e_marie_byrd_land = {
 				b_forrester = {}
 			}
 			c_berlinskaya = {
+				color = { 184 34 18 }
+				color2 = { 255 255 255 }
+				
 				b_berlinskaya = {}
 				b_christygor = {}
 				b_novyyzal = {}
 				b_laboratoriya = {}
 			}
 			c_petras = {
+				color = { 60 11 6 }
+				color2 = { 255 255 255 }
+				
 				russian = "Pyatras"
 				b_petras = {
 					russian = "Pyatras"
@@ -2013,13 +2130,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_sondersky = {
-			color = { 161 15 25 }
+			color = { 161 15 62 }
 			color2 = { 255 255 255 }
 		
 			capital = 144 # Mitchell
 			
 			c_mitchell = {
-				color = { 161 15 25 }
+				color = { 161 15 62 }
 				color2 = { 255 255 255 }
 				
 				russian = "Domitchella"
@@ -2032,6 +2149,8 @@ e_marie_byrd_land = {
 				b_guest = {}
 			}
 			c_khammond = {
+				color = { 247 165 191 }
+				color2 = { 255 255 255 }
 				
 				english = "Hammond"
 				
@@ -2044,6 +2163,8 @@ e_marie_byrd_land = {
 				b_la_gorce = {}
 			}
 			c_fosdick = {
+				color = { 231 22 89 }
+				color2 = { 255 255 255 }
 				
 				russian = "Fosdik"
 				
@@ -2055,7 +2176,14 @@ e_marie_byrd_land = {
 				b_lincoln = {}
 			}
 			c_block = {
-				b_block = {}
+				color = { 127 49 74}
+				color2 = { 255 255 255 }
+				
+				russian = "Blok"
+				
+				b_block = {
+					russian = "Blok"
+				}
 				b_chuggington = {}
 				b_lancaster = {}
 				b_south_bern = {}
@@ -2063,13 +2191,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_pogranich = {
-			color = { 161 15 25 }
+			color = { 244 14 11 }
 			color2 = { 255 255 255 }
 		
 			capital = 152 # Mermansk
 			
 			c_mermansk = {
-				color = { 161 15 25 }
+				color = { 91 8 35 }
 				color2 = { 255 255 255 }
 				
 				b_mermansk = {}
@@ -2078,12 +2206,22 @@ e_marie_byrd_land = {
 				b_alexandra = {}
 			}
 			c_clark = {
+				color = { 244 14 11 }
+				color2 = { 255 255 255 }
+				
+				russian = "Klark"
+				
 				b_clark = {}
 				b_karpinskaya = {}
 				b_yuly = {}
 				b_ericson = {}
 			}
 			c_bursey = {
+				color = { 251 162 161 }
+				color2 = { 255 255 255 }
+				
+				russian = "Bursa"
+				
 				b_bursey = {}
 				b_fersmann = {}
 				b_shirsov = {}
@@ -2092,25 +2230,42 @@ e_marie_byrd_land = {
 		}
 		
 		d_revolutia = {
-			color = { 0 0 0 }
+			color = { 35 3 8 }
 			color2 = { 255 255 255 }
 			
 			russian = "Revolyutsiya"
+			capital = 216 # Little Rockford
 			
 			c_little_rockford = {
-				b_little_rockford = {}
+				color = { 236 37 69 }
+				color2 = { 255 255 255 }
+				
+				russian = "Rokford"
+				greek = "Ligavráchos"
+			
+				b_little_rockford = {
+					greek = "Ligavráchos"
+				}
 				b_sacremento = {}
 				b_orienta = {}
 				b_southcity = {}
 				b_labrabor = {}
 			}
 			c_archangel = {
+				color = { 35 3 8 }
+				color2 = { 255 255 255 }
+				
+				russian = "Arkangelsk"
+				
 				b_archangel = {}
 				b_st_christopher = {}
 				b_petersburg = {}
 				b_neueholme = {}
 			}
 			c_waesche = {
+				color = { 189 15 41 }
+				color2 = { 255 255 255 }
+				
 				b_waesche = {}
 				b_hartigan = {}
 				b_sidley_2 = {}
@@ -2121,13 +2276,13 @@ e_marie_byrd_land = {
 	}
 	
 	k_hellas = {
-		color = { 30 30 200 }
+		color = { 75 186 191 }
 		color2 = { 255 255 255 }
 		
 		capital = 149 # Kiel
 		
 		d_shirase = {
-			color = { 161 15 25 }
+			color = { 75 186 191 }
 			color2 = { 255 255 255 }
 		
 			capital = 149 # Kiel
@@ -2135,7 +2290,7 @@ e_marie_byrd_land = {
 			greek = "Elláda"
 			
 			c_kiel = {
-				color = { 0 0 0 }
+				color = { 50 136 140 }
 				color2 = { 255 255 255 }
 				
 				greek = "Korinthos"
@@ -2150,7 +2305,7 @@ e_marie_byrd_land = {
 			}
 			
 			c_okuma = {
-				color = { 0 0 0 }
+				color = { 75 186 191 }
 				color2 = { 255 255 255 }
 				
 				greek = "Oreokastro"
@@ -2165,7 +2320,7 @@ e_marie_byrd_land = {
 			}
 			
 			c_mckinley = {
-				color = { 0 0 0 }
+				color = { 131 208 211 }
 				color2 = { 255 255 255 }
 				
 				greek = "Neatolia"
@@ -2178,7 +2333,7 @@ e_marie_byrd_land = {
 			}
 			
 			c_eduard_vii = {
-				color = { 0 0 0 }
+				color = { 13 34 35 }
 				color2 = { 255 255 255 }
 				
 				b_eduard = {}
@@ -2188,7 +2343,7 @@ e_marie_byrd_land = {
 			}
 			
 			c_amolato = {
-				color = { 0 0 0 }
+				color = { 144 196 198 }
 				color2 = { 255 255 255 }
 				
 				greek = "Amolatos"
@@ -2203,7 +2358,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_rockerfeller = {
-			color = { 161 15 25 }
+			color = { 75 191 138 }
 			color2 = { 255 255 255 }
 		
 			capital = 156 # Pavlopolis
@@ -2211,7 +2366,7 @@ e_marie_byrd_land = {
 			greek = "Voreia"
 			
 			c_pavlopolis = {
-				color = { 0 0 0 }
+				color = { 162 222 194 }
 				color2 = { 255 255 255 }
 				
 				english = "Pavlson"
@@ -2228,7 +2383,7 @@ e_marie_byrd_land = {
 			}
 			
 			c_tsiprachai = {
-				color = { 0 0 0 }
+				color = { 23 66 47 }
 				color2 = { 255 255 255 }
 				
 				b_tsiprachai = {
@@ -2242,7 +2397,7 @@ e_marie_byrd_land = {
 			}
 			
 			c_edessa = {
-				color = { 0 0 0 }
+				color = { 191 232 213 }
 				color2 = { 255 255 255 }
 				
 				b_edessa = {}
@@ -2255,7 +2410,7 @@ e_marie_byrd_land = {
 			}
 			
 			c_heraklion = {
-				color = { 0 0 0 }
+				color = { 75 191 138 }
 				color2 = { 255 255 255 }
 				
 				b_heraklion = {}
@@ -2268,7 +2423,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_siple_coast = {
-			color = { 161 15 25 }
+			color = { 29 52 80 }
 			color2 = { 255 255 255 }
 		
 			capital = 165 # Sipledome
@@ -2276,7 +2431,7 @@ e_marie_byrd_land = {
 			greek = "Sippolis"
 			
 			c_sipledome = {
-				color = { 0 0 0 }
+				color = { 29 52 80 }
 				color2 = { 255 255 255 }
 				
 				greek = "Sippolis"
@@ -2293,17 +2448,21 @@ e_marie_byrd_land = {
 			}
 			
 			c_rockefeller = {
-				color = { 0 0 0 }
+				color = { 131 167 210 }
 				color2 = { 255 255 255 }
 				
-				b_rockefeller = {}
+				greek = "Rokféler"
+				
+				b_rockefeller = {
+					greek = "Rokféler"
+				}
 				b_rockina = {}
 				b_hardplace = {}
 				b_iceting = {}
 			}
 			
 			c_new_chicago = {
-				color = { 0 0 0 }
+				color = { 9 16 24 }
 				color2 = { 255 255 255 }
 				
 				b_new_chicago = {}
@@ -2314,7 +2473,7 @@ e_marie_byrd_land = {
 			}
 			
 			c_nyusu = {
-				color = { 0 0 0 }
+				color = { 49 88 136 }
 				color2 = { 255 255 255 }
 				
 				b_nyusu = {}
@@ -2326,18 +2485,18 @@ e_marie_byrd_land = {
 		}
 		
 		d_little_america = {
-			color = { 161 15 25 }
+			color = { 73 99 165 }
 			color2 = { 255 255 255 }
 		
 			capital = 166 # Roosevelt
 			
-			greek = "Sippolis"
+			greek = "Mikrí Amerikí"
 			
 			c_roosevelt = {
-				color = { 0 0 0 }
+				color = { 73 99 165 }
 				color2 = { 255 255 255 }
 				
-				greek = "Sippolis"
+				greek = "Amerikí"
 				
 				b_little_america_1 = {}
 				b_little_america_2 = {}
@@ -2613,19 +2772,19 @@ e_marie_byrd_land = {
 	
 	# British Antarctic Territory
 	k_british_antarctica = {
-		color = { 230 40 50 }
+		color = { 169 65 113 }
 		color2 = { 255 255 255 }
 		
 		capital = 169 # Byrd Surface Camp
 		
 		d_pitcairnshire = {
-			color = { 200 200 100 }
+			color = { 169 65 113 }
 			color2 = { 255 255 255 }
 		
 			capital = 174 # Olympia
 			
 			c_radlinski = {
-				color = { 0 0 0 }
+				color = { 169 65 113 }
 				color2 = { 255 255 255 }
 				
 				b_radlinski = {}
@@ -2636,7 +2795,7 @@ e_marie_byrd_land = {
 				b_zelenogorsk = {}   
 			}
 			c_hart = {
-				color = { 0 0 0 }
+				color = { 42 16 28 }
 				color2 = { 255 255 255 }
 				
 				b_hart = {}
@@ -2647,18 +2806,18 @@ e_marie_byrd_land = {
 				b_magotty = {}
 			}
 			c_havola = {
-				color = { 0 0 0 }
+				color = { 200 112 153 }
 				color2 = { 255 255 255 }
 				
 				b_havola = {}
 				b_gutters = {}
 				b_wales = {}
-				b_papine {}
-				b_mount_diabolo {}
+				b_papine = {}
+				b_mount_diabolo = {}
 				b_donegal = {}
 			}
 			c_linck = {
-				color = { 0 0 0 }
+				color = { 75 41 57 }
 				color2 = { 255 255 255 }
 				
 				b_linck = {}
@@ -2670,7 +2829,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_south_midlands = {
-			color = { 200 200 100 }
+			color = { 234 33 26 }
 			color2 = { 255 255 255 }
 		
 			capital = 188 # Falcatifolium
@@ -2685,7 +2844,7 @@ e_marie_byrd_land = {
 				b_nome = {}  
 			}
 			c_chessnut = {
-				color = { 0 0 0 }
+				color = { 41 5 4}
 				color2 = { 255 255 255 }
 				
 				b_chessnut = {}
@@ -2694,7 +2853,7 @@ e_marie_byrd_land = {
 				b_sheffield = {}
 			}
 			c_ivywood = {
-				color = { 0 0 0 }
+				color = { 246 155 152 }
 				color2 = { 255 255 255 }
 				
 				b_ivywood = {}
@@ -2704,7 +2863,7 @@ e_marie_byrd_land = {
 				b_hexham = {}
 			}
 			c_moore = {
-				color = { 0 0 0 }
+				color = { 222 19 46 }
 				color2 = { 255 255 255 }
 				
 				b_moore = {}
@@ -2715,13 +2874,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_sentinel = {
-			color = { 200 200 100 }
+			color = { 169 65 165 }
 			color2 = { 255 255 255 }
 		
 			capital = 201 # Sentinel
 			
 			c_sentinel = {
-				color = { 0 0 0 }
+				color = { 169 65 165 }
 				color2 = { 255 255 255 }
 				
 				b_sentinel = {}
@@ -2731,7 +2890,7 @@ e_marie_byrd_land = {
 				b_girdridge = {}
 			}
 			c_tyree = {
-				color = { 0 0 0 }
+				color = { 200 111 196 }
 				color2 = { 255 255 255 }
 				
 				b_tyree = {}
@@ -2741,7 +2900,7 @@ e_marie_byrd_land = {
 				b_gerbal = {}
 			}
 			c_ninitz = {
-				color = { 0 0 0 }
+				color = { 114 44 111 }
 				color2 = { 255 255 255 }
 				
 				english = "Ninitz-upon-Ronne"
@@ -2752,7 +2911,7 @@ e_marie_byrd_land = {
 				b_dott = {} 
 			}
 			c_skytrain = {
-				color = { 0 0 0 }
+				color = { 40 17 40 }
 				color2 = { 255 255 255 }
 				
 				b_skytrain = {}
@@ -2764,7 +2923,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_albion = {
-			color = { 200 200 100 }
+			color = { 169 69 65 }
 			color2 = { 255 255 255 }
 		
 			capital = 209 # Foundation
@@ -2775,7 +2934,7 @@ e_marie_byrd_land = {
 			brazilian = "Tierras do Rodolfo"
 			
 			c_wagner = {
-				color = { 0 0 0 }
+				color = { 169 69 65 }
 				color2 = { 255 255 255 }
 				
 				b_wagner = {}
@@ -2785,7 +2944,7 @@ e_marie_byrd_land = {
 				b_babergh = {}
 			}
 			c_foundation = {
-				color = { 0 0 0 }
+				color = { 114 46 44 }
 				color2 = { 255 255 255 }
 				
 				b_foundation = {}
@@ -2795,7 +2954,7 @@ e_marie_byrd_land = {
 				b_halifax = {}
 			}
 			c_colina = {
-				color = { 0 0 0 }
+				color = { 200 114 111 }
 				color2 = { 255 255 255 }
 				
 				b_colina = {}
@@ -2805,7 +2964,7 @@ e_marie_byrd_land = {
 				b_fylde = {}
 			}
 			c_childscliff = {
-				color = { 0 0 0 }
+				color = { 42 17 16 }
 				color2 = { 255 255 255 }
 				
 				b_childscliff = {}
@@ -2815,7 +2974,7 @@ e_marie_byrd_land = {
 				b_test_valley = {}
 			}
 			c_wrightnow = {
-				color = { 0 0 0 }
+				color = { 233 199 197 }
 				color2 = { 255 255 255 }
 				
 				chilean = "La Estrella"
@@ -2828,7 +2987,7 @@ e_marie_byrd_land = {
 				b_corral = {}
 			}
 			c_oddlyplaced = {
-				color = { 0 0 0 }
+				color = { 139 78 75 }
 				color2 = { 255 255 255 }
 				
 				chilean = "Pinguito"
@@ -2845,13 +3004,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_the_ronnes = {
-			color = { 200 200 100 }
+			color = { 50 27 37 }
 			color2 = { 255 255 255 }
 		
 			capital = 205 # Korff
 			
 			c_korff = {
-				color = { 0 0 0 }
+				color = { 50 27 37 }
 				color2 = { 255 255 255 }
 				
 				b_korff = {}
@@ -2860,7 +3019,7 @@ e_marie_byrd_land = {
 				b_speicher = {}
 			}
 			c_henry = {
-				color = { 0 0 0 }
+				color = { 100 54 74 }
 				color2 = { 255 255 255 }
 				
 				french = "Henri"
@@ -2874,7 +3033,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_heritage = {
-			color = { 200 200 100 }
+			color = { 236 75 26 }
 			color2 = { 255 255 255 }
 		
 			capital = 203 # Union
@@ -2885,7 +3044,7 @@ e_marie_byrd_land = {
 			brazilian = "Herejo"
 			
 			c_rosstip = {
-				color = { 0 0 0 }
+				color = { 50 27 37 }
 				color2 = { 255 255 255 }
 				
 				
@@ -2895,7 +3054,7 @@ e_marie_byrd_land = {
 				b_camble = {}
 			}
 			c_heritage = {
-				color = { 0 0 0 }
+				color = { 177 123 54 }
 				color2 = { 255 255 255 }
 				
 				chilean = "Hereje"
@@ -2910,7 +3069,7 @@ e_marie_byrd_land = {
 				b_locharch = {}
 			}
 			c_union = {
-				color = { 0 0 0 }
+				color = { 208 160 100 }
 				color2 = { 255 255 255 }
 				
 				chilean = "Parodi"
@@ -2926,7 +3085,7 @@ e_marie_byrd_land = {
 		}
 		
 		d_ellsworth = {
-			color = { 200 200 100 }
+			color = { 177 123 54 }
 			color2 = { 255 255 255 }
 		
 			capital = 198 # Ellsworth
@@ -2937,7 +3096,7 @@ e_marie_byrd_land = {
 			brazilian = "Segovio"
 			
 			c_ellsworth = {
-				color = { 0 0 0 }
+				color = { 	199 143 71 }
 				color2 = { 255 255 255 }
 				
 				chilean = "Segovia"
@@ -2951,7 +3110,7 @@ e_marie_byrd_land = {
 				b_earley = {}
 			}
 			c_wattack = {
-				color = { 0 0 0 }
+				color = { 177 123 54 }
 				color2 = { 255 255 255 }
 				
 				chilean = "Nueva Santiago"
@@ -2966,12 +3125,12 @@ e_marie_byrd_land = {
 				b_lolol = {}
 			}
 			c_woollard = {
-				color = { 0 0 0 }
+				color = { 118 82 36 }
 				color2 = { 255 255 255 }
 				
 				chilean = "Copiapó"
 				
-				b_woolard = {
+				b_woollard = {
 					chilean = "Copiapó"
 				}
 				b_retiro = {}

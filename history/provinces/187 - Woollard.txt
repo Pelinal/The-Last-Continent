@@ -3,7 +3,7 @@ title = c_woollard
 max_settlements = 6
 
 # Baronies
-	b_woollard = temple
+	b_woollard = city
     b_retiro = city
     b_bahia_inglesa = castle
     #b_la_higuera = {}
