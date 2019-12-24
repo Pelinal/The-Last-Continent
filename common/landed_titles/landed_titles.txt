@@ -2509,19 +2509,19 @@ e_marie_byrd_land = {
 	}
 	
 	k_byrd = {
-		color = { 200 200 100 }
+		color = { 230 230 0 }
 		color2 = { 255 255 255 }
 		
 		capital = 169 # Byrd Surface Camp
 		
 		d_obrady = {
-			color = { 200 200 100 }
+			color = { 230 172 0 }
 			color2 = { 255 255 255 }
 		
 			capital = 174 # Olympia
 			
 			c_olympia = {
-				color = { 0 0 0 }
+				color = { 230 172 0 }
 				color2 = { 255 255 255 }
 				
 				b_olympia = {}
@@ -2532,7 +2532,7 @@ e_marie_byrd_land = {
 				b_lisle = {}
 			}
 			c_colington = {
-				color = { 0 0 0 }
+				color = { 102 77 0 }
 				color2 = { 255 255 255 }
 				
 				b_colington = {}
@@ -2542,7 +2542,7 @@ e_marie_byrd_land = {
 				b_mundelein = {}
 			}
 			c_obrady = {
-				color = { 0 0 0 }
+				color = { 149 132 80 }
 				color2 = { 255 255 255 }
 				
 				b_obrady = {}
@@ -2554,13 +2554,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_gould = {
-			color = { 200 200 100 }
+			color = { 230 196 0 }
 			color2 = { 255 255 255 }
 		
 			capital = 174 # Olympia
 			
 			c_gould = {
-				color = { 0 0 0 }
+				color = { 230 196 0  }
 				color2 = { 255 255 255 }
 				
 				b_gould = {}
@@ -2570,7 +2570,7 @@ e_marie_byrd_land = {
 				b_heiberg = {}
 			}
 			c_ready = { # actually localised as 'Reedy'
-				color = { 0 0 0 }
+				color = { 191 162 64 }
 				color2 = { 255 255 255 }
 				
 				b_ready = {}
@@ -2580,7 +2580,7 @@ e_marie_byrd_land = {
 				b_summit = {}
 			}
 			c_wisconsin = {
-				color = { 0 0 0 }
+				color = { 179 137 0 }
 				color2 = { 255 255 255 }
 				
 				b_wisconsin = {}
@@ -2590,7 +2590,7 @@ e_marie_byrd_land = {
 				b_sebring = {}
 			}
 			c_ohio = {
-				color = { 0 0 0 }
+				color = { 255 225 128 }
 				color2 = { 255 255 255 }
 				
 				b_ohio = {}
@@ -2602,13 +2602,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_greater_yarmouth = {
-			color = { 0 0 0 }
+			color = { 128 64 0 }
 			color2 = { 255 255 255 }
 		
 			capital = 217 # Yarmouth
 			
 			c_yarmouth = {
-				color = { 0 0 0 }
+				color = { 128 96 0 }
 				color2 = { 255 255 255 }
 				
 				b_yarmouth = {}
@@ -2618,7 +2618,7 @@ e_marie_byrd_land = {
 				b_bath = {}
 			}
 			c_hartris = {
-				color = { 0 0 0 }
+				color = { 128 32 0 }
 				color2 = { 255 255 255 }
 				
 				b_hartris = {}
@@ -2630,13 +2630,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_byrd = {
-			color = { 0 0 0 }
+			color = { 230 230 0 }
 			color2 = { 255 255 255 }
 		
 			capital = 169 # Byrd
 			
 			c_byrd = {
-				color = { 0 0 0 }
+				color = { 230 230 0 }
 				color2 = { 255 255 255 }
 				
 				b_byrd = {}
@@ -2648,7 +2648,7 @@ e_marie_byrd_land = {
 				b_bindschalder = {}
 			}
 			c_portland = {
-				color = { 0 0 0 }
+				color = { 102 102 0 }
 				color2 = { 255 255 255 }
 				
 				b_portland = {}
@@ -2658,7 +2658,7 @@ e_marie_byrd_land = {
 				b_webster = {}
 			}
 			c_jennaby = {
-				color = { 0 0 0 }
+				color = { 143 143 86 }
 				color2 = { 255 255 255 }
 				
 				american = "Icestream Bravo"
@@ -2672,7 +2672,7 @@ e_marie_byrd_land = {
 				b_dearborne = {}
 			}
 			c_upstream_bravo = {
-				color = { 0 0 0 }
+				color = { 255 255 153 }
 				color2 = { 255 255 255 }
 				
 				b_upstream_bravo = {}
@@ -2686,13 +2686,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_new_wyoming = {
-			color = { 0 0 0 }
+			color = { 128 128 0 }
 			color2 = { 255 255 255 }
 		
 			capital = 162 # bostonia
 			
 			c_bostonia = {
-				color = { 0 0 0 }
+				color = { 128 128 0 }
 				color2 = { 255 255 255 }
 				
 				b_bostonia = {}
@@ -2702,7 +2702,7 @@ e_marie_byrd_land = {
 				b_warren = {}
 			}
 			c_greenwich = {
-				color = { 0 0 0 }
+				color = { 140 110 61 }
 				color2 = { 255 255 255 }
 				
 				b_greenwich = {}
@@ -2712,7 +2712,7 @@ e_marie_byrd_land = {
 				b_stillwater = {}
 			}
 			c_sanic = {
-				color = { 0 0 0 }
+				color = { 140 110 19 }
 				color2 = { 255 255 255 }
 				
 				b_sanic = {}
@@ -2722,7 +2722,7 @@ e_marie_byrd_land = {
 				b_knuckles = {}
 			}
 			c_delta = {
-				color = { 0 0 0 }
+				color = { 64 110 19 }
 				color2 = { 255 255 255 }
 				
 				b_delta = {}
@@ -2734,13 +2734,13 @@ e_marie_byrd_land = {
 		}
 		
 		d_mooretania = {
-			color = { 0 0 0 }
+			color = { 143 129 86 }
 			color2 = { 255 255 255 }
 		
 			capital = 162 # bostonia
 			
 			c_athletica = {
-				color = { 0 0 0 }
+				color = { 143 129 86 }
 				color2 = { 255 255 255 }
 				
 				b_athletica = {}
@@ -2749,7 +2749,7 @@ e_marie_byrd_land = {
 				b_bicycleta = {}
 			}
 			c_southmore = {
-				color = { 0 0 0 }
+				color = { 195 155 34 }
 				color2 = { 255 255 255 }
 				
 				b_southmore = {}
@@ -2759,7 +2759,7 @@ e_marie_byrd_land = {
 				b_independence = {}
 			}
 			c_whitmore = {
-				color = { 0 0 0 }
+				color = { 129 143 86 }
 				color2 = { 255 255 255 }
 				
 				b_whitmore = {}
