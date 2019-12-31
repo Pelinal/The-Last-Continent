@@ -1,7 +1,7 @@
 ###############################################################
-###															                                ###
-###					       CULTURES OF ANTARCTICA				            ###
-###															                                ###
+###															        ###
+###					    CULTURES OF ANTARCTICA				   ###
+###															        ###
 ###############################################################
 
 ## INDEX ##
@@ -33,27 +33,27 @@
 	# australian
 	#south_african
 ## Uralic:
-    # finnish----------
-    # hungarian-----------
-    # estonian-----------
+ # finnish----------
+ # hungarian-----------
+ # estonian-----------
 ## Scandinavian:
-    # norweigan-----------
-    # swedish---------
-    # danish---------
-    # icelandic----------
+ # norweigan-----------
+ # swedish---------
+ # danish---------
+ # icelandic----------
 ## Latin:
-    # italian------------
-    # sardinian----------
-    # romanian
+ # italian------------
+ # sardinian----------
+ # romanian
 ## Islamic:
 	# arabian
 	# egyptian
 	# tunisian------------
 	# turkish------------
 ## Indian Group:
-    # indian---------
-    # pakistani---------
-    # bangladeshi-----------
+ # indian---------
+ # pakistani---------
+ # bangladeshi-----------
 ##Greek Group:
 	# Greek
 ## Eastern:
@@ -62,9 +62,9 @@
 	# japanese-----------
 	# thai----------
 ## Germanic:
-    # german-----------
-    # dutch--------
-    # austrian----------
+ # german-----------
+ # dutch--------
+ # austrian----------
 ## East Slavic:
 	# russian
 	# ukrainian
@@ -93,10 +93,15 @@ iberian_grp = {
 		color = { 0.55 0.42 0.04 }
 
 		male_names = {
-
+			Aingeru Aitor Alesander Amets Ander Andoni Antton Argi Argider Aritz Arkaitz Arrrats Asier Bakar Balendin Basajaun Bikendi Bittor Danel Eder Edorta Edur Eguzki Ekain Ekaitz Endika
+			Eneko Erlantz Erramun Estebe Fermin Fermintxo Frantzisko Gaizka Ganix Gariale Gorka Gotzon Gurutz Gutxi Hodei Ibai Iban Igon Iker Imanol Ion Itzal Izotz Jakes Jokin Jon Joseba
+			Josu Julen Kemen Kepa Kerman Koldo Luken Markel Marko Martzel Matia Mattin Mintxo Mitxel Nikola Oier Oroitz Ortzi Patxi Peio Peru Petri Sendoa Txomin Unai Xabi Xabier Ximun
+			Zeru Zigor Zorion Zuzen
 		}
 		female_names = {
-
+			Abene Agurne Agurtzane Ainara Ainhoa Aintza Aintzane Alaia Alazne Amaia Amets Ane Arantxa Aroa Berezi Bidane Bihotz Ederne Eider Elixabete Enara Erlea Eskarne Esti Eukene
+			Euria Frantziska Garbi Garden Goizane Goizargi Goizeder Gotzone Gurutze Haizea Hilargi Hirune Idoia Igone Ihintza Irati Itsaso Itxaro Itziar Izar Jone Josune Katalin Leire Lore Maia
+			Maialen Maider Maite Maria Miren Nagore Nahia Naiara Nekane Nere Nikole Oihana Osane Sorne Terese Udane Usoa Uxue Zorione 
 		}
 		from_dynasty_prefix = "de "
 		
@@ -127,10 +132,10 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+			Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
-			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
+			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco 
 		}
 		female_names = {
 			Sofía Isabella Valentina Camila Valeria Luciana Ximena Mariana María Victoria Martina Gabriela Sara Daniela Samantha Natalia Emma Renata Lucia Andrea Regina Mia Catalina Antonella Emilia Zoe Julieta Alejandra Salome Paula Maria Nicole
@@ -167,7 +172,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -207,7 +212,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -284,7 +289,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -323,7 +328,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -362,7 +367,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -401,7 +406,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -440,7 +445,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -479,7 +484,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		    Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -1107,9 +1112,14 @@ british_grp = {
 }
 
 uralic_grp = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
 
 	finnish = {
-	
+		graphical_cultures = { ugricgfx }
+		
+		color = { 0.5 0.8 0.9 }
+		
 		male_names = {
 			Onni Elias Eetu Leo Aleksi Niilo Veeti Oliver Joona Eino Leevi Lauri Matias Mikael Lenni Rasmus Viljami Eemeli Väinö Akseli Daniel Aatu
 			Aapo Emil Julius Juho Valtteri Jimi Niklas Joel Vilho Otto Miro Eemil Eeli Anton Peetu Roope Arttu Toivo Kasper
@@ -1120,64 +1130,289 @@ uralic_grp = {
 			Leppa Liina Linnea Loppa Lumi Luvia Luvianna Lyyti Maaria Maija Maiuc Majlis Marikka Meri Merja Neea Niina Orvokki Otha Pilvi Pinja Piritta Pirjo Pirkko Raakel Raila
 			Raili Raita Rali Ritva Ros Saana Siiri Silja Sini Sinikka Sivia Sohvi Suuvi Taika Taimi Taina Teija Tellervo Terhi Terttu Tetta Tiia Tippa Tuula Tuule Emma
 		}	
+		from_dynasty_prefix = "of "
+		##bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
 	}
 	
 	hungarian = {
+		graphical_cultures = {magyargfx}
+		
+		color = { 0.5 0.6 0.3 }	
 	
-	
-	
-	
+		male_names = {
+			Ábel Ábrahám Ádám Adolf Adorján Adrián Ágoston Ákos Alajos Albert Alex Alexander Alfréd Álmos Ambrus Anasztáz Andor András Andris Antal Arisztid Árpád Attila Balázs
+			Bálint Bandi Barna Barta Béla Bence Bendegúz Benedek Benett Bernát Bertalan Botond Csongor Czanád Dávid Dénes Demeter Dominik Domonkos Donát Ede Éliás Emil Erik
+			Ervin Etele Fábián Ferdinánd Filip Gabi Gáspár Gusztáv Gyula Henrik Hunor Ignác Illés Jakab Jancsi Jani János Józsi Jószua Kálmán Károly Kázmér Kolos Konrád Konstantin
+			Loránd Márk Martin Máté Miklós Mózes Nimród Norbert Olivér Pista Rafael Rajmund Richárd Rudolf Salamon Sámuel Sándor Sebestyén Simon Soma Szabolcs Tamás Tóni
+			Vencel Vid Vida Viktor Zente Zoltán Zsigmond Zsolt Zsombor
+		}
+		female_names = {
+			Abigél Ada Adél Adelaida Adrienn Ági Alex Alexa Alida Alíz Anasztázia Andrea Anett Angéla Anikó Anna Barbara Aurélia Beatrix Bernadett Berta Csilla Csenge Cintia Cili
+			Délia Diána Dominika Dóra Dorina Edina Dzenifer Emili Emília Emma Erika Erzsi Etel Etelka Éva Evelin Évike Flóra Gabi Georgina Gertrúd Gitta Gizella Gréta Hajna
+			Hanga Hédi Heléna Ibolya Ili Ilka Irma Izabella Izidóra Janka Johanna Juli Júlia Katalin Kata Kinga Kíra Lara Laura Léna Lili Lilien Magda Marieta Mária Mariska Melissza
+			Mercédesz Piroska Réka Regina Rita Sarolt Stefánia Szabina Szandra Szilvia Szofi Tamara Teodóra Tekla Tímea Valéria Zoé Zsuzsanna Zsuzsi 
+		}
+		
+		dynasty_name_first = yes
+		
+		from_dynasty_prefix = "a "
+		
+		male_patronym = "fi"
+		prefix = no
+
+		modifier = default_culture_modifier
 	}
 	
 	estonian = {
-	
-	
-	
-	
+		graphical_cultures = { ugricgfx }
+		
+		color = { 0.5 0.8 0.9 }
+		
+		male_names = {
+			Aleksander Alvar Andres Andrus Anton Artur Eduard Edvin Einar Georg Heino Hendrik Hillar Ilmar Indrek Jaagup Jaak Jaakob Jaan Johannes
+			Joonas Joosep Juhan Kalev Kalju Koit Kristjan Mihkel Nigul Olavi Olev Oliver Paavo Peeter Priidik Priit Rasmus Rein Robert Taavet Taavi
+			Tarmo Tiitus Toomas Valter Viljar Villem
+		}
+		female_names = {
+			Age Aleksandra Anna Anu Ave Eha Eliisabet Elina Evelin Helena Jelena Johanna Kadri Kaia Kaisa Kaja Katariina Kati Katrin Kristiina Lagle
+			Laine Laura Leelo Leena Liis Liisa Liisi Liisu Luule Maarika Maarja Maimu Mare Maret Margit Mari Marika Marina Mirjam Piia Riina Sigrid Siiri
+			Sofia Terje Tiia Triinu Tuule Victoria			
+		}	
+		from_dynasty_prefix = "of "
+		##bastard_dynasty_prefix = "Fitz"
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10	
 	}
 }
 
 scandinavian_grp = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx }
 
 	norwegian = {
+		graphical_cultures = { norsegfx }
+		
+		color = { 0.5 0.8 0.9 }
+		
+		male names = {
+			William Mathias Oliver Jakob Lucas Filip Liam Aksel Emil Oskar Markus Theodor Elias Alexander Kasper Magnus Jonas Henrik Noah Isak Tobias
+			Sebastian Sander Kristian Leon Daniel Johannes	Benjamin Mathéo Nikolai Martin Adrian Mohammad Olav Ludvig Hakon Theo Victor Johan
+			Sondre Erik Felix Andreas Julian Even Sigurd Jonathan Mikkel Herman Iver
+		}
+		female names = {
+			Anette Anita Ann Anna Anne Aslaug Astrid Aud Bente Berit Bodil Brit Britt Camilla Cathrine Cecilie Eli Elin Elisabeth Ellen Else Eva
+			Gerd Grete Grethe Gro Gunn Gunvor Hanne Hege Heidi Helene Hilde Ida Ingeborg Inger Ingrid Ingunn Irene Janne Jenny Jorunn
+			Julie Karen Kari Karin Karoline Kirsten Kjersti Kristin Kristine Laila Lene Lillian Linda Line Linn Lisbeth Lise
+		}
 	
-	
-	
+		male_patronym = "sson"
+		female_patronym = "sdatter"
+		prefix = no
+		
+		modifier = default_culture_modifier		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
 	}
 	
 	swedish = {
-	
-	
-	
-	
+		graphical_cultures = { norsegfx }
+		alternate_start = {
+			OR = {
+				year >= 1000
+				has_alternate_start_parameter = { key = culture value = full_random }
+			}
+		}
+		
+		color = { 0.25 0.5 0.75 }
+		
+		male_names = {
+			Lucas William Oscar Oliver Liam Elias Hugo Vincent Charlie Alexander Axel Ludvig Elliot Noah Leo Viktor Filip Arvid Alfred Nils Isak Emil Theo Theodor Edvin Melvin Gustav
+			Sixten Adam Anton Benjamin Olle Valter Erik Adrian Albin Leon Harry Max Gabriel Malte Melker Josef Mohamed Viggo Ebbe Wilmer Alvin Casper Love Jacob Jack Kevin Felix
+			August Loke Carl Milo Sigge Noel Jonathan Vidar Sebastian Ville Colin Milton Simon Sam Frank Elton Loui Rasmus David Samuel Joel Henry Wilhelm Linus Tage Matteo Elis
+			Vilgot Elvin Ivar Aron Alex Otto John Maximilian Eddie Neo Daniel Julian Mio Hjalmar Dante Ali Edward Hampus Svante
+		}
+		female_names = {
+			Elsa Alice Maja Agnes Lilly Olivia Julia Ebba Linnea Molly Ella Wilma Klara Stella Freja Alicia Alva Alma Isabelle Ellen
+			Saga Ellie Astrid Emma Nellie Emilia Vera Signe Elvira Nova Selma Ester Leah Felicia Sara Sofia Elise Ines Tyra Amanda
+			Elin Ida Moa Meja Isabella Tuva Nora Siri Matilda Sigrid Edith Lovisa Juni Liv Lova Hanna Tilde Iris Thea Emelie Melissa
+			Cornelia Leia Ingrid Livia Jasmine Nathalie Greta Stina Joline Filippa Emmy Svea Marta Tilda Hilda Majken Celine Ellinor
+			Lykke Novalie Linn Tindra My Mira Rut Ronja Hilma Lisa Maria Elina Lovis Minna Hedda Amelia Sally Nicole Victoria Luna Anna
+		}
+		
+		from_dynasty_prefix = "af "
+		
+		male_patronym = "sson"
+		female_patronym = "sdotter"
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier		
 	}
 
 	danish = {
-	
-	
-	
+		graphical_cultures = { norsegfx }
+
+		color = { 0.15 0.4 0.55 }
+		
+		male_names = {
+			William Noah Lucas Oscar Victor Malthe Emil Frederik Oliver Magnus Carl Villads Elias Alexander Anton Christian Alfred Valdemar Mikkel Liam August Mathias Felix Mads Benjamin Aksel Johan
+			Sebastian Marius Storm Adam Tobias Laurits Philip Elliot Jacob Nohr Theodor Marcus Albert Arthur Villum Sander Nikolaj Bertram Jonathan Asger Andreas Daniel Jonas		
+		}
+		female_names = {
+			Emma Sofia Ida Freja Clara Laura Anna Ella Isabella Karla Alma Josefine Olivia Alberte Maja Sofie Mathilde Agnes Lærke Caroline Liva Emily Sara Victoria Emilie Mille Frida Marie Ellen
+			Rosa Lea Signe Filippa Julie Nora Liv Vigga Nanna Naja Alba Astrid Aya Asta Luna Malou Esther Celina Johanne Andrea Lily	
+		}
+
+		from_dynasty_prefix = "af "
+		
+		male_patronym = "sen"
+		female_patronym = "sdatter"
+		prefix = no
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0			
 	}
 	icelandic = {
-	
-	
-	
+		graphical_cultures = { norsegfx }
+
+		color = { 0.15 0.4 0.55 }
+		
+		male_names = {
+			Jón Sigurður Guðmundur Gunnar Ólafur Olav Einar Kristján Kristian Christian Magnús Stefán Stefan Jóhann Björn Arnar Árni Bjarni Helgi Halldór Pétur Pjetur Daníel Kristinn
+			Ragnar Gísli Þorsteinn Guðjón Aron Sveinn Svend Róbert Robert Páll Óskar Birgir Davíð Andri Alexander Viktor Victor Bjarki Tómas Haukur Jóhannes Ágúst Karl Carl Ásgeir
+			Brynjar Benedikt Haraldur Atli Kjartan Sigurjón Friðrik Baldur Þórður Hilmar Kristófer Kári Hörður Rúnar Jónas Egill Eiríkur Sindri Björgvin Sævar Sævarr Guðni Elvar Elfar
+			Hlynur Sverrir Örn Ómar Ari Ísak Ingvar Jakob Jakop Snorri Dagur Reynir Ingólfur Matthías Mattías Mathías Ívar Arnór Anton Hafsteinn Birkir Garðar Þórarinn Eyþór Axel			
+			Þórir Grétar Gretar Tryggvi Emil Steinar Valdimar Valdemar Vilhjálmur Mikael Mikkael Mikkel Ingi Hjalti Hákon Adam Hermann Hjörtur Aðalsteinn Gunnlaugur
+		}
+		female_names = {
+			Guðrún Anna Kristín Sigríður Margrét Margrjet Margret Helga Sigrún Ingibjörg María Jóhanna Elín Katrín Hildur Eva Lilja Ragnheiður Ásta Guðbjörg Elísabet Elísabeth Erla Sara Guðný Ólöf Steinunn Auður
+			Kolbrún Sólveig Solveig Bryndís Inga Berglind Hulda Íris Ásdís Þórunn Unnur Hrafnhildur Þóra Rakel Birna Þórdís Jóna Halldóra Erna Karen Linda Hanna Edda Telma Thelma Harpa Sandra Valgerður Hafdís
+			Tinna Emilía Emelía Andrea Sigurbjörg Guðlaug Jónína Brynja Helena Kristjana Lára Hjördís Sóley Aníta Anita Arna Stefanía Ragnhildur Hólmfríður Hrefna Aðalheiður Rósa Áslaug Björg Laufey Dagný Sunna
+			Halla Marta Martha Ágústa Ingunn Agnes Viktoría Sigurlaug Freyja Elsa Elva Elfa Júlía Soffía Sofie Birta Rannveig Þorbjörg Torbjörg Alexandra Ása Svava Svafa Vigdís Ester Esther Fanney Katla Rebekka
+		}
+
+		from_dynasty_prefix = "af "
+		
+		male_patronym = "sson"
+		female_patronym = "sdotter"
+		prefix = no
+
+		modifier = default_culture_modifier
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0			
 	}
 }
 
 latin_grp = {
-
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { westerngfx }
+	
 	italian = {
-	
-	
-	
-	
+		graphical_cultures = { italiangfx }
+
+		color = { 235 216 92 }
+
+		male_names = {
+			Francesco Alessandro Lorenzo Andrea Leonardo Mattia Matteo Gabriele Riccardo Tommaso Davide Giuseppe Antonio Federico Edoardo Marco Samuele Diego Giovanni Luca Christian Pietro Simone Nicolo' Filippo Alessio Gabriel 
+			Michele Emanuele Jacopo Daniele Cristian Giacomo Vincenzo Salvatore Manuel Gioele Thomas Stefano Giulio Samuel Nicola Giorgio Luigi Daniel Elia Angelo Domenico Paolo Raffaele Valentino
+		}
+		female_names = {
+			Sofia Giulia Aurora Giorgia Martina Emma Greta Chiara Sara Alice Gaia Anna Francesca Ginevra Noemi Alessia Matilde Vittoria Viola Beatrice Nicole Giada Elisa Rebecca Elena Arianna Mia Camilla Ludovica 
+			Maria Marta Melissa Bianca Gioia Asia Adele Eleonora Miriam Serena Benedetta Irene Angelica Ilaria Carlotta Caterina Margherita Alessandra Valentina Emily Laura	
+		}
+		
+		from_dynasty_prefix = "di "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier		
 	}
 	
 	sardinian = {
-	
-	
-	
-	
+		graphical_cultures = { italiangfx }
+
+		color = { 235 216 92 }
+
+		male_names = {
+			Adàmu Adriànu Alessandru Alfonsu Ambròsu Antine Antòni Arrammundu Austinu Austu Basili Benedettu Bernardu Bustianu Crabiele Carlus Carule Clementi
+			Corràdu Costantìnu Cristolu Danelu Dominigu Fabritziu Grabrielle Giustinu Gòsamu Ignatziu Istevene Jerone Jisepu Larentu Matia Mauru Micheli Migali
+			Mikelli Nigola Pascale Patriziu Paulu Pedru Perdu Pretu Ramundu Robertu Samuèli Serbestianu Tomasso Ugu 
+		}
+		female_names = {
+			Adela Angelìca Angiola Angioletta Angiolina Anna Assunta Austina Barbara Beatrìci Benedetta Bibiana Brigida Caderina Catalina Catellina Cristìna Dominiga Dorotea Duminiga lisa Fidula 
+			Filumena Jana Lia Lillia Lina Luisa Luna Maria Marianna Maura Pasca Pascalina Paula Placidia Rita Rosa Rosalia Rosaria Rosina Sabina Susanna Teresa
+		}
+		
+		from_dynasty_prefix = "di "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 10
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier		
 	}
 	
 	romanian = {
@@ -1323,20 +1558,14 @@ islamic_grp = {
 		color = { 155 156 112 }
 
 		male_names = {
-			Aaron_Aaron Abanoub Abderahman_Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah_Abdullah
-			Abianos_Abijah Abisalom Ablarion Abraam_Abraham Abu-Bakr_Abu-Bakr Adnan Agathon_Agathos Agathonikos_Agathonikos Agathos_Agathos
-			Ahmad_Ahmad Akbar_Akbar Alam Ali_Ali Amr Androus_Andrew Anthinos_Anthimos Arsenios_Arsenios Ashraf_Ashraf Asim
-			Athanasios_Athanasius Badr Bashir Biktor_Victor Binyamin_Benjamin Bishoi_Bishara Boutros_Peter Danyal_Daniel Dawlat Da’oud_David
-			Ezra_Ezra Farhan Firuz_Peroz Gabri’el_Gabriel Georgios_George Ghiyasaddin Habil_Abel Hakam_Hakam Hammud Hanri_Henry Haroun_Aaron Hisham
-			Hussayn_Hussein Ibrahim_Abraham Ilyas_Elijah Is'mail_Ismail Izzaddin Jalaaladdin Jawdat Jerjer_Gregory Kemaladdin Khalil_Khalil Krystafer_Christopher
-			Latif Lot Malik Matta_Matthew Mehtar Mikail_Michael Mikhael_Michael Milad_Milad Mina_Menas Muammar Muhammad_Muhammad
-			Mukhtar Murad_Morad Murshid Musa_Moses Muzaffaraddin Nabil Nasir Nassib Nuraddin Pamin Qadir Ra'uf Rafiq Ridwan Sabah Salim_Salim Sha'ban
-			Sharif Suhail Tadros_Theodore Tajaddin Tayyib Touma_Thomas Usama Walid Yahya_Yahya Yared Yassir Youkhanna_John Youssef_Joseph Zaia_Isaiah Zakariyah_Zachary
+			Abdullah Adalet Adem Adil Ahmet Alim Alp Anil Asim Ata Ayberk Aziz Azad Baha Bora Bulut Cafer Cem Jem Cenk Cumhur Ebrar Efe Egemen Emre Ensar Fuat Galip Haluk Hamza Hasip Ibrahim Kadri
+			kerim Kuzey Koray Levent Kudret Mahir Mahmut Mahzun Mert Mesut Mete Muhammet Muhammed Mikail Musa Murat Nedim Nuh Nur Okan Ozan Polat Poyraz Recep Ridvan Rifat Riza Sabri Safa Samed
+			Selim Semih Semir Serdar Serhat Serkan Seyyid Seyyit Soner Taner Tarik Tayyip Temel Taylan Tolga Volkan Yusuf Zeki Ziya Ziyaeddin
 		}
 		female_names = {
-			Acenith Alia Amunet Andali Asanet Asenath Asenet Azenet Badiat Cena Fatima_Fatima Halima 
-			Jamila Khadija Majida Mariam_Maria Nabila Nura Radiya Rana Sacmis Safiya 
-			Samira Suhaila Tawaret Taweret Titi Thuriya Zara Zahra_Zahra
+			Adalet Ajda Aliye Arzu Asel Arzu Asena Asli Asuman Ayla Aylin Aysel Aysu Azra Bahar Beril Berna Berrak Beyza Beste Bihter Burcu Buse Canan Cemre Cennet Derin Didem Duru Duygu Ebru Ece Ela Erva
+			Esen Eser Esin Eslem Evren Ezgi Fatma Fehime Fidan Filin Firuze Gaye Gamze Gonca Hacer Halime Handan Hande Hazal Ikra Ilknur Kismet Medine Melek Melike Naz Necla Nejla Nil Nimet Nur Nuray
+			Rabia Pembe Mervin Pinar Ravza Reyhan Rukiye Sabah Samiye Sanem Seher Selma Semra Serpil Sevda Sila Simge Su Tahire Tuba Tuana Umut Yaren Yeter Yonca Zahide
 		}
 		from_dynasty_prefix = "mn "
 		
@@ -1354,21 +1583,67 @@ islamic_grp = {
 indian_grp = {
 
 	indian = {
+		graphical_cultures = { indiangfx }
+		
+		color = { 0.6 0.0 0.0 }
 	
-	
+		male_names = {
+			Aamir Abbas Abhay Abhijeet Abhijit Abhilash Abhinav Abhishek Abrar Adil Aditya Adnan Agni Ahmad Ajay Ajeet Ajit Ajith Akash Bharat Bharath Bibek Bijay Bipin Bishal Bishan Brijesh Chand
+			Chander Chetan Damodar Danyal Darshan Dayaram Deo Devdas Devraj Dhaval Dileep Dilshad Dinesh Dip Dipak Durai Durga Dushyant Farid Feroze Firoz Gautam Ghulam Girish Gopinath Goutam
+			Harinder Hari Haroon Harsh Harsha Inderpal Inrda Isha Jagadish Jagit Jaidev Kalyan Kanta Kanti Kapil Karan Karthik Kartik Mohinder Mukesh Nand Nanda Narinder Navin Ninad Niraj Om Padma Pallav
+			Pankaj Parminder Parth Parveen Pitambar Prabhu Pran Pratap Rabi Punit Raghu Rajib Rajinder Rajneesh Rasel Sanjeet Sanjit Saral Satish Shekhar Sher Shib Shiva Shyam Simran Sikandar Vasu Venkat  
+		}
+		female_names = {
+			Aarthi Abha Aisha Amala Anandi Anila Anima Anisha Anita Anjali Arti Aruna Arya Aruna Avani Balwinder Bhavna Chanda Chandana Chandra Chetana Darshana Deepa Deepika Divya Esha Ezhil
+			Fahmida Ferdous Gargi Dauri Gayatri Gita Gowri Gurdeep Gurmeet Harinder Harshada Hema Hira Humaira Ila Inderjeet Inderpal Jaswinder Jaya Jayanthi Kala Kali Kalpana Kamakshi Kasi Kavita
+			Laila Laboni Lalita Madhur Manjeet Maya Meera Meena Mohini Mumtaz Nalini Nikita Nilima Padma Padmini Pratima Preethi Prema Priti Rachana Rajinder Rakhi Riya Rupa Sadia Sandhya Sarala
+			Saraswati Sarika Sarita Sashi Seeta Shabnam Shailaja Shanti Sheela Shikha Shila Shivani Simran Sitara Sneha Sridevi Suniti Swapna Uma Urvi Vasanti Yamuna Zeenat
+		}
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier		
 	}
 	
 	pakistani = {
+		graphical_cultures = { southindiangfx }
+		
+		color = { 0.6 0.0 0.0 }
 	
+		male_names = {
+			Aamir Abdul Adil Adnan Ajeet Akbar Ali Amit Asad Ayaz Baber Babur Deep Deepak Dilshad Dinesh Dip Firdos Furqan Ghulam Gul Hassan Imran Imitiyaz Inayat Kumar Mahmud Manish Manoj
+			Naseem Nadim Noor Nur Pankaj Qasim Rahat Raj RAja Rakesh RAna Raza Sanjeev Shahid Shahnaz Sharif Simran Sumit Sumeet	Umar Vishal Yasin Younus Zaman Ziauddin Zaman Zawar		
+		}
+		female_names = {
+			Aisha Aiza Aizah Ayesha Deepa Dilshad Dipa Fahmida Fareeha Fariha Gul Gulbadan Gulbahar Gulzar Inaaya Hira Inaaya Inaya Iqra Jannat Khurshid Mumtaz Naseem Nasim Nida Pooja Rahat
+			Sabeen Sadia Saira Shabnam Swaran Syeda Yasmeen Zahida Zainab Zeenat
+		}
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier			
 	
 	
 	}
 	
 	bangladeshi = {
+		graphical_cultures = { indiangfx }
+		
+		color = { 0.6 0.0 0.0 }
 	
-	
-	
-	
+		male_names = {
+			Aamir Abdul Adil Adnan Ajeet Akbar Ali Amit Asad Ayaz Baber Babur Deep Deepak Dilshad Dinesh Dip Firdos Furqan Ghulam Gul Hassan Imran Imitiyaz Inayat Kumar Mahmud Manish Manoj
+			Naseem Nadim Noor Nur Pankaj Qasim Rahat Raj RAja Rakesh RAna Raza Sanjeev Shahid Shahnaz Sharif Simran Sumit Sumeet	Umar Vishal Yasin Younus Zaman Ziauddin Zaman Zawar		
+		}
+		female_names = {
+			Aisha Aiza Aizah Ayesha Deepa Dilshad Dipa Fahmida Fareeha Fariha Gul Gulbadan Gulbahar Gulzar Inaaya Hira Inaaya Inaya Iqra Jannat Khurshid Mumtaz Naseem Nasim Nida Pooja Rahat
+			Sabeen Sadia Saira Shabnam Swaran Syeda Yasmeen Zahida Zainab Zeenat
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		modifier = default_culture_modifier			
 	}	
 }
 
@@ -1432,10 +1707,29 @@ eastern_grp = {
 		color = { 218 165 32 }
 
 		male_names = {
-			Ji Yu Deyi Wuji Xuanling Ruhui Jing Yanbo Shilian Shiji Xingcheng Zhining Suiliang Rengui Zhide Liangsi Daijia Chengsi Changliang Qinwang Jishan Xiujing Yuanzhong Chengqi Shi Ziyi Maozhen Wei Gongren Shidao Wenben Zhou Jifu Shi Dunli Yifu Zhenglun Jingzong Xiangdao Dunxin Liben Chujun Jingxuan Yuanchao Zhiwen Yan Weidao Judao Wenwei Zhaode Sansi Renjie Qiao Zaisi Xuanwei Shuji Anshi Chuke Zhizhong Shaojing Sili Chong Shuo Jiazhen Song Jiuling Linfu Guozhong Yuan Fuguo Huaiguang Sheng Jian Hong Minzhong Zhaodu Wenjing Kang Shuda Yuanji Gui Zheng Wenjie Yuan Maojiang Yushi Dexuan Luo Wenguan Chujun Jingxian Dezhen Siqian Xuantong Guangfu Youning Wuzi Qinke Tong Shou Hui Yanfan Huai Juyuan Chuna Zhizhong Rizhi Youqiu Huaizhen Xi Zhigu Huaishen Qianyao Guangting Yaoqin Xianke Shizhi Xilie Jiansu Jinqin Jin Sui Duo Mei Congdang Yanruo Yin Yan Zhou Junji Yaxiang Chengqing Yi Yanwei Chuyue Hongwu Anqi Renben Heng Yiyan Zhizhou Da'an Daiju Hongmin Weizhi Benli Xiaojie Jiongxiu Dan Jianzhi Huaiyuan Qinming Renyuan Zhigu Xiangxian Na Lin Zhengyi Jingchen Junliang Cha Fangzhi Lübing Youyi Sihui Fuyuan Zhigu Xingben Zhirou Youdao Zhihong Shenji Yuanzong Yuansu Rui Juyuan Yuanfang Shifang Jingquan Yunyuan Yuanheng Fangqing Daoguang Yuanchong Xu Jingze Rong Weiqian Yanzhao Jiafu Yuanhong Xilie Guan Mian Ting Qi Kui Hua Zunqing Zai Hongjian Gun Zhongchen Youfu Lin Yi Bo Congyi Gongfu Yanshang Zao Huang Hun Bi Can Zhi Dan Mai Sun Zongru Yuqing Ying Xunyu Zhiyi Huangshang Yuanheng Di Pan Deyu Jiang Hongjin Guanzhi Fengji Qun Yong Yijian Fu Wenchang Yuanying Sengru Chen Yizhi Chuhou Zongmin Shenxi Guyan Yuanyu Xun Tan Yixing Sifu Shen Rangyi Su Shang Minzhong Yuanshi Guicong Tao Mo Lang Shenyou Zhuan Shenquan Xian Shou Que Shang Zhan Ye Wei Che Gou Changtu Zhaodu Rangneng Yanchang Xisheng Chuan Pu Wo She Riyong Renshi Guangqi Zhirou Yanjing Dewei Shouyi Longji Jie Shouli Yuanzhen Xinfu Yun
+			Ji Yu Deyi Wuji Xuanling Ruhui Jing Yanbo Shilian Shiji Xingcheng Zhining Suiliang Rengui Zhide Liangsi Daijia Chengsi Changliang Qinwang Jishan Xiujing Yuanzhong Chengqi Shi Ziyi Maozhen Wei
+			Gongren Shidao Wenben Zhou Jifu Shi Dunli Yifu Zhenglun Jingzong Xiangdao Dunxin Liben Chujun Jingxuan Yuanchao Zhiwen Yan Weidao Judao Wenwei Zhaode Sansi Renjie Qiao Zaisi Xuanwei 
+			Shuji Anshi Chuke Zhizhong Shaojing Sili Chong Shuo Jiazhen Song Jiuling Linfu Guozhong Yuan Fuguo Huaiguang Sheng Jian Hong Minzhong Zhaodu Wenjing Kang Shuda Yuanji Gui Zheng Wenjie 
+			Yuan Maojiang Yushi Dexuan Luo Wenguan Chujun Jingxian Dezhen Siqian Xuantong Guangfu Youning Wuzi Qinke Tong Shou Hui Yanfan Huai Juyuan Chuna Zhizhong Rizhi Youqiu Huaizhen Xi Zhigu
+			Huaishen Qianyao Guangting Yaoqin Xianke Shizhi Xilie Jiansu Jinqin Jin Sui Duo Mei Congdang Yanruo Yin Yan Zhou Junji Yaxiang Chengqing Yi Yanwei Chuyue Hongwu Anqi Renben Heng Yiyan 
+			Zhizhou Da'an Daiju Hongmin Weizhi Benli Xiaojie Jiongxiu Dan Jianzhi Huaiyuan Qinming Renyuan Zhigu Xiangxian Na Lin Zhengyi Jingchen Junliang Cha Fangzhi Lübing Youyi Sihui Fuyuan Zhigu 
+			Xingben Zhirou Youdao Zhihong Shenji Yuanzong Yuansu Rui Juyuan Yuanfang Shifang Jingquan Yunyuan Yuanheng Fangqing Daoguang Yuanchong Xu Jingze Rong Weiqian Yanzhao Jiafu Yuanhong Xilie
+			Guan Mian Ting Qi Kui Hua Zunqing Zai Hongjian Gun Zhongchen Youfu Lin Yi Bo Congyi Gongfu Yanshang Zao Huang Hun Bi Can Zhi Dan Mai Sun Zongru Yuqing Ying Xunyu Zhiyi Huangshang Yuanheng 
+			Di Pan Deyu Jiang Hongjin Guanzhi Fengji Qun Yong Yijian Fu Wenchang Yuanying Sengru Chen Yizhi Chuhou Zongmin Shenxi Guyan Yuanyu Xun Tan Yixing Sifu Shen Rangyi Su Shang Minzhong Yuanshi 
+			Guicong Tao Mo Lang Shenyou Zhuan Shenquan Xian Shou Que Shang Zhan Ye Wei Che Gou Changtu Zhaodu Rangneng Yanchang Xisheng Chuan Pu Wo She Riyong Renshi Guangqi Zhirou Yanjing Dewei 
+			Shouyi Longji Jie Shouli Yuanzhen Xinfu Yun
 		}
 		female_names = {
-			Anzong Wenshou Aiqin Que Daoan Maoying Qigui Rongji Huinan Yuying Yingwu Xianyuan Lingyuan Wanying Yingmei Zhenfeng Miaodeng Farong Yuzhu Jiangui Fanjing Daozheng Zhirong Huizhao Shuyi Shuyuan Jieyu Ronghua Zhaoyi Lanying Baoming Jingying Shaoming Huiduan Lingqu Yu'er Nizi Jinghui Shunhua Shangrou Hui Lingguang Lingying Lingbing Zhaopei Yao'er Miaorong Shaoji Jingyan Lihua Wuhua Xianji Shouji Zhaorong Ying Xianzi Puxian Lian Mingxiang Yuanhua Tong'e Mingyue Zhaojun "Zu'e" Yuguang Zuqi Zhonghua Yuyi Changyi Huanghua Xiaolian "E'zi" Manyue Yueyi Yueshang Qieluo Lingji Zhou Shuzhen Gui Hui Huitong "Wan'er" Shun Fangmei Zhenyi Caiping Yuhuan Qiniang Qiu Qiuniang Jianrong Chongyan Zhenniang Yuniang Fujin Shiguang "E'huang" "Nüying" Xinyue Hanyue Feishan Shunxuan Taihua Dexiu Jinfeng Chunyan Qiongxian E Taotao Bingyi Yunu Zuimei Chunluo Fengniang Daoqing Zhuozhen Yan Yanyan "Shi'er" "Xian'e" Nanxian Shanxiang Ai Shanli Jinluan "Xi'er" "Zhen'er" Wanyi Mantang Xijie Baozhu Xiuying Zhongyang Ruoxian Ruozhao Ruoxin Ruoxun Ruolun Miaozhen Mao'er Daoyi Niangzi Saihua Guiying Shengqiong Chaochao Fu Zhaoyun Rouniang Rounu Yuniang Biniang Rui Jinhua Guilan Shanwei Suyue Yunxian Nenniang Xiang Zhenli Cuiqiao Zhihui Lingxuan Jicong Shuzhu Yujing Yuanyuan Xiaowan Hengbo Mei Xiangjun Rushi Xianglan Ruying Yuhua Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen "Xiao'e" Xiaoying Xiaoyuan Xiaoji Xiuui "Nüjie" Qingyu Zhichong "Yi'an" Youwu Yupan Jinnu Jinluo Fujin "Hu'er" Jinxian Qiaoyun Sanjin Xiangyun Zhuzhu "Jin'er" Chuanzhu Jinzhu Xiaojin Huimei Miaoyu Quyi Siniang Sanniang "A'wu" Lizhi Jing Shu Lingyue Xianhui Jijiang "Guo'er" Huawan Huazhuang Chang Dehua Panpan Caichun Wenxiu Hong Honghong "A'man" Huimei Shuozhen Youwei Huilan Lize Mingda Sujie Yiyang Hua Yuhuan Shi Diaochan Zheng Liu Kangyi Feiyan Hou Jiangnu Na Shengtong Zhi
+			Anzong Wenshou Aiqin Que Daoan Maoying Qigui Rongji Huinan Yuying Yingwu Xianyuan Lingyuan Wanying Yingmei Zhenfeng Miaodeng Farong Yuzhu Jiangui Fanjing Daozheng Zhirong Huizhao Shuyi 
+			Shuyuan Jieyu Ronghua Zhaoyi Lanying Baoming Jingying Shaoming Huiduan Lingqu Yu'er Nizi Jinghui Shunhua Shangrou Hui Lingguang Lingying Lingbing Zhaopei Yao'er Miaorong Shaoji Jingyan Lihua
+			Wuhua Xianji Shouji Zhaorong Ying Xianzi Puxian Lian Mingxiang Yuanhua Tong'e Mingyue Zhaojun "Zu'e" Yuguang Zuqi Zhonghua Yuyi Changyi Huanghua Xiaolian "E'zi" Manyue Yueyi Yueshang Qieluo 
+			Lingji Zhou Shuzhen Gui Hui Huitong "Wan'er" Shun Fangmei Zhenyi Caiping Yuhuan Qiniang Qiu Qiuniang Jianrong Chongyan Zhenniang Yuniang Fujin Shiguang "E'huang" "Nüying" Xinyue Hanyue Feishan 
+			Shunxuan Taihua Dexiu Jinfeng Chunyan Qiongxian E Taotao Bingyi Yunu Zuimei Chunluo Fengniang Daoqing Zhuozhen Yan Yanyan "Shi'er" "Xian'e" Nanxian Shanxiang Ai Shanli Jinluan "Xi'er" "Zhen'er"
+			Wanyi Mantang Xijie Baozhu Xiuying Zhongyang Ruoxian Ruozhao Ruoxin Ruoxun Ruolun Miaozhen Mao'er Daoyi Niangzi Saihua Guiying Shengqiong Chaochao Fu Zhaoyun Rouniang Rounu Yuniang Biniang 
+			Rui Jinhua Guilan Shanwei Suyue Yunxian Nenniang Xiang Zhenli Cuiqiao Zhihui Lingxuan Jicong Shuzhu Yujing Yuanyuan Xiaowan Hengbo Mei Xiangjun Rushi Xianglan Ruying Yuhua Yuantong Yanxiang
+			Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen "Xiao'e" Xiaoying Xiaoyuan Xiaoji Xiuui "Nüjie" Qingyu Zhichong "Yi'an" Youwu Yupan Jinnu Jinluo Fujin "Hu'er" Jinxian Qiaoyun Sanjin Xiangyun Zhuzhu
+			"Jin'er" Chuanzhu Jinzhu Xiaojin Huimei Miaoyu Quyi Siniang Sanniang "A'wu" Lizhi Jing Shu Lingyue Xianhui Jijiang "Guo'er" Huawan Huazhuang Chang Dehua Panpan Caichun Wenxiu Hong Honghong
+			"A'man" Huimei Shuozhen Youwei Huilan Lize Mingda Sujie Yiyang Hua Yuhuan Shi Diaochan Zheng Liu Kangyi Feiyan Hou Jiangnu Na Shengtong Zhi
 		}
 		
 		dynasty_title_names = no
@@ -1445,7 +1739,7 @@ eastern_grp = {
 		modifier = default_culture_modifier
 	}
 	korean = {
-		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		graphical_cultures = { chinesegfx}
 		secondary_event_pictures = bedouin_arabic
 		
 		dynasty_name_first = yes
@@ -1453,10 +1747,31 @@ eastern_grp = {
 		color = { 185 196 203 }
 
 		male_names = {
-			Ji Yu Deyi Wuji Xuanling Ruhui Jing Yanbo Shilian Shiji Xingcheng Zhining Suiliang Rengui Zhide Liangsi Daijia Chengsi Changliang Qinwang Jishan Xiujing Yuanzhong Chengqi Shi Ziyi Maozhen Wei Gongren Shidao Wenben Zhou Jifu Shi Dunli Yifu Zhenglun Jingzong Xiangdao Dunxin Liben Chujun Jingxuan Yuanchao Zhiwen Yan Weidao Judao Wenwei Zhaode Sansi Renjie Qiao Zaisi Xuanwei Shuji Anshi Chuke Zhizhong Shaojing Sili Chong Shuo Jiazhen Song Jiuling Linfu Guozhong Yuan Fuguo Huaiguang Sheng Jian Hong Minzhong Zhaodu Wenjing Kang Shuda Yuanji Gui Zheng Wenjie Yuan Maojiang Yushi Dexuan Luo Wenguan Chujun Jingxian Dezhen Siqian Xuantong Guangfu Youning Wuzi Qinke Tong Shou Hui Yanfan Huai Juyuan Chuna Zhizhong Rizhi Youqiu Huaizhen Xi Zhigu Huaishen Qianyao Guangting Yaoqin Xianke Shizhi Xilie Jiansu Jinqin Jin Sui Duo Mei Congdang Yanruo Yin Yan Zhou Junji Yaxiang Chengqing Yi Yanwei Chuyue Hongwu Anqi Renben Heng Yiyan Zhizhou Da'an Daiju Hongmin Weizhi Benli Xiaojie Jiongxiu Dan Jianzhi Huaiyuan Qinming Renyuan Zhigu Xiangxian Na Lin Zhengyi Jingchen Junliang Cha Fangzhi Lübing Youyi Sihui Fuyuan Zhigu Xingben Zhirou Youdao Zhihong Shenji Yuanzong Yuansu Rui Juyuan Yuanfang Shifang Jingquan Yunyuan Yuanheng Fangqing Daoguang Yuanchong Xu Jingze Rong Weiqian Yanzhao Jiafu Yuanhong Xilie Guan Mian Ting Qi Kui Hua Zunqing Zai Hongjian Gun Zhongchen Youfu Lin Yi Bo Congyi Gongfu Yanshang Zao Huang Hun Bi Can Zhi Dan Mai Sun Zongru Yuqing Ying Xunyu Zhiyi Huangshang Yuanheng Di Pan Deyu Jiang Hongjin Guanzhi Fengji Qun Yong Yijian Fu Wenchang Yuanying Sengru Chen Yizhi Chuhou Zongmin Shenxi Guyan Yuanyu Xun Tan Yixing Sifu Shen Rangyi Su Shang Minzhong Yuanshi Guicong Tao Mo Lang Shenyou Zhuan Shenquan Xian Shou Que Shang Zhan Ye Wei Che Gou Changtu Zhaodu Rangneng Yanchang Xisheng Chuan Pu Wo She Riyong Renshi Guangqi Zhirou Yanjing Dewei Shouyi Longji Jie Shouli Yuanzhen Xinfu Yun
+			Ji Yu Deyi Wuji Xuanling Ruhui Jing Yanbo Shilian Shiji Xingcheng Zhining Suiliang Rengui Zhide Liangsi Daijia Chengsi Changliang Qinwang Jishan Xiujing Yuanzhong Chengqi
+			Shi Ziyi Maozhen Wei Gongren Shidao Wenben Zhou Jifu Shi Dunli Yifu Zhenglun Jingzong Xiangdao Dunxin Liben Chujun Jingxuan Yuanchao Zhiwen Yan Weidao Judao Wenwei
+			Zhaode Sansi Renjie Qiao Zaisi Xuanwei Shuji Anshi Chuke Zhizhong Shaojing Sili Chong Shuo Jiazhen Song Jiuling Linfu Guozhong Yuan Fuguo Huaiguang Sheng Jian Hong Minzhong
+			Zhaodu Wenjing Kang Shuda Yuanji Gui Zheng Wenjie Yuan Maojiang Yushi Dexuan Luo Wenguan Chujun Jingxian Dezhen Siqian Xuantong Guangfu Youning Wuzi Qinke Tong Shou
+			Hui Yanfan Huai Juyuan Chuna Zhizhong Rizhi Youqiu Huaizhen Xi Zhigu Huaishen Qianyao Guangting Yaoqin Xianke Shizhi Xilie Jiansu Jinqin Jin Sui Duo Mei Congdang Yanruo Yin
+			Yan Zhou Junji Yaxiang Chengqing Yi Yanwei Chuyue Hongwu Anqi Renben Heng Yiyan Zhizhou Da'an Daiju Hongmin Weizhi Benli Xiaojie Jiongxiu Dan Jianzhi Huaiyuan Qinming 
+			Renyuan Zhigu Xiangxian Na Lin Zhengyi Jingchen Junliang Cha Fangzhi Lübing Youyi Sihui Fuyuan Zhigu Xingben Zhirou Youdao Zhihong Shenji Yuanzong Yuansu Rui Juyuan Yuanfang
+			Shifang Jingquan Yunyuan Yuanheng Fangqing Daoguang Yuanchong Xu Jingze Rong Weiqian Yanzhao Jiafu Yuanhong Xilie Guan Mian Ting Qi Kui Hua Zunqing Zai Hongjian Gun Zhongchen
+			Youfu Lin Yi Bo Congyi Gongfu Yanshang Zao Huang Hun Bi Can Zhi Dan Mai Sun Zongru Yuqing Ying Xunyu Zhiyi Huangshang Yuanheng Di Pan Deyu Jiang Hongjin Guanzhi Fengji Qun Yong
+			Yijian Fu Wenchang Yuanying Sengru Chen Yizhi Chuhou Zongmin Shenxi Guyan Yuanyu Xun Tan Yixing Sifu Shen Rangyi Su Shang Minzhong Yuanshi Guicong Tao Mo Lang Shenyou Zhuan
+			Shenquan Xian Shou Que Shang Zhan Ye Wei Che Gou Changtu Zhaodu Rangneng Yanchang Xisheng Chuan Pu Wo She Riyong Renshi Guangqi Zhirou Yanjing Dewei Shouyi Longji Jie Shouli 
+			Yuanzhen Xinfu Yun
 		}
 		female_names = {
-			Anzong Wenshou Aiqin Que Daoan Maoying Qigui Rongji Huinan Yuying Yingwu Xianyuan Lingyuan Wanying Yingmei Zhenfeng Miaodeng Farong Yuzhu Jiangui Fanjing Daozheng Zhirong Huizhao Shuyi Shuyuan Jieyu Ronghua Zhaoyi Lanying Baoming Jingying Shaoming Huiduan Lingqu Yu'er Nizi Jinghui Shunhua Shangrou Hui Lingguang Lingying Lingbing Zhaopei Yao'er Miaorong Shaoji Jingyan Lihua Wuhua Xianji Shouji Zhaorong Ying Xianzi Puxian Lian Mingxiang Yuanhua Tong'e Mingyue Zhaojun "Zu'e" Yuguang Zuqi Zhonghua Yuyi Changyi Huanghua Xiaolian "E'zi" Manyue Yueyi Yueshang Qieluo Lingji Zhou Shuzhen Gui Hui Huitong "Wan'er" Shun Fangmei Zhenyi Caiping Yuhuan Qiniang Qiu Qiuniang Jianrong Chongyan Zhenniang Yuniang Fujin Shiguang "E'huang" "Nüying" Xinyue Hanyue Feishan Shunxuan Taihua Dexiu Jinfeng Chunyan Qiongxian E Taotao Bingyi Yunu Zuimei Chunluo Fengniang Daoqing Zhuozhen Yan Yanyan "Shi'er" "Xian'e" Nanxian Shanxiang Ai Shanli Jinluan "Xi'er" "Zhen'er" Wanyi Mantang Xijie Baozhu Xiuying Zhongyang Ruoxian Ruozhao Ruoxin Ruoxun Ruolun Miaozhen Mao'er Daoyi Niangzi Saihua Guiying Shengqiong Chaochao Fu Zhaoyun Rouniang Rounu Yuniang Biniang Rui Jinhua Guilan Shanwei Suyue Yunxian Nenniang Xiang Zhenli Cuiqiao Zhihui Lingxuan Jicong Shuzhu Yujing Yuanyuan Xiaowan Hengbo Mei Xiangjun Rushi Xianglan Ruying Yuhua Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen "Xiao'e" Xiaoying Xiaoyuan Xiaoji Xiuui "Nüjie" Qingyu Zhichong "Yi'an" Youwu Yupan Jinnu Jinluo Fujin "Hu'er" Jinxian Qiaoyun Sanjin Xiangyun Zhuzhu "Jin'er" Chuanzhu Jinzhu Xiaojin Huimei Miaoyu Quyi Siniang Sanniang "A'wu" Lizhi Jing Shu Lingyue Xianhui Jijiang "Guo'er" Huawan Huazhuang Chang Dehua Panpan Caichun Wenxiu Hong Honghong "A'man" Huimei Shuozhen Youwei Huilan Lize Mingda Sujie Yiyang Hua Yuhuan Shi Diaochan Zheng Liu Kangyi Feiyan Hou Jiangnu Na Shengtong Zhi
+			Anzong Wenshou Aiqin Que Daoan Maoying Qigui Rongji Huinan Yuying Yingwu Xianyuan Lingyuan Wanying Yingmei Zhenfeng Miaodeng Farong Yuzhu Jiangui Fanjing Daozheng 
+			Zhirong Huizhao Shuyi Shuyuan Jieyu Ronghua Zhaoyi Lanying Baoming Jingying Shaoming Huiduan Lingqu Yu'er Nizi Jinghui Shunhua Shangrou Hui Lingguang Lingying Lingbing Zhaopei
+			Yao'er Miaorong Shaoji Jingyan Lihua Wuhua Xianji Shouji Zhaorong Ying Xianzi Puxian Lian Mingxiang Yuanhua Tong'e Mingyue Zhaojun "Zu'e" Yuguang Zuqi Zhonghua Yuyi Changyi 
+			Huanghua Xiaolian "E'zi" Manyue Yueyi Yueshang Qieluo Lingji Zhou Shuzhen Gui Hui Huitong "Wan'er" Shun Fangmei Zhenyi Caiping Yuhuan Qiniang Qiu Qiuniang Jianrong Chongyan 
+			Zhenniang Yuniang Fujin Shiguang "E'huang" "Nüying" Xinyue Hanyue Feishan Shunxuan Taihua Dexiu Jinfeng Chunyan Qiongxian E Taotao Bingyi Yunu Zuimei Chunluo Fengniang Daoqing 
+			Zhuozhen Yan Yanyan "Shi'er" "Xian'e" Nanxian Shanxiang Ai Shanli Jinluan "Xi'er" "Zhen'er" Wanyi Mantang Xijie Baozhu Xiuying Zhongyang Ruoxian Ruozhao Ruoxin Ruoxun Ruolun Miaozhen 
+			Mao'er Daoyi Niangzi Saihua Guiying Shengqiong Chaochao Fu Zhaoyun Rouniang Rounu Yuniang Biniang Rui Jinhua Guilan Shanwei Suyue Yunxian Nenniang Xiang Zhenli Cuiqiao Zhihui 
+			Lingxuan Jicong Shuzhu Yujing Yuanyuan Xiaowan Hengbo Mei Xiangjun Rushi Xianglan Ruying Yuhua Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen "Xiao'e" Xiaoying 
+			Xiaoyuan Xiaoji Xiuui "Nüjie" Qingyu Zhichong "Yi'an" Youwu Yupan Jinnu Jinluo Fujin "Hu'er" Jinxian Qiaoyun Sanjin Xiangyun Zhuzhu "Jin'er" Chuanzhu Jinzhu Xiaojin Huimei Miaoyu Quyi
+			Siniang Sanniang "A'wu" Lizhi Jing Shu Lingyue Xianhui Jijiang "Guo'er" Huawan Huazhuang Chang Dehua Panpan Caichun Wenxiu Hong Honghong "A'man" Huimei Shuozhen Youwei Huilan 
+			Lize Mingda Sujie Yiyang Hua Yuhuan Shi Diaochan Zheng Liu Kangyi Feiyan Hou Jiangnu Na Shengtong Zhi
 		}
 		
 		dynasty_title_names = no
@@ -1467,7 +1782,7 @@ eastern_grp = {
 	}
 	
 	japanese = {
-		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		graphical_cultures = {chinesegfx}
 		secondary_event_pictures = bedouin_arabic
 		
 		dynasty_name_first = yes
@@ -1475,10 +1790,42 @@ eastern_grp = {
 		color = { 185 196 203 }
 
 		male_names = {
-
+			Akhiko Akihito Akimitsu Akio Akira Aoi Arata Asuka Atsushi Ayumu Chihiro Daichi Daiki Daisuke Goro Gorou Hachiro Hachirou Hanzou Haru Haruka Haruki Haruto Hayate Hayato 
+			Hibiki Hideaki Hideki Hideyoshi Hifumi Hikari Hikaru Hinata Hiraku Hiroki Hiroshi Hiroto Ichiro Ichirou Isamu Jiro Jirou Jun Junpei Jruo Jurou Kaede Kaito Kaoru Katashi Katsu 
+			Katsushito Katsuo Kenshin Kenta Kenzo Koji Kosuke Kouji Kousuke Makoto Masasho Minato Nao Naoki Noboru Nori Noriaki Osamu Ren Riku Ryo Ryoichi Ryota Saburo Shichiro 
+			Shigeru Shingo Shinobou Shion Shiori Shouhei Sota Susumu Taiki Takashi Takara Taro Tomomi Toshiaki Yasu Yoshie Yoshiro Youta Yuuki Yuudai Yuuma Yuuto 
 		}
 		female_names = {
+			Ai Aki Akiko Aoi Asami Atsuko Askuka Ayaka Ayako Ayame Ayane Chihiro Chikako Chinatsu Chiyoko Cho Chou Emi Haru Haruka Haruna Hibiki Hinata Hitomi Hotaru Kanako
+			Kanna Kanon Kaori Kazue Kei Keiko Kiku Kiyoko Kokoro Kyo Kyoko Mai Makoto Mao Mari Mariko Masami Masuyo Mei Michi Michiko Midori Miho Miki Minoru Mio Misaki Mitsuko
+			Miu Miyako Miyu Mizuki Moe Momoka Momoko Nanako Nao Naomi Natsuki Natsuko Natsumi Ren Riko Rin Rina Rio Saori Sayaka Setsuko Shinju Shinobu Takako Tomiko Tomoko
+			Wakana Yoko Yoshie Youko Yuka Yuki Yumi Yuri Yuu Yuuko Yuuri Yuzuki
+		}
+		
+		dynasty_title_names = no
+		
+		from_dynasty_prefix = ""
+		
+		modifier = default_culture_modifier		
+	}
+	
+	thai = {
+		graphical_cultures = {bodpagfx}		
+		color = { 185 196 203 }
 
+		male_names = {
+			Adul Adulsak Akapol Akradech Amnak Anapan Anothai Anucha Anun Anurak Bancha Bank Banthoeng Bannthuaeng Bin Booncherd Boonchua Boonkuea Boonloes Boonrit Boonsong Boonthan Boonthep
+			Boonwat Chaiyod Chaiyos Chalaem Chalermchai Chaloempol Chalong Chan Chanarat Chanon Charoen Chumpol Chumsai Chusak Dabkam Damnoen Duangthit Dumri Dumrong Dusit Faek Jaruk Jarun
+			Jatupan Jatupol Jaturong Jeeradej Jessada Jian Jira Kanuengnij Kasem Kathawut Keng Kiattisak Kijja Kitisak Kitsiri Kitti Kittipong Krit Kritsana Kriungkrai Kuanchai Lao Lek Likit Liochum Liosun
+			Massarong Mesa Mon Monchai Mongkol Mongkolchai Montri Muhamudtungmiri Mun Nam Natthapol Natthapong Natthawat Nikom Nikorn Nilad Nipit Nipon Niran Nirut Norapong Nuy Pachad Padejchai
+			Padol Padungchai Paiboon Pairoj Paitoon Pajon 
+		}
+		female_names = {
+			Anyama Aomruethai Apinya Aree Areeya Arom Arrapin Arreerat Arun Arunee Arunrat Arunthip Assaya Ayang Banchuen Bangorn Benja Benjamas Benjawan Boonrueang Boonsri Bua Buakaew Buakai Bunrat
+			Chuenjit Chukwuan Chuleekorn Chutima Dang Daorueng Darae Daraka Daree Fong Gingjan Hathaikarn Kathaithip Hatthapan Issayakorn Jamnit Jamnong Jan Janjai Jantra Janya Jarawee Jaree Jarinuch
+			Jaru Jarupha Jatuporn Jeya Ji Jiumsiri Jongkolnee Jumjim Jureeka Juthamas Kaewdecha Kajeewan Kamolthip Kamolwan Kanokwan Kanuengnij Kanya Kanyarat Karnjana Kat Kattreeya Keerati Keeratinan
+			Kesornrat "La ong" Ladda Mae Mala Malai Malee Maliya Maneepan Manithira Matta Mayura Mayuree Nanthana Nantharat Nanthinee Naowarat Napassorn Narin Naruemol Naruenat Niramol Nisarat Nitaya Nom
+			Orachorn Oranutch Ornjit Parichart Patcharee Pathumma Phimol Prapan
 		}
 		
 		dynasty_title_names = no
@@ -1488,37 +1835,103 @@ eastern_grp = {
 		modifier = default_culture_modifier	
 	
 	
-	
-	
-	}
-	
-	thai = {
-	
-	
-	
-	
 	}
 }
 
 germanic_grp = {
-
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { germangfx westerngfx}
+	
 	german = {
+		graphical_cultures = {germangfx}
+		color = {0.5 0.5 0.5}
 	
-	
-	
-	
+		from_dynasty_prefix = "von "
+		male_names = {
+			Ben Jonas Leon Elias Finn Noah Paul Luis Lukas Luca Felix Maximilian Henry Max Emil Moritz Jakob Niklas Tim Julian Oskar Anton Philipp David Alexander Theo Tom Mats Jan Matteo Samuel Erik Fabian Milan Leo Jonathan Rafael Simon Vincent 
+			Lennard Carl Linus Hannes Jona Mika Jannik Nico Till Johannes Marlon Leonard Benjamin Johann Mattis Adrian Julius Florian Constantin Daniel Aaron Maxim Nick Valentin Ole Luke Levi Nils Jannis Sebastian Tobias Marvin Joshua Timo Phil Joel 
+			Benedikt John Robin Toni Dominic Damian Artur Pepe Lasse Malte Sam Bruno Gabriel Lennox Justus Kilian Theodor Oliver Jamie Levin Lian Noel
+		}
+		female_names = {
+			Emma Mia Hannah Sofia Emilia Ann Lena Lea Emily Lina Léonie Amelie Sophie Luisa Johanna Nele Laura Lilly Lara Clara Mila Leni Maja Charlotte Sarah Frieda Ida Greta Pia Lotta Lia Mathilda Ella Melina Lisa Julia Paula 
+			Alina Mira Zoe Helena Marlene Emely Elisa Victoria Isabell Isabella Jana Amy Mara Finja Josephine Katharina Nora Theresa Mary Antonia Jasmin Stella Pauline Louise Annika Anni Lucy Jule Merle Carla Eva Milena Martha 
+			Elena Fiona Melissa Franziska Luna Magdalena Nina Annabell Romy Carlotta Mina Paulina Ronja Zoey Chiara Helene Selina Maila Fabienne Elina Jette Sina Jolina Elif Elisabeth Linda Miriam Valentina Lotte 
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier	
 	}
 	dutch = {
-	
-	
-	
-	
-	
+		graphical_cultures = { saxongfx }
+		color = {0.5 0.5 0.5}	
+		
+		male_names = {
+			Aart Abe Abraham Ad Adam Adelbert Adriaan Adrianus Albert Alexander Alfons Alfred Allard Alwin Ambroos Antoon Arno Arnoud Bas Bastiaan Ben Benjamin Bernard
+			Constantin Daan Damiaan David Dick Diede Diederick Eef Ed Eduard Elias Emerens Emiel Ferdinand Filip Flip Floris Fons Franciscus Frank Frits Funs Geert Gerard
+			Gerlof Gilbert Gillis Gust Hanne Hans Hanke Herman Hubert Ivo Jaak Jaap Jasper Jef Jeroen Joep Jos Jozef Jozua Julius Kevin Lars Lau Lenn Lennart Lex Liam
+			Ludo Marcel Mannes Mees Max Micha Michael Mick Moos Mozes Nico Noach Philip Piet Pim Reinout Richard Robert Roy Ruben Rudolf Sem Siem Stef Vaast Wendel
+		}
+		female_names = {
+			Aafje Agnes Aleida Alex Amanda Andrea Angela Anika Annabel Ans Beatrix Carolien Cato Coba Cokkie Edith Eefjie Elian Elly Emma Evi Esther Fleur Gerry Hanna Hedy
+			Hermina Inge Ingrid Irene Iris Irma isa Isebeau Jacobina Ivonne Janneke Jantje Jenny Jessica Jet Jette Jip Johanna Julie Katelijn Lara Laura Lijsbeth Luus Madelief
+			Margareta Margreet Marie Marijn Marlies Marjo Mathilde Nele Nes Nicoline Petra Pien Prisca Renske Riny Robin Romy Rosanne Saar Sabien Selma Sonja Teuna Teresia
+			Thirza Trees Trudie Usula Vanessa Veer Veerle Willemina Wilhelmina Xandra Yvonne Zoe
+		}
+		
+		from_dynasty_prefix = "van "
+		
+		male_patronym = "szoon"
+		female_patronym = "sdochter"
+		prefix = no
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier		
 	}
 	austrian = {
+		graphical_cultures = {germangfx}	
+		color = {0.5 0.5 0.5}	
 	
-	
-	
+		from_dynasty_prefix = "von "
+		male_names = {
+			Ben Jonas Leon Elias Finn Noah Paul Luis Lukas Luca Felix Maximilian Henry Max Emil Moritz Jakob Niklas Tim Julian Oskar Anton Philipp David Alexander Theo Tom Mats Jan Matteo Samuel Erik Fabian Milan Leo Jonathan Rafael Simon Vincent 
+			Lennard Carl Linus Hannes Jona Mika Jannik Nico Till Johannes Marlon Leonard Benjamin Johann Mattis Adrian Julius Florian Constantin Daniel Aaron Maxim Nick Valentin Ole Luke Levi Nils Jannis Sebastian Tobias Marvin Joshua Timo Phil Joel 
+			Benedikt John Robin Toni Dominic Damian Artur Pepe Lasse Malte Sam Bruno Gabriel Lennox Justus Kilian Theodor Oliver Jamie Levin Lian Noel
+		}
+		female_names = {
+			Emma Mia Hannah Sofia Emilia Ann Lena Lea Emily Lina Léonie Amelie Sophie Luisa Johanna Nele Laura Lilly Lara Clara Mila Leni Maja Charlotte Sarah Frieda Ida Greta Pia Lotta Lia Mathilda Ella Melina Lisa Julia Paula 
+			Alina Mira Zoe Helena Marlene Emely Elisa Victoria Isabell Isabella Jana Amy Mara Finja Josephine Katharina Nora Theresa Mary Antonia Jasmin Stella Pauline Louise Annika Anni Lucy Jule Merle Carla Eva Milena Martha 
+			Elena Fiona Melissa Franziska Luna Magdalena Nina Annabell Romy Carlotta Mina Paulina Ronja Zoey Chiara Helene Selina Maila Fabienne Elina Jette Sina Jolina Elif Elisabeth Linda Miriam Valentina Lotte 
+		}
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 5
+		father_name_chance = 10
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		modifier = default_culture_modifier	
 	
 	
 	}
@@ -1829,7 +2242,7 @@ celtic_grp = {
 			Uilliam_William Ultán
 		}
 		female_names = {
-			Ailbhe Aislinn Ashlynn Assumpta	Brea Brianna Bridget Cathleen Ciara Cierra Clodagh Colleen Dacey Deidre Devin Doreen Eibhlín Eileen Elva Enya
+			Ailbhe Aislinn Ashlynn Assumpta Brea Brianna Bridget Cathleen Ciara Cierra Clodagh Colleen Dacey Deidre Devin Doreen Eibhlín Eileen Elva Enya
 		}
 		
 		dukes_called_kings = yes
@@ -1930,10 +2343,39 @@ celtic_grp = {
 	}
 	
 	breton = {
-	
-	
-	
-	
+		graphical_cultures = { celticgfx }
+		
+		color = { 20 77 72 }
+
+		color = { 0.3 0.5 0.4 }
+		
+		male_names = {
+			Alan Armel Arzhel Brendan Corentin Deniel Elouan Erwan Erwann Gwenneg Gwilherm Herve Jodoc Juikael Judoc Mael Malo Mikael Padrig Paol Per
+			Perig Pierrick Ronan Roparzh Tangi Winoc Yannic Yanick Yann Yezekael
+		}
+		female_names = {
+			Alana Anna Annaig Annick Enora Katarin Katell Maela Mari Nolwenn Oanez Rozenn Yanick Yanna Yannic Yannick
+		}
+		
+		dukes_called_kings = yes
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "mab "
+		female_patronym = "verch "
+		prefix = yes
+
+		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 80
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 0
 	}
 }
 
