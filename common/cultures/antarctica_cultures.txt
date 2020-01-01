@@ -109,13 +109,15 @@ iberian_grp = {
 		female_patronym = "ez"
 		grammar_transform = spanish
 
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 5
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
 		father_name_chance = 5
 		
-		pat_grm_name_chance = 55
-		mat_grm_name_chance = 15
-		mother_name_chance = 20
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 
 		modifier = default_culture_modifier
 	}
@@ -149,13 +151,15 @@ iberian_grp = {
 		female_patronym = "ez"
 		grammar_transform = spanish
 
-		pat_grf_name_chance = 45
-		mat_grf_name_chance = 15
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 40
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
 		mat_grm_name_chance = 10
-		mother_name_chance = 40
+		mother_name_chance = 5
 
 		modifier = default_culture_modifier
 	}
@@ -189,13 +193,15 @@ iberian_grp = {
 		female_patronym = "ez"
 		grammar_transform = spanish
 
-		pat_grf_name_chance = 45
-		mat_grf_name_chance = 15
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 40
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
 		mat_grm_name_chance = 10
-		mother_name_chance = 40
+		mother_name_chance = 5
 
 		modifier = default_culture_modifier
 	}
@@ -229,13 +235,15 @@ iberian_grp = {
 		female_patronym = "ez"
 		grammar_transform = spanish
 
-		pat_grf_name_chance = 45
-		mat_grf_name_chance = 15
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 40
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
 		mat_grm_name_chance = 10
-		mother_name_chance = 40
+		mother_name_chance = 5
 
 		modifier = default_culture_modifier
 	}
@@ -268,13 +276,15 @@ iberian_grp = {
 
 		modifier = default_culture_modifier
 
-		pat_grf_name_chance = 55
-		mat_grf_name_chance = 5
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 60
-		mat_grm_name_chance = 15
-		mother_name_chance = 15
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	brazilian = {
@@ -307,13 +317,15 @@ iberian_grp = {
 
 		modifier = default_culture_modifier
 
-		pat_grf_name_chance = 55
-		mat_grf_name_chance = 5
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 60
-		mat_grm_name_chance = 15
-		mother_name_chance = 15
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	colombian = {
@@ -346,13 +358,15 @@ iberian_grp = {
 
 		modifier = default_culture_modifier
 
-		pat_grf_name_chance = 55
-		mat_grf_name_chance = 5
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 60
-		mat_grm_name_chance = 15
-		mother_name_chance = 15	
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	peruvian = {
@@ -385,13 +399,15 @@ iberian_grp = {
 
 		modifier = default_culture_modifier
 
-		pat_grf_name_chance = 55
-		mat_grf_name_chance = 5
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 60
-		mat_grm_name_chance = 15
-		mother_name_chance = 15	
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	guarani = {
@@ -424,13 +440,15 @@ iberian_grp = {
 
 		modifier = default_culture_modifier
 
-		pat_grf_name_chance = 55
-		mat_grf_name_chance = 5
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 60
-		mat_grm_name_chance = 15
-		mother_name_chance = 15	
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	venezuelan = {
@@ -463,13 +481,15 @@ iberian_grp = {
 
 		modifier = default_culture_modifier
 
-		pat_grf_name_chance = 55
-		mat_grf_name_chance = 5
-		father_name_chance = 30
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
-		pat_grm_name_chance = 60
-		mat_grm_name_chance = 15
-		mother_name_chance = 15
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	mexican = {
@@ -501,14 +521,16 @@ iberian_grp = {
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
-
-		pat_grf_name_chance = 55
-		mat_grf_name_chance = 5
-		father_name_chance = 30
 		
-		pat_grm_name_chance = 60
-		mat_grm_name_chance = 15
-		mother_name_chance = 15
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 }
 
@@ -544,14 +566,14 @@ francophone_grp = {
 		modifier = default_culture_modifier
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 60
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 60
-		mother_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	quebecois = {
@@ -582,14 +604,14 @@ francophone_grp = {
 		modifier = default_culture_modifier
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 60
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 60
-		mother_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	occitan = {
@@ -628,13 +650,13 @@ francophone_grp = {
 		grammar_transform = french
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 25
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 	}
 	
@@ -675,14 +697,14 @@ francophone_grp = {
 		modifier = default_culture_modifier
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 60
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 60
-		mother_name_chance = 10	
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 }
 
@@ -1199,7 +1221,8 @@ uralic_grp = {
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 10	
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 }
 
@@ -1229,14 +1252,14 @@ scandinavian_grp = {
 		
 		modifier = default_culture_modifier		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	swedish = {
@@ -1271,14 +1294,14 @@ scandinavian_grp = {
 		prefix = no # The patronym is added as a suffix
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 
 		modifier = default_culture_modifier		
 	}
@@ -1305,14 +1328,14 @@ scandinavian_grp = {
 
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0			
+		mat_grm_name_chance = 10
+		mother_name_chance = 5	
 	}
 	icelandic = {
 		graphical_cultures = { norsegfx }
@@ -1341,14 +1364,14 @@ scandinavian_grp = {
 
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0			
+		mat_grm_name_chance = 10
+		mother_name_chance = 5	
 	}
 }
 
@@ -1373,13 +1396,13 @@ latin_grp = {
 		from_dynasty_prefix = "di "
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier		
@@ -1403,13 +1426,13 @@ latin_grp = {
 		from_dynasty_prefix = "di "
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier		
@@ -1442,13 +1465,13 @@ latin_grp = {
 		prefix = no
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
@@ -1485,6 +1508,16 @@ islamic_grp = {
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	egyptian = {
 		graphical_cultures = { egyptiangfx levantinegfx arabicgfx muslimgfx }
@@ -1517,6 +1550,16 @@ islamic_grp = {
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	tunisian = {
@@ -1550,6 +1593,16 @@ islamic_grp = {
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier	
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	turkish = {
@@ -1577,6 +1630,16 @@ islamic_grp = {
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier	
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5		
 	}
 }
 
@@ -1603,6 +1666,16 @@ indian_grp = {
 		founder_named_dynasties = yes
 		
 		modifier = default_culture_modifier		
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	pakistani = {
@@ -1623,7 +1696,15 @@ indian_grp = {
 		
 		modifier = default_culture_modifier			
 	
-	
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5	
 	}
 	
 	bangladeshi = {
@@ -1644,6 +1725,16 @@ indian_grp = {
 		founder_named_dynasties = yes
 		
 		modifier = default_culture_modifier			
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5		
 	}	
 }
 
@@ -1859,13 +1950,13 @@ germanic_grp = {
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 5
-		father_name_chance = 10
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier	
@@ -1894,13 +1985,13 @@ germanic_grp = {
 		prefix = no
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 25
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 40
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier		
@@ -1922,13 +2013,13 @@ germanic_grp = {
 		}
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 5
-		father_name_chance = 10
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier	
@@ -1973,15 +2064,15 @@ east_slavic_grp = {
 		prefix = no
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
-		mother_name_chance = 0
-
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
+		
 		modifier = default_culture_modifier
 	}
 	ukrainian = {
@@ -2016,14 +2107,14 @@ east_slavic_grp = {
 		prefix = no
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 50
-		mat_grf_name_chance = 40
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 30
-		mother_name_chance = 0
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 
 		modifier = default_culture_modifier
 	}
@@ -2056,13 +2147,13 @@ east_slavic_grp = {
 
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 	}
 	bulgarian = {
@@ -2088,6 +2179,16 @@ east_slavic_grp = {
 		prefix = no
 
 		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5		
 	}
 }	
 	
@@ -2113,13 +2214,13 @@ west_slavic_grp = {
 
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 		
 	}
@@ -2168,13 +2269,13 @@ west_slavic_grp = {
 		
 		modifier = default_culture_modifier
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 40
+		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
-		father_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 40
+		mat_grm_name_chance = 10
 		mother_name_chance = 5
 		
 	}
@@ -2200,6 +2301,16 @@ west_slavic_grp = {
 		from_dynasty_prefix = "of "
 
 		modifier = default_culture_modifier
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 }
 
@@ -2252,14 +2363,15 @@ celtic_grp = {
 		female_patronym = "nic "
 		prefix = yes
 
-		modifier = default_culture_modifier
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 15
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
 		father_name_chance = 5
 		
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 15
-		mother_name_chance = 10
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	cornish = {
@@ -2281,14 +2393,14 @@ celtic_grp = {
 		modifier = default_culture_modifier
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	old_welsh = {
 		graphical_cultures = { celticgfx }
@@ -2344,14 +2456,14 @@ celtic_grp = {
 		modifier = default_culture_modifier
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 	
 	breton = {
@@ -2380,14 +2492,14 @@ celtic_grp = {
 		modifier = default_culture_modifier
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 80
-		mat_grf_name_chance = 0
-		father_name_chance = 0
+		pat_grf_name_chance = 10
+		mat_grf_name_chance = 10
+		father_name_chance = 5
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 10
-		mat_grm_name_chance = 50
-		mother_name_chance = 0
+		mat_grm_name_chance = 10
+		mother_name_chance = 5
 	}
 }
 
