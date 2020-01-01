@@ -102,7 +102,7 @@ VAL_ANTI_SEMITISM;Antisemitism;;;;;;;;;;;;x
 VAL_ANTI_COMMUNISM;Anti-Communism;;;;;;;;;;;;x
 VAL_LEBENSRAUM;Lebensraum;;;;;;;;;;;;x
 VAL_FANATIC_MILITARISM;Fanatic Militarism;;;;;;;;;;;;x
-VAL_FUHRERPRINZIP;FÃ¼hrerprinzip;;;;;;;;;;;;x
+VAL_FUHRERPRINZIP;Führerprinzip;;;;;;;;;;;;x
 national_socialist;National Socialist;;;;;;;;;;;;x
 national_socialist_full;National Socialist;;;;;;;;;;;;x
 national_socialist_DESC;National Socialism is a form of fascism that shows disdain for liberal democracy and the parliamentary system, but also incorporates fervent antisemitism, anti-communism, scientific racism, and eugenics into its creed.;;;;;;;;;;;;x
@@ -220,7 +220,7 @@ SOCIALISM;Socialism;;;;;;;;;;;;x
 PERONIST_PHILOSOPHY;Peronist Philosophy;;;;;;;;;;;;x
 justicial;Justicial;;;;;;;;;;;;x
 justicial_full;Justicial;;;;;;;;;;;;x
-justicial_DESC;Peronism or justicialism is an Argentine political movement based on the ideas and legacy of Argentine president Juan PerÃ³n. It has been an influential movement in Argentine politics since 1946, with Peronists winning most presidential elections in which they have been allowed to run. The policies of Peronist presidents have differed greatly, but the general ideology has been described as "a vague blend of nationalism and labourism", "populism", "Fascism", or "right-wing socialism".\n;;;;;;;;;;;;x
+justicial_DESC;Peronism or justicialism is an Argentine political movement based on the ideas and legacy of Argentine president Juan Perón. It has been an influential movement in Argentine politics since 1946, with Peronists winning most presidential elections in which they have been allowed to run. The policies of Peronist presidents have differed greatly, but the general ideology has been described as "a vague blend of nationalism and labourism", "populism", "Fascism", or "right-wing socialism".\n;;;;;;;;;;;;x
 VAL_POPULAR_DEMOCRACY;Popular Democracy;;;;;;;;;;;;x
 VAL_ANTI_IMPERIALISM;Anti-Imperialism;;;;;;;;;;;;x
 VAL_ANTI_ESTABLISHMENT;Anti-Establishment;;;;;;;;;;;;x
@@ -244,11 +244,11 @@ reactionary_full;Reactionary;;;;;;;;;;;;x
 reactionary_DESC;In political science, a reactionary can be defined as a person or entity holding political views that favour a return to a previous political state of society that they believe possessed characteristics that are negatively absent from the contemporary status quo of a society. As an adjective, the word reactionary describes points of view and policies meant to restore a past status quo.\n;;;;;;;;;;;;x
 REACTIONARISM;Reactionarism;;;;;;;;;;;;x
 unalligned_grp;Unalligned;;;;;;;;;;;;x
-none;;;;;;;;;;;;;x
-NONE;;;;;;;;;;;;;x
-NOONE;;;;;;;;;;;;;x
-VAL_NOTHING;;;;;;;;;;;;;x
-GOD_NONE;;;;;;;;;;;;;x
+none; ;;;;;;;;;;;;x
+NONE; ;;;;;;;;;;;;x
+NOONE;---;;;;;;;;;;;;x
+VAL_NOTHING;---;;;;;;;;;;;;x
+GOD_NONE;---;;;;;;;;;;;;x
 islamist;Islamist;;;;;;;;;;;;x
 islamist_full;Islamist;;;;;;;;;;;;x
 islamist_DESC;Islamic fundamentalism (in-game simplified to Islamism) has been defined as a movement of Muslims who regard earlier times favorably and seek to return to the fundamentals of the Islamic religion and live similarly to how the Islamic prophet Muhammad and his companions lived. Islamic fundamentalists favor "a literal and originalist interpretation" of the primary sources of Islam (the Quran and Sunnah), seek to eliminate "corrupting" non-Islamic influences from every part of their lives and see "Islamic fundamentalism" as a pejorative term used by outsiders for Islamic revivalism and Islamic activism.\n;;;;;;;;;;;;x

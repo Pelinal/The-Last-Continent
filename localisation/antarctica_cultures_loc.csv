@@ -38,8 +38,8 @@ latin_grp;Latin;;;;;;;;;;;;x
 italian;Italian;;;;;;;;;;;;x
 sardinian;Sardinian;;;;;;;;;;;;x
 romanian;Romanian;;;;;;;;;;;;x
-islamic_grp;Islamic;;;;;;;;;;;;x
-bedouin_arabic;Arabic;;;;;;;;;;;;x
+islamic_grp;Muslim;;;;;;;;;;;;x
+bedouin_arabic;Arabian;;;;;;;;;;;;x
 egyptian;Egyptian;;;;;;;;;;;;x
 tunisian;Tunisian;;;;;;;;;;;;x
 turkish;Turkish;;;;;;;;;;;;x
@@ -73,5 +73,5 @@ irish;Irish;;;;;;;;;;;;x
 cornish;Cornish;;;;;;;;;;;;x
 old_welsh;Old Welsh;;;;;;;;;;;;x
 breton;Breton;;;;;;;;;;;;x		
-uninhabited_grp;Uninhabited;;;;;;;;;;;;x
+uninhabited_grp;Uninhabited Group;;;;;;;;;;;;x
 uninhabited; ;;;;;;;;;;;;x
