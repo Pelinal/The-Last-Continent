@@ -1,531 +1,531 @@
 ###############################
-west_slavic_grp, dyns: id start-last id 
+west_slavic_grp, dyns: id 2401-2600
 ###############################
 
 #Croatian dynasties
-### = {
+2401 = {
 	name = "Knezevic"
 	culture = "croatian"
 }
-### = {
+2402 = {
 	name = "Horvat"
 	culture = "croatian"
 }
-### = {
+2403 = {
 	name = "Kovacevic"
 	culture = "croatian"
 }
-### = {
+2404 = {
 	name = "Pavlovic"
 	culture = "croatian"
 }
-### = {
+2405 = {
 	name = "Blazevic"
 	culture = "croatian"
 }
-### = {
+2406 = {
 	name = "Bozic"
 	culture = "croatian"
 }
-### = {
+2407 = {
 	name = "Lovric"
 	culture = "croatian"
 }
-### = {
+2408 = {
 	name = "Babic"
 	culture = "croatian"
 }
-### = {
+2409 = {
 	name = "Markovic"
 	culture = "croatian"
 }
-### = {
+2410 = {
 	name = "Boznjak"
 	culture = "croatian"
 }
-### = {
+2411 = {
 	name = "Grgic"
 	culture = "croatian"
 }
-### = {
+2412 = {
 	name = "Brkic"
 	culture = "croatian"
 }
-### = {
+2413 = {
 	name = "Filipovic"
 	culture = "croatian"
 }
-### = {
+2414 = {
 	name = "Vidovic"
 	culture = "croatian"
 }
-### = {
+2415 = {
 	name = "Kovacic"
 	culture = "croatian"
 }
-### = {
+2416 = {
 	name = "Tomic"
 	culture = "croatian"
 }
-### = {
+2417 = {
 	name = "Jukic"
 	culture = "croatian"
 }
-### = {
+2418 = {
 	name = "Novak"
 	culture = "croatian"
 }
-### = {
+2419 = {
 	name = "Martinovic"
 	culture = "croatian"
 }
-### = {
+2420 = {
 	name = "Petrovic"
 	culture = "croatian"
 }
-### = {
+2421 = {
 	name = "Mandic"
 	culture = "croatian"
 }
-### = {
+2422 = {
 	name = "zimunovic"
 	culture = "croatian"
 }
-### = {
+2423 = {
 	name = "Nikolic"
 	culture = "croatian"
 }
-### = {
+2424 = {
 	name = "Jurkovic"
 	culture = "croatian"
 }
-### = {
+2425 = {
 	name = "Loncar"
 	culture = "croatian"
 }
-### = {
+2426 = {
 	name = "Barizic"
 	culture = "croatian"
 }
-### = {
+2427 = {
 	name = "zivkovic"
 	culture = "croatian"
 }
-### = {
+2428 = {
 	name = "zimic"
 	culture = "croatian"
 }
-### = {
+2429 = {
 	name = "Juric"
 	culture = "croatian"
 }
-### = {
+2430 = {
 	name = "Rukavina"
 	culture = "croatian"
 }
 
 #Serbian dynasties
-### = {
+2431 = {
 	name = "Jovanovic"
 	culture = "serbian"
 }
-### = {
+2432 = {
 	name = "Petrovic"
 	culture = "serbian"
 }
-### = {
+2433 = {
 	name = "Nikolic"
 	culture = "serbian"
 }
-### = {
+2434 = {
 	name = "Markovic"
 	culture = "serbian"
 }
-### = {
+2435 = {
 	name = "Dordevic"
 	culture = "serbian"
 }
-### = {
+2436 = {
 	name = "Stojanovic"
 	culture = "serbian"
 }
-### = {
+2437 = {
 	name = "Ilic"
 	culture = "serbian"
 }
-### = {
+2438 = {
 	name = "Pavlovic"
 	culture = "serbian"
 }
-### = {
+2439 = {
 	name = "Popovic"
 	culture = "serbian"
 }
-### = {
+2440 = {
 	name = "Stankovic"
 	culture = "serbian"
 }
-### = {
+2441 = {
 	name = "Milosevic"
 	culture = "serbian"
 }
-### = {
+2442 = {
 	name = "Savic"
 	culture = "serbian"
 }
-### = {
+2443 = {
 	name = "Jankovic"
 	culture = "serbian"
 }
-### = {
+2444 = {
 	name = "Zivkovic"
 	culture = "serbian"
 }
-### = {
+2445 = {
 	name = "Mitrovic"
 	culture = "serbian"
 }
-### = {
+2446 = {
 	name = "Ristic"
 	culture = "serbian"
 }
-### = {
+2447 = {
 	name = "Kovacevic"
 	culture = "serbian"
 }
-### = {
+2448 = {
 	name = "Todorovic"
 	culture = "serbian"
 }
-### = {
+2449 = {
 	name = "Stevanovic"
 	culture = "serbian"
 }
-### = {
+2450 = {
 	name = "Kostic"
 	culture = "serbian"
 }
-### = {
+2451 = {
 	name = "Mladenovic"
 	culture = "serbian"
 }
-### = {
+2452 = {
 	name = "Simic"
 	culture = "serbian"
 }
-### = {
+2453 = {
 	name = "Milovanovic"
 	culture = "serbian"
 }
-### = {
+2454 = {
 	name = "Cvetkovic"
 	culture = "serbian"
 }
-### = {
+2455 = {
 	name = "Dimitrijevic"
 	culture = "serbian"
 }
-### = {
+2456 = {
 	name = "Krstic"
 	culture = "serbian"
 }
-### = {
+2457 = {
 	name = "Milosavljevic"
 	culture = "serbian"
 }
-### = {
+2458 = {
 	name = "Tomic"
 	culture = "serbian"
 }
-### = {
+2459 = {
 	name = "Stefanovic"
 	culture = "serbian"
 }
-### = {
+2460 = {
 	name = "Milenkovic"
 	culture = "serbian"
 }
 
 #Bosnian dynasties
-### = {
+2461 = {
 	name = "Ademovic"
 	culture = "bosnian"
 }
-### = {
+2462 = {
 	name = "Avdic"
 	culture = "bosnian"
 }
-### = {
+2463 = {
 	name = "Babic"
 	culture = "bosnian"
 }
-### = {
+2464 = {
 	name = "Delic"
 	culture = "bosnian"
 }
-### = {
+2465 = {
 	name = "Dodik"
 	culture = "bosnian"
 }
-### = {
+2466 = {
 	name = "Fatic"
 	culture = "bosnian"
 }
-### = {
+2467 = {
 	name = "Kapic"
 	culture = "bosnian"
 }
-### = {
+2468 = {
 	name = "Kodro"
 	culture = "bosnian"
 }
-### = {
+2469 = {
 	name = "Haliovic"
 	culture = "bosnian"
 }
-### = {
+2470 = {
 	name = "Hukic"
 	culture = "bosnian"
 }
-### = {
+2471 = {
 	name = "Jahic"
 	culture = "bosnian"
 }
-### = {
+2472 = {
 	name = "Isakovic"
 	culture = "bosnian"
 }
-### = {
+2473 = {
 	name = "Krunic"
 	culture = "bosnian"
 }
-### = {
+2474 = {
 	name = "Lulic"
 	culture = "bosnian"
 }
-### = {
+2475 = {
 	name = "Mandic"
 	culture = "bosnian"
 }
-### = {
+2476 = {
 	name = "Merjanovic"
 	culture = "bosnian"
 }
-### = {
+2477 = {
 	name = "Sefero"
 	culture = "bosnian"
 }
-### = {
+2478 = {
 	name = "Memic"
 	culture = "bosnian"
 }
-### = {
+2479 = {
 	name = "Musemic"
 	culture = "bosnian"
 }
-### = {
+2480 = {
 	name = "Mustafic"
 	culture = "bosnian"
 }
-### = {
+2481 = {
 	name = "Muzurovic"
 	culture = "bosnian"
 }
-### = {
+2482 = {
 	name = "Pjanic"
 	culture = "bosnian"
 }
-### = {
+2483 = {
 	name = "Plakalovic"
 	culture = "bosnian"
 }
-### = {
+2484 = {
 	name = "Rahimic"
 	culture = "bosnian"
 }
-### = {
+2485 = {
 	name = "Rakic"
 	culture = "bosnian"
 }
-### = {
+2486 = {
 	name = "Salkic"
 	culture = "bosnian"
 }
-### = {
+2487 = {
 	name = "Selimivic"
 	culture = "bosnian"
 }
-### = {
+2488 = {
 	name = "Spahic"
 	culture = "bosnian"
 }
-### = {
+2489 = {
 	name = "Tankovic"
 	culture = "bosnian"
 }
-### = {
+2490 = {
 	name = "Velagic"
 	culture = "bosnian"
 }
 
 #Czech dynasties
-### = {
+2491 = {
 	name = "Novak"
 	culture = "czech"
 }
-### = {
+2492 = {
 	name = "Novotny"
 	culture = "czech"
 }
-### = {
+2493 = {
 	name = "Svoboda"
 	culture = "czech"
 }
-### = {
+2494 = {
 	name = "Dvorak"
 	culture = "czech"
 }
-### = {
+2495 = {
 	name = "Sedlak"
 	culture = "czech"
 }
-### = {
+2496 = {
 	name = "Cerny"
 	culture = "czech"
 }
-### = {
+2497 = {
 	name = "Vesely"
 	culture = "czech"
 }
-### = {
+2498 = {
 	name = "Sobek"
 	culture = "czech"
 }
-### = {
+2499 = {
 	name = "Stich"
 	culture = "czech"
 }
-### = {
+2500 = {
 	name = "Barta"
 	culture = "czech"
 }
-### = {
+2501 = {
 	name = "Kuba"
 	culture = "czech"
 }
-### = {
+2502 = {
 	name = "Tomsa"
 	culture = "czech"
 }
-### = {
+2503 = {
 	name = "Bartos"
 	culture = "czech"
 }
-### = {
+2504 = {
 	name = "Vavrus"
 	culture = "czech"
 }
-### = {
+2505 = {
 	name = "Blaha"
 	culture = "czech"
 }
-### = {
+2506 = {
 	name = "Janda"
 	culture = "czech"
 }
-### = {
+2507 = {
 	name = "Kubata"
 	culture = "czech"
 }
-### = {
+2508 = {
 	name = "Machata"
 	culture = "czech"
 }
-### = {
+2509 = {
 	name = "Vasata"
 	culture = "czech"
 }
-### = {
+2510 = {
 	name = "Janu"
 	culture = "czech"
 }
-### = {
+2511 = {
 	name = "Machu"
 	culture = "czech"
 }
-### = {
+2512 = {
 	name = "Kovar"
 	culture = "czech"
 }
-### = {
+2513 = {
 	name = "Cadlec"
 	culture = "czech"
 }
-### = {
+2514 = {
 	name = "Hrave"
 	culture = "czech"
 }
-### = {
+2515 = {
 	name = "Rybar"
 	culture = "czech"
 }
-### = {
+2516 = {
 	name = "Kapralek"
 	culture = "czech"
 }
-### = {
+2517 = {
 	name = "Vrabec"
 	culture = "czech"
 }
-### = {
+2518 = {
 	name = "Broucek"
 	culture = "czech"
 }
-### = {
+2519 = {
 	name = "Stojespal"
 	culture = "czech"
 }
-### = {
+2520 = {
 	name = "Snedlditetikasi"
 	culture = "czech"
 }
-### = {
+2521 = {
 	name = "Precechtel"
 	culture = "czech"
 }
-### = {
+2522 = {
 	name = "Doubek"
 	culture = "czech"
 }
-### = {
+2523 = {
 	name = "Miller"
 	culture = "czech"
 }
-### = {
+2524 = {
 	name = "Najman"
 	culture = "czech"
 }
-### = {
+2525 = {
 	name = "Zlamaljelito"
 	culture = "czech"
 }
-### = {
+2526 = {
 	name = "Safar"
 	culture = "czech"
 }
-### = {
+2527 = {
 	name = "Starosta"
 	culture = "czech"
 }
-### = {
+2528 = {
 	name = "Ctvrtnik"
 	culture = "czech"
 }
-### = {
+2529 = {
 	name = "Tesar"
 	culture = "czech"
 }
-### = {
+2530 = {
 	name = "Fischer"
 	culture = "czech"
 }

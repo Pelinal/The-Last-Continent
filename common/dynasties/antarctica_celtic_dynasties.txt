@@ -1,370 +1,370 @@
 ###############################
-celtic_grp, dyns: id start-last id 
+celtic_grp, dyns: id 2601-2750
 ###############################
 
 #Irish Dynasties
-### = {
+2601 = {
 	name = "Abraham"
 	culture = "irish"
 }
-### = {
+2602 = {
 	name = "Agan"
 	culture = "irish"
 }
-### = {
+2603 = {
 	name = "Agnew"
 	culture = "irish"
 }
-### = {
+2604 = {
 	name = "Ahearn"
 	culture = "irish"
 }
-### = {
+2605 = {
 	name = "Burns"
 	culture = "irish"
 }
-### = {
+2606 = {
 	name = "Busteed"
 	culture = "irish"
 }
-### = {
+2607 = {
 	name = "Caffrey"
 	culture = "irish"
 }
-### = {
+2608 = {
 	name = "Cagney"
 	culture = "irish"
 }
-### = {
+2609 = {
 	name = "Crough"
 	culture = "irish"
 }
-### = {
+2610 = {
 	name = "Crow"
 	culture = "irish"
 }
-### = {
+2611 = {
 	name = "Dale"
 	culture = "irish"
 }
-### = {
+2612 = {
 	name = "Flood"
 	culture = "irish"
 }
-### = {
+2613 = {
 	name = "Forbes"
 	culture = "irish"
 }
-### = {
+2614 = {
 	name = "Gainey"
 	culture = "irish"
 }
-### = {
+2615 = {
 	name = "Gainor"
 	culture = "irish"
 }
-### = {
+2616 = {
 	name = "Heagerty"
 	culture = "irish"
 }
-### = {
+2617 = {
 	name = "Heaney"
 	culture = "irish"
 }
-### = {
+2618 = {
 	name = "Koyle"
 	culture = "irish"
 }
-### = {
+2619 = {
 	name = "Kyne"
 	culture = "irish"
 }
-### = {
+2620 = {
 	name = "Laffey"
 	culture = "irish"
 }
-### = {
+2621 = {
 	name = "Laffin"
 	culture = "irish"
 }
-### = {
+2622 = {
 	name = "Laverty"
 	culture = "irish"
 }
-### = {
+2623 = {
 	name = "MacDowell"
 	culture = "irish"
 }
-### = {
+2624 = {
 	name = "MacGuire"
 	culture = "irish"
 }
-### = {
+2625 = {
 	name = "Macken"
 	culture = "irish"
 }
-### = {
+2626 = {
 	name = "Mackin"
 	culture = "irish"
 }
-### = {
+2627 = {
 	name = "Macklem"
 	culture = "irish"
 }
-### = {
-	name = "O’Beirne"
+2628 = {
+	name = "Oï¿½Beirne"
 	culture = "irish"
 }
-### = {
-	name = "O’Berry"
+2629 = {
+	name = "Oï¿½Berry"
 	culture = "irish"
 }
-### = {
-	name = "O’Boyle"
+2630 = {
+	name = "Oï¿½Boyle"
 	culture = "irish"
 }
 
 #Cornish
-### = {
+2631 = {
 	name = "Argus"
 	culture = "cornish"
 }
-### = {
+2632 = {
 	name = "Carew"
 	culture = "cornish"
 }
-### = {
+2633 = {
 	name = "Carvasso"
 	culture = "cornish"
 }
-### = {
+2634 = {
 	name = "Couch"
 	culture = "cornish"
 }
-### = {
+2635 = {
 	name = "Glynn"
 	culture = "cornish"
 }
-### = {
+2636 = {
 	name = "Goff"
 	culture = "cornish"
 }
-### = {
+2637 = {
 	name = "Gwinnel"
 	culture = "cornish"
 }
-### = {
+2638 = {
 	name = "Kellow"
 	culture = "cornish"
 }
-### = {
+2639 = {
 	name = "Nancarrow"
 	culture = "cornish"
 }
-### = {
+2640 = {
 	name = "Penna"
 	culture = "cornish"
 }
-### = {
+2641 = {
 	name = "Pengelly"
 	culture = "cornish"
 }
-### = {
+2642 = {
 	name = "Polkinghorn"
 	culture = "cornish"
 }
-### = {
+2643 = {
 	name = "Trebilcock"
 	culture = "cornish"
 }
-### = {
+2644 = {
 	name = "Trelawny"
 	culture = "cornish"
 }
-### = {
+2645 = {
 	name = "Tremelling"
 	culture = "cornish"
 }
-### = {
+2646 = {
 	name = "Trezies"
 	culture = "cornish"
 }
-### = {
+2647 = {
 	name = "Trevarthen"
 	culture = "cornish"
 }
-### = {
+2648 = {
 	name = "Verran"
 	culture = "cornish"
 }
-### = {
+2649 = {
 	name = "Rosdew"
 	culture = "cornish"
 }
-### = {
+2650 = {
 	name = "Teague"
 	culture = "cornish"
 }
 
 #Old Welsh Dynasties
-### = {
+2651 = {
 	name = "Baines"
 	culture = "old_welsh"
 }
-### = {
+2652 = {
 	name = "Blevins"
 	culture = "old_welsh"
 }
-### = {
+2653 = {
 	name = "Bevan"
 	culture = "old_welsh"
 }
-### = {
+2654 = {
 	name = "Bowen"
 	culture = "old_welsh"
 }
-### = {
+2655 = {
 	name = "Cadwallader"
 	culture = "old_welsh"
 }
-### = {
+2656 = {
 	name = "Cecil"
 	culture = "old_welsh"
 }
-### = {
+2657 = {
 	name = "Hier"
 	culture = "old_welsh"
 }
-### = {
+2658 = {
 	name = "Howell"
 	culture = "old_welsh"
 }
-### = {
+2659 = {
 	name = "Lewis"
 	culture = "old_welsh"
 }
-### = {
+2660 = {
 	name = "Llewellyn"
 	culture = "old_welsh"
 }
-### = {
+2661 = {
 	name = "Lloyd"
 	culture = "old_welsh"
 }
-### = {
+2662 = {
 	name = "Marvin"
 	culture = "old_welsh"
 }
-### = {
+2663 = {
 	name = "Maddox"
 	culture = "old_welsh"
 }
-### = {
+2664 = {
 	name = "Merrick"
 	culture = "old_welsh"
 }
-### = {
+2665 = {
 	name = "Probert"
 	culture = "old_welsh"
 }
-### = {
+2666 = {
 	name = "Pryce"
 	culture = "old_welsh"
 }
-### = {
+2667 = {
 	name = "Rhydderch"
 	culture = "old_welsh"
 }
-### = {
+2668 = {
 	name = "Sayer"
 	culture = "old_welsh"
 }
-### = {
+2669 = {
 	name = "Trevor"
 	culture = "old_welsh"
 }
-### = {
+2670 = {
 	name = "Vaughn"
 	culture = "old_welsh"
 }
 #Breton Dynasties
-### = {
+2671 = {
 	name = "Abgrall"
 	culture = "breton"
 }
-### = {
+2672 = {
 	name = "Artus"
 	culture = "breton"
 }
-### = {
+2673 = {
 	name = "Berthou"
 	culture = "breton"
 }
-### = {
+2674 = {
 	name = "Bourgault"
 	culture = "breton"
 }
-### = {
+2675 = {
 	name = "Gallou"
 	culture = "breton"
 }
-### = {
-	name = "Guégan"
+2676 = {
+	name = "Guï¿½gan"
 	culture = "breton"
 }
-### = {
+2677 = {
 	name = "Guiomar"
 	culture = "breton"
 }
-### = {
+2678 = {
 	name = "Kirouac"
 	culture = "breton"
 }
-### = {
+2679 = {
 	name = "Leroux"
 	culture = "breton"
 }
-### = {
+2680 = {
 	name = "Mervin"
 	culture = "breton"
 }
-### = {
+2681 = {
 	name = "Morvan"
 	culture = "breton"
 }
-### = {
+2682 = {
 	name = " Prima"
 	culture = "breton"
 }
-### = {
+2683 = {
 	name = "Quemener"
 	culture = "breton"
 }
-### = {
+2684 = {
 	name = "Rault"
 	culture = "breton"
 }
-### = {
+2685 = {
 	name = "Riou"
 	culture = "breton"
 }
-### = {
+2686 = {
 	name = "Rouault"
 	culture = "breton"
 }
-### = {
+2687 = {
 	name = "Savidan"
 	culture = "breton"
 }
-### = {
+2688 = {
 	name = "Seznec"
 	culture = "breton"
 }
-### = {
+2689 = {
 	name = "Tanguy"
 	culture = "breton"
 }
-### = {
+2690 = {
 	name = "Trahan"
 	culture = "breton"
 }

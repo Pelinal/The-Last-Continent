@@ -1,5 +1,5 @@
 #Uninhabited
-### = {
+9999 = {
 	name = " "
 	culture = "Uninhabited"
 }

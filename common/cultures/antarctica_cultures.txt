@@ -1,7 +1,7 @@
 ###############################################################
-###															        ###
-###					    CULTURES OF ANTARCTICA				   ###
-###															        ###
+???															        ???
+???					    CULTURES OF ANTARCTICA				   ???
+???															        ???
 ###############################################################
 
 ## INDEX ##
@@ -33,38 +33,38 @@
 	# australian
 	#south_african
 ## Uralic:
- # finnish----------
- # hungarian-----------
- # estonian-----------
+ # finnish
+ # hungarian
+ # estonian
 ## Scandinavian:
- # norweigan-----------
- # swedish---------
- # danish---------
- # icelandic----------
+ # norweigan
+ # swedish
+ # danish
+ # icelandic
 ## Latin:
- # italian------------
- # sardinian----------
+ # italian
+ # sardinian
  # romanian
 ## Islamic:
 	# arabian
 	# egyptian
-	# tunisian------------
-	# turkish------------
+	# tunisian
+	# turkish
 ## Indian Group:
- # indian---------
- # pakistani---------
- # bangladeshi-----------
+ # indian
+ # pakistani
+ # bangladeshi
 ##Greek Group:
 	# Greek
 ## Eastern:
 	# chinese
 	# korean
-	# japanese-----------
-	# thai----------
+	# japanese
+	# thai
 ## Germanic:
- # german-----------
- # dutch--------
- # austrian----------
+ # german
+ # dutch
+ # austrian
 ## East Slavic:
 	# russian
 	# ukrainian
@@ -79,7 +79,7 @@
 	# irish
 	# cornish
 	# old_welsh
-	# breton----------				
+	# breton	
 ##Uninhabited
 	# uninhabited
 

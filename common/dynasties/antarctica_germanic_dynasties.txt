@@ -1,649 +1,649 @@
 ###############################
-germanic_grp, dyns: id start-last id 
+germanic_grp, dyns: id 2001- 2200
 ###############################
 
 #German dynasties
-### = {
+2001 = {
 	name = "Bauer"
 	culture = "german"
 }
-### = {
+2002 = {
 	name = "Braun"
 	culture = "german"
 }
-### = {
+2003 = {
 	name = "Walter"
 	culture = "german"
 }
-### = {
+2004 = {
 	name = "Werner"
 	culture = "german"
 }
-### = {
+2005 = {
 	name = "Kaiser"
 	culture = "german"
 }
-### = {
+2006 = {
 	name = "Hofmann"
 	culture = "german"
 }
-### = {
+2007 = {
 	name = "Fuchs"
 	culture = "german"
 }
-### = {
+2008 = {
 	name = "Beck"
 	culture = "german"
 }
-### = {
+2009 = {
 	name = "Frank"
 	culture = "german"
 }
-### = {
+2010 = {
 	name = "Klein"
 	culture = "german"
 }
-### = {
+2011 = {
 	name = "Keller"
 	culture = "german"
 }
-### = {
+2012 = {
 	name = "Krause"
 	culture = "german"
 }
-### = {
+2013 = {
 	name = "Friedrich"
 	culture = "german"
 }
-### = {
+2014 = {
 	name = "Berger"
 	culture = "german"
 }
-### = {
+2015 = {
 	name = "Baumann"
 	culture = "german"
 }
-### = {
+2016 = {
 	name = "Albrecht"
 	culture = "german"
 }
-### = {
+2017 = {
 	name = "Lang"
 	culture = "german"
 }
-### = {
+2018 = {
 	name = "Kraus"
 	culture = "german"
 }
-### = {
+2019 = {
 	name = "Lorenz"
 	culture = "german"
 }
-### = {
+2020 = {
 	name = "Herrmann"
 	culture = "german"
 }
-### = {
+2021 = {
 	name = "Schuster"
 	culture = "german"
 }
-### = {
+2022 = {
 	name = "Ludwig"
 	culture = "german"
 }
-### = {
+2023 = {
 	name = "Simon"
 	culture = "german"
 }
-### = {
+2024 = {
 	name = "Huber"
 	culture = "german"
 }
-### = {
+2025 = {
 	name = "Arnold"
 	culture = "german"
 }
-### = {
+2026 = {
 	name = "Martin"
 	culture = "german"
 }
-### = {
+2027 = {
 	name = "Haas"
 	culture = "german"
 }
-### = {
+2028 = {
 	name = "Franke"
 	culture = "german"
 }
-### = {
+2029 = {
 	name = "Barth"
 	culture = "german"
 }
-### = {
+2030 = {
 	name = "Heinrich"
 	culture = "german"
 }
-### = {
+2031 = {
 	name = "Graf"
 	culture = "german"
 }
-### = {
+2032 = {
 	name = "Dietrich"
 	culture = "german"
 }
-### = {
+2033 = {
 	name = "Lindner"
 	culture = "german"
 }
-### = {
+2034 = {
 	name = "Engel"
 	culture = "german"
 }
-### = {
+2035 = {
 	name = "Thomas"
 	culture = "german"
 }
-### = {
+2036 = {
 	name = "Jung"
 	culture = "german"
 }
-### = {
+2037 = {
 	name = "Bergmann"
 	culture = "german"
 }
-### = {
+2038 = {
 	name = "Franz"
 	culture = "german"
 }
-### = {
+2039 = {
 	name = "Brandt"
 	culture = "german"
 }
-### = {
+2040 = {
 	name = "Kern"
 	culture = "german"
 }
-### = {
+2041 = {
 	name = "Kuhn"
 	culture = "german"
 }
-### = {
+2042 = {
 	name = "Ernst"
 	culture = "german"
 }
-### = {
+2043 = {
 	name = "Wilhelm"
 	culture = "german"
 }
-### = {
+2044 = {
 	name = "Beyer"
 	culture = "german"
 }
-### = {
+2045 = {
 	name = "Hermann"
 	culture = "german"
 }
-### = {
+2046 = {
 	name = "Peter"
 	culture = "german"
 }
-### = {
+2047 = {
 	name = "Paul"
 	culture = "german"
 }
-### = {
+2048 = {
 	name = "Bayer"
 	culture = "german"
 }
-### = {
+2049 = {
 	name = "Lange"
 	culture = "german"
 }
-### = {
+2050 = {
 	name = "Bock"
 	culture = "german"
 }
-### = {
+2051 = {
 	name = "Grimm"
 	culture = "german"
 }
-### = {
+2052 = {
 	name = "Busch"
 	culture = "german"
 }
-### = {
+2053 = {
 	name = "Otto"
 	culture = "german"
 }
-### = {
+2054 = {
 	name = "Gruber"
 	culture = "german"
 }
-### = {
+2055 = {
 	name = "Brunner"
 	culture = "german"
 }
-### = {
+2056 = {
 	name = "Arndt"
 	culture = "german"
 }
-### = {
+2057 = {
 	name = "Michel"
 	culture = "german"
 }
-### = {
+2058 = {
 	name = "Adam"
 	culture = "german"
 }
-### = {
+2059 = {
 	name = "Pfeiffer"
 	culture = "german"
 }
-### = {
+2060 = {
 	name = "Langer"
 	culture = "german"
 }
-### = {
+2061 = {
 	name = "Bachmann"
 	culture = "german"
 }
-### = {
+2062 = {
 	name = "Fritz"
 	culture = "german"
 }
-### = {
+2063 = {
 	name = "Kramer"
 	culture = "german"
 }
-### = {
+2064 = {
 	name = "Bender"
 	culture = "german"
 }
-### = {
+2065 = {
 	name = "Jahn"
 	culture = "german"
 }
-### = {
+2066 = {
 	name = "Fiedler"
 	culture = "german"
 }
-### = {
+2067 = {
 	name = "Peters"
 	culture = "german"
 }
-### = {
+2068 = {
 	name = "Berg"
 	culture = "german"
 }
-### = {
+2069 = {
 	name = "Eckert"
 	culture = "german"
 }
-### = {
+2070 = {
 	name = "Kaufmann"
 	culture = "german"
 }
-### = {
+2071 = {
 	name = "Geiger"
 	culture = "german"
 }
-### = {
+2072 = {
 	name = "Kraft"
 	culture = "german"
 }
-### = {
+2073 = {
 	name = "Haase"
 	culture = "german"
 }
-### = {
+2074 = {
 	name = "Binder"
 	culture = "german"
 }
-### = {
+2075 = {
 	name = "Frey"
 	culture = "german"
 }
-### = {
+2076 = {
 	name = "Bach"
 	culture = "german"
 }
-### = {
+2077 = {
 	name = "Ebert"
 	culture = "german"
 }
-### = {
+2078 = {
 	name = "Hartmann"
 	culture = "german"
 }
-### = {
+2079 = {
 	name = "Maurer"
 	culture = "german"
 }
-### = {
+2080 = {
 	name = "Baier"
 	culture = "german"
 }
-### = {
+2081 = {
 	name = "Moser"
 	culture = "german"
 }
-### = {
+2082 = {
 	name = "Herzog"
 	culture = "german"
 }
-### = {
+2083 = {
 	name = "Breuer"
 	culture = "german"
 }
-### = {
+2084 = {
 	name = "Heinz"
 	culture = "german"
 }
-### = {
+2085 = {
 	name = "Ackermann"
 	culture = "german"
 }
-### = {
+2086 = {
 	name = "Stephan"
 	culture = "german"
 }
-### = {
+2087 = {
 	name = "Dietz"
 	culture = "german"
 }
-### = {
+2088 = {
 	name = "Kirchner"
 	culture = "german"
 }
-### = {
+2089 = {
 	name = "Kunze"
 	culture = "german"
 }
-### = {
+2090 = {
 	name = "Fink"
 	culture = "german"
 }
-### = {
+2091 = {
 	name = "Lenz"
 	culture = "german"
 }
-### = {
+2092 = {
 	name = "Thiele"
 	culture = "german"
 }
-### = {
+2093 = {
 	name = "Hein"
 	culture = "german"
 }
-### = {
+2094 = {
 	name = "Hoppe"
 	culture = "german"
 }
-### = {
+2095 = {
 	name = "Albert"
 	culture = "german"
 }
-### = {
+2096 = {
 	name = "Baum"
 	culture = "german"
 }
-### = {
+2097 = {
 	name = "Bader"
 	culture = "german"
 }
-### = {
+2098 = {
 	name = "Von"
 	culture = "german"
 }
-### = {
+2099 = {
 	name = "Jansen"
 	culture = "german"
 }
-### = {
+2100 = {
 	name = "Jakob"
 	culture = "german"
 }
 
 #Dutch dynasties
-### = {
+2101 = {
 	name = "Smit"
 	culture = "dutch"
 }
-### = {
+2102 = {
 	name = "Weide"
 	culture = "dutch"
 }
-### = {
+2103 = {
 	name = "Klok"
 	culture = "dutch"
 }
-### = {
+2104 = {
 	name = "Westerhof"
 	culture = "dutch"
 }
-### = {
+2105 = {
 	name = "Snoek"
 	culture = "dutch"
 }
-### = {
+2106 = {
 	name = "Oever"
 	culture = "dutch"
 }
-### = {
+2107 = {
 	name = "Gerritsen"
 	culture = "dutch"
 }
-### = {
+2108 = {
 	name = "Otter"
 	culture = "dutch"
 }
-### = {
+2109 = {
 	name = "Kremer"
 	culture = "dutch"
 }
-### = {
+2110 = {
 	name = "Vegt"
 	culture = "dutch"
 }
-### = {
+2111 = {
 	name = "Kloosterman"
 	culture = "dutch"
 }
-### = {
+2112 = {
 	name = "Kooi"
 	culture = "dutch"
 }
-### = {
+2113 = {
 	name = "Zuidema"
 	culture = "dutch"
 }
-### = {
+2114 = {
 	name = "Jonkman"
 	culture = "dutch"
 }
-### = {
+2115 = {
 	name = "Alberts"
 	culture = "dutch"
 }
-### = {
+2116 = {
 	name = "Boven"
 	culture = "dutch"
 }
-### = {
+2117 = {
 	name = "Troost"
 	culture = "dutch"
 }
-### = {
+2118 = {
 	name = "Veenendaal"
 	culture = "dutch"
 }
-### = {
+2119 = {
 	name = "Verkerk"
 	culture = "dutch"
 }
-### = {
+2120 = {
 	name = "Evers"
 	culture = "dutch"
 }
-### = {
+2121 = {
 	name = "Nijhof"
 	culture = "dutch"
 }
-### = {
+2122 = {
 	name = "Kraan"
 	culture = "dutch"
 }
-### = {
+2123 = {
 	name = "Krol"
 	culture = "dutch"
 }
-### = {
+2124 = {
 	name = "Wever"
 	culture = "dutch"
 }
-### = {
+2125 = {
 	name = "Klein"
 	culture = "dutch"
 }
-### = {
+2126 = {
 	name = "Baan"
 	culture = "dutch"
 }
-### = {
+2127 = {
 	name = "Zwan"
 	culture = "dutch"
 }
-### = {
+2128 = {
 	name = "Bol"
 	culture = "dutch"
 }
-### = {
+2129 = {
 	name = "Wind"
 	culture = "dutch"
 }
-### = {
+2130 = {
 	name = "Akkerman"
 	culture = "dutch"
 }
 
 #Austrian dynasties
-### = {
+2131 = {
 	name = "Gruber"
 	culture = "austrian"
 }
-### = {
+2132 = {
 	name = "Huber"
 	culture = "austrian"
 }
-### = {
+2133 = {
 	name = "Bauer"
 	culture = "austrian"
 }
-### = {
+2134 = {
 	name = "Wagner"
 	culture = "austrian"
 }
-### = {
+2135 = {
 	name = "Muller"
 	culture = "austrian"
 }
-### = {
+2136 = {
 	name = "Pichler"
 	culture = "austrian"
 }
-### = {
+2137 = {
 	name = "Moser"
 	culture = "austrian"
 }
-### = {
+2138 = {
 	name = "Steiner"
 	culture = "austrian"
 }
-### = {
+2139 = {
 	name = "Hofer"
 	culture = "austrian"
 }
-### = {
+2140 = {
 	name = "Mayer"
 	culture = "austrian"
 }
-### = {
+2141 = {
 	name = "Leitner"
 	culture = "austrian"
 }
-### = {
+2142 = {
 	name = "Berger"
 	culture = "austrian"
 }
-### = {
+2143 = {
 	name = "Fuchs"
 	culture = "austrian"
 }
-### = {
+2144 = {
 	name = "Eder"
 	culture = "austrian"
 }
-### = {
+2145 = {
 	name = "Fischer"
 	culture = "austrian"
 }
-### = {
+2146 = {
 	name = "Schmid"
 	culture = "austrian"
 }
-### = {
+2147 = {
 	name = "Winkler"
 	culture = "austrian"
 }
-### = {
+2148 = {
 	name = "Weber"
 	culture = "austrian"
 }
-### = {
+2149 = {
 	name = "Schwarz"
 	culture = "austrian"
 }
-### = {
+2150 = {
 	name = "Maier"
 	culture = "austrian"
 }
-### = {
+2151 = {
 	name = "Schneider"
 	culture = "austrian"
 }
-### = {
+2152 = {
 	name = "Reiter"
 	culture = "austrian"
 }
-### = {
+2153 = {
 	name = "Mayr"
 	culture = "austrian"
 }
-### = {
+2154 = {
 	name = "Brunner"
 	culture = "austrian"
 }
-### = {
+2155 = {
 	name = "Wimmer"
 	culture = "austrian"
 }
-### = {
+2156 = {
 	name = "Baumgartner"
 	culture = "austrian"
 }
-### = {
+2157 = {
 	name = "Schmidt"
 	culture = "austrian"
 }
-### = {
+2158 = {
 	name = "Lang"
 	culture = "austrian"
 }
-### = {
+2159 = {
 	name = "Auer"
 	culture = "austrian"
 }
-### = {
+2160 = {
 	name = "Egger"
 	culture = "austrian"
 }
@@ -651,49 +651,49 @@ germanic_grp, dyns: id start-last id
 #Special dynasties
 
 #Nico
-### = {
-	name = "Hülkenberg"
+2161 = {
+	name = "Hï¿½lkenberg"
 	culture = "german"
 	used_for_random = no
 }
 
 #Nico
-### = {
+2162 = {
 	name = "Rosberg"
 	culture = "german"
 	used_for_random = no
 }
 
 #Sebastian
-### = {
+2163 = {
 	name = "Vettel"
 	culture = "german"
 	used_for_random = no
 }
 
 #Max, Jos
-### = {
+2164 = {
 	name = "Verstappen"
 	culture = "dutch"
 	used_for_random = no
 }
 
 #Niki
-### = {
+2165 = {
 	name = "Lauda"
 	culture = "austrian"
 	used_for_random = no
 }
 
 #Jochen
-### = {
+2166 = {
 	name = "Rindt"
 	culture = "austrian"
 	used_for_random = no
 }
 
 #Gerhard
-### = {
+2167 = {
 	name = "Berger"
 	culture = "austrian"
 	used_for_random = no
