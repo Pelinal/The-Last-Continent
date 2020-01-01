@@ -1,0 +1,371 @@
+###############################
+ Scandinavian dyns: 1111-1250
+###############################
+
+# Norweigan Dynasties
+1111 = {
+	name = "Hansen"
+	culture = "norweigan"
+}
+1112 = {
+	name = "Johansen"
+	culture = "norweigan"
+}
+1113 = {
+	name = "Olsen"
+	culture = "norweigan"
+}
+1114 = {
+	name = "Larsen"
+	culture = "norweigan"
+}
+1115 = {
+	name = "Andersen"
+	culture = "norweigan"
+}
+1116 = {
+	name = "Nilsen"
+	culture = "norweigan"
+}
+1117 = {
+	name = "Pedersen"
+	culture = "norweigan"
+}
+1118 = {
+	name = "Kristiansen"
+	culture = "norweigan"
+}
+1119 = {
+	name = "Jensen"
+	culture = "norweigan"
+}
+1120 = {
+	name = "Karlsen"
+	culture = "norweigan"
+}
+1121 = {
+	name = "Johnsen"
+	culture = "norweigan"
+}
+1122 = {
+	name = "Pettersen"
+	culture = "norweigan"
+}
+1123 = {
+	name = "Eriksen"
+	culture = "norweigan"
+}
+1124 = {
+	name = "Berg"
+	culture = "norweigan"
+}
+1125 = {
+	name = "Haugen"
+	culture = "norweigan"
+}
+1126 = {
+	name = "Hagen"
+	culture = "norweigan"
+}
+1127 = {
+	name = "Johannessen"
+	culture = "norweigan"
+}
+1128 = {
+	name = "Andreassen"
+	culture = "norweigan"
+}
+1129 = {
+	name = "Jacobsen"
+	culture = "norweigan"
+}
+1130 = {
+	name = "Halvorsen"
+	culture = "norweigan"
+}
+1131 = {
+	name = "Jørgensen"
+	culture = "norweigan"
+}
+1132 = {
+	name = "Dahl"
+	culture = "norweigan"
+}
+1133 = {
+	name = "Henriksen"
+	culture = "norweigan"
+}
+1134 = {
+	name = "Lund"
+	culture = "norweigan"
+}
+1135 = {
+	name = "Sørensen"
+	culture = "norweigan"
+}
+1136 = {
+	name = "Gundersen"
+	culture = "norweigan"
+}
+1137 = {
+	name = "Jakobsen"
+	culture = "norweigan"
+}
+1138 = {
+	name = "Moen"
+	culture = "norweigan"
+}
+1139 = {
+	name = "Iversen"
+	culture = "norweigan"
+}
+1140 = {
+	name = "Svendsen"
+	culture = "norweigan"
+}
+1141 = {
+	name = "Strand"
+	culture = "norweigan"
+}
+1142 = {
+	name = "Solberg"
+	culture = "norweigan"
+}
+1143 = {
+	name = "Martinsen"
+	culture = "norweigan"
+}
+1144 = {
+	name = "Knutsen"
+	culture = "norweigan"
+}
+1145 = {
+	name = "Paulsen"
+	culture = "norweigan"
+}
+1146 = {
+	name = "Eide"
+	culture = "norweigan"
+}
+1147 = {
+	name = "Bakken"
+	culture = "norweigan"
+}
+1148 = {
+	name = "Kristoffersen"
+	culture = "norweigan"
+}
+1149 = {
+	name = "Mathisen"
+	culture = "norweigan"
+}
+1150 = {
+	name = "Lie"
+	culture = "norweigan"
+}
+
+# Swedish Dynasties
+1151 = {
+	name = "Johansson"
+	culture = "swedish"
+}
+1152 = {
+	name = "Andersson"
+	culture = "swedish"
+}
+1153 = {
+	name = "Karlsson"
+	culture = "swedish"
+}
+1154 = {
+	name = "Nilsson"
+	culture = "swedish"
+}
+1155 = {
+	name = "Eriksson"
+	culture = "swedish"
+}
+1156 = {
+	name = "Larsson"
+	culture = "swedish"
+}
+1157 = {
+	name = "Olsson"
+	culture = "swedish"
+}
+1158 = {
+	name = "Persson"
+	culture = "swedish"
+}
+1159 = {
+	name = "Svensson"
+	culture = "swedish"
+}
+1160 = {
+	name = "Gustafsson"
+	culture = "swedish"
+}
+1161 = {
+	name = "Pettersson"
+	culture = "swedish"
+}
+1162 = {
+	name = "Jonsson"
+	culture = "swedish"
+}
+1163 = {
+	name = "Jansson"
+	culture = "swedish"
+}
+1164 = {
+	name = "Hansson"
+	culture = "swedish"
+}
+1165 = {
+	name = "Bengtsson"
+	culture = "swedish"
+}
+1166 = {
+	name = "Jönsson"
+	culture = "swedish"
+}
+1167 = {
+	name = "Petersson"
+	culture = "swedish"
+}
+1168 = {
+	name = "Carlsson"
+	culture = "swedish"
+}
+1169 = {
+	name = "Magnusson"
+	culture = "swedish"
+}
+1170 = {
+	name = "Lindberg"
+	culture = "swedish"
+}
+
+# Danish Dynasties
+1171 = {
+	name = "Jensen"
+	culture = "danish"
+}
+1172 = {
+	name = "Nielsen"
+	culture = "danish"
+}
+1173 = {
+	name = "Hansen"
+	culture = "danish"
+}
+1174 = {
+	name = "Pedersen"
+	culture = "danish"
+}
+1175 = {
+	name = "Andersen"
+	culture = "danish"
+}
+1176 = {
+	name = "Christensen"
+	culture = "danish"
+}
+1177 = {
+	name = "Larsen"
+	culture = "danish"
+}
+1178 = {
+	name = "Soerensen"
+	culture = "danish"
+}
+1179 = {
+	name = "Rasmussen"
+	culture = "danish"
+}
+1180 = {
+	name = "Joergensen"
+	culture = "danish"
+}
+1181 = {
+	name = "Petersen"
+	culture = "danish"
+}
+1182 = {
+	name = "Madsen"
+	culture = "danish"
+}
+1183 = {
+	name = "Kristensen"
+	culture = "danish"
+}
+1184 = {
+	name = "Olsen"
+	culture = "danish"
+}
+1185 = {
+	name = "Thomsen"
+	culture = "danish"
+}
+1186 = {
+	name = "Christiansen"
+	culture = "danish"
+}
+1187 = {
+	name = "Poulsen"
+	culture = "danish"
+}
+1188 = {
+	name = "Johansen"
+	culture = "danish"
+}
+1189 = {
+	name = "Knudsen"
+	culture = "danish"
+}
+1190 = {
+	name = "Mortensen"
+	culture = "danish"
+}
+
+# Icelandic Dynasties
+1191 = {
+	name = "Agnarsson"
+	culture = "icelandic"
+}
+1192 = {
+	name = "Ármannsson"
+	culture = "icelandic"
+}
+1193 = {
+	name = "Heimisson"
+	culture = "icelandic"
+}
+1194 = {
+	name = "Hilmarsson"
+	culture = "icelandic"
+}
+1195 = {
+	name = "Ingólfsson"
+	culture = "icelandic"
+}
+1196 = {
+	name = "Leifsson"
+	culture = "icelandic"
+}
+1197 = {
+	name = "Ölvirsson"
+	culture = "icelandic"
+}
+1198 = {
+	name = "Tómasson"
+	culture = "icelandic"
+}
+1199 = {
+	name = "Vilhjálmsson"
+	culture = "icelandic"
+}
+1200 = {
+	name = "Stefánsson"
+	culture = "icelandic"
+}

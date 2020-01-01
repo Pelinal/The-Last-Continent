@@ -1,0 +1,567 @@
+###############################
+ Francophone dyns: 451-600
+###############################
+	
+# French Dynasties
+451 = {
+	name = "Martin"
+	culture = "french"
+}
+452 = {
+	name = "Bernard"
+	culture = "french"
+}
+453 = {
+	name = "Dubois"
+	culture = "french"
+}
+454 = {
+	name = "Da Silva"
+	culture = "french"
+}
+455 = {
+	name = "Guillot"
+	culture = "french"
+}
+456 = {
+	name = "Riviere"
+	culture = "french"
+}
+457 = {
+	name = "Petit"
+	culture = "french"
+}
+458 = {
+	name = "Durand"
+	culture = "french"
+}
+459 = {
+	name = "Leroy"
+	culture = "french"
+}
+460 = {
+	name = "Moreau"
+	culture = "french"
+}
+461 = {
+	name = "Simon"
+	culture = "french"
+}
+462 = {
+	name = "Laurent"
+	culture = "french"
+}
+463 = {
+	name = "Lefebvre"
+	culture = "french"
+}
+464 = {
+	name = "Michel"
+	culture = "french"
+}
+465 = {
+	name = "Le Gall"
+	culture = "french"
+}
+466 = {
+	name = "David"
+	culture = "french"
+}
+467 = {
+	name = "Bertrand"
+	culture = "french"
+}
+468 = {
+	name = "Roux"
+	culture = "french"
+}
+469 = {
+	name = "Vincent"
+	culture = "french"
+}
+470 = {
+	name = "Fournier"
+	culture = "french"
+}
+471 = {
+	name = "Morel"
+	culture = "french"
+}
+472 = {
+	name = "Girard"
+	culture = "french"
+}
+473 = {
+	name = "Rey"
+	culture = "french"
+}
+474 = {
+	name = "Lefevre"
+	culture = "french"
+}
+475 = {
+	name = "Mercier"
+	culture = "french"
+}
+476 = {
+	name = "Dupont"
+	culture = "french"
+}
+477 = {
+	name = "Lambert"
+	culture = "french"
+}
+478 = {
+	name = "Bonnet"
+	culture = "french"
+}
+479 = {
+	name = "Francois"
+	culture = "french"
+}
+480 = {
+	name = "Fleury"
+	culture = "french"
+}
+481 = {
+	name = "Legrand"
+	culture = "french"
+}
+482 = {
+	name = "Garnier"
+	culture = "french"
+}
+483 = {
+	name = "Faure"
+	culture = "french"
+}
+484 = {
+	name = "Rousseau"
+	culture = "french"
+}
+485 = {
+	name = "Blanc"
+	culture = "french"
+}
+486 = {
+	name = "Lecomte"
+	culture = "french"
+}
+487 = {
+	name = "Muller"
+	culture = "french"
+}
+488 = {
+	name = "Deschamps"
+	culture = "french"
+}
+489 = {
+	name = "Roussel"
+	culture = "french"
+}
+490 = {
+	name = "Nicolas"
+	culture = "french"
+}
+491 = {
+	name = "Perrin"
+	culture = "french"
+}
+492 = {
+	name = "Morin"
+	culture = "french"
+}
+493 = {
+	name = "Mathieu"
+	culture = "french"
+}
+494 = {
+	name = "Clement"
+	culture = "french"
+}
+
+# Quebecois Dynasties
+495 = {
+	name = "Tremblay"
+	culture = "quebecois"
+}
+496 = {
+	name = "Boucher"
+	culture = "quebecois"
+}
+497 = {
+	name = "Thibault"
+	culture = "quebecois"
+}
+498 = {
+	name = "Gagnon"
+	culture = "quebecois"
+}
+499 = {
+	name = "Bergeron"
+	culture = "quebecois"
+}
+500 = {
+	name = "Beaulieu"
+	culture = "quebecois"
+}
+501 = {
+	name = "Roy"
+	culture = "quebecois"
+}
+502 = {
+	name = "Simard"
+	culture = "quebecois"
+}
+503 = {
+	name = "Martel"
+	culture = "quebecois"
+}
+504 = {
+	name = "Cote"
+	culture = "quebecois"
+}
+505 = {
+	name = "Caron"
+	culture = "quebecois"
+}
+506 = {
+	name = "Bedard"
+	culture = "quebecois"
+}
+507 = {
+	name = "Gauthier"
+	culture = "quebecois"
+}
+508 = {
+	name = "Girard"
+	culture = "quebecois"
+}
+509 = {
+	name = "Nadeau"
+	culture = "quebecois"
+}
+510 = {
+	name = "Morin"
+	culture = "quebecois"
+}
+511 = {
+	name = "Leblanc"
+	culture = "quebecois"
+}
+512 = {
+	name = "Leclerc"
+	culture = "quebecois"
+}
+513 = {
+	name = "Belanger"
+	culture = "quebecois"
+}
+514 = {
+	name = "Ouellet"
+	culture = "quebecois"
+}
+515 = {
+	name = "Landry"
+	culture = "quebecois"
+}
+516 = {
+	name = "Bouchard"
+	culture = "quebecois"
+}
+517 = {
+	name = "Fournier"
+	culture = "quebecois"
+}
+518 = {
+	name = "Lapointe"
+	culture = "quebecois"
+}
+519 = {
+	name = "Pelletier"
+	culture = "quebecois"
+}
+520 = {
+	name = "Lefebvre"
+	culture = "quebecois"
+}
+521 = {
+	name = "Grenier"
+	culture = "quebecois"
+}
+522 = {
+	name = "Gagne"
+	culture = "quebecois"
+}
+523 = {
+	name = "Cloutier"
+	culture = "quebecois"
+}
+524 = {
+	name = "Hebert"
+	culture = "quebecois"
+}
+525 = {
+	name = "Lavoie"
+	culture = "quebecois"
+}
+526 = {
+	name = "Dube"
+	culture = "quebecois"
+}
+527 = {
+	name = "Demers"
+	culture = "quebecois"
+}
+528 = {
+	name = "Fortin"
+	culture = "quebecois"
+}
+529 = {
+	name = "Poulin"
+	culture = "quebecois"
+}
+530 = {
+	name = "Richard"
+	culture = "quebecois"
+}
+531 = {
+	name = "Levesque"
+	culture = "quebecois"
+}
+532 = {
+	name = "Poirier"
+	culture = "quebecois"
+}
+533 = {
+	name = "Desjardins"
+	culture = "quebecois"
+}
+
+# Occitan Dynasties
+534 = {
+	name = "Fabre"
+	culture = "occitan"
+}
+535 = {
+	name = "Fauré"
+	culture = "occitan"
+}
+536 = {
+	name = "Cabrol"
+	culture = "occitan"
+}
+537 = {
+	name = "Cazalet"
+	culture = "occitan"
+}
+538 = {
+	name = "Bordes"
+	culture = "occitan"
+}
+539 = {
+	name = "Astruc"
+	culture = "occitan"
+}
+540 = {
+	name = "Gasquet"
+	culture = "occitan"
+}
+541 = {
+	name = "Laborde"
+	culture = "occitan"
+}
+542 = {
+	name = "Couderc"
+	culture = "occitan"
+}
+543 = {
+	name = "Doumergue"
+	culture = "occitan"
+}
+544 = {
+	name = "Raspall"
+	culture = "occitan"
+}
+545 = {
+	name = "Sardou"
+	culture = "occitan"
+}
+546 = {
+	name = "Vidal"
+	culture = "occitan"
+}
+547 = {
+	name = "Pujol"
+	culture = "occitan"
+}
+548 = {
+	name = "Bautesar"
+	culture = "occitan"
+}
+549 = {
+	name = "Lafargue"
+	culture = "occitan"
+}
+
+# Swiss Dynasties
+550 = {
+	name = "Müller"
+	culture = "swiss"
+}
+551 = {
+	name = "Meier"
+	culture = "swiss"
+}
+552 = {
+	name = "Schmid"
+	culture = "swiss"
+}
+553 = {
+	name = "Keller"
+	culture = "swiss"
+}
+554 = {
+	name = "Weber"
+	culture = "swiss"
+}
+555 = {
+	name = "Schneider"
+	culture = "swiss"
+}
+556 = {
+	name = "Huber"
+	culture = "swiss"
+}
+557 = {
+	name = "Meyer"
+	culture = "swiss"
+}
+558 = {
+	name = "Steiner"
+	culture = "swiss"
+}
+559 = {
+	name = "Fischer"
+	culture = "swiss"
+}
+560 = {
+	name = "Brunner"
+	culture = "swiss"
+}
+561 = {
+	name = "Gerber"
+	culture = "swiss"
+}
+562 = {
+	name = "Frei"
+	culture = "swiss"
+}
+563 = {
+	name = "Baumann"
+	culture = "swiss"
+}
+564 = {
+	name = "Zimmermann"
+	culture = "swiss"
+}
+565 = {
+	name = "Widmer"
+	culture = "swiss"
+}
+566 = {
+	name = "Moser"
+	culture = "swiss"
+}
+567 = {
+	name = "Graf"
+	culture = "swiss"
+}
+568 = {
+	name = "Wyss"
+	culture = "swiss"
+}
+569 = {
+	name = "Roth"
+	culture = "swiss"
+}
+570 = {
+	name = "Baumgartner"
+	culture = "swiss"
+}
+571 = {
+	name = "Bachmann"
+	culture = "swiss"
+}
+572 = {
+	name = "Suter"
+	culture = "swiss"
+}
+573 = {
+	name = "Kaufmann"
+	culture = "swiss"
+}
+574 = {
+	name = "Buhler"
+	culture = "swiss"
+}
+575 = {
+	name = "Kunz"
+	culture = "swiss"
+}
+576 = {
+	name = "Studer"
+	culture = "swiss"
+}
+577 = {
+	name = "Bucher"
+	culture = "swiss"
+}
+578 = {
+	name = "Luthi"
+	culture = "swiss"
+}
+579 = {
+	name = "Berger"
+	culture = "swiss"
+}
+580 = {
+	name = "Hofer"
+	culture = "swiss"
+}
+581 = {
+	name = "Marti"
+	culture = "swiss"
+}
+582 = {
+	name = "Lehmann"
+	culture = "swiss"
+}
+583 = {
+	name = "Christen"
+	culture = "swiss"
+}
+584 = {
+	name = "Frey"
+	culture = "swiss"
+}
+585 = {
+	name = "Koch"
+	culture = "swiss"
+}
+586 = {
+	name = "Arnold"
+	culture = "swiss"
+}
+587 = {
+	name = "Egli"
+	culture = "swiss"
+}
+588 = {
+	name = "Wuthrich"
+	culture = "swiss"
+}
+589 = {
+	name = "Pfister"
+	culture = "swiss"
+}

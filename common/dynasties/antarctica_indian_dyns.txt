@@ -1,0 +1,329 @@
+###############################
+ Indian dyns: 1551-1650
+###############################
+
+# Indian Dynasties
+1551 = {
+	name = "Devi"
+	culture = "indian"
+}
+1552 = {
+	name = "Singh"
+	culture = "indian"
+}
+1553 = {
+	name = "Kumar"
+	culture = "indian"
+}
+1554 = {
+	name = "Das"
+	culture = "indian"
+}
+1555 = {
+	name = "Kaur"
+	culture = "indian"
+}
+1556 = {
+	name = "Ram"
+	culture = "indian"
+}
+1557 = {
+	name = "Yadav"
+	culture = "indian"
+}
+1558 = {
+	name = "Kumari"
+	culture = "indian"
+}
+1559 = {
+	name = "Lal"
+	culture = "indian"
+}
+1560 = {
+	name = "Bai"
+	culture = "indian"
+}
+1561 = {
+	name = "Khatun"
+	culture = "indian"
+}
+1562 = {
+	name = "Mandal"
+	culture = "indian"
+}
+1563 = {
+	name = "Ali"
+	culture = "indian"
+}
+1564 = {
+	name = "Sharma"
+	culture = "indian"
+}
+1565 = {
+	name = "Ray"
+	culture = "indian"
+}
+1566 = {
+	name = "Mondal"
+	culture = "indian"
+}
+1567 = {
+	name = "Khan"
+	culture = "indian"
+}
+1568 = {
+	name = "Sah"
+	culture = "indian"
+}
+1569 = {
+	name = "Patel"
+	culture = "indian"
+}
+1570 = {
+	name = "Prasad"
+	culture = "indian"
+}
+1571 = {
+	name = "Patil"
+	culture = "indian"
+}
+1572 = {
+	name = "Ghosh"
+	culture = "indian"
+}
+1573 = {
+	name = "Pal"
+	culture = "indian"
+}
+1574 = {
+	name = "Sahu"
+	culture = "indian"
+}
+1575 = {
+	name = "Gupta"
+	culture = "indian"
+}
+1576 = {
+	name = "Shaikh"
+	culture = "indian"
+}
+1577 = {
+	name = "Bibi"
+	culture = "indian"
+}
+1578 = {
+	name = "Sekh"
+	culture = "indian"
+}
+1579 = {
+	name = "Begam"
+	culture = "indian"
+}
+1580 = {
+	name = "Biswas"
+	culture = "indian"
+}
+
+# Pakistani Dynasties
+1581 = {
+	name = "Khan"
+	culture = "pakistani"
+}
+1582 = {
+	name = "Ali"
+	culture = "pakistani"
+}
+1583 = {
+	name = "Hussain"
+	culture = "pakistani"
+}
+1584 = {
+	name = "Ahmad"
+	culture = "pakistani"
+}
+1585 = {
+	name = "Mohammad"
+	culture = "pakistani"
+}
+1586 = {
+	name = "Ahmed"
+	culture = "pakistani"
+}
+1587 = {
+	name = "Shah"
+	culture = "pakistani"
+}
+1588 = {
+	name = "Muhammad"
+	culture = "pakistani"
+}
+1589 = {
+	name = "Bakhash"
+	culture = "pakistani"
+}
+1590 = {
+	name = "Iqbal"
+	culture = "pakistani"
+}
+1591 = {
+	name = "Ullah"
+	culture = "pakistani"
+}
+1592 = {
+	name = "Din"
+	culture = "pakistani"
+}
+1593 = {
+	name = "Khaw"
+	culture = "pakistani"
+}
+1594 = {
+	name = "Allah"
+	culture = "pakistani"
+}
+1595 = {
+	name = "Nawaz"
+	culture = "pakistani"
+}
+1596 = {
+	name = "Mehmood"
+	culture = "pakistani"
+}
+1597 = {
+	name = "Aslam"
+	culture = "pakistani"
+}
+1598 = {
+	name = "Gul"
+	culture = "pakistani"
+}
+1599 = {
+	name = "Ashraf"
+	culture = "pakistani"
+}
+1600 = {
+	name = "Abbas"
+	culture = "pakistani"
+}
+1601 = {
+	name = "Akhtar"
+	culture = "pakistani"
+}
+1602 = {
+	name = "Rehman"
+	culture = "pakistani"
+}
+1603 = {
+	name = "Bux"
+	culture = "pakistani"
+}
+1604 = {
+	name = "Zaman"
+	culture = "pakistani"
+}
+1605 = {
+	name = "Rasool"
+	culture = "pakistani"
+}
+1606 = {
+	name = "Hassan"
+	culture = "pakistani"
+}
+1607 = {
+	name = "Uddin"
+	culture = "pakistani"
+}
+1608 = {
+	name = "Akbar"
+	culture = "pakistani"
+}
+1609 = {
+	name = "Begum"
+	culture = "pakistani"
+}
+1610 = {
+	name = "Akram"
+	culture = "pakistani"
+}
+
+# Bangladeshi Dynasties
+1611 = {
+	name = "Akter"
+	culture = "bangladeshi"
+}
+1612 = {
+	name = "Islam"
+	culture = "bangladeshi"
+}
+1613 = {
+	name = "Khatun"
+	culture = "bangladeshi"
+}
+1614 = {
+	name = "Hossain"
+	culture = "bangladeshi"
+}
+1615 = {
+	name = "Rahman"
+	culture = "bangladeshi"
+}
+1616 = {
+	name = "Hasan"
+	culture = "bangladeshi"
+}
+1617 = {
+	name = "Ahmed"
+	culture = "bangladeshi"
+}
+1618 = {
+	name = "Begum"
+	culture = "bangladeshi"
+}
+1619 = {
+	name = "Khan"
+	culture = "bangladeshi"
+}
+1620 = {
+	name = "Uddin"
+	culture = "bangladeshi"
+}
+1621 = {
+	name = "Ali"
+	culture = "bangladeshi"
+}
+1622 = {
+	name = "Alam"
+	culture = "bangladeshi"
+}
+1623 = {
+	name = "Mia"
+	culture = "bangladeshi"
+}
+1624 = {
+	name = "Sultana"
+	culture = "bangladeshi"
+}
+1625 = {
+	name = "Hossen"
+	culture = "bangladeshi"
+}
+1626 = {
+	name = "Chowdhury"
+	culture = "bangladeshi"
+}
+1627 = {
+	name = "Haque"
+	culture = "bangladeshi"
+}
+1628 = {
+	name = "Rana"
+	culture = "bangladeshi"
+}
+1629 = {
+	name = "Miah"
+	culture = "bangladeshi"
+}
+1630 = {
+	name = "Akhter"
+	culture = "bangladeshi"
+}

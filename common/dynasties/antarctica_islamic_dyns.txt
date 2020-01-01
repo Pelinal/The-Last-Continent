@@ -1,0 +1,571 @@
+###############################
+ Islamic dyns: 1361-1550
+###############################
+
+# Arabian Dynasties
+1361 = {
+	name = "Khan"
+	culture = "arabian"
+}
+1362 = {
+	name = "Ali"
+	culture = "arabian"
+}
+1363 = {
+	name = "Ahmed"
+	culture = "arabian"
+}
+1364 = {
+	name = "Hassan"
+	culture = "arabian"
+}
+1365 = {
+	name = "Abu"
+	culture = "arabian"
+}
+1366 = {
+	name = "Mohamed"
+	culture = "arabian"
+}
+1367 = {
+	name = "Saleh"
+	culture = "arabian"
+}
+1368 = {
+	name = "Hussain"
+	culture = "arabian"
+}
+1369 = {
+	name = "Abdullah"
+	culture = "arabian"
+}
+1370 = {
+	name = "Alghamdi"
+	culture = "arabian"
+}
+1371 = {
+	name = "Alharbi"
+	culture = "arabian"
+}
+1372 = {
+	name = "Ahmad"
+	culture = "arabian"
+}
+1373 = {
+	name = "Saad"
+	culture = "arabian"
+}
+1374 = {
+	name = "Salim"
+	culture = "arabian"
+}
+1375 = {
+	name = "Salem"
+	culture = "arabian"
+}
+1376 = {
+	name = "Alotaibi"
+	culture = "arabian"
+}
+1377 = {
+	name = "Khalil"
+	culture = "arabian"
+}
+1378 = {
+	name = "Alzahrani"
+	culture = "arabian"
+}
+1379 = {
+	name = "Alqahtani"
+	culture = "arabian"
+}
+1380 = {
+	name = "Mahmoud"
+	culture = "arabian"
+}
+1381 = {
+	name = "Omar"
+	culture = "arabian"
+}
+1382 = {
+	name = "Shaikh"
+	culture = "arabian"
+}
+1383 = {
+	name = "Ismail"
+	culture = "arabian"
+}
+1384 = {
+	name = "Hussein"
+	culture = "arabian"
+}
+1385 = {
+	name = "Kumar"
+	culture = "arabian"
+}
+1386 = {
+	name = "Alam"
+	culture = "arabian"
+}
+1387 = {
+	name = "Malik"
+	culture = "arabian"
+}
+1388 = {
+	name = "Alshehri"
+	culture = "arabian"
+}
+1389 = {
+	name = "Abo"
+	culture = "arabian"
+}
+1390 = {
+	name = "Mansour"
+	culture = "arabian"
+}
+1391 = {
+	name = "Awad"
+	culture = "arabian"
+}
+1392 = {
+	name = "Taha"
+	culture = "arabian"
+}
+1393 = {
+	name = "Siddiqui"
+	culture = "arabian"
+}
+1394 = {
+	name = "Iqbal"
+	culture = "arabian"
+}
+1395 = {
+	name = "Osman"
+	culture = "arabian"
+}
+1396 = {
+	name = "Rahman"
+	culture = "arabian"
+}
+1397 = {
+	name = "Al-Ghamdi"
+	culture = "arabian"
+}
+1398 = {
+	name = "Abbas"
+	culture = "arabian"
+}
+1399 = {
+	name = "Salah"
+	culture = "arabian"
+}
+1400 = {
+	name = "Ansari"
+	culture = "arabian"
+}
+1401 = {
+	name = "Kamal"
+	culture = "arabian"
+}
+1402 = {
+	name = "Saeed"
+	culture = "arabian"
+}
+1403 = {
+	name = "Othman"
+	culture = "arabian"
+}
+1404 = {
+	name = "Nasser"
+	culture = "arabian"
+}
+1405 = {
+	name = "Mohammad"
+	culture = "arabian"
+}
+1406 = {
+	name = "Zain"
+	culture = "arabian"
+}
+1407 = {
+	name = "Almalki"
+	culture = "arabian"
+}
+1408 = {
+	name = "Shah"
+	culture = "arabian"
+}
+1409 = {
+	name = "Hadi"
+	culture = "arabian"
+}
+1410 = {
+	name = "Alshammari"
+	culture = "arabian"
+}
+
+# Egyptian Dynasties
+1411 = {
+	name = "Mohamed"
+	culture = "egyptian"
+}
+1412 = {
+	name = "Ahmed"
+	culture = "egyptian"
+}
+1413 = {
+	name = "Hassan"
+	culture = "egyptian"
+}
+1414 = {
+	name = "Ali"
+	culture = "egyptian"
+}
+1415 = {
+	name = "Mahmoud"
+	culture = "egyptian"
+}
+1416 = {
+	name = "Ibrahim"
+	culture = "egyptian"
+}
+1417 = {
+	name = "Gamal"
+	culture = "egyptian"
+}
+1418 = {
+	name = "Abdel"
+	culture = "egyptian"
+}
+1419 = {
+	name = "Mostafa"
+	culture = "egyptian"
+}
+1420 = {
+	name = "Salah"
+	culture = "egyptian"
+}
+1421 = {
+	name = "Adel"
+	culture = "egyptian"
+}
+1422 = {
+	name = "Hussein"
+	culture = "egyptian"
+}
+1423 = {
+	name = "Samir"
+	culture = "egyptian"
+}
+1424 = {
+	name = "Magdy"
+	culture = "egyptian"
+}
+1425 = {
+	name = "Saad"
+	culture = "egyptian"
+}
+1426 = {
+	name = "Soliman"
+	culture = "egyptian"
+}
+1427 = {
+	name = "Kamal"
+	culture = "egyptian"
+}
+1428 = {
+	name = "Hamdy"
+	culture = "egyptian"
+}
+1429 = {
+	name = "Saleh"
+	culture = "egyptian"
+}
+1430 = {
+	name = "Salem"
+	culture = "egyptian"
+}
+1431 = {
+	name = "Nabil"
+	culture = "egyptian"
+}
+1432 = {
+	name = "Youssef"
+	culture = "egyptian"
+}
+1433 = {
+	name = "Samy"
+	culture = "egyptian"
+}
+1434 = {
+	name = "Said"
+	culture = "egyptian"
+}
+1435 = {
+	name = "Fathy"
+	culture = "egyptian"
+}
+1436 = {
+	name = "Elsayed"
+	culture = "egyptian"
+}
+1437 = {
+	name = "Sayed"
+	culture = "egyptian"
+}
+1438 = {
+	name = "Khalil"
+	culture = "egyptian"
+}
+1439 = {
+	name = "Aly"
+	culture = "egyptian"
+}
+1440 = {
+	name = "Mohammed"
+	culture = "egyptian"
+}
+1441 = {
+	name = "Kamel"
+	culture = "egyptian"
+}
+1442 = {
+	name = "Omar"
+	culture = "egyptian"
+}
+1443 = {
+	name = "Fawzy"
+	culture = "egyptian"
+}
+1444 = {
+	name = "Amin"
+	culture = "egyptian"
+}
+1445 = {
+	name = "Mansour"
+	culture = "egyptian"
+}
+1446 = {
+	name = "Fouad"
+	culture = "egyptian"
+}
+1447 = {
+	name = "Ramadan"
+	culture = "egyptian"
+}
+1448 = {
+	name = "Zaki"
+	culture = "egyptian"
+}
+1449 = {
+	name = "Farouk"
+	culture = "egyptian"
+}
+1450 = {
+	name = "Taha"
+	culture = "egyptian"
+}
+
+# Tunisian Dynasties
+1451 = {
+	name = "Trabelsi"
+	culture = "tunisian"
+}
+1452 = {
+	name = "Gharbi"
+	culture = "tunisian"
+}
+1453 = {
+	name = "Hammami"
+	culture = "tunisian"
+}
+1454 = {
+	name = "Mohamed"
+	culture = "tunisian"
+}
+1455 = {
+	name = "Dridi"
+	culture = "tunisian"
+}
+1456 = {
+	name = "Ayari"
+	culture = "tunisian"
+}
+1457 = {
+	name = "Cherif"
+	culture = "tunisian"
+}
+1458 = {
+	name = "Allah"
+	culture = "tunisian"
+}
+1459 = {
+	name = "Sassi"
+	culture = "tunisian"
+}
+1460 = {
+	name = "Ammar"
+	culture = "tunisian"
+}
+1461 = {
+	name = "Mejri"
+	culture = "tunisian"
+}
+1462 = {
+	name = "Hamdi"
+	culture = "tunisian"
+}
+1463 = {
+	name = "Al Trabelsi"
+	culture = "tunisian"
+}
+1464 = {
+	name = "Ayadi"
+	culture = "tunisian"
+}
+1465 = {
+	name = "Riahi"
+	culture = "tunisian"
+}
+1466 = {
+	name = "Ali"
+	culture = "tunisian"
+}
+1467 = {
+	name = "Arfaoui"
+	culture = "tunisian"
+}
+1468 = {
+	name = "El-Hadi"
+	culture = "tunisian"
+}
+1469 = {
+	name = "Abidi"
+	culture = "tunisian"
+}
+1470 = {
+	name = "Salem"
+	culture = "tunisian"
+}
+1471 = {
+	name = "Saidi"
+	culture = "tunisian"
+}
+1472 = {
+	name = "Oueslati"
+	culture = "tunisian"
+}
+1473 = {
+	name = "Ahmed"
+	culture = "tunisian"
+}
+1474 = {
+	name = "Mansour"
+	culture = "tunisian"
+}
+1475 = {
+	name = "Nasri"
+	culture = "tunisian"
+}
+1476 = {
+	name = "Ben Ali"
+	culture = "tunisian"
+}
+1477 = {
+	name = "Chebbi"
+	culture = "tunisian"
+}
+1478 = {
+	name = "Ben Amor"
+	culture = "tunisian"
+}
+1479 = {
+	name = "Al Hamami"
+	culture = "tunisian"
+}
+1480 = {
+	name = "Abid"
+	culture = "tunisian"
+}
+
+# Turkish Dynasties
+1481 = {
+	name = "Simsek"
+	culture = "turkish"
+}
+1482 = {
+	name = "Yilmaz"
+	culture = "turkish"
+}
+1483 = {
+	name = "Kaya"
+	culture = "turkish"
+}
+1484 = {
+	name = "Demir"
+	culture = "turkish"
+}
+1485 = {
+	name = "Sahin"
+	culture = "turkish"
+}
+1486 = {
+	name = "Çelik"
+	culture = "turkish"
+}
+1487 = {
+	name = "Yildiz"
+	culture = "turkish"
+}
+1488 = {
+	name = "Yildirim"
+	culture = "turkish"
+}
+1489 = {
+	name = "Öztürk"
+	culture = "turkish"
+}
+1490 = {
+	name = "Aydin"
+	culture = "turkish"
+}
+1491 = {
+	name = "Özdemir"
+	culture = "turkish"
+}
+1492 = {
+	name = "Arslan"
+	culture = "turkish"
+}
+1493 = {
+	name = "Dogan"
+	culture = "turkish"
+}
+1494 = {
+	name = "Kiliç"
+	culture = "turkish"
+}
+1495 = {
+	name = "Aslan"
+	culture = "turkish"
+}
+1496 = {
+	name = "Çetin"
+	culture = "turkish"
+}
+1497 = {
+	name = "Kara"
+	culture = "turkish"
+}
+1498 = {
+	name = "Koç"
+	culture = "turkish"
+}
+1499 = {
+	name = "Kurt"
+	culture = "turkish"
+}
+1500 = {
+	name = "Özkan"
+	culture = "turkish"
+}

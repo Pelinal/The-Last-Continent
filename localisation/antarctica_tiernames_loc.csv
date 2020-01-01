@@ -1,0 +1,141 @@
+### MONARCHIC ###
+emperor;Emperor;;;;;;;;;;;;x
+emperor_female;Emperor;;;;;;;;;;;;x
+empire_of;Empire of;;;;;;;;;;;;x
+king;Dictator;;;;;;;;;;;;x
+king_female;Dictatress;;;;;;;;;;;;x
+kingdom_of;Junta of;;;;;;;;;;;;x
+duke;Governor;;;;;;;;;;;;x
+duke_female;Governess;;;;;;;;;;;;x
+duchy_of;Military Governate of;;;;;;;;;;;;x
+count;Overseer;;;;;;;;;;;;x
+count_female;Overseeress;;;;;;;;;;;;x
+county_of;Outpost of;;;;;;;;;;;;x
+baron;Commander;;;;;;;;;;;;x
+baron_female;Commander;;;;;;;;;;;;x
+barony_of;Fort;;;;;;;;;;;;x
+
+# Cultural/Religious
+emperor_monarchist;Emperor;Empereur;Kaiser;;Emperador;;;;;;;;;x
+king_monarchist;King;Roi;König;;Rey;;;;;;;;;x
+duke_monarchist;Duke;Duc;Herzog;;Duque;;;;;;;;;x
+count_monarchist;Count;Comte;Graf;;Conde;;;;;;;;;x
+baron_monarchist;Baron;Baron;Baron;;Barón;;;;;;;;;x
+emperor_female_monarchist;Empress;Impératrice;Kaiserin;;Emperatriz;;;;;;;;;x
+king_female_monarchist;Queen;Reine;Königin;;Reina;;;;;;;;;x
+duke_female_monarchist;Duchess;Duchesse;Herzogin;;Duquesa;;;;;;;;;x
+count_female_monarchist;Countess;Comtesse;Gräfin;;Condesa;;;;;;;;;x
+baron_female_monarchist;Baroness;Baronne;Baroness;;Baronesa;;;;;;;;;x
+empire_of_monarchist;Empire of;Empire de;Reich von;;Imperio de;;;;;;;;;x
+kingdom_of_monarchist;Kingdom of;Royaume de;Königreich;;Reino de;;;;;;;;;x
+duchy_of_monarchist;Duchy of;Duché de;Herzogtum;;Ducado de;;;;;;;;;x
+county_of_monarchist;County of;Comté de;Grafschaft;;Condado de;;;;;;;;;x
+barony_of_monarchist;Barony of;Baronnie de;Baronie;;Baronía de;;;;;;;;;x
+
+emperor_german;Führer;;;;;;;;;;;;x
+emperor_german_female;Führerin;;;;;;;;;;;;x
+empire_of;Greater Reich of;;;;;;;;;;;;x
+king_german;Führer;;;;;;;;;;;;x
+king_german_female;Führerin;;;;;;;;;;;;x
+kingdom_of;Reich of;;;;;;;;;;;;x
+duke_german;Reichskommissar;;;;;;;;;;;;x
+duke_german_female;Reichskommisarin;;;;;;;;;;;;x
+duchy_of;Reichskommissariat;;;;;;;;;;;;x
+count_german;Protektor;;;;;;;;;;;;x
+count_german_female;Protektor;;;;;;;;;;;;x
+county_of;Reichsprotektorat;;;;;;;;;;;;x
+
+emperor_english_monarchist;King-Emperor;;;;;;;;;;;;x
+emperor_female_english_monarchist;Queen-Empress;;;;;;;;;;;;x
+empire_of_english;Kingdom of;;;;;;;;;;;;x
+count_english_monarchist;Earl;Earl;Earl;;Conde;;;;;;;;;x
+count_scottish_monarchist;Earl;Earl;Earl;;Conde;;;;;;;;;x
+count_irish_monarchist;Earl;Earl;Earl;;Conde;;;;;;;;;x
+emperor_german_monarchist;Kaiser;Kaiser;Kaiser;;Káiser;;;;;;;;;x
+emperor_female_german_monarchist;Kaiserin;Kaiserin;Kaiserin;;Emperatriz;;;;;;;;;x
+duke_greek_monarchist;Doux;Doux;Doux;;Duque;;;;;;;;;x
+king_greek_monarchist;Despot;Despote;Despot;;Déspota;;;;;;;;;x
+emperor_greek_monarchist;Basileus;Basileus;Basileus;;Basileus;;;;;;;;;x
+emperor_russian_monarchist;Tsar;Tsar;Zar;;Zar;;;;;;;;;x
+emperor_female_russian_monarchist;Tsaritsa;Tsarine;Zarin;;Zarina;;;;;;;;;x
+baron_arabic_monarchist;Wâli;Wâli;Wâli;;Valí;;;;;;;;;x
+barony_of_arabic_monarchist;Wilayah of;Wilaya de;Wilayah von;;Vilayato de;;;;;;;;;x
+count_arabic_monarchist;Sheikh;Cheik;Scheich;;Jeque;;;;;;;;;x
+county_of_arabic_monarchist;Sheikhdom of;Cheikat de;Scheichtum von;;Dominio del Jeque;;;;;;;;;x
+duke_arabic_monarchist;Emir;Émir;Emir;;Emir;;;;;;;;;x
+duke_female_arabic_monarchist;Emira;Émira;Emirin;;Emira;;;;;;;;;x
+duchy_of_arabic_monarchist;Emirate of;Émirat de;Emirat von;;Emirato de;;;;;;;;;x
+king_arabic_monarchist;Sultan;Sultan;Sultan;;Sultán;;;;;;;;;x
+king_female_arabic_monarchist;Sultana;Sultane;Sultana;;Sultana;;;;;;;;;x
+kingdom_of_arabic_monarchist;Sultanate of;Sultanat de;Sultanat von;;Sultanato de;;;;;;;;;x
+
+# Foas/Deeds
+emperor_foa;Your Imperial Majesty;Votre Majesté Impériale;Eure Kaiserliche Majestät;;Su Majestad Imperial;;;;;;;;;x
+king_foa;Your Majesty;Votre Majesté;Eure Majestät;;Su Majestad  ;;;;;;;;;x
+duke_foa;Your Grace;Votre Grâce;Euer Gnaden;;Su Gracia;;;;;;;;;x
+count_foa;My Lord;Monseigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+baron_foa;My Lord;Mon Seigneur;Mein Fürst;;Mi Señor;;;;;;;;;x
+count_foa_female;My Lady;Madame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+baron_foa_female;My Lady;Ma Dame;Meine Fürstin;;Mi Señora;;;;;;;;;x
+emperor_deed;Crown of;Couronne de;Krone von;;Corona de;;;;;;;;;x
+king_deed;Crown of;Couronne de;Krone von;;Corona de;;;;;;;;;x
+duke_deed;Crown of;Couronne de;Krone von;;Corona de;;;;;;;;;x
+count_deed;Crown of;Couronne de;Krone von;;Corona de;;;;;;;;;x
+baron_deed;Crown of;Couronne de;Krone von;;Corona de;;;;;;;;;x
+
+### THEOCRATIC ###
+temple_emperor;Project Lead;;;;;;;;;;;;x
+temple_empire_of;Project;;;;;;;;;;;;x
+temple_king;Director;;;;;;;;;;;;x
+temple_king_female;Director;;;;;;;;;;;;x
+temple_kingdom_of;Directorate of;;;;;;;;;;;;x
+temple_duke;Head Scientist;;;;;;;;;;;;x
+temple_duke_female;Head Scientist;;;;;;;;;;;;x
+temple_duchy_of;ANSI of;;;;;;;;;;;;x
+temple_count;Researcher;;;;;;;;;;;;x
+temple_count_female;Researcher;;;;;;;;;;;;x
+temple_county_of;Facility of;;;;;;;;;;;;x
+temple_baron;Scientist;;;;;;;;;;;;x
+temple_baron_female;Scientist;;;;;;;;;;;;x
+temple_barony_of;Lab of;;;;;;;;;;;;x
+
+# Foas/Deeds
+temple_king_foa;Respected Scientist;;;;;;;;;;;;;x
+temple_king_foa;Respected Scientist;;;;;;;;;;;;;x
+temple_duke_foa;Respected Scientist;;;;;;;;;;;;;x
+
+### DEMOCRATIC ###
+city_emperor;President;;;;;;;;;;;;;x
+city_emperor_female;President;;;;;;;;;;;;x
+city_empire_of;Federal Republic of;;;;;;;;;;;;x
+city_king;President;;;;;;;;;;;;;x
+city_king_female;President;;;;;;;;;;;;x
+city_kingdom_of;Republic;;;;;;;;;;;;x
+city_duke;Governor;;;;;;;;;;;;x
+city_duke_female;Governess;;;;;;;;;;;;x
+city_duchy_of;Governate of;;;;;;;;;;;;x
+city_count;Mayor;;;;;;;;;;;;x
+city_count_female;Mayoress;;;;;;;;;;;;x
+city_county_of;Settlement of;;;;;;;;;;;;x
+city_baron;Leader;;;;;;;;;;;;x
+city_baron_female;Leader;;;;;;;;;;;;x
+city_barony_of;Camp;;;;;;;;;;;;x
+
+# Foas/Deeds
+city_emperor_foa;Mr President;;;;;;;;;;;;x
+city_emperor_foa_female;Madame President;;;;;;;;;;;;x
+city_king_foa;Mr President;;;;;;;;;;;;x
+city_king_foa_female;Madame President;;;;;;;;;;;;x
+city_duke_foa;Your honour;Votre Honneur;Euer Ehren;;Su Honor;;;;;;;;;x
+city_emperor_deed;Presidency of;;;;;;;;;;;;x
+city_king_deed;Presidency of;;;;;;;;;;;;;x
+city_duke_deed;Governancy of;;;;;;;;;;;;;x
+city_count_deed;Mayorship of;;;;;;;;;;;;;x
+city_baron_deed;Leadership of;;;;;;;;;;;;;x
+
+### MISC ###
+empires;Empires;Empires;Reiche;;Imperios;;;;;;;;;x
+kingdoms;Kingdoms;Royaumes;Königreiche;;Reinos;;;;;;;;;x
+duchies;Duchies;Duchés;Herzogtümer;;Ducados;;;;;;;;;x
+counties;Counties;Comtés;Grafschaften;;Condados;;;;;;;;;x
+baronies;Baronies;Baronnies;Baronien;;Baronías;;;;;;;;;x

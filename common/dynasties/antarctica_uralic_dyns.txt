@@ -1,0 +1,209 @@
+###############################
+ Uralic dyns: 1051-1110
+###############################
+	
+# Finnish Dynasties
+1051 = {
+	name = "Bottas"
+	culture = "finnish"
+}
+1052 = {
+	name = "Hayha"
+	culture = "finnish"
+}
+1053 = {
+	name = "Mannerheim"
+	culture = "finnish"
+}
+1054 = {
+	name = "Korhonen"
+	culture = "finnish"
+}
+1055 = {
+	name = "Virtanen"
+	culture = "finnish"
+}
+1056 = {
+	name = "Mäkinen"
+	culture = "finnish"
+}
+1057 = {
+	name = "Nieminen"
+	culture = "finnish"
+}
+1058 = {
+	name = "Räikkönen"
+	culture = "finnish"
+}
+1059 = {
+	name = "Hämäläinen"
+	culture = "finnish"
+}
+1060 = {
+	name = "Laine"
+	culture = "finnish"
+}
+1061 = {
+	name = "Heikkinen"
+	culture = "finnish"
+}
+1062 = {
+	name = "Koskinen"
+	culture = "finnish"
+}
+1063 = {
+	name = "Järvinen"
+	culture = "finnish"
+}
+1064 = {
+	name = "Hietakangas"
+	culture = "finnish"
+}
+1065 = {
+	name = "Hirvisalo"
+	culture = "finnish"
+}
+1066 = {
+	name = "Isotalo"
+	culture = "finnish"
+}
+1067 = {
+	name = "Parhaniemi"
+	culture = "finnish"
+}
+1068 = {
+	name = "Pyöriasaari"
+	culture = "finnish"
+}
+1069 = {
+	name = "Kalliokoski"
+	culture = "finnish"
+}
+1070 = {
+	name = "Wuorijärvi"
+	culture = "finnish"
+}
+
+# Hungarian Dynasties
+1071 = {
+	name = "Nagy"
+	culture = "hungarian"
+}
+1072 = {
+	name = "Kovács"
+	culture = "hungarian"
+}
+1073 = {
+	name = "Tóth"
+	culture = "hungarian"
+}
+1074 = {
+	name = "Szabó"
+	culture = "hungarian"
+}
+1075 = {
+	name = "Horváth"
+	culture = "hungarian"
+}
+1076 = {
+	name = "Varga"
+	culture = "hungarian"
+}
+1077 = {
+	name = "Kiss"
+	culture = "hungarian"
+}
+1078 = {
+	name = "Molnár"
+	culture = "hungarian"
+}
+1079 = {
+	name = "Németh"
+	culture = "hungarian"
+}
+1080 = {
+	name = "Farkas"
+	culture = "hungarian"
+}
+1081 = {
+	name = "Balogh"
+	culture = "hungarian"
+}
+1082 = {
+	name = "Papp"
+	culture = "hungarian"
+}
+1083 = {
+	name = "Takács"
+	culture = "hungarian"
+}
+1084 = {
+	name = "Juhász"
+	culture = "hungarian"
+}
+1085 = {
+	name = "Lakatos"
+	culture = "hungarian"
+}
+1086 = {
+	name = "Mészáros"
+	culture = "hungarian"
+}
+1087 = {
+	name = "Simon"
+	culture = "hungarian"
+}
+1088 = {
+	name = "Oláh"
+	culture = "hungarian"
+}
+1089 = {
+	name = "Fekete"
+	culture = "hungarian"
+}
+1090 = {
+	name = "Rácz"
+	culture = "hungarian"
+}
+
+# Estonian Dynasties
+1091 = {
+	name = "Tamm"
+	culture = "estonian"
+}
+1092 = {
+	name = "Saar"
+	culture = "estonian"
+}
+1093 = {
+	name = "Ivanov"
+	culture = "estonian"
+}
+1094 = {
+	name = "Kask"
+	culture = "estonian"
+}
+1095 = {
+	name = "Kukk"
+	culture = "estonian"
+}
+1096 = {
+	name = "Sepp"
+	culture = "estonian"
+}
+1097 = {
+	name = "Rebane"
+	culture = "estonian"
+}
+1098 = {
+	name = "Kuusk"
+	culture = "estonian"
+}
+1099 = {
+	name = "Mägi"
+	culture = "estonian"
+}
+1100 = {
+	name = "Lepp"
+	culture = "estonian"
+}

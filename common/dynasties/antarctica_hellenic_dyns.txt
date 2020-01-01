@@ -1,0 +1,205 @@
+###############################
+ Hellenic dyns: 1651-1750
+###############################
+
+# Greek Dynasties
+1651 = {
+	name = "Papadopoulos"
+	culture = "greek"
+}
+1652 = {
+	name = "Loukas"
+	culture = "greek"
+}
+1653 = {
+	name = "Papageorgiou"
+	culture = "greek"
+}
+1654 = {
+	name = "Oikonomou"
+	culture = "greek"
+}
+1655 = {
+	name = "Papadimitriou"
+	culture = "greek"
+}
+1656 = {
+	name = "Georgiou"
+	culture = "greek"
+}
+1657 = {
+	name = "Doukas"
+	culture = "greek"
+}
+1658 = {
+	name = "Pappas"
+	culture = "greek"
+}
+1659 = {
+	name = "Vasileiou"
+	culture = "greek"
+}
+1660 = {
+	name = "Nikolaou"
+	culture = "greek"
+}
+1661 = {
+	name = "Karagiannis"
+	culture = "greek"
+}
+1662 = {
+	name = "Vlachos"
+	culture = "greek"
+}
+1663 = {
+	name = "Antoniou"
+	culture = "greek"
+}
+1664 = {
+	name = "Makris"
+	culture = "greek"
+}
+1665 = {
+	name = "Papanikolaou"
+	culture = "greek"
+}
+1666 = {
+	name = "Dimitriou"
+	culture = "greek"
+}
+1667 = {
+	name = "Ioannidis"
+	culture = "greek"
+}
+1668 = {
+	name = "Georgiadis"
+	culture = "greek"
+}
+1669 = {
+	name = "Triantafyllou"
+	culture = "greek"
+}
+1670 = {
+	name = "Papadakis"
+	culture = "greek"
+}
+1671 = {
+	name = "Athanasiou"
+	culture = "greek"
+}
+1672 = {
+	name = "Konstantinidis"
+	culture = "greek"
+}
+1673 = {
+	name = "Ioannou"
+	culture = "greek"
+}
+1674 = {
+	name = "Alexiou"
+	culture = "greek"
+}
+1675 = {
+	name = "Christodoulou"
+	culture = "greek"
+}
+1676 = {
+	name = "Theodorou"
+	culture = "greek"
+}
+1677 = {
+	name = "Giannopoulos"
+	culture = "greek"
+}
+1678 = {
+	name = "Nikolaidis"
+	culture = "greek"
+}
+1679 = {
+	name = "Konstantinou"
+	culture = "greek"
+}
+1680 = {
+	name = "Panagiotopoulos"
+	culture = "greek"
+}
+1681 = {
+	name = "Michailidis"
+	culture = "greek"
+}
+1682 = {
+	name = "Papakonstantinou"
+	culture = "greek"
+}
+1683 = {
+	name = "Papathanasiou"
+	culture = "greek"
+}
+1684 = {
+	name = "Antonopoulos"
+	culture = "greek"
+}
+1685 = {
+	name = "Dimopoulos"
+	culture = "greek"
+}
+1686 = {
+	name = "Karagianni"
+	culture = "greek"
+}
+1687 = {
+	name = "Anastasiou"
+	culture = "greek"
+}
+1688 = {
+	name = "Dimitriadis"
+	culture = "greek"
+}
+1689 = {
+	name = "Pappa"
+	culture = "greek"
+}
+1690 = {
+	name = "Vlachou"
+	culture = "greek"
+}
+1691 = {
+	name = "Vasileiadis"
+	culture = "greek"
+}
+1692 = {
+	name = "Giannakopoulos"
+	culture = "greek"
+}
+1693 = {
+	name = "Angelopoulos"
+	culture = "greek"
+}
+1694 = {
+	name = "Dimou"
+	culture = "greek"
+}
+1695 = {
+	name = "Ioannidou"
+	culture = "greek"
+}
+1696 = {
+	name = "Nikolopoulos"
+	culture = "greek"
+}
+1697 = {
+	name = "Mylonas"
+	culture = "greek"
+}
+1698 = {
+	name = "Stergiou"
+	culture = "greek"
+}
+1699 = {
+	name = "Apostolou"
+	culture = "greek"
+}
+1700 = {
+	name = "Petropoulos"
+	culture = "greek"
+}

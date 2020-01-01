@@ -1,8 +1,7 @@
 ### Antarctica - Religions' Localisation File ###
 
-
-POLITICIAN;Politician;;;;;;;;;;;;x
-democractic;Democractic;;;;;;;;;;;;x
+SCIENTIST;Scientist;;;;;;;;;;;;x
+democratic_grp;Democractic;;;;;;;;;;;;x
 SPREAD_DEMOCRACY;War to Spread Democracy;;;;;;;;;;;;x
 THE_CONSTITUTION;The Constitution;;;;;;;;;;;;x
 VAL_SOLIDARITY;Solidarity;;;;;;;;;;;;x
@@ -62,6 +61,204 @@ VAL_FREE_MARKET;Free Market;;;;;;;;;;;;x
 VAL_CIVIL_DISOBEDIENCE;Civil Disobedience;;;;;;;;;;;;x
 libertarian;Libertarian;;;;;;;;;;;;x
 libertarian_full;Libertarian;;;;;;;;;;;;x
-libertarian_DESC;;;;;;;;;;;;;x
-LIBERTARIANISM
-
+libertarian_DESC;Libertarianism, or libertarism, is a collection of political philosophies and movements that uphold liberty as a core principle. Libertarians seek to maximize political freedom and autonomy, emphasizing freedom of choice, voluntary association and individual judgement. Libertarians share a skepticism of authority and state power, but they diverge on the scope of their opposition to existing economic and political systems.\n;;;;;;;;;;;;x
+LIBERTARIANISM;Libertarianism;;;;;;;;;;;;x
+THINKING_GREEN;Thinking Green!;;;;;;;;;;;;x
+VAL_ECOLOGICAL_WISDOM;Ecological Wisdom;;;;;;;;;;;;x
+VAL_GRASSROOTS_DEMOCRACY;Grassroots Democracy;;;;;;;;;;;;x
+VAL_NONVIOLENCE;Nonviolence;;;;;;;;;;;;x
+green;Green;;;;;;;;;;;;x
+green_full;Green;;;;;;;;;;;;x
+green_DESC;Green politics, or ecopolitics, is a political ideology that aims to foster an ecologically sustainable society rooted in environmentalism, nonviolence, social justice and grassroots democracy.\n;;;;;;;;;;;;x
+GREEN_POLITICS;Green Politics;;;;;;;;;;;;x
+## AUTHORITARIAN ##
+authoritarian_grp;Authoritarian;;;;;;;;;;;;x
+INSTALL_MONARCHY;War to install monarchy;;;;;;;;;;;;x
+THE_HISTORIES;The Histories;;;;;;;;;;;;x
+VAL_DIVINE_RIGHT;Divine Right;;;;;;;;;;;;x
+VAL_DIRECT_ACTION;Direct Action;;;;;;;;;;;;x
+VAL_FEUDALISM;Feudalism;;;;;;;;;;;;x
+VAL_HEIRARCHAL_SOCIETY;Hierarchal Society;;;;;;;;;;;;x
+monarchist;Monarchist;;;;;;;;;;;;x
+monarchist_full;Monarchist;;;;;;;;;;;;x
+monarchist_DESC;Monarchism is the advocacy of monarchy or monarchical rule. A monarchist is an individual who supports this form of government and is therefore is a royalist. Monarchical rule is among the oldest political institutions. Monarchy has often claimed legitimacy from a higher power (in early modern Europe the divine right of kings, and in China the Mandate of Heaven).\n;;;;;;;;;;;;x
+MONARCHISM;Monarchism;;;;;;;;;;;;x
+THE_DOCTRINE_OF_FASCISM;The Doctrine of Fascism;;;;;;;;;;;;x
+SPREAD_FASCISM;War to spread fascism;;;;;;;;;;;;x
+VAL_AUTOCRATIC_MILITARISM;Autocratic Militarism;;;;;;;;;;;;x
+VAL_ANTI_DEMOCRACY;Anti-Democracy;;;;;;;;;;;;x
+VAL_SOCIAL_ORDER;Social Order;;;;;;;;;;;;x
+VAL_INVERVENTIONISM;Interventionism;;;;;;;;;;;;x
+VAL_PROTECTIONISM;Protectionism;;;;;;;;;;;;x
+VAL_INDOCTRINATION;Indoctrination;;;;;;;;;;;;x
+fascist;Fascist;;;;;;;;;;;x
+fascist_full;Fascist;;;;;;;;;;;x
+fascist_DESC;Fascism is a form of far-right, authoritarian ultranationalism characterized by dictatorial power, forcible suppression of opposition, and strong regimentation of society and of the economy which came to prominence in early 20th-century Europe.\n;;;;;;;;;;;x
+FASCISM;Fascism;;;;;;;;;;;;x
+MEIN_KAMPF;Mein Kampf;;;;;;;;;;;;x
+GENOCIDAL_COLONISATION;Genocidal Colonisation;;;;;;;;;;;;x
+VAL_SCIENTIFIC_RACISM;Scientific Racism;;;;;;;;;;;;x
+VAL_ANTI_SEMITISM;Antisemitism;;;;;;;;;;;;x
+VAL_ANTI_COMMUNISM;Anti-Communism;;;;;;;;;;;;x
+VAL_LEBENSRAUM;Lebensraum;;;;;;;;;;;;x
+VAL_FANATIC_MILITARISM;Fanatic Militarism;;;;;;;;;;;;x
+VAL_FUHRERPRINZIP;Führerprinzip;;;;;;;;;;;;x
+national_socialist;National Socialist;;;;;;;;;;;;x
+national_socialist_full;National Socialist;;;;;;;;;;;;x
+national_socialist_DESC;National Socialism is a form of fascism that shows disdain for liberal democracy and the parliamentary system, but also incorporates fervent antisemitism, anti-communism, scientific racism, and eugenics into its creed.;;;;;;;;;;;;x
+NATIONAL_SOCIALISM;National Socialism;;;;;;;;;;;;x
+WRITINGS_OF_DRESSLER;Dressler's Writings;;;;;;;;;;;;x
+valkist;Valkist;;;;;;;;;;;;x
+valkist_full;Valkist;;;;;;;;;;;;x
+valkist_DESC;Valkism is an authoritarian ultra-nationalist political ideology, that proposes a system where the political power is centralised under a strong leader that, with the state in a totalitarian system, controls and guides the nation. Nonetheless, Valkists fundamentally defend socially progressive ideals and the leader grants liberties to the people.\n;;;;;;;;;;;;x
+VAL_CULTURAL_SUPREMACY;Cultural Supremacy;;;;;;;;;;;;x
+VAL_ANTI_CAPITALISM;Anti-Capitalism;;;;;;;;;;;;x
+VAL_ULTRANATIONALIST;Ultranationalism;;;;;;;;;;;;x
+VAL_TOTALITARIANISM;Totalitarianism;;;;;;;;;;;;x
+VAL_PROGRESSIVISM;Progressive Initiatives;;;;;;;;;;;;x
+VAL_COOPERATIVE_ECONOMIC_SYSTEM;Cooperative Economic System;;;;;;;;;;;;x
+VALKISM;Valkism;;;;;;;;;;;;x
+BRAINWASH;War of Assimilation;;;;;;;;;;;;x
+THREAT_OF_ALGOCRACY;Threat of Algocracy;;;;;;;;;;;;x
+RESEARCH_DRONE;Research Drone;;;;;;;;;;;;x
+algocratic;Algocratic;;;;;;;;;;;;x
+algocratic_full;Algocratic;;;;;;;;;;;;x
+algocratic_DESC;Algocratism is the political ideology that constiutes a algocratic form of governance. Essentially what is 'rule by algorithm', it is the belief that all human issues can be and should be solved using artifical intelligence.\n;;;;;;;;;;;;x
+VAL_RULE_BY_ALGORITHM;Rule by Algorithm;;;;;;;;;;;;x
+VAL_CONSTRAINT_OF_HUMAN_BEHAVIOUR;Constraint of Human Behaviour;;;;;;;;;;;;x
+VAL_COLLECTIVE_HIVEMIND;Collective Hivemind;;;;;;;;;;;;x
+VAL_CALCULATED_AMBIVILENCE;Calculated Ambivilence;;;;;;;;;;;;x
+ALL_OTHER_IDEOLOGIES;All other ideologies;;;;;;;;;;;;x
+ALGOCRACY;Algocracy;;;;;;;;;;;;x
+INCORPORATION;Incorporation;;;;;;;;;;;;x
+CHARTER_OF_CARNARO;Charter of Carnaro;;;;;;;;;;;;x
+BUSINESS_ANALYST;Business Analyst;;;;;;;;;;;;x
+corporate;Corporate;;;;;;;;;;;;x
+corporate_full;Corporate;;;;;;;;;;;;x
+corporate_DESC;Corporatism is a political ideology which advocates the organization of society by corporate groups, such as agricultural, labour, military, scientific, or guild associations on the basis of their common interests. The term is derived from the Latin corpus, or "human body". The hypothesis that society will reach a peak of harmonious functioning when each of its divisions efficiently performs its designated function, such as a body's organs individually contributing its general health and functionality, lies at the center of corporatist theory.\n;;;;;;;;;;;;x
+VAL_EFFICIENCY;Efficiency;;;;;;;;;;;;x
+VAL_GENERATION_OF_PROFIT;Profit Generation;;;;;;;;;;;;x
+VAL_WAGE_SLAVERY;Wage Slavery;;;;;;;;;;;;x
+VAL_UTILITARIANISM;Utilitarianism;;;;;;;;;;;;x
+CORPORATISM;Corporatism;;;;;;;;;;;;x
+## POPULIST ##
+populist_grp;Populist;;;;;;;;;;;;x
+REVOLUTIONARY_WAR;Revolutionary War;;;;;;;;;;;;x
+PEOPLES_CHARTER;People's Charter;;;;;;;;;;;;x
+radical;Radical;;;;;;;;;;;;x
+radical_full;Radical;;;;;;;;;;;;x
+radical_DESC;Radicalism consists primarily of political principles focused on altering social structures through revolutionary or other means and changing value systems in fundamental ways. Essentially, extreme progressives in their own way.\n;;;;;;;;;;;;x
+VAL_RADICAL_REFORM;Radical Reform;;;;;;;;;;;;x
+VAL_CIVIC_NATIONALISM;Civic Nationalism;;;;;;;;;;;;x
+VAL_REPUBLICANISM;Republicanism;;;;;;;;;;;;x
+VAL_FREEDOM_OF_PRESS;Freedom of Press;;;;;;;;;;;;x
+RADICALISM;Radicalism;;;;;;;;;;;;x
+CULTURAL_WAR;Cultural War;;;;;;;;;;;;x
+TREATISE_ON_THE_ORIGIN_OF_LANGUAGE;Treatise on the Origin of Langauge;;;;;;;;;;;;x
+VAL_NATIONAL_IDENTITY;National Identity;;;;;;;;;;;;x
+VAL_NATIONAL_UNITY;National Unity;;;;;;;;;;;;x
+VAL_SELF_DETERMINATION;Self Determination;;;;;;;;;;;;x
+VAL_AUTONOMY;Autonomy;;;;;;;;;;;;x
+nationalist;Nationalist;;;;;;;;;;;;x
+nationalist_full;Nationalist;;;;;;;;;;;;x
+nationalist_DESC;Nationalism is an ideology and movement that promotes the interests of a particular nation especially with the aim of gaining and maintaining the nation's sovereignty over its homeland. Nationalism holds that each nation should govern itself, free from outside interference, that a nation is a natural and ideal basis for a polity, and that the nation is the only rightful source of political power.\n;;;;;;;;;;;;x
+NATIONALISM;Nationalism;;;;;;;;;;;;x
+COMMUNIST_MANIFESTO;The Communist Manifesto;;;;;;;;;;;;x
+communist;Communist;;;;;;;;;;;;x
+communist_full;Communist;;;;;;;;;;;;x
+communist_DESC;Communism is a philosophical, social, political, and economic ideology and movement whose ultimate goal is the establishment of a communist society, which is a socioeconomic order structured upon the ideas of common ownership of the means of production and the absence of social classes, money, and the state. It includes a variety of schools of thought, which broadly include Marxism and social anarchism (anarcho-communism), as well as the political ideologies grouped around both. All of these share the analysis that the current order of society stems from its economic system, capitalism, and that in this system there are two major social classes and the conflict between these two classes is the root of all problems in society, and that this situation will ultimately be resolved through a social revolution.\n;;;;;;;;;;;;x
+VAL_COLLECTIVE_OWNERSHIP_OF_THE_MEANS_OF_PRODUCTION;Collective Ownership of the Means of Production;;;;;;;;;;;;x
+VAL_CLASS_STRUGGLE;Class Struggle;;;;;;;;;;;;x
+VAL_PLANNED_ECONOMY;Planned Economy;;;;;;;;;;;;x
+VAL_WORLD_REVOLUTION;World Revolution;;;;;;;;;;;;x
+COMMUNISM;Communism;;;;;;;;;;;;x
+stalinist;Stalinist;;;;;;;;;;;;x
+stalinist_full;Stalinist;;;;;;;;;;;;x
+stalinist_DESC;Stalinism is the means of governing and related policies implemented from 1927 to 1953 by Joseph Stalin. Stalinist policies and ideas that were developed in the Soviet Union included rapid industrialization, the theory of socialism in one country, a totalitarian state, collectivization of agriculture, a cult of personality and subordination of the interests of foreign communist parties to those of the Communist Party of the Soviet Union, deemed by Stalinism to be the leading vanguard party of communist revolution at the time.\n;;;;;;;;;;;;x
+VAL_SOCIALISM_IN_ONE_COUNTRY;Socialism in One Country;;;;;;;;;;;;x
+VAL_RAPID_INDUSTRIALISATION;Rapid Industrialisation;;;;;;;;;;;;x
+VAL_TOTALITARIANISM;Totalitarianism;;;;;;;;;;;;x
+VAL_COLLECTIVISATION_OF_AGRICULTURE;Collectivisation of Agriculture;;;;;;;;;;;;x
+VAL_PERSONALITY_CULT;Personality Cult;;;;;;;;;;;;x
+STALINISM;Stalinism;;;;;;;;;;;;x
+WAR_TO_DISMANTLE_GOVERNMENT;War to Dismantle Government;;;;;;;;;;;;x
+POLITICAL_JUSTICE;Political Justice;;;;;;;;;;;;x
+VAL_STATELESS_SOCIETY;Stateless Society;;;;;;;;;;;;x
+VAL_FREE_ASSOCIATION;Free Association;;;;;;;;;;;;x
+VAL_SELF_MANAGEMENT;Management;;;;;;;;;;;;x
+VAL_MUTUALISM;Mutualism;;;;;;;;;;;;x
+VAL_PARTICIPATORY_ECONOMICS;Participatory Economics;;;;;;;;;;;;x
+anarchist;Anarchist;;;;;;;;;;;;x
+anarchist_full;Anarchist;;;;;;;;;;;;x
+anarchist_DESC;Anarchism is an anti-authoritarian political and social philosophy that rejects hierarchies deemed unjust and advocates their replacement with self-managed, self-governed societies based on voluntary, cooperative institutions. These institutions are often described as stateless societies.\n;;;;;;;;;;;;x
+ANARCHISM;Anarchism;;;;;;;;;;;;x
+VAL_DEINDUSTRIALISATION;Deindustrialisation;;;;;;;;;;;;x
+VAL_SIMPLE_LIVING;Simple Living;;;;;;;;;;;;x
+VAL_SELF_SUFFICIENCY;Self-Sufficiency;;;;;;;;;;;;x
+VAL_NATURISM;Naturism;;;;;;;;;;;;x
+VAL_CLASSLESS_SOCIETY;Classless Society;;;;;;;;;;;;x
+VAL_HUNTER_GATHER_LIFESTYLE;Hunter-Gatherer Lifestyle;;;;;;;;;;;;x
+primitive;Primitive;;;;;;;;;;;;x
+primitive_full;Anarcho-primitivist;;;;;;;;;;;;x
+primitive_DESC;Anarcho-primitivism, or primitivism for short, is an anarchist critique of the origins and progress of civilization. According to anarcho-primitivism, the shift from hunter-gatherer to agricultural subsistence gave rise to social stratification, coercion, alienation, and overpopulation. Hence, they advocate a return of non-"civilized" ways of life through deindustrialization, abolition of the division of labour or specialisation, and abandonment of large-scale organisation technologies.\n;;;;;;;;;;;;x
+PRIMITIVISM;Primitivism;;;;;;;;;;;;x
+WORKERS_UPRISING;Worker's Uprising;;;;;;;;;;;;x
+BLACK_FLAME;Black Flame;;;;;;;;;;;;x
+THE_INDUSTRIAL_SYSTEM;The Industrial System;;;;;;;;;;;;x
+VAL_COLLECTIVE_OWNERSHIP;Collective Ownership;;;;;;;;;;;;x
+VAL_EQUAL_OPPORTUNITY;Equal Opportunity;;;;;;;;;;;;x
+VAL_CALCULATION_IN_KIND;Calculation in Kind;;;;;;;;;;;;x
+syndicalist;Syndicalist;;;;;;;;;;;;x
+syndicalist_full;Syndicalist;;;;;;;;;;;;x
+syndicalist_DESC;Syndicalism, or more formally Revolutionary Syndicalism, is a loosely defined political ideology that aims to overthrow capitalism by coordinated actions conducted by industrial workers. The basic political unit of syndicalism is a federations of collectivized trade unions, known as a syndicate.\n;;;;;;;;;;;;x
+SYNDICALISM;Syndicalism;;;;;;;;;;;;x
+VAL_TRADE_UNIONS;Trade Unions;;;;;;;;;;;;x
+socialist;Socialist;;;;;;;;;;;;x
+socialist_full;Socialist;;;;;;;;;;;;x
+socialist_DESC;Socialism is a range of economic and social systems characterised by social ownership of the means of production and workers' self-management as well as the political theories and movements associated with them.\n;;;;;;;;;;;;x
+SOCIALISM;Socialism;;;;;;;;;;;;x
+PERONIST_PHILOSOPHY;Peronist Philosophy;;;;;;;;;;;;x
+justicial;Justicial;;;;;;;;;;;;x
+justicial_full;Justicial;;;;;;;;;;;;x
+justicial_DESC;Peronism or justicialism is an Argentine political movement based on the ideas and legacy of Argentine president Juan Perón. It has been an influential movement in Argentine politics since 1946, with Peronists winning most presidential elections in which they have been allowed to run. The policies of Peronist presidents have differed greatly, but the general ideology has been described as "a vague blend of nationalism and labourism", "populism", "Fascism", or "right-wing socialism".\n;;;;;;;;;;;;x
+VAL_POPULAR_DEMOCRACY;Popular Democracy;;;;;;;;;;;;x
+VAL_ANTI_IMPERIALISM;Anti-Imperialism;;;;;;;;;;;;x
+VAL_ANTI_ESTABLISHMENT;Anti-Establishment;;;;;;;;;;;;x
+JUSTICIALISM;Justicialism;;;;;;;;;;;;x
+## NEUTRAL/UNALLIGNED ##
+INDEPENDENT_NATION;Independent Nation;;;;;;;;;;;;x
+neutral_grp;Neutral;;;;;;;;;;;;x
+centrist;Centrist;;;;;;;;;;;;x
+centrist_full;Centrist;;;;;;;;;;;;x
+centrist_DESC;In politics, centrism is a political outlook or specific position that involves acceptance or support of a balance of a degree of social equality and a degree of social hierarchy, while opposing political changes which would result in a significant shift of society strongly to either the left or the right.\n;;;;;;;;;;;;x
+VAL_POLITICAL_BALANCE;Political Balance;;;;;;;;;;;;x
+VAL_SOCIAL_EQUALITY;Social Equality;;;;;;;;;;;;x
+VAL_SOCIAL_HIERARCHY;Social Hierarchy;;;;;;;;;;;;x
+CENTRISM;Centrism;;;;;;;;;;;;x
+THE_DARK_ENLIGHTENMENT;The Dark Enlightenment;;;;;;;;;;;;x
+VAL_STATUS_QUO;the Old Status Quo;;;;;;;;;;;;x
+VAL_EXTREME_CONSERVATISM;Extreme Conservatism;;;;;;;;;;;;x
+VAL_ANTI_REVOLUTIONARY;Anti-Revolutionary;;;;;;;;;;;;x
+reactionary;Reactionary;;;;;;;;;;;;x
+reactionary_full;Reactionary;;;;;;;;;;;;x
+reactionary_DESC;In political science, a reactionary can be defined as a person or entity holding political views that favour a return to a previous political state of society that they believe possessed characteristics that are negatively absent from the contemporary status quo of a society. As an adjective, the word reactionary describes points of view and policies meant to restore a past status quo.\n;;;;;;;;;;;;x
+REACTIONARISM;Reactionarism;;;;;;;;;;;;x
+unalligned_grp;Unalligned;;;;;;;;;;;;x
+none;;;;;;;;;;;;;x
+NONE;;;;;;;;;;;;;x
+NOONE;;;;;;;;;;;;;x
+VAL_NOTHING;;;;;;;;;;;;;x
+GOD_NONE;;;;;;;;;;;;;x
+islamist;Islamist;;;;;;;;;;;;x
+islamist_full;Islamist;;;;;;;;;;;;x
+islamist_DESC;Islamic fundamentalism (in-game simplified to Islamism) has been defined as a movement of Muslims who regard earlier times favorably and seek to return to the fundamentals of the Islamic religion and live similarly to how the Islamic prophet Muhammad and his companions lived. Islamic fundamentalists favor "a literal and originalist interpretation" of the primary sources of Islam (the Quran and Sunnah), seek to eliminate "corrupting" non-Islamic influences from every part of their lives and see "Islamic fundamentalism" as a pejorative term used by outsiders for Islamic revivalism and Islamic activism.\n;;;;;;;;;;;;x
+THE_QURAN;The Quran;;;;;;;;;;;;x
+SCHOLAR;Scholar;;;;;;;;;;;;x
+VAL_ISLAMIC_FUNDEMENTALISM;Islamic Fundementalism;;;;;;;;;;;;x
+VAL_SALAFISM;Salafism;;;;;;;;;;;;x
+VAL_QUTBISM;Qutbism;;;;;;;;;;;;x
+VAL_CALIPHATE;Idea of Caliphate;;;;;;;;;;;;x
+VAL_PAN_ISLAMISM;Pan-Islamism;;;;;;;;;;;;x
+VAL_SHARIA_LAW;Sharia Law;;;;;;;;;;;;x
+VAL_RELIGIOUS_STRUGGLE;Religious Struggle;;;;;;;;;;;;x
+ISLAMISM;Islamism;;;;;;;;;;;;x

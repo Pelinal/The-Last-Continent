@@ -1,3 +1,7 @@
+###############################
+ Iberian dyns: 1-450
+###############################
+
 # Basque Dynasties
 1 = {
 	name = "Agirre"
@@ -50,7 +54,7 @@
 }
 
 11 = {
-	name = "LardizÃ¡bal"
+	name = "Lardizábal"
 	culture = "basque"
 }
 
@@ -115,7 +119,7 @@
 }
 
 24 = {
-	name = "TorrÃ³ntegui"
+	name = "Torróntegui"
 	culture = "basque"
 }
 
@@ -166,7 +170,7 @@
 }
 
 34 = {
-	name = "AlarcÃ³n"
+	name = "Alarcón"
 	culture = "spanish"
 }
 
@@ -236,12 +240,12 @@
 }
 
 48 = {
-	name = "GÃ¡lvez"
+	name = "Gálvez"
 	culture = "spanish"
 }
 
 49 = {
-	name = "GedeÃ³n"
+	name = "Gedeón"
 	culture = "spanish"
 }
 
@@ -316,12 +320,12 @@
 }
 
 64 = {
-	name = "OrbregÃ³n"
+	name = "Orbregón"
 	culture = "spanish"
 }
 
 65 = {
-	name = "PagÃ¡n"
+	name = "Pagán"
 	culture = "spanish"
 }
 
@@ -346,7 +350,7 @@
 }
 
 70 = {
-	name = "TÃ©llez"
+	name = "Téllez"
 	culture = "spanish"
 }
 
@@ -361,7 +365,7 @@
 }
 
 73 = {
-	name = "JimÃ©nez"
+	name = "Jiménez"
 	culture = "spanish"
 }
 
@@ -412,7 +416,7 @@
 }
 
 83 = {
-	name = "AilÃ¡n"
+	name = "Ailán"
 	culture = "colombian"
 }
 
@@ -573,7 +577,7 @@
 }
 
 115 = {
-	name = "AilÃ¡n"
+	name = "Ailán"
 	culture = "peruvian"
 }
 
@@ -724,7 +728,7 @@
 }
 
 145 = {
-	name = "AilÃ¡n"
+	name = "Ailán"
 	culture = "guarani"
 }
 
@@ -875,7 +879,7 @@
 }
 
 175 = {
-	name = "AilÃ¡n"
+	name = "Ailán"
 	culture = "venezuelan"
 }
 
@@ -2130,7 +2134,7 @@
 }
 
 425 = {
-	name = "GutiÃ©rrez"
+	name = "Gutiérrez"
 	culture = "mexican"
 }
 
@@ -2140,12 +2144,12 @@
 }
 
 427 = {
-	name = "MarÃ­a"
+	name = "María"
 	culture = "mexican"
 }
 
 428 = {
-	name = "MÃ¡rquez"
+	name = "Márquez"
 	culture = "mexican"
 }
 
@@ -2195,7 +2199,7 @@
 }
 
 438 = {
-	name = "San NicolÃ¡s"
+	name = "San Nicolás"
 	culture = "mexican"
 }
 

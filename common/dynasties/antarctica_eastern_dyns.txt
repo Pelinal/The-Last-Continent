@@ -1,0 +1,891 @@
+###############################
+ Eastern dyns: 1751-2000
+###############################
+
+# Chinese Dynasties
+1751 = {
+	name = "Wang"
+	culture = "chinese"
+}
+1752 = {
+	name = "Li"
+	culture = "chinese"
+}
+1753 = {
+	name = "Zhang"
+	culture = "chinese"
+}
+1754 = {
+	name = "Liu"
+	culture = "chinese"
+}
+1755 = {
+	name = "Chen"
+	culture = "chinese"
+}
+1756 = {
+	name = "Yang"
+	culture = "chinese"
+}
+1757 = {
+	name = "Huang"
+	culture = "chinese"
+}
+1758 = {
+	name = "Wu"
+	culture = "chinese"
+}
+1759 = {
+	name = "Xu"
+	culture = "chinese"
+}
+1760 = {
+	name = "Zhao"
+	culture = "chinese"
+}
+1761 = {
+	name = "Zhou"
+	culture = "chinese"
+}
+1762 = {
+	name = "Lu"
+	culture = "chinese"
+}
+1763 = {
+	name = "Zhu"
+	culture = "chinese"
+}
+1764 = {
+	name = "Sun"
+	culture = "chinese"
+}
+1765 = {
+	name = "Ma"
+	culture = "chinese"
+}
+1766 = {
+	name = "He"
+	culture = "chinese"
+}
+1767 = {
+	name = "Yu"
+	culture = "chinese"
+}
+1768 = {
+	name = "Hu"
+	culture = "chinese"
+}
+1769 = {
+	name = "Lin"
+	culture = "chinese"
+}
+1770 = {
+	name = "Jiang"
+	culture = "chinese"
+}
+1771 = {
+	name = "Guo"
+	culture = "chinese"
+}
+1772 = {
+	name = "Luo"
+	culture = "chinese"
+}
+1773 = {
+	name = "Gao"
+	culture = "chinese"
+}
+1774 = {
+	name = "Zheng"
+	culture = "chinese"
+}
+1775 = {
+	name = "Tang"
+	culture = "chinese"
+}
+1776 = {
+	name = "Liang"
+	culture = "chinese"
+}
+1777 = {
+	name = "Wei"
+	culture = "chinese"
+}
+1778 = {
+	name = "Shi"
+	culture = "chinese"
+}
+1779 = {
+	name = "Xie"
+	culture = "chinese"
+}
+1780 = {
+	name = "Song"
+	culture = "chinese"
+}
+1781 = {
+	name = "Feng"
+	culture = "chinese"
+}
+1782 = {
+	name = "Yan"
+	culture = "chinese"
+}
+1783 = {
+	name = "Han"
+	culture = "chinese"
+}
+1784 = {
+	name = "Deng"
+	culture = "chinese"
+}
+1785 = {
+	name = "Cao"
+	culture = "chinese"
+}
+1786 = {
+	name = "Tan"
+	culture = "chinese"
+}
+1787 = {
+	name = "Ceng"
+	culture = "chinese"
+}
+1788 = {
+	name = "Peng"
+	culture = "chinese"
+}
+1789 = {
+	name = "Xiao"
+	culture = "chinese"
+}
+1790 = {
+	name = "Yuan"
+	culture = "chinese"
+}
+1791 = {
+	name = "Pan"
+	culture = "chinese"
+}
+1792 = {
+	name = "Cai"
+	culture = "chinese"
+}
+1793 = {
+	name = "Cheng"
+	culture = "chinese"
+}
+1794 = {
+	name = "Fan"
+	culture = "chinese"
+}
+1795 = {
+	name = "Tian"
+	culture = "chinese"
+}
+1796 = {
+	name = "Dong"
+	culture = "chinese"
+}
+1797 = {
+	name = "Fu"
+	culture = "chinese"
+}
+1798 = {
+	name = "Ye"
+	culture = "chinese"
+}
+1799 = {
+	name = "Su"
+	culture = "chinese"
+}
+1800 = {
+	name = "Du"
+	culture = "chinese"
+}
+1801 = {
+	name = "Jin"
+	culture = "chinese"
+}
+1802 = {
+	name = "Ding"
+	culture = "chinese"
+}
+1803 = {
+	name = "Zhong"
+	culture = "chinese"
+}
+1804 = {
+	name = "Yao"
+	culture = "chinese"
+}
+1805 = {
+	name = "Ren"
+	culture = "chinese"
+}
+1806 = {
+	name = "Yin"
+	culture = "chinese"
+}
+1807 = {
+	name = "Cui"
+	culture = "chinese"
+}
+1808 = {
+	name = "Fang"
+	culture = "chinese"
+}
+1809 = {
+	name = "Liao"
+	culture = "chinese"
+}
+1810 = {
+	name = "Meng"
+	culture = "chinese"
+}
+1811 = {
+	name = "Dai"
+	culture = "chinese"
+}
+1812 = {
+	name = "Gu"
+	culture = "chinese"
+}
+1813 = {
+	name = "Wen"
+	culture = "chinese"
+}
+1814 = {
+	name = "Jia"
+	culture = "chinese"
+}
+1815 = {
+	name = "Qiu"
+	culture = "chinese"
+}
+1816 = {
+	name = "Xia"
+	culture = "chinese"
+}
+1817 = {
+	name = "Bai"
+	culture = "chinese"
+}
+1818 = {
+	name = "Hou"
+	culture = "chinese"
+}
+1819 = {
+	name = "Zou"
+	culture = "chinese"
+}
+1820 = {
+	name = "Xiong"
+	culture = "chinese"
+}
+1821 = {
+	name = "Qin"
+	culture = "chinese"
+}
+1822 = {
+	name = "Ji"
+	culture = "chinese"
+}
+1823 = {
+	name = "Gong"
+	culture = "chinese"
+}
+1824 = {
+	name = "Xue"
+	culture = "chinese"
+}
+1825 = {
+	name = "Qi"
+	culture = "chinese"
+}
+1826 = {
+	name = "Duan"
+	culture = "chinese"
+}
+1827 = {
+	name = "Lei"
+	culture = "chinese"
+}
+1828 = {
+	name = "Xiang"
+	culture = "chinese"
+}
+1829 = {
+	name = "Long"
+	culture = "chinese"
+}
+1830 = {
+	name = "Mao"
+	culture = "chinese"
+}
+1831 = {
+	name = "Tao"
+	culture = "chinese"
+}
+1832 = {
+	name = "Hao"
+	culture = "chinese"
+}
+1833 = {
+	name = "Shao"
+	culture = "chinese"
+}
+1834 = {
+	name = "Guan"
+	culture = "chinese"
+}
+1835 = {
+	name = "Wan"
+	culture = "chinese"
+}
+1836 = {
+	name = "Lai"
+	culture = "chinese"
+}
+1837 = {
+	name = "Qian"
+	culture = "chinese"
+}
+1838 = {
+	name = "Hong"
+	culture = "chinese"
+}
+1839 = {
+	name = "Qu"
+	culture = "chinese"
+}
+1840 = {
+	name = "Mo"
+	culture = "chinese"
+}
+1841 = {
+	name = "Kong"
+	culture = "chinese"
+}
+1842 = {
+	name = "Lan"
+	culture = "chinese"
+}
+1843 = {
+	name = "Kang"
+	culture = "chinese"
+}
+1844 = {
+	name = "Chang"
+	culture = "chinese"
+}
+1845 = {
+	name = "Bao"
+	culture = "chinese"
+}
+1846 = {
+	name = "Ge"
+	culture = "chinese"
+}
+1847 = {
+	name = "Yi"
+	culture = "chinese"
+}
+1848 = {
+	name = "Niu"
+	culture = "chinese"
+}
+1849 = {
+	name = "Xing"
+	culture = "chinese"
+}
+1850 = {
+	name = "An"
+	culture = "chinese"
+}
+
+# Korean Dynasties
+1851 = {
+	name = "Kim"
+	culture = "korean"
+}
+1852 = {
+	name = "Chi"
+	culture = "korean"
+}
+1853 = {
+	name = "Pak"
+	culture = "korean"
+}
+1854 = {
+	name = "Chong"
+	culture = "korean"
+}
+1855 = {
+	name = "Choe"
+	culture = "korean"
+}
+1856 = {
+	name = "Cho"
+	culture = "korean"
+}
+1857 = {
+	name = "Kang"
+	culture = "korean"
+}
+1858 = {
+	name = "Yu"
+	culture = "korean"
+}
+1859 = {
+	name = "Yun"
+	culture = "korean"
+}
+1860 = {
+	name = "Chang"
+	culture = "korean"
+}
+1861 = {
+	name = "Im"
+	culture = "korean"
+}
+1862 = {
+	name = "Sin"
+	culture = "korean"
+}
+1863 = {
+	name = "Song"
+	culture = "korean"
+}
+1864 = {
+	name = "Chon"
+	culture = "korean"
+}
+1865 = {
+	name = "So"
+	culture = "korean"
+}
+1866 = {
+	name = "Pyon"
+	culture = "korean"
+}
+1867 = {
+	name = "O"
+	culture = "korean"
+}
+1868 = {
+	name = "Hwang"
+	culture = "korean"
+}
+1869 = {
+	name = "Kwon"
+	culture = "korean"
+}
+1870 = {
+	name = "An"
+	culture = "korean"
+}
+1871 = {
+	name = "Hong"
+	culture = "korean"
+}
+1872 = {
+	name = "Won"
+	culture = "korean"
+}
+1873 = {
+	name = "Son"
+	culture = "korean"
+}
+1874 = {
+	name = "Ko"
+	culture = "korean"
+}
+1875 = {
+	name = "Mun"
+	culture = "korean"
+}
+1876 = {
+	name = "Pae"
+	culture = "korean"
+}
+1877 = {
+	name = "Paek"
+	culture = "korean"
+}
+1878 = {
+	name = "Ho"
+	culture = "korean"
+}
+1879 = {
+	name = "No"
+	culture = "korean"
+}
+1880 = {
+	name = "Chu"
+	culture = "korean"
+}
+1881 = {
+	name = "Nam"
+	culture = "korean"
+}
+1882 = {
+	name = "Sim"
+	culture = "korean"
+}
+1883 = {
+	name = "Ha"
+	culture = "korean"
+}
+1884 = {
+	name = "Ku"
+	culture = "korean"
+}
+1885 = {
+	name = "Kwak"
+	culture = "korean"
+}
+1886 = {
+	name = "Cha"
+	culture = "korean"
+}
+1887 = {
+	name = "U"
+	culture = "korean"
+}
+1888 = {
+	name = "Na"
+	culture = "korean"
+}
+1889 = {
+	name = "Chin"
+	culture = "korean"
+}
+1890 = {
+	name = "Min"
+	culture = "korean"
+}
+
+# Japanese Dynasties
+1891 = {
+	name = "Sato"
+	culture = "japanese"
+}
+1892 = {
+	name = "Suzuki"
+	culture = "japanese"
+}
+1893 = {
+	name = "Tanaka"
+	culture = "japanese"
+}
+1894 = {
+	name = "Watanabe"
+	culture = "japanese"
+}
+1895 = {
+	name = "Takahashi"
+	culture = "japanese"
+}
+1896 = {
+	name = "Ito"
+	culture = "japanese"
+}
+1897 = {
+	name = "Yamamoto"
+	culture = "japanese"
+}
+1898 = {
+	name = "Nakamura"
+	culture = "japanese"
+}
+1899 = {
+	name = "Kobayashi"
+	culture = "japanese"
+}
+1900 = {
+	name = "Saito"
+	culture = "japanese"
+}
+1901 = {
+	name = "Kato"
+	culture = "japanese"
+}
+1902 = {
+	name = "Yoshida"
+	culture = "japanese"
+}
+1903 = {
+	name = "Yamada"
+	culture = "japanese"
+}
+1904 = {
+	name = "Sasaki"
+	culture = "japanese"
+}
+1905 = {
+	name = "Matsumoto"
+	culture = "japanese"
+}
+1906 = {
+	name = "Yamaguchi"
+	culture = "japanese"
+}
+1907 = {
+	name = "Inoue"
+	culture = "japanese"
+}
+1908 = {
+	name = "Kimura"
+	culture = "japanese"
+}
+1909 = {
+	name = "Shimizu"
+	culture = "japanese"
+}
+1910 = {
+	name = "Hayashi"
+	culture = "japanese"
+}
+1911 = {
+	name = "Abe"
+	culture = "japanese"
+}
+1912 = {
+	name = "Ono"
+	culture = "japanese"
+}
+1913 = {
+	name = "Mori"
+	culture = "japanese"
+}
+1914 = {
+	name = "Nakajima"
+	culture = "japanese"
+}
+1915 = {
+	name = "Hashimoto"
+	culture = "japanese"
+}
+1916 = {
+	name = "Ikeda"
+	culture = "japanese"
+}
+1917 = {
+	name = "Yamazaki"
+	culture = "japanese"
+}
+1918 = {
+	name = "Ishikawa"
+	culture = "japanese"
+}
+1919 = {
+	name = "Yamashita"
+	culture = "japanese"
+}
+1920 = {
+	name = "Ogawa"
+	culture = "japanese"
+}
+1921 = {
+	name = "Ishii"
+	culture = "japanese"
+}
+1922 = {
+	name = "Sakamoto"
+	culture = "japanese"
+}
+1923 = {
+	name = "Goto"
+	culture = "japanese"
+}
+1924 = {
+	name = "Maeda"
+	culture = "japanese"
+}
+1925 = {
+	name = "Okada"
+	culture = "japanese"
+}
+1926 = {
+	name = "Hasegawa"
+	culture = "japanese"
+}
+1927 = {
+	name = "Fujita"
+	culture = "japanese"
+}
+1928 = {
+	name = "Kondo"
+	culture = "japanese"
+}
+1929 = {
+	name = "Sakai"
+	culture = "japanese"
+}
+1930 = {
+	name = "Murakami"
+	culture = "japanese"
+}
+1931 = {
+	name = "Ota"
+	culture = "japanese"
+}
+1932 = {
+	name = "Kikuchi"
+	culture = "japanese"
+}
+1933 = {
+	name = "Ueda"
+	culture = "japanese"
+}
+1934 = {
+	name = "Arai"
+	culture = "japanese"
+}
+1935 = {
+	name = "Endo"
+	culture = "japanese"
+}
+1936 = {
+	name = "Aoki"
+	culture = "japanese"
+}
+1937 = {
+	name = "Takeuchi"
+	culture = "japanese"
+}
+1938 = {
+	name = "Nakano"
+	culture = "japanese"
+}
+1939 = {
+	name = "Fujii"
+	culture = "japanese"
+}
+1940 = {
+	name = "Fukuda"
+	culture = "japanese"
+}
+
+# Thai Dynasties
+1941 = {
+	name = "Saetang"
+	culture = "thai"
+}
+1942 = {
+	name = "Saelim"
+	culture = "thai"
+}
+1943 = {
+	name = "Saeli"
+	culture = "thai"
+}
+1944 = {
+	name = "Saeueng"
+	culture = "thai"
+}
+1945 = {
+	name = "Bunmi"
+	culture = "thai"
+}
+1946 = {
+	name = "Chanthara"
+	culture = "thai"
+}
+1947 = {
+	name = "Cherinsuk"
+	culture = "thai"
+}
+1948 = {
+	name = "Sukkasem"
+	culture = "thai"
+}
+1949 = {
+	name = "Sitwat"
+	culture = "thai"
+}
+1950 = {
+	name = "Ayutthaya"
+	culture = "thai"
+}
+1951 = {
+	name = "Thongkham"
+	culture = "thai"
+}
+1952 = {
+	name = "Saengthong"
+	culture = "thai"
+}
+1953 = {
+	name = "Saetan"
+	culture = "thai"
+}
+1954 = {
+	name = "Sangthong"
+	culture = "thai"
+}
+1955 = {
+	name = "Sisuk"
+	culture = "thai"
+}
+1956 = {
+	name = "Bunsi"
+	culture = "thai"
+}
+1957 = {
+	name = "Suwan"
+	culture = "thai"
+}
+1958 = {
+	name = "Sichantha"
+	culture = "thai"
+}
+1959 = {
+	name = "Bunma"
+	culture = "thai"
+}
+1960 = {
+	name = "Rungrueang"
+	culture = "thai"
+}
+1961 = {
+	name = "Thongdi"
+	culture = "thai"
+}
+1962 = {
+	name = "Photsi"
+	culture = "thai"
+}
+1963 = {
+	name = "Sombun"
+	culture = "thai"
+}
+1964 = {
+	name = "Kongkaeo"
+	culture = "thai"
+}
+1965 = {
+	name = "Sisuwan"
+	culture = "thai"
+}
+1966 = {
+	name = "Ketukaeo"
+	culture = "thai"
+}
+1967 = {
+	name = "Bunrueang"
+	culture = "thai"
+}
+1968 = {
+	name = "Sithong"
+	culture = "thai"
+}
+1969 = {
+	name = "Bunchu"
+	culture = "thai"
+}
+1970 = {
+	name = "Saetiao"
+	culture = "thai"
+}

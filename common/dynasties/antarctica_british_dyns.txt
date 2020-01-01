@@ -1,0 +1,1701 @@
+###############################
+ British dyns: 601-1050
+###############################
+	
+# English Dynasties
+601 = {
+	name = "Brown"
+	culture = "english"
+}
+602 = {
+	name = "Hall"
+	culture = "english"
+}
+603 = {
+	name = "Palmer"
+	culture = "english"
+}
+604 = {
+	name = "Green"
+	culture = "english"
+}
+605 = {
+	name = "Clark"
+	culture = "english"
+}
+606 = {
+	name = "Quinn"
+	culture = "english"
+}
+607 = {
+	name = "Harper"
+	culture = "english"
+}
+608 = {
+	name = "Johnson"
+	culture = "english"
+}
+609 = {
+	name = "Owen"
+	culture = "english"
+}
+610 = {
+	name = "Ross"
+	culture = "english"
+}
+611 = {
+	name = "Carr"
+	culture = "english"
+}
+612 = {
+	name = "Allen"
+	culture = "english"
+}
+613 = {
+	name = "Hunter"
+	culture = "english"
+}
+614 = {
+	name = "Wilson"
+	culture = "english"
+}
+615 = {
+	name = "Davis"
+	culture = "english"
+}
+616 = {
+	name = "Rogers"
+	culture = "english"
+}
+617 = {
+	name = "Anderson"
+	culture = "english"
+}
+618 = {
+	name = "Jennings"
+	culture = "english"
+}
+619 = {
+	name = "Day"
+	culture = "english"
+}
+620 = {
+	name = "Jackson"
+	culture = "english"
+}
+621 = {
+	name = "Hewitt"
+	culture = "english"
+}
+622 = {
+	name = "Morgan"
+	culture = "english"
+}
+623 = {
+	name = "Kelly"
+	culture = "english"
+}
+624 = {
+	name = "Rowe"
+	culture = "english"
+}
+625 = {
+	name = "Reynolds"
+	culture = "english"
+}
+626 = {
+	name = "Austin"
+	culture = "english"
+}
+627 = {
+	name = "Harding"
+	culture = "english"
+}
+628 = {
+	name = "Hammond"
+	culture = "english"
+}
+629 = {
+	name = "Buckley"
+	culture = "english"
+}
+630 = {
+	name = "Burgess"
+	culture = "english"
+}
+631 = {
+	name = "Glover"
+	culture = "english"
+}
+632 = {
+	name = "Riley"
+	culture = "english"
+}
+633 = {
+	name = "Willis"
+	culture = "english"
+}
+634 = {
+	name = "Richardson"
+	culture = "english"
+}
+635 = {
+	name = "Hawkins"
+	culture = "english"
+}
+636 = {
+	name = "Doyle"
+	culture = "english"
+}
+637 = {
+	name = "Wells"
+	culture = "english"
+}
+638 = {
+	name = "Perry"
+	culture = "english"
+}
+639 = {
+	name = "Heath"
+	culture = "english"
+}
+640 = {
+	name = "Bates"
+	culture = "english"
+}
+641 = {
+	name = "Steele"
+	culture = "english"
+}
+642 = {
+	name = "Johnston"
+	culture = "english"
+}
+643 = {
+	name = "Holland"
+	culture = "english"
+}
+644 = {
+	name = "Barnett"
+	culture = "english"
+}
+645 = {
+	name = "Jones"
+	culture = "english"
+}
+646 = {
+	name = "Spencer"
+	culture = "english"
+}
+647 = {
+	name = "Barry"
+	culture = "english"
+}
+648 = {
+	name = "Hayes"
+	culture = "english"
+}
+649 = {
+	name = "Grant"
+	culture = "english"
+}
+650 = {
+	name = "Gardner"
+	culture = "english"
+}
+651 = {
+	name = "Goodwin"
+	culture = "english"
+}
+652 = {
+	name = "Cox"
+	culture = "english"
+}
+653 = {
+	name = "Chambers"
+	culture = "english"
+}
+654 = {
+	name = "Barrett"
+	culture = "english"
+}
+655 = {
+	name = "Warren"
+	culture = "english"
+}
+656 = {
+	name = "Little"
+	culture = "english"
+}
+657 = {
+	name = "Coates"
+	culture = "english"
+}
+658 = {
+	name = "Archer"
+	culture = "english"
+}
+659 = {
+	name = "Mann"
+	culture = "english"
+}
+660 = {
+	name = "Howell"
+	culture = "english"
+}
+661 = {
+	name = "Dale"
+	culture = "english"
+}
+662 = {
+	name = "Oliver"
+	culture = "english"
+}
+663 = {
+	name = "Wheeler"
+	culture = "english"
+}
+664 = {
+	name = "Andrews"
+	culture = "english"
+}
+665 = {
+	name = "Waters"
+	culture = "english"
+}
+666 = {
+	name = "Moss"
+	culture = "english"
+}
+667 = {
+	name = "Briggs"
+	culture = "english"
+}
+668 = {
+	name = "West"
+	culture = "english"
+}
+669 = {
+	name = "Blake"
+	culture = "english"
+}
+670 = {
+	name = "Patterson"
+	culture = "english"
+}
+671 = {
+	name = "Higgins"
+	culture = "english"
+}
+672 = {
+	name = "Francis"
+	culture = "english"
+}
+673 = {
+	name = "Barber"
+	culture = "english"
+}
+674 = {
+	name = "Frost"
+	culture = "english"
+}
+675 = {
+	name = "Griffin"
+	culture = "english"
+}
+676 = {
+	name = "Middleton"
+	culture = "english"
+}
+677 = {
+	name = "Murphy"
+	culture = "english"
+}
+678 = {
+	name = "Lambert"
+	culture = "english"
+}
+679 = {
+	name = "Kent"
+	culture = "english"
+}
+680 = {
+	name = "George"
+	culture = "english"
+}
+681 = {
+	name = "Marsh"
+	culture = "english"
+}
+682 = {
+	name = "Reed"
+	culture = "english"
+}
+683 = {
+	name = "Page"
+	culture = "english"
+}
+684 = {
+	name = "Stone"
+	culture = "english"
+}
+685 = {
+	name = "Dean"
+	culture = "english"
+}
+686 = {
+	name = "Booth"
+	culture = "english"
+}
+687 = {
+	name = "Roberts"
+	culture = "english"
+}
+688 = {
+	name = "Elliott"
+	culture = "english"
+}
+689 = {
+	name = "Bailey"
+	culture = "english"
+}
+690 = {
+	name = "Harris"
+	culture = "english"
+}
+691 = {
+	name = "Bolton"
+	culture = "english"
+}
+692 = {
+	name = "Morton"
+	culture = "english"
+}
+693 = {
+	name = "Sanders"
+	culture = "english"
+}
+694 = {
+	name = "Joyce"
+	culture = "english"
+}
+695 = {
+	name = "James"
+	culture = "english"
+}
+696 = {
+	name = "Smith"
+	culture = "english"
+}
+697 = {
+	name = "Hill"
+	culture = "english"
+}
+698 = {
+	name = "Douglas"
+	culture = "english"
+}
+699 = {
+	name = "Thomson"
+	culture = "english"
+}
+700 = {
+	name = "Murray"
+	culture = "english"
+}
+701 = {
+	name = "Smith"
+	culture = "english"
+}
+702 = {
+	name = "Johnson"
+	culture = "english"
+}
+703 = {
+	name = "Williams"
+	culture = "english"
+}
+704 = {
+	name = "Jones"
+	culture = "english"
+}
+705 = {
+	name = "Brown"
+	culture = "english"
+}
+706 = {
+	name = "Davis"
+	culture = "english"
+}
+707 = {
+	name = "Miller"
+	culture = "english"
+}
+708 = {
+	name = "Wilson"
+	culture = "english"
+}
+709 = {
+	name = "Moore"
+	culture = "english"
+}
+710 = {
+	name = "Taylor"
+	culture = "english"
+}
+
+# American Dynasties
+711 = {
+	name = "Anderson"
+	culture = "american"
+}
+712 = {
+	name = "Thomas"
+	culture = "american"
+}
+713 = {
+	name = "Jackson"
+	culture = "american"
+}
+714 = {
+	name = "White"
+	culture = "american"
+}
+715 = {
+	name = "Harris"
+	culture = "american"
+}
+716 = {
+	name = "Martin"
+	culture = "american"
+}
+717 = {
+	name = "Thompson"
+	culture = "american"
+}
+718 = {
+	name = "Garcia"
+	culture = "american"
+}
+719 = {
+	name = "Martinez"
+	culture = "american"
+}
+720 = {
+	name = "Robinson"
+	culture = "american"
+}
+721 = {
+	name = "Clark"
+	culture = "american"
+}
+722 = {
+	name = "Rodriguez"
+	culture = "american"
+}
+723 = {
+	name = "Lewis"
+	culture = "american"
+}
+724 = {
+	name = "Lee"
+	culture = "american"
+}
+725 = {
+	name = "Walker"
+	culture = "american"
+}
+726 = {
+	name = "Hall"
+	culture = "american"
+}
+727 = {
+	name = "Allen"
+	culture = "american"
+}
+728 = {
+	name = "Young"
+	culture = "american"
+}
+729 = {
+	name = "Hernandez"
+	culture = "american"
+}
+730 = {
+	name = "King"
+	culture = "american"
+}
+731 = {
+	name = "Wright"
+	culture = "american"
+}
+732 = {
+	name = "Lopez"
+	culture = "american"
+}
+733 = {
+	name = "Hill"
+	culture = "american"
+}
+734 = {
+	name = "Scott"
+	culture = "american"
+}
+735 = {
+	name = "Green"
+	culture = "american"
+}
+736 = {
+	name = "Adams"
+	culture = "american"
+}
+737 = {
+	name = "Baker"
+	culture = "american"
+}
+738 = {
+	name = "Gonzalez"
+	culture = "american"
+}
+739 = {
+	name = "Nelson"
+	culture = "american"
+}
+740 = {
+	name = "Carter"
+	culture = "american"
+}
+741 = {
+	name = "Mitchell"
+	culture = "american"
+}
+742 = {
+	name = "Perez"
+	culture = "american"
+}
+743 = {
+	name = "Roberts"
+	culture = "american"
+}
+744 = {
+	name = "Turner"
+	culture = "american"
+}
+745 = {
+	name = "Phillips"
+	culture = "american"
+}
+746 = {
+	name = "Campbell"
+	culture = "american"
+}
+747 = {
+	name = "Parker"
+	culture = "american"
+}
+748 = {
+	name = "Evans"
+	culture = "american"
+}
+749 = {
+	name = "Edwards"
+	culture = "american"
+}
+750 = {
+	name = "Collins"
+	culture = "american"
+}
+751 = {
+	name = "Stewart"
+	culture = "american"
+}
+752 = {
+	name = "Sanchez"
+	culture = "american"
+}
+753 = {
+	name = "Morris"
+	culture = "american"
+}
+754 = {
+	name = "Rogers"
+	culture = "american"
+}
+755 = {
+	name = "Reed"
+	culture = "american"
+}
+756 = {
+	name = "Cook"
+	culture = "american"
+}
+757 = {
+	name = "Morgan"
+	culture = "american"
+}
+758 = {
+	name = "Bell"
+	culture = "american"
+}
+759 = {
+	name = "Murphy"
+	culture = "american"
+}
+760 = {
+	name = "Bailey"
+	culture = "american"
+}
+761 = {
+	name = "Rivera"
+	culture = "american"
+}
+762 = {
+	name = "Cooper"
+	culture = "american"
+}
+763 = {
+	name = "Richardson"
+	culture = "american"
+}
+764 = {
+	name = "Cox"
+	culture = "american"
+}
+765 = {
+	name = "Howard"
+	culture = "american"
+}
+766 = {
+	name = "Ward"
+	culture = "american"
+}
+767 = {
+	name = "Torres"
+	culture = "american"
+}
+768 = {
+	name = "Peterson"
+	culture = "american"
+}
+769 = {
+	name = "Gray"
+	culture = "american"
+}
+770 = {
+	name = "Ramirez"
+	culture = "american"
+}
+771 = {
+	name = "James"
+	culture = "american"
+}
+772 = {
+	name = "Watson"
+	culture = "american"
+}
+773 = {
+	name = "Brooks"
+	culture = "american"
+}
+774 = {
+	name = "Kelly"
+	culture = "american"
+}
+775 = {
+	name = "Sanders"
+	culture = "american"
+}
+776 = {
+	name = "Price"
+	culture = "american"
+}
+777 = {
+	name = "Bennett"
+	culture = "american"
+}
+778 = {
+	name = "Wood"
+	culture = "american"
+}
+779 = {
+	name = "Barnes"
+	culture = "american"
+}
+780 = {
+	name = "Ross"
+	culture = "american"
+}
+781 = {
+	name = "Henderson"
+	culture = "american"
+}
+782 = {
+	name = "Coleman"
+	culture = "american"
+}
+783 = {
+	name = "Jenkins"
+	culture = "american"
+}
+784 = {
+	name = "Perry"
+	culture = "american"
+}
+785 = {
+	name = "Powell"
+	culture = "american"
+}
+786 = {
+	name = "Long"
+	culture = "american"
+}
+787 = {
+	name = "Patterson"
+	culture = "american"
+}
+788 = {
+	name = "Hughes"
+	culture = "american"
+}
+789 = {
+	name = "Flores"
+	culture = "american"
+}
+790 = {
+	name = "Washington"
+	culture = "american"
+}
+791 = {
+	name = "Butler"
+	culture = "american"
+}
+792 = {
+	name = "Simmons"
+	culture = "american"
+}
+793 = {
+	name = "Foster"
+	culture = "american"
+}
+794 = {
+	name = "Gonzales"
+	culture = "american"
+}
+795 = {
+	name = "Bryant"
+	culture = "american"
+}
+796 = {
+	name = "Alexander"
+	culture = "american"
+}
+797 = {
+	name = "Russell"
+	culture = "american"
+}
+798 = {
+	name = "Griffin"
+	culture = "american"
+}
+799 = {
+	name = "Diaz"
+	culture = "american"
+}
+800 = {
+	name = "Hayes"
+	culture = "american"
+}
+801 = {
+	name = "Lee"
+	culture = "american"
+}
+802 = {
+	name = "Smith"
+	culture = "american"
+}
+803 = {
+	name = "Gill"
+	culture = "american"
+}
+804 = {
+	name = "Brown"
+	culture = "american"
+}
+805 = {
+	name = "Johnson"
+	culture = "american"
+}
+806 = {
+	name = "Wilson"
+	culture = "american"
+}
+807 = {
+	name = "Anderson"
+	culture = "american"
+}
+808 = {
+	name = "Jones"
+	culture = "american"
+}
+809 = {
+	name = "Taylor"
+	culture = "american"
+}
+810 = {
+	name = "Williams"
+	culture = "american"
+}
+811 = {
+	name = "Howard"
+	culture = "american"
+}
+812 = {
+	name = "Campbell"
+	culture = "american"
+}
+813 = {
+	name = "Macdonald"
+	culture = "american"
+}
+814 = {
+	name = "Miller"
+	culture = "american"
+}
+815 = {
+	name = "Martin"
+	culture = "american"
+}
+816 = {
+	name = "Young"
+	culture = "american"
+}
+817 = {
+	name = "Thompson"
+	culture = "american"
+}
+818 = {
+	name = "Scott"
+	culture = "american"
+}
+819 = {
+	name = "Stewart"
+	culture = "american"
+}
+820 = {
+	name = "White"
+	culture = "american"
+}
+
+# Canadian Dynasties
+821 = {
+	name = "Park"
+	culture = "canadian"
+}
+822 = {
+	name = "Jones"
+	culture = "canadian"
+}
+823 = {
+	name = "Williams"
+	culture = "canadian"
+}
+824 = {
+	name = "Davies"
+	culture = "canadian"
+}
+825 = {
+	name = "Evans"
+	culture = "canadian"
+}
+826 = {
+	name = "Thomas"
+	culture = "canadian"
+}
+827 = {
+	name = "Roberts"
+	culture = "canadian"
+}
+828 = {
+	name = "Hughes"
+	culture = "canadian"
+}
+829 = {
+	name = "Lewis"
+	culture = "canadian"
+}
+830 = {
+	name = "Morgan"
+	culture = "canadian"
+}
+831 = {
+	name = "Griffiths"
+	culture = "canadian"
+}
+832 = {
+	name = "Edwards"
+	culture = "canadian"
+}
+833 = {
+	name = "Owen"
+	culture = "canadian"
+}
+834 = {
+	name = "James"
+	culture = "canadian"
+}
+835 = {
+	name = "Morris"
+	culture = "canadian"
+}
+836 = {
+	name = "Price"
+	culture = "canadian"
+}
+837 = {
+	name = "Rees"
+	culture = "canadian"
+}
+838 = {
+	name = "Phillips"
+	culture = "canadian"
+}
+839 = {
+	name = "Jenkins"
+	culture = "canadian"
+}
+840 = {
+	name = "Harris"
+	culture = "canadian"
+}
+
+# Welsh Dynasties
+841 = {
+	name = "Lloyd"
+	culture = "welsh"
+}
+842 = {
+	name = "Smith"
+	culture = "welsh"
+}
+843 = {
+	name = "Marshall"
+	culture = "welsh"
+}
+844 = {
+	name = "Brown"
+	culture = "welsh"
+}
+845 = {
+	name = "Stevenson"
+	culture = "welsh"
+}
+846 = {
+	name = "Wilson"
+	culture = "welsh"
+}
+847 = {
+	name = "Wood"
+	culture = "welsh"
+}
+848 = {
+	name = "Thomson"
+	culture = "welsh"
+}
+849 = {
+	name = "Sutherland"
+	culture = "welsh"
+}
+850 = {
+	name = "Robertson"
+	culture = "welsh"
+}
+851 = {
+	name = "Craig"
+	culture = "welsh"
+}
+852 = {
+	name = "Campbell"
+	culture = "welsh"
+}
+853 = {
+	name = "Wright"
+	culture = "welsh"
+}
+854 = {
+	name = "Stewart"
+	culture = "welsh"
+}
+855 = {
+	name = "Mckenzie"
+	culture = "welsh"
+}
+856 = {
+	name = "Anderson"
+	culture = "welsh"
+}
+857 = {
+	name = "Kennedy"
+	culture = "welsh"
+}
+858 = {
+	name = "Macdonald"
+	culture = "welsh"
+}
+859 = {
+	name = "Jones"
+	culture = "welsh"
+}
+860 = {
+	name = "Scott"
+	culture = "welsh"
+}
+
+# Scottish Dynasties
+861 = {
+	name = "Burns"
+	culture = "scottish"
+}
+862 = {
+	name = "Reid"
+	culture = "scottish"
+}
+863 = {
+	name = "White"
+	culture = "scottish"
+}
+864 = {
+	name = "Murray"
+	culture = "scottish"
+}
+865 = {
+	name = "Muir"
+	culture = "scottish"
+}
+866 = {
+	name = "Taylor"
+	culture = "scottish"
+}
+867 = {
+	name = "Murphy"
+	culture = "scottish"
+}
+868 = {
+	name = "Clark"
+	culture = "scottish"
+}
+869 = {
+	name = "Johnstone"
+	culture = "scottish"
+}
+870 = {
+	name = "Mitchell"
+	culture = "scottish"
+}
+871 = {
+	name = "Hughes"
+	culture = "scottish"
+}
+872 = {
+	name = "Ross"
+	culture = "scottish"
+}
+873 = {
+	name = "Watt"
+	culture = "scottish"
+}
+874 = {
+	name = "Walker"
+	culture = "scottish"
+}
+875 = {
+	name = "Mcmillan"
+	culture = "scottish"
+}
+876 = {
+	name = "Paterson"
+	culture = "scottish"
+}
+877 = {
+	name = "Mcintosh"
+	culture = "scottish"
+}
+878 = {
+	name = "Young"
+	culture = "scottish"
+}
+879 = {
+	name = "Milne"
+	culture = "scottish"
+}
+880 = {
+	name = "Watson"
+	culture = "scottish"
+}
+881 = {
+	name = "Mcclean"
+	culture = "scottish"
+}
+882 = {
+	name = "Allen"
+	culture = "scottish"
+}
+883 = {
+	name = "Anderson"
+	culture = "scottish"
+}
+884 = {
+	name = "Bailey"
+	culture = "scottish"
+}
+885 = {
+	name = "Brown"
+	culture = "scottish"
+}
+886 = {
+	name = "Campbell"
+	culture = "scottish"
+}
+887 = {
+	name = "Clarke"
+	culture = "scottish"
+}
+888 = {
+	name = "Davis"
+	culture = "scottish"
+}
+889 = {
+	name = "Dixon"
+	culture = "scottish"
+}
+890 = {
+	name = "Francis"
+	culture = "scottish"
+}
+891 = {
+	name = "Gordon"
+	culture = "scottish"
+}
+892 = {
+	name = "Graham"
+	culture = "scottish"
+}
+893 = {
+	name = "Grant"
+	culture = "scottish"
+}
+894 = {
+	name = "Powell"
+	culture = "scottish"
+}
+895 = {
+	name = "Green"
+	culture = "scottish"
+}
+896 = {
+	name = "Grey"
+	culture = "scottish"
+}
+897 = {
+	name = "Henry"
+	culture = "scottish"
+}
+898 = {
+	name = "Higgins"
+	culture = "scottish"
+}
+899 = {
+	name = "Jones"
+	culture = "scottish"
+}
+900 = {
+	name = "Lawrence"
+	culture = "scottish"
+}
+
+# Jamaican Dynasties
+901 = {
+	name = "Lewis"
+	culture = "jamaican"
+}
+902 = {
+	name = "Jones"
+	culture = "jamaican"
+}
+903 = {
+	name = "Smith"
+	culture = "jamaican"
+}
+904 = {
+	name = "Taylor"
+	culture = "jamaican"
+}
+905 = {
+	name = "Wilson"
+	culture = "jamaican"
+}
+906 = {
+	name = "Reid"
+	culture = "jamaican"
+}
+907 = {
+	name = "Thompson"
+	culture = "jamaican"
+}
+908 = {
+	name = "King"
+	culture = "jamaican"
+}
+909 = {
+	name = "Brown"
+	culture = "jamaican"
+}
+910 = {
+	name = "Edwards"
+	culture = "jamaican"
+}
+911 = {
+	name = "Anderson"
+	culture = "jamaican"
+}
+912 = {
+	name = "Patel"
+	culture = "jamaican"
+}
+913 = {
+	name = "Mills"
+	culture = "jamaican"
+}
+914 = {
+	name = "Clark"
+	culture = "jamaican"
+}
+915 = {
+	name = "Murray"
+	culture = "jamaican"
+}
+916 = {
+	name = "Phillips"
+	culture = "jamaican"
+}
+917 = {
+	name = "Walker"
+	culture = "jamaican"
+}
+918 = {
+	name = "Shepherd	"
+	culture = "jamaican"
+}
+919 = {
+	name = "Johnson"
+	culture = "jamaican"
+}
+920 = {
+	name = "Stewart"
+	culture = "jamaican"
+}
+
+# Zealander Dynasties
+921 = {
+	name = "Martin"
+	culture = "zealander"
+}
+922 = {
+	name = "Thomas"
+	culture = "zealander"
+}
+923 = {
+	name = "Armstrong"
+	culture = "zealander"
+}
+924 = {
+	name = "Scott"
+	culture = "zealander"
+}
+925 = {
+	name = "Harris"
+	culture = "zealander"
+}
+926 = {
+	name = "Hall"
+	culture = "zealander"
+}
+927 = {
+	name = "Bennett"
+	culture = "zealander"
+}
+928 = {
+	name = "Campbell"
+	culture = "zealander"
+}
+929 = {
+	name = "Carter"
+	culture = "zealander"
+}
+930 = {
+	name = "Shaw"
+	culture = "zealander"
+}
+931 = {
+	name = "Donovan"
+	culture = "zealander"
+}
+932 = {
+	name = "Greenwood"
+	culture = "zealander"
+}
+933 = {
+	name = "Hodgson"
+	culture = "zealander"
+}
+934 = {
+	name = "Hogan"
+	culture = "zealander"
+}
+935 = {
+	name = "Collins"
+	culture = "zealander"
+}
+936 = {
+	name = "Ward"
+	culture = "zealander"
+}
+937 = {
+	name = "Richardson"
+	culture = "zealander"
+}
+938 = {
+	name = "Rutherford"
+	culture = "zealander"
+}
+939 = {
+	name = "Cooper"
+	culture = "zealander"
+}
+940 = {
+	name = "Cox"
+	culture = "zealander"
+}
+941 = {
+	name = "Boone"
+	culture = "zealander"
+}
+942 = {
+	name = "Smith"
+	culture = "zealander"
+}
+943 = {
+	name = "Jones"
+	culture = "zealander"
+}
+944 = {
+	name = "Brown"
+	culture = "zealander"
+}
+945 = {
+	name = "Williams"
+	culture = "zealander"
+}
+946 = {
+	name = "Johnson"
+	culture = "zealander"
+}
+947 = {
+	name = "White"
+	culture = "zealander"
+}
+948 = {
+	name = "Wilson"
+	culture = "zealander"
+}
+949 = {
+	name = "Lee"
+	culture = "zealander"
+}
+950 = {
+	name = "Taylor"
+	culture = "zealander"
+}
+951 = {
+	name = "Green"
+	culture = "zealander"
+}
+952 = {
+	name = "Thomas"
+	culture = "zealander"
+}
+953 = {
+	name = "Thompson"
+	culture = "zealander"
+}
+954 = {
+	name = "Jackson"
+	culture = "zealander"
+}
+955 = {
+	name = "Anderson"
+	culture = "zealander"
+}
+956 = {
+	name = "Roberts"
+	culture = "zealander"
+}
+957 = {
+	name = "Harris"
+	culture = "zealander"
+}
+958 = {
+	name = "Davis"
+	culture = "zealander"
+}
+959 = {
+	name = "James"
+	culture = "zealander"
+}
+960 = {
+	name = "Martin"
+	culture = "zealander"
+}
+
+# Australian Dynasties
+961 = {
+	name = "Clark"
+	culture = "australian"
+}
+962 = {
+	name = "King"
+	culture = "australian"
+}
+963 = {
+	name = "Richards"
+	culture = "australian"
+}
+964 = {
+	name = "Kelly"
+	culture = "australian"
+}
+965 = {
+	name = "McDonald"
+	culture = "australian"
+}
+966 = {
+	name = "Robinson"
+	culture = "australian"
+}
+967 = {
+	name = "Miller"
+	culture = "australian"
+}
+968 = {
+	name = "Robertson"
+	culture = "australian"
+}
+969 = {
+	name = "Harrison"
+	culture = "australian"
+}
+970 = {
+	name = "Nguyen"
+	culture = "australian"
+}
+971 = {
+	name = "Edwards"
+	culture = "australian"
+}
+972 = {
+	name = "Adams"
+	culture = "australian"
+}
+973 = {
+	name = "Evans"
+	culture = "australian"
+}
+974 = {
+	name = "Hill"
+	culture = "australian"
+}
+975 = {
+	name = "Davies"
+	culture = "australian"
+}
+976 = {
+	name = "Walker"
+	culture = "australian"
+}
+977 = {
+	name = "Richardson"
+	culture = "australian"
+}
+978 = {
+	name = "Lewis"
+	culture = "australian"
+}
+979 = {
+	name = "Stevens"
+	culture = "australian"
+}
+980 = {
+	name = "Parker"
+	culture = "australian"
+}
+981 = {
+	name = "Carter"
+	culture = "australian"
+}
+982 = {
+	name = "Phillips"
+	culture = "australian"
+}
+983 = {
+	name = "Allen"
+	culture = "australian"
+}
+984 = {
+	name = "Cook"
+	culture = "australian"
+}
+985 = {
+	name = "Ward"
+	culture = "australian"
+}
+986 = {
+	name = "Hughes"
+	culture = "australian"
+}
+987 = {
+	name = "Morris"
+	culture = "australian"
+}
+988 = {
+	name = "James"
+	culture = "australian"
+}
+989 = {
+	name = "Murray"
+	culture = "australian"
+}
+990 = {
+	name = "Tran"
+	culture = "australian"
+}
+991 = {
+	name = "Bennett"
+	culture = "australian"
+}
+992 = {
+	name = "Gray"
+	culture = "australian"
+}
+993 = {
+	name = "Parker"
+	culture = "australian"
+}
+994 = {
+	name = "Johnston"
+	culture = "australian"
+}
+995 = {
+	name = "Robertson"
+	culture = "australian"
+}
+996 = {
+	name = "Russell"
+	culture = "australian"
+}
+997 = {
+	name = "Adams"
+	culture = "australian"
+}
+998 = {
+	name = "Graham"
+	culture = "australian"
+}
+999 = {
+	name = "Morgan"
+	culture = "australian"
+}
+1000 = {
+	name = "Simpson"
+	culture = "australian"
+}
+
+# South African Dynasties
+1001 = {
+	name = "Dlamini"
+	culture = "south_african"
+}
+1002 = {
+	name = "Nkosi"
+	culture = "south_african"
+}
+1003 = {
+	name = "Ndlovu"
+	culture = "south_african"
+}
+1004 = {
+	name = "Khumalo"
+	culture = "south_african"
+}
+1005 = {
+	name = "Sithole"
+	culture = "south_african"
+}
+1006 = {
+	name = "Mokoena"
+	culture = "south_african"
+}
+1007 = {
+	name = "Mikhize"
+	culture = "south_african"
+}
+1008 = {
+	name = "Mahlangu"
+	culture = "south_african"
+}
+1009 = {
+	name = "Ngcobo"
+	culture = "south_african"
+}
+1010 = {
+	name = "Mthembu"
+	culture = "south_african"
+}
+1011 = {
+	name = "Leuweuen"
+	culture = "south_african"
+}
+1012 = {
+	name = "Basson"
+	culture = "south_african"
+}
+1013 = {
+	name = "Matthee"
+	culture = "south_african"
+}
+1014 = {
+	name = "Green"
+	culture = "south_african"
+}
+1015 = {
+	name = "Dyer"
+	culture = "south_african"
+}
+1016 = {
+	name = "Mhlope"
+	culture = "south_african"
+}
+1017 = {
+	name = "Medupe"
+	culture = "south_african"
+}
+1018 = {
+	name = "Forrester"
+	culture = "south_african"
+}
+1019 = {
+	name = "Sidali"
+	culture = "south_african"
+}
+1020 = {
+	name = "Coetzee"
+	culture = "south_african"
+}

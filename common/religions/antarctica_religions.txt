@@ -29,7 +29,7 @@
 	# stalinist 'heresy'
 	# anarchist
 	# primitive 'heresy'
-	# syndicalism
+	# syndicalist
 	# socialist
 	# justicial
 	
@@ -58,7 +58,7 @@
 ##																																									 ##
 #######################################################################################################################################################################
 
-democratic = {
+democratic_grp = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
@@ -80,7 +80,7 @@ democratic = {
 		use_new_crusade = no
 		crusade_cb = new_crusade
 		scripture_name = THE_CONSTITUTION
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_SOLIDARITY
 		
@@ -89,7 +89,7 @@ democratic = {
 		}
 		
 		evil_god_names = {
-			SOCIALISM COMMUNISM ANARCHISM FASCISM PROGRESSIVISM NATIONAL_SOCIALISM
+			SOCIALISM COMMUNISM ANARCHISM FASCISM PROGRESSIVISM NATIONAL_SOCIALISM ISLAMISM STALINISM
 		}
 		
 		autocephaly = yes
@@ -121,7 +121,7 @@ democratic = {
 		use_new_crusade = no
 		crusade_cb = new_crusade
 		scripture_name = DER_SOZIALDEMOKRAT # 'The Social Democrat'
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_CIVIL_LIBERTIES
 		
@@ -130,7 +130,7 @@ democratic = {
 		}
 		
 		evil_god_names = {
-			COMMUNISM ANARCHISM FASCISM NATIONAL_SOCIALISM REACTIONARISM
+			COMMUNISM ANARCHISM FASCISM NATIONAL_SOCIALISM REACTIONARISM STALINISM
 		}
 		
 		autocephaly = yes
@@ -161,7 +161,7 @@ democratic = {
 		use_new_crusade = no
 		crusade_cb = new_crusade
 		scripture_name = THE_BILL_OF_RIGHTS # ..or magna carta, this is essentially OG modern democracy
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_OPEN_SOCIETY
 		
@@ -170,7 +170,7 @@ democratic = {
 		}
 		
 		evil_god_names = {
-			COMMUNISM ANARCHISM FASCISM NATIONAL_SOCIALISM SOCIALISM SOCIAL_DEMOCRACY
+			COMMUNISM ANARCHISM FASCISM NATIONAL_SOCIALISM SOCIALISM SOCIAL_DEMOCRACY ISLAMISM STALINISM
 		}
 		
 		autocephaly = yes
@@ -199,7 +199,7 @@ democratic = {
 		color = { 170 246 91 }
 		
 		scripture_name = PRINCIPLES_OF_POLITICAL_ECONOMY # By John Stuart Mill
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_SOCIAL_REFORM
 		
@@ -208,7 +208,7 @@ democratic = {
 		}
 		
 		evil_god_names = {
-			MONARCHISM REACTIONARISM CONSERVATISM COMMUNISM ANARCHISM FASCISM NATIONAL_SOCIALISM PRIMITIVISM
+			MONARCHISM REACTIONARISM CONSERVATISM COMMUNISM ANARCHISM FASCISM NATIONAL_SOCIALISM PRIMITIVISM STALINISM
 		}
 		
 		autocephaly = yes
@@ -233,12 +233,11 @@ democratic = {
 
 		icon = 5
 		heresy_icon = 5
-		parent = progressive
 		
 		color = { 213 167 209 }
 		
 		scripture_name = WOMENS_RIGHTS_AND_MENS_INJUSTICE
-		priest_title = SUFFRAGETTE
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_WOMENS_RIGHTS
 		
@@ -247,7 +246,7 @@ democratic = {
 		}
 		
 		evil_god_names = {
-			MONARCHISM REACTIONARISM CONSERVATISM COMMUNISM FASCISM NATIONAL_SOCIALISM
+			MONARCHISM REACTIONARISM CONSERVATISM COMMUNISM FASCISM NATIONAL_SOCIALISM STALINISM
 		}
 		
 		autocephaly = yes
@@ -270,8 +269,8 @@ democratic = {
 	libertarian = {
 		graphical_culture = westerngfx
 
-		icon = 6
-		heresy_icon = 6
+		icon = 24
+		heresy_icon = 24
 		
 		color = { 157 156 40 }
 		
@@ -279,7 +278,7 @@ democratic = {
 		use_new_crusade = no
 		crusade_cb = new_crusade
 		scripture_name = LE_LIBERTAIRE
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_POLITICAL_FREEDOM
 		
@@ -288,7 +287,7 @@ democratic = {
 		}
 		
 		evil_god_names = {
-			FASCISM NATIONAL_SOCIALISM SOCIALISM SOCIAL_DEMOCRACY CONSERVATISM REACTIONARISM
+			FASCISM NATIONAL_SOCIALISM VALKISM SOCIAL_DEMOCRACY CONSERVATISM REACTIONARISM STALINISM
 		}
 		
 		autocephaly = yes
@@ -296,6 +295,44 @@ democratic = {
 		can_grant_divorce = no
 		can_grant_claim = yes
 		can_call_crusade = yes
+		priests_can_inherit = yes
+		rel_head_defense = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
+	
+	green = {
+		graphical_culture = westerngfx
+
+		icon = 6
+		heresy_icon = 6
+		
+		color = { 33 180 38 }
+		
+		scripture_name = THINKING_GREEN #!
+		priest_title = SCIENTIST
+		
+		high_god_name = VAL_ENVIROMENTALISM
+		
+		god_names = {
+			VAL_ECOLOGICAL_WISDOM VAL_SOCIAL_JUSTICE VAL_GRASSROOTS_DEMOCRACY VAL_NONVIOLENCE
+		}
+		
+		evil_god_names = {
+			FASCISM NATIONAL_SOCIALISM CONSERVATISM REACTIONARISM COMMUNISM REACTIONARISM MONARCHISM STALINISM VALKISM STALINISM
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = no
+		can_grant_claim = no
+		can_call_crusade = no
 		priests_can_inherit = yes
 		rel_head_defense = no
 		
@@ -309,7 +346,7 @@ democratic = {
 	}
 }
 
-authoritarian = {
+authoritarian_grp = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
@@ -319,7 +356,46 @@ authoritarian = {
 	ai_convert_same_group = 2
 	ai_convert_other_group = 2
 	
-	# monarchist - 7
+	monarchist = {
+		graphical_culture = westerngfx
+
+		icon = 7
+		heresy_icon = 7
+		
+		color = { 53 41 27 }
+		
+		crusade_name = INSTALL_MONARCHY
+		use_new_crusade = no
+		crusade_cb = crusade
+		scripture_name = THE_HISTORIES
+		priest_title = SCIENTIST
+		
+		high_god_name = VAL_DIVINE_RIGHT
+		
+		god_names = {
+			VAL_DIRECT_ACTION VAL_FEUDALISM VAL_HEIRARCHAL_SOCIETY
+		}
+		
+		evil_god_names = {
+			COMMUNISM PROGRESSIVISM LIBERAL_DEMOCRACY SOCIAL_DEMOCRACY SOCIALISM LIBERTARIANISM ANARCHISM RADICALISM FEMINISM PRIMITIVISM GREEN_POLITICS FASCISM
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_inherit = yes
+		rel_head_defense = yes
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
 	
 	fascist = {
 		graphical_culture = westerngfx
@@ -333,7 +409,7 @@ authoritarian = {
 		use_new_crusade = yes
 		crusade_cb = new_crusade
 		scripture_name = THE_DOCTRINE_OF_FASCISM
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_AUTOCRATIC_MILITARISM
 		
@@ -342,7 +418,7 @@ authoritarian = {
 		}
 		
 		evil_god_names = {
-			COMMUNISM PROGRESSIVISM LIBERAL_DEMOCRACY SOCIAL_DEMOCRACY SOCIALISM LIBERTARIANISM CONSERVATISM ANARCHISM RADICALISM
+			COMMUNISM PROGRESSIVISM LIBERAL_DEMOCRACY SOCIAL_DEMOCRACY SOCIALISM LIBERTARIANISM CONSERVATISM ANARCHISM RADICALISM FEMINISM PRIMITIVISM GREEN_POLITICS
 		}
 		
 		autocephaly = yes
@@ -362,9 +438,123 @@ authoritarian = {
 		intermarry = neutral
 	}
 	
-	# national_socialist - 9
-	# valkist - 10
-	# algocratic - 11
+	national_socialist = {
+		graphical_culture = westerngfx
+
+		icon = 9
+		heresy_icon = 9
+		
+		color = { 28 28 28 }
+		
+		crusade_name = GENOCIDAL_COLONISATION
+		use_new_crusade = yes
+		crusade_cb = new_crusade
+		scripture_name = MEIN_KAMPF
+		priest_title = SCIENTIST
+		
+		high_god_name = VAL_SCIENTIFIC_RACISM
+		
+		god_names = {
+			VAL_ANTI_SEMITISM VAL_ANTI_COMMUNISM VAL_LEBENSRAUM VAL_FANATIC_MILITARISM VAL_FUHRERPRINZIP VAL_INDOCTRINATION
+		}
+		
+		evil_god_names = {
+			COMMUNISM PROGRESSIVISM LIBERAL_DEMOCRACY SOCIAL_DEMOCRACY SOCIALISM LIBERTARIANISM CONSERVATISM ANARCHISM RADICALISM FEMINISM PRIMITIVISM GREEN_POLITICS
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = no
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_inherit = yes
+		rel_head_defense = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
+	
+	valkist = {
+		graphical_culture = westerngfx
+
+		icon = 10
+		heresy_icon = 10
+		
+		color = { 46 49 71 }
+		
+		crusade_name = CULTURAL_WAR
+		use_new_crusade = yes
+		crusade_cb = new_crusade
+		scripture_name = WRITINGS_OF_DRESSLER
+		priest_title = SCIENTIST
+		
+		high_god_name = VAL_CULTURAL_SUPREMACY
+		
+		god_names = {
+			VAL_ANTI_CAPITALISM VAL_ULTRANATIONALIST VAL_TOTALITARIANISM VAL_PROGRESSIVISM VAL_COOPERATIVE_ECONOMIC_SYSTEM
+		}
+		
+		evil_god_names = {
+			COMMUNISM PROGRESSIVISM LIBERAL_DEMOCRACY SOCIAL_DEMOCRACY SOCIALISM LIBERTARIANISM CONSERVATISM ANARCHISM RADICALISM FEMINISM PRIMITIVISM GREEN_POLITICS
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = no
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_inherit = yes
+		rel_head_defense = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
+	
+	algocratic = {
+		graphical_culture = westerngfx
+
+		icon = 11
+		heresy_icon = 11
+		
+		color = { 99 22 111 }
+		
+		crusade_name = BRAINWASH
+		use_new_crusade = no
+		crusade_cb = crusade
+		scripture_name = THREAT_OF_ALGOCRACY
+		priest_title = RESEARCH_DRONE
+		
+		high_god_name = VAL_RULE_BY_ALGORITHM
+		
+		god_names = {
+			VAL_CONSTRAINT_OF_HUMAN_BEHAVIOUR VAL_COLLECTIVE_HIVEMIND VAL_CALCULATED_AMBIVILENCE
+		}
+		
+		evil_god_names = {
+			ALL_OTHER_IDEOLOGIES
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_inherit = yes
+		rel_head_defense = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+	}
 	
 	corporate = {
 		graphical_culture = westerngfx
@@ -378,12 +568,12 @@ authoritarian = {
 		use_new_crusade = no
 		crusade_cb = crusade
 		scripture_name = CHARTER_OF_CARNARO # ..Or Preussentum und Sozialismus?
-		priest_title = BUSINESSMAN
+		priest_title = BUSINESS_ANALYST
 		
 		high_god_name = VAL_GENERATION_OF_PROFIT
 		
 		god_names = {
-			VAL_WAGE_SLAVERY VAL_SOCIAL_CONTRIBUTION VAL_DIRECT_ACTION VAL_PROTECTIONISM VAL_UTILITARIANISM
+			VAL_WAGE_SLAVERY VAL_SOCIAL_CONTRIBUTION VAL_DIRECT_ACTION VAL_PROTECTIONISM VAL_UTILITARIANISM VAL_EFFICIENCY
 		}
 		
 		evil_god_names = {
@@ -406,9 +596,49 @@ authoritarian = {
 		intermarry = populist
 		intermarry = neutral
 	}
+	
+	islamist = {
+		graphical_culture = muslimgfx
+		interface_skin = { muslim_interface }
+
+		icon = 25
+		heresy_icon = 25
+		
+		color = { 16 87 16 }
+		
+		crusade_name = JIHAD
+		scripture_name = THE_QURAN
+		priest_title = SCHOLAR
+		
+		high_god_name = VAL_ISLAMIC_FUNDEMENTALISM
+		
+		god_names = {
+			VAL_SHARIA_LAW VAL_RELIGIOUS_STRUGGLE VAL_SALAFISM VAL_QUTBISM VAL_CALIPHATE VAL_PAN_ISLAMISM 
+		}
+		
+		evil_god_names = {
+			CONSERVATISM SOCIAL_DEMOCRACY LIBERAL_DEMOCRACY COMMUNISM SOCIALISM ANARCHISM STALINISM PROGRESSIVISM SYNDICALISM CORPORATISM
+		}
+		
+		can_call_crusade = yes
+		priests_can_marry = yes
+		psc_marriage = no # Disallow uncle-nice and aunt-nephew marriages
+		max_wives = 4
+		matrilineal_marriages = no
+		
+		landed_kin_prestige_bonus = yes
+		attacking_same_religion_piety_loss = yes
+		uses_decadence = yes
+		uses_jizya_tax = yes
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
 }
 
-populist = {
+populist_grp = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
@@ -430,7 +660,7 @@ populist = {
 		use_new_crusade = no
 		crusade_cb = new_crusade
 		scripture_name = PEOPLES_CHARTER # From the Chartists
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_RADICAL_REFORM
 		
@@ -465,13 +695,13 @@ populist = {
 		icon = 14
 		heresy_icon = 14
 		
-		color = { 205 163 35 }
+		color = { 199 124 19 }
 		
 		crusade_name = CULTURAL_WAR
 		use_new_crusade = no
 		crusade_cb = crusade
 		scripture_name = TREATISE_ON_THE_ORIGIN_OF_LANGUAGE
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_NATIONAL_IDENTITY
 		
@@ -480,7 +710,7 @@ populist = {
 		}
 		
 		evil_god_names = {
-			COMMUNISM RADICALISM CORPORATISM SOCIAL_DEMOCRACY LIBERAL_DEMOCRACY LIBERTARIANISM ANARCHISM PROGRESSIVISM
+			COMMUNISM CORPORATISM SOCIAL_DEMOCRACY LIBERAL_DEMOCRACY LIBERTARIANISM ANARCHISM PROGRESSIVISM
 		}
 		
 		autocephaly = yes
@@ -504,15 +734,15 @@ populist = {
 		graphical_culture = westerngfx
 
 		icon = 15
-		heresy_icon = 15
+		heresy_icon = 16
 		
 		color = { 151 8 10 }
 		
 		crusade_name = REVOLUTIONARY_WAR
-		use_new_crusade = no
+		use_new_crusade = yes
 		crusade_cb = new_crusade
 		scripture_name = COMMUNIST_MANIFESTO
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_COLLECTIVE_OWNERSHIP_OF_THE_MEANS_OF_PRODUCTION
 		
@@ -541,18 +771,98 @@ populist = {
 		intermarry = neutral
 	}
 	
-	# stalinist - 16
-	# anarchist - 17
-	
-	primitive = {
+	stalinist = {
 		graphical_culture = westerngfx
 
-		icon = 18
+		icon = 15
+		heresy_icon = 16
+		parent = communist
+		
+		color = { 50 10 10 }
+		
+		crusade_name = REVOLUTIONARY_WAR
+		use_new_crusade = no
+		crusade_cb = crusade
+		scripture_name = COMMUNIST_MANIFESTO
+		priest_title = SCIENTIST
+		
+		high_god_name = VAL_SOCIALISM_IN_ONE_COUNTRY
+		
+		god_names = {
+			VAL_RAPID_INDUSTRIALISATION VAL_TOTALITARIANISM VAL_COLLECTIVISATION_OF_AGRICULTURE VAL_PERSONALITY_CULT
+		}
+		
+		evil_god_names = {
+			CONSERVATISM NATIONAL_SOCIALISM MONARCHISM CORPORATISM SOCIAL_DEMOCRACY LIBERAL_DEMOCRACY LIBERTARIANISM ANARCHISM
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = no
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_inherit = yes
+		rel_head_defense = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
+	
+	anarchist = {
+		graphical_culture = westerngfx
+
+		icon = 17
+		heresy_icon = 18
+		
+		color = { 61 18 46 }
+		
+		crusade_name = WAR_TO_DISMANTLE_GOVERNMENT
+		use_new_crusade = yes
+		crusade_cb = new_crusade
+		scripture_name = POLITICAL_JUSTICE
+		priest_title = SCIENTIST
+		
+		high_god_name = VAL_STATELESS_SOCIETY
+		
+		god_names = {
+			VAL_ANTI_ESTABLISHMENT VAL_ANTI_AUTHORITARIANISM VAL_FREE_ASSOCIATION VAL_SELF_GOVERNANCE VAL_SELF_MANAGEMENT VAL_MUTUALISM VAL_PARTICIPATORY_ECONOMICS
+		}
+		
+		evil_god_names = {
+			CONSERVATISM NATIONAL_SOCIALISM MONARCHISM CORPORATISM FASCISM SOCIAL_DEMOCRACY LIBERAL_DEMOCRACY COMMUNISM STALINISM VALKISM NATIONALISM REACTIONARISM
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = no
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_inherit = yes
+		rel_head_defense = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
+	
+	primitive = {
+		graphical_culture = norsegfx # for tribal aesthetic
+
+		icon = 17
 		heresy_icon = 18
 		
 		color = { 149 128 100 }
 		
-		#parent = anarchist
+		parent = anarchist
 		
 		scripture_name = WALDEN
 		priest_title = ELDER
@@ -584,7 +894,46 @@ populist = {
 		intermarry = neutral
 	}
 	
-	# syndicalism - 19
+	syndicalist = {
+		graphical_culture = westerngfx
+
+		icon = 19
+		heresy_icon = 19
+		
+		color = { 217 115 141 }
+		
+		crusade_name = WORKERS_UPRISING
+		use_new_crusade = no
+		crusade_cb = crusade
+		scripture_name = BLACK_FLAME
+		priest_title = SCIENTIST
+		
+		high_god_name = VAL_TRADE_UNIONS
+		
+		god_names = {
+			VAL_ANTI_CAPITALISM VAL_COLLECTIVE_OWNERSHIP VAL_SELF_MANAGEMENT VAL_COOPERATIVE_ECONOMIC_SYSTEM
+		}
+		
+		evil_god_names = {
+			CONSERVATISM REACTIONARISM NATIONAL_SOCIALISM MONARCHISM CORPORATISM STALINISM SOCIAL_DEMOCRACY LIBERAL_DEMOCRACY LIBERTARIANISM
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = no
+		can_grant_claim = yes
+		can_call_crusade = yes
+		priests_can_inherit = yes
+		rel_head_defense = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
 	
 	socialist = {
 		graphical_culture = westerngfx
@@ -598,12 +947,12 @@ populist = {
 		use_new_crusade = no
 		crusade_cb = crusade
 		scripture_name = THE_INDUSTRIAL_SYSTEM # by Henri de Saint-Simon 
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_FREE_ASSOCIATION
 		
 		god_names = {
-			VAL_COLLECTIVE_OWNERSHIP VAL_EQUAL_OPPORTUNITY VAL_WORKERS_SELF_MANAGEMENT VAL_CALCULATION_IN_KIND VAL_PLANNED_ECONOMY
+			VAL_COLLECTIVE_OWNERSHIP VAL_EQUAL_OPPORTUNITY VAL_SELF_MANAGEMENT VAL_CALCULATION_IN_KIND VAL_PLANNED_ECONOMY
 		}
 		
 		evil_god_names = {
@@ -636,7 +985,7 @@ populist = {
 		color = { 167 91 232 }
 		
 		scripture_name = PERONIST_PHILOSOPHY
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_POPULAR_DEMOCRACY
 		
@@ -666,7 +1015,7 @@ populist = {
 	}
 }
 
-neutral = {
+neutral_grp = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
@@ -676,7 +1025,43 @@ neutral = {
 	ai_convert_same_group = 0.5
 	ai_convert_other_group = 0.5
 	
-	# centrist - 22
+	centrist = {
+		graphical_culture = westerngfx
+
+		icon = 22
+		heresy_icon = 22
+		
+		color = { 197 220 223 }
+		
+		scripture_name = INDEPENDENT_NATION
+		priest_title = SCIENTIST
+		
+		high_god_name = VAL_POLITICAL_BALANCE
+		
+		god_names = {
+			VAL_SOCIAL_EQUALITY VAL_SOCIAL_HIERARCHY
+		}
+		
+		evil_god_names = {
+			ANARCHISM COMMUNISM FASCISM NATIONAL_SOCIALISM VALKISM STALINISM PRIMITIVISM
+		}
+		
+		autocephaly = yes
+		can_excommunicate = yes
+		can_grant_divorce = no
+		can_grant_claim = yes
+		can_call_crusade = no
+		priests_can_inherit = yes
+		rel_head_defense = no
+		
+		religious_clothing_head = 0
+		religious_clothing_priest = 1
+
+		intermarry = democratic
+		intermarry = authoritarian
+		intermarry = populist
+		intermarry = neutral
+	}
 	
 	reactionary = {
 		graphical_culture = westerngfx
@@ -686,10 +1071,8 @@ neutral = {
 		
 		color = { 184 184 184 }
 		
-		crusade_name = SPREAD_IDEOLOGY
-		use_new_crusade = no
 		scripture_name = THE_DARK_ENLIGHTENMENT
-		priest_title = POLITICIAN
+		priest_title = SCIENTIST
 		
 		high_god_name = VAL_STATUS_QUO
 		
@@ -719,7 +1102,7 @@ neutral = {
 	}
 }
 
-unalligned = {
+unalligned_grp = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade
