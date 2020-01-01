@@ -1233,12 +1233,12 @@ scandinavian_grp = {
 		
 		color = { 0.5 0.8 0.9 }
 		
-		male names = {
+		male_names = {
 			William Mathias Oliver Jakob Lucas Filip Liam Aksel Emil Oskar Markus Theodor Elias Alexander Kasper Magnus Jonas Henrik Noah Isak Tobias
 			Sebastian Sander Kristian Leon Daniel Johannes	Benjamin Mathéo Nikolai Martin Adrian Mohammad Olav Ludvig Hakon Theo Victor Johan
 			Sondre Erik Felix Andreas Julian Even Sigurd Jonathan Mikkel Herman Iver
 		}
-		female names = {
+		female_names = {
 			Anette Anita Ann Anna Anne Aslaug Astrid Aud Bente Berit Bodil Brit Britt Camilla Cathrine Cecilie Eli Elin Elisabeth Ellen Else Eva
 			Gerd Grete Grethe Gro Gunn Gunvor Hanne Hege Heidi Helene Hilde Ida Ingeborg Inger Ingrid Ingunn Irene Janne Jenny Jorunn
 			Julie Karen Kari Karin Karoline Kirsten Kjersti Kristin Kristine Laila Lene Lillian Linda Line Linn Lisbeth Lise
