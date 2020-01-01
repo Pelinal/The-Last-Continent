@@ -1,5 +1,5 @@
 ###############################
-east_slavic_grp, dyns: id 2201-2400 
+#east_slavic_grp, dyns: id 2201-2400 
 ###############################
 
 #Russian dynasties

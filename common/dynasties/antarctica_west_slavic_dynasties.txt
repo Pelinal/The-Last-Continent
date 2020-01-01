@@ -1,5 +1,5 @@
 ###############################
-west_slavic_grp, dyns: id 2401-2600
+#west_slavic_grp, dyns: id 2401-2600
 ###############################
 
 #Croatian dynasties
