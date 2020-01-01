@@ -3,10 +3,10 @@ title = c_zerzan
 max_settlements = 5
 # Baronies
 	b_zerzan = tribal
-	#b_guerin = {}
-	#b_revista = {}
-	#b_gravelle = {}
-	#b_urales = {}
+	#b_ubedares = {}
+	#b_paga = {}
+	#b_la_pinlapel = {}
+	#b_fassarica = {}
 	
 # Misc
 culture = egyptian

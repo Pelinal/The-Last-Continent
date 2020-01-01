@@ -680,7 +680,7 @@ e_antarctandes = {
 				color2 = { 255 255 255 }
 				
 				b_lehrke = {}
-				b_boggs = {}
+				b_boggs_2 = {}
 				b_smith = {}
 				b_ewing = {}
 			}
@@ -1177,7 +1177,7 @@ e_antarctandes = {
 				b_jones = {}
 				b_millenium = {}
 				b_brackenlake = {}
-				b_farspear = {}
+				b_farspear_2 = {}
 			}
 		}
 		
@@ -1445,10 +1445,10 @@ e_antarctandes = {
 				color2 = {255 255 255}
 				
 				b_zerzan = {}
-				b_guerin = {}
-				b_revista = {}
-				b_gravelle = {}
-				b_urales = {}
+				b_ubedares = {}
+				b_paga = {}
+				b_la_pinlapel = {}
+				b_fassarica = {}
 			}
 			
 			c_wildgrove = {
@@ -1952,7 +1952,7 @@ e_marie_byrd_land = {
 				b_armour = {}
 				b_russell = {}
 				b_sippling = {}
-				b_wright = {}	
+				b_wrigley = {}	
 			}
 		}
 	}
@@ -2705,7 +2705,7 @@ e_marie_byrd_land = {
 				color = { 140 110 61 }
 				color2 = { 255 255 255 }
 				
-				b_greenwich = {}
+				b_greenwich_2 = {}
 				b_westmunster = {}
 				b_albertea = {}
 				b_bemidji = {}
@@ -2849,7 +2849,7 @@ e_marie_byrd_land = {
 				
 				b_chessnut = {}
 				b_anniston = {}
-				b_marion = {}
+				b_marion_2 = {}
 				b_sheffield = {}
 			}
 			c_ivywood = {
@@ -3025,7 +3025,7 @@ e_marie_byrd_land = {
 				french = "Henri"
 				quebecois = "Henri"
 				
-				b_henry = {}
+				b_henry_2 = {}
 				b_bad_laapshe = {}
 				b_hettstedt = {}
 				b_kerpen = {}

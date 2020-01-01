@@ -3,7 +3,7 @@ title = c_henry
 max_settlements = 4
 
 # Baronies
-	b_henry = city
+	b_henry_2 = city
 	b_melle = temple
 	#b_penzlin = {}
 	#b_speicher = {}

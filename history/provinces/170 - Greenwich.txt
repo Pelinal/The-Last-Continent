@@ -2,7 +2,7 @@
 title = c_greenwich
 
 #Baronies
-	b_greenwich = tribal
+	b_greenwich_2 = tribal
 	#b_westmunster = {}
 	#b_albertea = {}
 	#b_bemidji = {}
