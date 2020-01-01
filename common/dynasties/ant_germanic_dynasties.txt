@@ -1,0 +1,700 @@
+###############################
+germanic_grp, dyns: id start-last id 
+###############################
+
+#German dynasties
+### = {
+	name = "Bauer"
+	culture = "german"
+}
+### = {
+	name = "Braun"
+	culture = "german"
+}
+### = {
+	name = "Walter"
+	culture = "german"
+}
+### = {
+	name = "Werner"
+	culture = "german"
+}
+### = {
+	name = "Kaiser"
+	culture = "german"
+}
+### = {
+	name = "Hofmann"
+	culture = "german"
+}
+### = {
+	name = "Fuchs"
+	culture = "german"
+}
+### = {
+	name = "Beck"
+	culture = "german"
+}
+### = {
+	name = "Frank"
+	culture = "german"
+}
+### = {
+	name = "Klein"
+	culture = "german"
+}
+### = {
+	name = "Keller"
+	culture = "german"
+}
+### = {
+	name = "Krause"
+	culture = "german"
+}
+### = {
+	name = "Friedrich"
+	culture = "german"
+}
+### = {
+	name = "Berger"
+	culture = "german"
+}
+### = {
+	name = "Baumann"
+	culture = "german"
+}
+### = {
+	name = "Albrecht"
+	culture = "german"
+}
+### = {
+	name = "Lang"
+	culture = "german"
+}
+### = {
+	name = "Kraus"
+	culture = "german"
+}
+### = {
+	name = "Lorenz"
+	culture = "german"
+}
+### = {
+	name = "Herrmann"
+	culture = "german"
+}
+### = {
+	name = "Schuster"
+	culture = "german"
+}
+### = {
+	name = "Ludwig"
+	culture = "german"
+}
+### = {
+	name = "Simon"
+	culture = "german"
+}
+### = {
+	name = "Huber"
+	culture = "german"
+}
+### = {
+	name = "Arnold"
+	culture = "german"
+}
+### = {
+	name = "Martin"
+	culture = "german"
+}
+### = {
+	name = "Haas"
+	culture = "german"
+}
+### = {
+	name = "Franke"
+	culture = "german"
+}
+### = {
+	name = "Barth"
+	culture = "german"
+}
+### = {
+	name = "Heinrich"
+	culture = "german"
+}
+### = {
+	name = "Graf"
+	culture = "german"
+}
+### = {
+	name = "Dietrich"
+	culture = "german"
+}
+### = {
+	name = "Lindner"
+	culture = "german"
+}
+### = {
+	name = "Engel"
+	culture = "german"
+}
+### = {
+	name = "Thomas"
+	culture = "german"
+}
+### = {
+	name = "Jung"
+	culture = "german"
+}
+### = {
+	name = "Bergmann"
+	culture = "german"
+}
+### = {
+	name = "Franz"
+	culture = "german"
+}
+### = {
+	name = "Brandt"
+	culture = "german"
+}
+### = {
+	name = "Kern"
+	culture = "german"
+}
+### = {
+	name = "Kuhn"
+	culture = "german"
+}
+### = {
+	name = "Ernst"
+	culture = "german"
+}
+### = {
+	name = "Wilhelm"
+	culture = "german"
+}
+### = {
+	name = "Beyer"
+	culture = "german"
+}
+### = {
+	name = "Hermann"
+	culture = "german"
+}
+### = {
+	name = "Peter"
+	culture = "german"
+}
+### = {
+	name = "Paul"
+	culture = "german"
+}
+### = {
+	name = "Bayer"
+	culture = "german"
+}
+### = {
+	name = "Lange"
+	culture = "german"
+}
+### = {
+	name = "Bock"
+	culture = "german"
+}
+### = {
+	name = "Grimm"
+	culture = "german"
+}
+### = {
+	name = "Busch"
+	culture = "german"
+}
+### = {
+	name = "Otto"
+	culture = "german"
+}
+### = {
+	name = "Gruber"
+	culture = "german"
+}
+### = {
+	name = "Brunner"
+	culture = "german"
+}
+### = {
+	name = "Arndt"
+	culture = "german"
+}
+### = {
+	name = "Michel"
+	culture = "german"
+}
+### = {
+	name = "Adam"
+	culture = "german"
+}
+### = {
+	name = "Pfeiffer"
+	culture = "german"
+}
+### = {
+	name = "Langer"
+	culture = "german"
+}
+### = {
+	name = "Bachmann"
+	culture = "german"
+}
+### = {
+	name = "Fritz"
+	culture = "german"
+}
+### = {
+	name = "Kramer"
+	culture = "german"
+}
+### = {
+	name = "Bender"
+	culture = "german"
+}
+### = {
+	name = "Jahn"
+	culture = "german"
+}
+### = {
+	name = "Fiedler"
+	culture = "german"
+}
+### = {
+	name = "Peters"
+	culture = "german"
+}
+### = {
+	name = "Berg"
+	culture = "german"
+}
+### = {
+	name = "Eckert"
+	culture = "german"
+}
+### = {
+	name = "Kaufmann"
+	culture = "german"
+}
+### = {
+	name = "Geiger"
+	culture = "german"
+}
+### = {
+	name = "Kraft"
+	culture = "german"
+}
+### = {
+	name = "Haase"
+	culture = "german"
+}
+### = {
+	name = "Binder"
+	culture = "german"
+}
+### = {
+	name = "Frey"
+	culture = "german"
+}
+### = {
+	name = "Bach"
+	culture = "german"
+}
+### = {
+	name = "Ebert"
+	culture = "german"
+}
+### = {
+	name = "Hartmann"
+	culture = "german"
+}
+### = {
+	name = "Maurer"
+	culture = "german"
+}
+### = {
+	name = "Baier"
+	culture = "german"
+}
+### = {
+	name = "Moser"
+	culture = "german"
+}
+### = {
+	name = "Herzog"
+	culture = "german"
+}
+### = {
+	name = "Breuer"
+	culture = "german"
+}
+### = {
+	name = "Heinz"
+	culture = "german"
+}
+### = {
+	name = "Ackermann"
+	culture = "german"
+}
+### = {
+	name = "Stephan"
+	culture = "german"
+}
+### = {
+	name = "Dietz"
+	culture = "german"
+}
+### = {
+	name = "Kirchner"
+	culture = "german"
+}
+### = {
+	name = "Kunze"
+	culture = "german"
+}
+### = {
+	name = "Fink"
+	culture = "german"
+}
+### = {
+	name = "Lenz"
+	culture = "german"
+}
+### = {
+	name = "Thiele"
+	culture = "german"
+}
+### = {
+	name = "Hein"
+	culture = "german"
+}
+### = {
+	name = "Hoppe"
+	culture = "german"
+}
+### = {
+	name = "Albert"
+	culture = "german"
+}
+### = {
+	name = "Baum"
+	culture = "german"
+}
+### = {
+	name = "Bader"
+	culture = "german"
+}
+### = {
+	name = "Von"
+	culture = "german"
+}
+### = {
+	name = "Jansen"
+	culture = "german"
+}
+### = {
+	name = "Jakob"
+	culture = "german"
+}
+
+#Dutch dynasties
+### = {
+	name = "Smit"
+	culture = "dutch"
+}
+### = {
+	name = "Weide"
+	culture = "dutch"
+}
+### = {
+	name = "Klok"
+	culture = "dutch"
+}
+### = {
+	name = "Westerhof"
+	culture = "dutch"
+}
+### = {
+	name = "Snoek"
+	culture = "dutch"
+}
+### = {
+	name = "Oever"
+	culture = "dutch"
+}
+### = {
+	name = "Gerritsen"
+	culture = "dutch"
+}
+### = {
+	name = "Otter"
+	culture = "dutch"
+}
+### = {
+	name = "Kremer"
+	culture = "dutch"
+}
+### = {
+	name = "Vegt"
+	culture = "dutch"
+}
+### = {
+	name = "Kloosterman"
+	culture = "dutch"
+}
+### = {
+	name = "Kooi"
+	culture = "dutch"
+}
+### = {
+	name = "Zuidema"
+	culture = "dutch"
+}
+### = {
+	name = "Jonkman"
+	culture = "dutch"
+}
+### = {
+	name = "Alberts"
+	culture = "dutch"
+}
+### = {
+	name = "Boven"
+	culture = "dutch"
+}
+### = {
+	name = "Troost"
+	culture = "dutch"
+}
+### = {
+	name = "Veenendaal"
+	culture = "dutch"
+}
+### = {
+	name = "Verkerk"
+	culture = "dutch"
+}
+### = {
+	name = "Evers"
+	culture = "dutch"
+}
+### = {
+	name = "Nijhof"
+	culture = "dutch"
+}
+### = {
+	name = "Kraan"
+	culture = "dutch"
+}
+### = {
+	name = "Krol"
+	culture = "dutch"
+}
+### = {
+	name = "Wever"
+	culture = "dutch"
+}
+### = {
+	name = "Klein"
+	culture = "dutch"
+}
+### = {
+	name = "Baan"
+	culture = "dutch"
+}
+### = {
+	name = "Zwan"
+	culture = "dutch"
+}
+### = {
+	name = "Bol"
+	culture = "dutch"
+}
+### = {
+	name = "Wind"
+	culture = "dutch"
+}
+### = {
+	name = "Akkerman"
+	culture = "dutch"
+}
+
+#Austrian dynasties
+### = {
+	name = "Gruber"
+	culture = "austrian"
+}
+### = {
+	name = "Huber"
+	culture = "austrian"
+}
+### = {
+	name = "Bauer"
+	culture = "austrian"
+}
+### = {
+	name = "Wagner"
+	culture = "austrian"
+}
+### = {
+	name = "Muller"
+	culture = "austrian"
+}
+### = {
+	name = "Pichler"
+	culture = "austrian"
+}
+### = {
+	name = "Moser"
+	culture = "austrian"
+}
+### = {
+	name = "Steiner"
+	culture = "austrian"
+}
+### = {
+	name = "Hofer"
+	culture = "austrian"
+}
+### = {
+	name = "Mayer"
+	culture = "austrian"
+}
+### = {
+	name = "Leitner"
+	culture = "austrian"
+}
+### = {
+	name = "Berger"
+	culture = "austrian"
+}
+### = {
+	name = "Fuchs"
+	culture = "austrian"
+}
+### = {
+	name = "Eder"
+	culture = "austrian"
+}
+### = {
+	name = "Fischer"
+	culture = "austrian"
+}
+### = {
+	name = "Schmid"
+	culture = "austrian"
+}
+### = {
+	name = "Winkler"
+	culture = "austrian"
+}
+### = {
+	name = "Weber"
+	culture = "austrian"
+}
+### = {
+	name = "Schwarz"
+	culture = "austrian"
+}
+### = {
+	name = "Maier"
+	culture = "austrian"
+}
+### = {
+	name = "Schneider"
+	culture = "austrian"
+}
+### = {
+	name = "Reiter"
+	culture = "austrian"
+}
+### = {
+	name = "Mayr"
+	culture = "austrian"
+}
+### = {
+	name = "Brunner"
+	culture = "austrian"
+}
+### = {
+	name = "Wimmer"
+	culture = "austrian"
+}
+### = {
+	name = "Baumgartner"
+	culture = "austrian"
+}
+### = {
+	name = "Schmidt"
+	culture = "austrian"
+}
+### = {
+	name = "Lang"
+	culture = "austrian"
+}
+### = {
+	name = "Auer"
+	culture = "austrian"
+}
+### = {
+	name = "Egger"
+	culture = "austrian"
+}
+
+#Special dynasties
+
+#Nico
+### = {
+	name = "Hülkenberg"
+	culture = "german"
+	used_for_random = no
+}
+
+#Nico
+### = {
+	name = "Rosberg"
+	culture = "german"
+	used_for_random = no
+}
+
+#Sebastian
+### = {
+	name = "Vettel"
+	culture = "german"
+	used_for_random = no
+}
+
+#Max, Jos
+### = {
+	name = "Verstappen"
+	culture = "dutch"
+	used_for_random = no
+}
+
+#Niki
+### = {
+	name = "Lauda"
+	culture = "austrian"
+	used_for_random = no
+}
+
+#Jochen
+### = {
+	name = "Rindt"
+	culture = "austrian"
+	used_for_random = no
+}
+
+#Gerhard
+### = {
+	name = "Berger"
+	culture = "austrian"
+	used_for_random = no
+}

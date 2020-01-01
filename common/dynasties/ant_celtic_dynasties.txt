@@ -1,0 +1,370 @@
+###############################
+celtic_grp, dyns: id start-last id 
+###############################
+
+#Irish Dynasties
+### = {
+	name = "Abraham"
+	culture = "irish"
+}
+### = {
+	name = "Agan"
+	culture = "irish"
+}
+### = {
+	name = "Agnew"
+	culture = "irish"
+}
+### = {
+	name = "Ahearn"
+	culture = "irish"
+}
+### = {
+	name = "Burns"
+	culture = "irish"
+}
+### = {
+	name = "Busteed"
+	culture = "irish"
+}
+### = {
+	name = "Caffrey"
+	culture = "irish"
+}
+### = {
+	name = "Cagney"
+	culture = "irish"
+}
+### = {
+	name = "Crough"
+	culture = "irish"
+}
+### = {
+	name = "Crow"
+	culture = "irish"
+}
+### = {
+	name = "Dale"
+	culture = "irish"
+}
+### = {
+	name = "Flood"
+	culture = "irish"
+}
+### = {
+	name = "Forbes"
+	culture = "irish"
+}
+### = {
+	name = "Gainey"
+	culture = "irish"
+}
+### = {
+	name = "Gainor"
+	culture = "irish"
+}
+### = {
+	name = "Heagerty"
+	culture = "irish"
+}
+### = {
+	name = "Heaney"
+	culture = "irish"
+}
+### = {
+	name = "Koyle"
+	culture = "irish"
+}
+### = {
+	name = "Kyne"
+	culture = "irish"
+}
+### = {
+	name = "Laffey"
+	culture = "irish"
+}
+### = {
+	name = "Laffin"
+	culture = "irish"
+}
+### = {
+	name = "Laverty"
+	culture = "irish"
+}
+### = {
+	name = "MacDowell"
+	culture = "irish"
+}
+### = {
+	name = "MacGuire"
+	culture = "irish"
+}
+### = {
+	name = "Macken"
+	culture = "irish"
+}
+### = {
+	name = "Mackin"
+	culture = "irish"
+}
+### = {
+	name = "Macklem"
+	culture = "irish"
+}
+### = {
+	name = "O’Beirne"
+	culture = "irish"
+}
+### = {
+	name = "O’Berry"
+	culture = "irish"
+}
+### = {
+	name = "O’Boyle"
+	culture = "irish"
+}
+
+#Cornish
+### = {
+	name = "Argus"
+	culture = "cornish"
+}
+### = {
+	name = "Carew"
+	culture = "cornish"
+}
+### = {
+	name = "Carvasso"
+	culture = "cornish"
+}
+### = {
+	name = "Couch"
+	culture = "cornish"
+}
+### = {
+	name = "Glynn"
+	culture = "cornish"
+}
+### = {
+	name = "Goff"
+	culture = "cornish"
+}
+### = {
+	name = "Gwinnel"
+	culture = "cornish"
+}
+### = {
+	name = "Kellow"
+	culture = "cornish"
+}
+### = {
+	name = "Nancarrow"
+	culture = "cornish"
+}
+### = {
+	name = "Penna"
+	culture = "cornish"
+}
+### = {
+	name = "Pengelly"
+	culture = "cornish"
+}
+### = {
+	name = "Polkinghorn"
+	culture = "cornish"
+}
+### = {
+	name = "Trebilcock"
+	culture = "cornish"
+}
+### = {
+	name = "Trelawny"
+	culture = "cornish"
+}
+### = {
+	name = "Tremelling"
+	culture = "cornish"
+}
+### = {
+	name = "Trezies"
+	culture = "cornish"
+}
+### = {
+	name = "Trevarthen"
+	culture = "cornish"
+}
+### = {
+	name = "Verran"
+	culture = "cornish"
+}
+### = {
+	name = "Rosdew"
+	culture = "cornish"
+}
+### = {
+	name = "Teague"
+	culture = "cornish"
+}
+
+#Old Welsh Dynasties
+### = {
+	name = "Baines"
+	culture = "old_welsh"
+}
+### = {
+	name = "Blevins"
+	culture = "old_welsh"
+}
+### = {
+	name = "Bevan"
+	culture = "old_welsh"
+}
+### = {
+	name = "Bowen"
+	culture = "old_welsh"
+}
+### = {
+	name = "Cadwallader"
+	culture = "old_welsh"
+}
+### = {
+	name = "Cecil"
+	culture = "old_welsh"
+}
+### = {
+	name = "Hier"
+	culture = "old_welsh"
+}
+### = {
+	name = "Howell"
+	culture = "old_welsh"
+}
+### = {
+	name = "Lewis"
+	culture = "old_welsh"
+}
+### = {
+	name = "Llewellyn"
+	culture = "old_welsh"
+}
+### = {
+	name = "Lloyd"
+	culture = "old_welsh"
+}
+### = {
+	name = "Marvin"
+	culture = "old_welsh"
+}
+### = {
+	name = "Maddox"
+	culture = "old_welsh"
+}
+### = {
+	name = "Merrick"
+	culture = "old_welsh"
+}
+### = {
+	name = "Probert"
+	culture = "old_welsh"
+}
+### = {
+	name = "Pryce"
+	culture = "old_welsh"
+}
+### = {
+	name = "Rhydderch"
+	culture = "old_welsh"
+}
+### = {
+	name = "Sayer"
+	culture = "old_welsh"
+}
+### = {
+	name = "Trevor"
+	culture = "old_welsh"
+}
+### = {
+	name = "Vaughn"
+	culture = "old_welsh"
+}
+#Breton Dynasties
+### = {
+	name = "Abgrall"
+	culture = "breton"
+}
+### = {
+	name = "Artus"
+	culture = "breton"
+}
+### = {
+	name = "Berthou"
+	culture = "breton"
+}
+### = {
+	name = "Bourgault"
+	culture = "breton"
+}
+### = {
+	name = "Gallou"
+	culture = "breton"
+}
+### = {
+	name = "Guégan"
+	culture = "breton"
+}
+### = {
+	name = "Guiomar"
+	culture = "breton"
+}
+### = {
+	name = "Kirouac"
+	culture = "breton"
+}
+### = {
+	name = "Leroux"
+	culture = "breton"
+}
+### = {
+	name = "Mervin"
+	culture = "breton"
+}
+### = {
+	name = "Morvan"
+	culture = "breton"
+}
+### = {
+	name = " Prima"
+	culture = "breton"
+}
+### = {
+	name = "Quemener"
+	culture = "breton"
+}
+### = {
+	name = "Rault"
+	culture = "breton"
+}
+### = {
+	name = "Riou"
+	culture = "breton"
+}
+### = {
+	name = "Rouault"
+	culture = "breton"
+}
+### = {
+	name = "Savidan"
+	culture = "breton"
+}
+### = {
+	name = "Seznec"
+	culture = "breton"
+}
+### = {
+	name = "Tanguy"
+	culture = "breton"
+}
+### = {
+	name = "Trahan"
+	culture = "breton"
+}

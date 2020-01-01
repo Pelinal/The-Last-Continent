@@ -1,0 +1,531 @@
+###############################
+west_slavic_grp, dyns: id start-last id 
+###############################
+
+#Croatian dynasties
+### = {
+	name = "Knezevic"
+	culture = "croatian"
+}
+### = {
+	name = "Horvat"
+	culture = "croatian"
+}
+### = {
+	name = "Kovacevic"
+	culture = "croatian"
+}
+### = {
+	name = "Pavlovic"
+	culture = "croatian"
+}
+### = {
+	name = "Blazevic"
+	culture = "croatian"
+}
+### = {
+	name = "Bozic"
+	culture = "croatian"
+}
+### = {
+	name = "Lovric"
+	culture = "croatian"
+}
+### = {
+	name = "Babic"
+	culture = "croatian"
+}
+### = {
+	name = "Markovic"
+	culture = "croatian"
+}
+### = {
+	name = "Boznjak"
+	culture = "croatian"
+}
+### = {
+	name = "Grgic"
+	culture = "croatian"
+}
+### = {
+	name = "Brkic"
+	culture = "croatian"
+}
+### = {
+	name = "Filipovic"
+	culture = "croatian"
+}
+### = {
+	name = "Vidovic"
+	culture = "croatian"
+}
+### = {
+	name = "Kovacic"
+	culture = "croatian"
+}
+### = {
+	name = "Tomic"
+	culture = "croatian"
+}
+### = {
+	name = "Jukic"
+	culture = "croatian"
+}
+### = {
+	name = "Novak"
+	culture = "croatian"
+}
+### = {
+	name = "Martinovic"
+	culture = "croatian"
+}
+### = {
+	name = "Petrovic"
+	culture = "croatian"
+}
+### = {
+	name = "Mandic"
+	culture = "croatian"
+}
+### = {
+	name = "zimunovic"
+	culture = "croatian"
+}
+### = {
+	name = "Nikolic"
+	culture = "croatian"
+}
+### = {
+	name = "Jurkovic"
+	culture = "croatian"
+}
+### = {
+	name = "Loncar"
+	culture = "croatian"
+}
+### = {
+	name = "Barizic"
+	culture = "croatian"
+}
+### = {
+	name = "zivkovic"
+	culture = "croatian"
+}
+### = {
+	name = "zimic"
+	culture = "croatian"
+}
+### = {
+	name = "Juric"
+	culture = "croatian"
+}
+### = {
+	name = "Rukavina"
+	culture = "croatian"
+}
+
+#Serbian dynasties
+### = {
+	name = "Jovanovic"
+	culture = "serbian"
+}
+### = {
+	name = "Petrovic"
+	culture = "serbian"
+}
+### = {
+	name = "Nikolic"
+	culture = "serbian"
+}
+### = {
+	name = "Markovic"
+	culture = "serbian"
+}
+### = {
+	name = "Dordevic"
+	culture = "serbian"
+}
+### = {
+	name = "Stojanovic"
+	culture = "serbian"
+}
+### = {
+	name = "Ilic"
+	culture = "serbian"
+}
+### = {
+	name = "Pavlovic"
+	culture = "serbian"
+}
+### = {
+	name = "Popovic"
+	culture = "serbian"
+}
+### = {
+	name = "Stankovic"
+	culture = "serbian"
+}
+### = {
+	name = "Milosevic"
+	culture = "serbian"
+}
+### = {
+	name = "Savic"
+	culture = "serbian"
+}
+### = {
+	name = "Jankovic"
+	culture = "serbian"
+}
+### = {
+	name = "Zivkovic"
+	culture = "serbian"
+}
+### = {
+	name = "Mitrovic"
+	culture = "serbian"
+}
+### = {
+	name = "Ristic"
+	culture = "serbian"
+}
+### = {
+	name = "Kovacevic"
+	culture = "serbian"
+}
+### = {
+	name = "Todorovic"
+	culture = "serbian"
+}
+### = {
+	name = "Stevanovic"
+	culture = "serbian"
+}
+### = {
+	name = "Kostic"
+	culture = "serbian"
+}
+### = {
+	name = "Mladenovic"
+	culture = "serbian"
+}
+### = {
+	name = "Simic"
+	culture = "serbian"
+}
+### = {
+	name = "Milovanovic"
+	culture = "serbian"
+}
+### = {
+	name = "Cvetkovic"
+	culture = "serbian"
+}
+### = {
+	name = "Dimitrijevic"
+	culture = "serbian"
+}
+### = {
+	name = "Krstic"
+	culture = "serbian"
+}
+### = {
+	name = "Milosavljevic"
+	culture = "serbian"
+}
+### = {
+	name = "Tomic"
+	culture = "serbian"
+}
+### = {
+	name = "Stefanovic"
+	culture = "serbian"
+}
+### = {
+	name = "Milenkovic"
+	culture = "serbian"
+}
+
+#Bosnian dynasties
+### = {
+	name = "Ademovic"
+	culture = "bosnian"
+}
+### = {
+	name = "Avdic"
+	culture = "bosnian"
+}
+### = {
+	name = "Babic"
+	culture = "bosnian"
+}
+### = {
+	name = "Delic"
+	culture = "bosnian"
+}
+### = {
+	name = "Dodik"
+	culture = "bosnian"
+}
+### = {
+	name = "Fatic"
+	culture = "bosnian"
+}
+### = {
+	name = "Kapic"
+	culture = "bosnian"
+}
+### = {
+	name = "Kodro"
+	culture = "bosnian"
+}
+### = {
+	name = "Haliovic"
+	culture = "bosnian"
+}
+### = {
+	name = "Hukic"
+	culture = "bosnian"
+}
+### = {
+	name = "Jahic"
+	culture = "bosnian"
+}
+### = {
+	name = "Isakovic"
+	culture = "bosnian"
+}
+### = {
+	name = "Krunic"
+	culture = "bosnian"
+}
+### = {
+	name = "Lulic"
+	culture = "bosnian"
+}
+### = {
+	name = "Mandic"
+	culture = "bosnian"
+}
+### = {
+	name = "Merjanovic"
+	culture = "bosnian"
+}
+### = {
+	name = "Sefero"
+	culture = "bosnian"
+}
+### = {
+	name = "Memic"
+	culture = "bosnian"
+}
+### = {
+	name = "Musemic"
+	culture = "bosnian"
+}
+### = {
+	name = "Mustafic"
+	culture = "bosnian"
+}
+### = {
+	name = "Muzurovic"
+	culture = "bosnian"
+}
+### = {
+	name = "Pjanic"
+	culture = "bosnian"
+}
+### = {
+	name = "Plakalovic"
+	culture = "bosnian"
+}
+### = {
+	name = "Rahimic"
+	culture = "bosnian"
+}
+### = {
+	name = "Rakic"
+	culture = "bosnian"
+}
+### = {
+	name = "Salkic"
+	culture = "bosnian"
+}
+### = {
+	name = "Selimivic"
+	culture = "bosnian"
+}
+### = {
+	name = "Spahic"
+	culture = "bosnian"
+}
+### = {
+	name = "Tankovic"
+	culture = "bosnian"
+}
+### = {
+	name = "Velagic"
+	culture = "bosnian"
+}
+
+#Czech dynasties
+### = {
+	name = "Novak"
+	culture = "czech"
+}
+### = {
+	name = "Novotny"
+	culture = "czech"
+}
+### = {
+	name = "Svoboda"
+	culture = "czech"
+}
+### = {
+	name = "Dvorak"
+	culture = "czech"
+}
+### = {
+	name = "Sedlak"
+	culture = "czech"
+}
+### = {
+	name = "Cerny"
+	culture = "czech"
+}
+### = {
+	name = "Vesely"
+	culture = "czech"
+}
+### = {
+	name = "Sobek"
+	culture = "czech"
+}
+### = {
+	name = "Stich"
+	culture = "czech"
+}
+### = {
+	name = "Barta"
+	culture = "czech"
+}
+### = {
+	name = "Kuba"
+	culture = "czech"
+}
+### = {
+	name = "Tomsa"
+	culture = "czech"
+}
+### = {
+	name = "Bartos"
+	culture = "czech"
+}
+### = {
+	name = "Vavrus"
+	culture = "czech"
+}
+### = {
+	name = "Blaha"
+	culture = "czech"
+}
+### = {
+	name = "Janda"
+	culture = "czech"
+}
+### = {
+	name = "Kubata"
+	culture = "czech"
+}
+### = {
+	name = "Machata"
+	culture = "czech"
+}
+### = {
+	name = "Vasata"
+	culture = "czech"
+}
+### = {
+	name = "Janu"
+	culture = "czech"
+}
+### = {
+	name = "Machu"
+	culture = "czech"
+}
+### = {
+	name = "Kovar"
+	culture = "czech"
+}
+### = {
+	name = "Cadlec"
+	culture = "czech"
+}
+### = {
+	name = "Hrave"
+	culture = "czech"
+}
+### = {
+	name = "Rybar"
+	culture = "czech"
+}
+### = {
+	name = "Kapralek"
+	culture = "czech"
+}
+### = {
+	name = "Vrabec"
+	culture = "czech"
+}
+### = {
+	name = "Broucek"
+	culture = "czech"
+}
+### = {
+	name = "Stojespal"
+	culture = "czech"
+}
+### = {
+	name = "Snedlditetikasi"
+	culture = "czech"
+}
+### = {
+	name = "Precechtel"
+	culture = "czech"
+}
+### = {
+	name = "Doubek"
+	culture = "czech"
+}
+### = {
+	name = "Miller"
+	culture = "czech"
+}
+### = {
+	name = "Najman"
+	culture = "czech"
+}
+### = {
+	name = "Zlamaljelito"
+	culture = "czech"
+}
+### = {
+	name = "Safar"
+	culture = "czech"
+}
+### = {
+	name = "Starosta"
+	culture = "czech"
+}
+### = {
+	name = "Ctvrtnik"
+	culture = "czech"
+}
+### = {
+	name = "Tesar"
+	culture = "czech"
+}
+### = {
+	name = "Fischer"
+	culture = "czech"
+}

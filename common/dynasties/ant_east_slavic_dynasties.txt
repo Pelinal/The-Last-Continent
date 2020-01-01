@@ -1,0 +1,662 @@
+###############################
+east_slavic_grp, dyns: id start-last id 
+###############################
+
+#Russian dynasties
+### = {
+	name = "Alexeev"
+	culture = "russian"
+}
+### = {
+	name = "Andreyev"
+	culture = "russian"
+}
+### = {
+	name = "Baranov"
+	culture = "russian"
+}
+### = {
+	name = "Bobrov"
+	culture = "russian"
+}
+### = {
+	name = "Bogomolov"
+	culture = "russian"
+}
+### = {
+	name = "Bykov"
+	culture = "russian"
+}
+### = {
+	name = "Chernov"
+	culture = "russian"
+}
+### = {
+	name = "Chugunkin"
+	culture = "russian"
+}
+### = {
+	name = "Drozdov"
+	culture = "russian"
+}
+### = {
+	name = "Egorov"
+	culture = "russian"
+}
+### = {
+	name = "Fedorov"
+	culture = "russian"
+}
+### = {
+	name = "Golubev"
+	culture = "russian"
+}
+### = {
+	name = "Gorky"
+	culture = "russian"
+}
+### = {
+	name = "Gusev"
+	culture = "russian"
+}
+### = {
+	name = "Ibragimov"
+	culture = "russian"
+}
+### = {
+	name = "Ivanov"
+	culture = "russian"
+}
+### = {
+	name = "Kalashnik"
+	culture = "russian"
+}
+### = {
+	name = "Kamenev"
+	culture = "russian"
+}
+### = {
+	name = "Kotov"
+	culture = "russian"
+}
+### = {
+	name = "Kozlov"
+	culture = "russian"
+}
+### = {
+	name = "Krovopuskov"
+	culture = "russian"
+}
+### = {
+	name = "Kuznetsov"
+	culture = "russian"
+}
+### = {
+	name = "Krupin"
+	culture = "russian"
+}
+### = {
+	name = "Lagunov"
+	culture = "russian"
+}
+### = {
+	name = "Lebedev"
+	culture = "russian"
+}
+### = {
+	name = "Medvedev"
+	culture = "russian"
+}
+### = {
+	name = "Meknikov"
+	culture = "russian"
+}
+### = {
+	name = "Mikhailov"
+	culture = "russian"
+}
+### = {
+	name = "Molchalin"
+	culture = "russian"
+}
+### = {
+	name = "Molotov"
+	culture = "russian"
+}
+### = {
+	name = "Morozov"
+	culture = "russian"
+}
+### = {
+	name = "Nikolaev"
+	culture = "russian"
+}
+### = {
+	name = "Orlov"
+	culture = "russian"
+}
+### = {
+	name = "Pasternak"
+	culture = "russian"
+}
+### = {
+	name = "Pavlov"
+	culture = "russian"
+}
+### = {
+	name = "Petrov"
+	culture = "russian"
+}
+### = {
+	name = "Petukhov"
+	culture = "russian"
+}
+### = {
+	name = "Plotnikov"
+	culture = "russian"
+}
+### = {
+	name = "Popov"
+	culture = "russian"
+}
+### = {
+	name = "Portnov"
+	culture = "russian"
+}
+### = {
+	name = "Prostakov"
+	culture = "russian"
+}
+### = {
+	name = "Putin"
+	culture = "russian"
+}
+### = {
+	name = "Rabinovich"
+	culture = "russian"
+}
+### = {
+	name = "Rasputin"
+	culture = "russian"
+}
+### = {
+	name = "Rozhdestvensky"
+	culture = "russian"
+}
+### = {
+	name = "Rybakov"
+	culture = "russian"
+}
+### = {
+	name = "Semenov"
+	culture = "russian"
+}
+### = {
+	name = "Smirnov"
+	culture = "russian"
+}
+### = {
+	name = "Sobakin"
+	culture = "russian"
+}
+### = {
+	name = "Sobol"
+	culture = "russian"
+}
+
+#Ukrainian dynasties
+### = {
+	name = "Shevchenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kovalenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Bondarenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Tkachenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Boyko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kravchenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Melnik"
+	culture = "ukrainian"
+}
+### = {
+	name = "Koval"
+	culture = "ukrainian"
+}
+### = {
+	name = "Rudenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Savchenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Marchenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kovalchuk"
+	culture = "ukrainian"
+}
+### = {
+	name = "Klimenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Petrenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Ivanova"
+	culture = "ukrainian"
+}
+### = {
+	name = "Bondar"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kuzmenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Sidorenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Pavlenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Vasilenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Moroz"
+	culture = "ukrainian"
+}
+### = {
+	name = "Shevchuk"
+	culture = "ukrainian"
+}
+### = {
+	name = "Ponomarenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Levchenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Popova"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kharchenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Litvinenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kolesnik"
+	culture = "ukrainian"
+}
+### = {
+	name = "Karpenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Oleynik"
+	culture = "ukrainian"
+}
+### = {
+	name = "Yurchenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Dyachenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Khomenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Panchenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Upravl"
+	culture = "ukrainian"
+}
+### = {
+	name = "Ivanov"
+	culture = "ukrainian"
+}
+### = {
+	name = "Nazarenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Pomeschenie"
+	culture = "ukrainian"
+}
+### = {
+	name = "Goncharenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Romanenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Prikhodko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kuznetsova"
+	culture = "ukrainian"
+}
+### = {
+	name = "Lysenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kirichenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Kostenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Tischenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Tereschenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Fedorenko"
+	culture = "ukrainian"
+}
+### = {
+	name = "Popov"
+	culture = "ukrainian"
+}
+### = {
+	name = "Makarenko"
+	culture = "ukrainian"
+}
+
+
+#Polish dynasties
+### = {
+	name = "Andrysiak"
+	culture = "polish"
+}
+### = {
+	name = "Bosko"
+	culture = "polish"
+}
+### = {
+	name = "Brzezinski"
+	culture = "polish"
+}
+### = {
+	name = "Bukowski"
+	culture = "polish"
+}
+### = {
+	name = "Chlebek"
+	culture = "polish"
+}
+### = {
+	name = "Czajka"
+	culture = "polish"
+}
+### = {
+	name = "Dubanowski"
+	culture = "polish"
+}
+### = {
+	name = "Dunajski"
+	culture = "polish"
+}
+### = {
+	name = "Fabian"
+	culture = "polish"
+}
+### = {
+	name = "Filipowski"
+	culture = "polish"
+}
+### = {
+	name = "Gniewek"
+	culture = "polish"
+}
+### = {
+	name = "Gorecki"
+	culture = "polish"
+}
+### = {
+	name = "Gorski"
+	culture = "polish"
+}
+### = {
+	name = "Gwozdz"
+	culture = "polish"
+}
+### = {
+	name = "Janda"
+	culture = "polish"
+}
+### = {
+	name = "Jaskolski"
+	culture = "polish"
+}
+### = {
+	name = "Jelen"
+	culture = "polish"
+}
+### = {
+	name = "Kaczka"
+	culture = "polish"
+}
+### = {
+	name = "Kaminski"
+	culture = "polish"
+}
+### = {
+	name = "Kawa"
+	culture = "polish"
+}
+### = {
+	name = "Kijek"
+	culture = "polish"
+}
+### = {
+	name = "Kosmatka"
+	culture = "polish"
+}
+### = {
+	name = "Koziel"
+	culture = "polish"
+}
+### = {
+	name = "Krakowski"
+	culture = "polish"
+}
+### = {
+	name = "Kumiega"
+	culture = "polish"
+}
+### = {
+	name = "Lawniczak"
+	culture = "polish"
+}
+### = {
+	name = "Majewski"
+	culture = "polish"
+}
+### = {
+	name = "Maly"
+	culture = "polish"
+}
+### = {
+	name = "Marszalek"
+	culture = "polish"
+}
+### = {
+	name = "Mencher"
+	culture = "polish"
+}
+
+
+#Bulgarian dynasties
+### = {
+	name = "Alexandrov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Andreev"
+	culture = "bulgarian"
+}
+### = {
+	name = "Antonov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Apostolov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Antanasov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Bachvarov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Bogdanov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Borisov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Boyadziev"
+	culture = "bulgarian"
+}
+### = {
+	name = "Bozhidariv"
+	culture = "bulgarian"
+}
+### = {
+	name = "Chavdarov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Cvetkov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Danailov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Danielov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Dimitrov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Dobrev"
+	culture = "bulgarian"
+}
+### = {
+	name = "Dragomirov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Filipov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Genadiev"
+	culture = "bulgarian"
+}
+### = {
+	name = "Genov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Goranov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Hadjev"
+	culture = "bulgarian"
+}
+### = {
+	name = "Haralampiev"
+	culture = "bulgarian"
+}
+### = {
+	name = "Ignatov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Ivankov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Ivanov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Kaloyanchev"
+	culture = "bulgarian"
+}
+### = {
+	name = "Konstantinov"
+	culture = "bulgarian"
+}
+### = {
+	name = "Krastev"
+	culture = "bulgarian"
+}
+### = {
+	name = "Marinov"
+	culture = "bulgarian"
+}
+
+#Unique dynasties
+
+#First name Grzegorz
+### = {
+	name = "Brzeczyszczykiewicz"
+	culture = polish
+	used_for_random = no
+}
