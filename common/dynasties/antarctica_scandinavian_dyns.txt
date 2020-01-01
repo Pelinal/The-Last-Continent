@@ -2,166 +2,166 @@
 #Scandinavian dyns: 1111-1250
 ###############################
 
-# Norweigan Dynasties
+# norwegian Dynasties
 1111 = {
 	name = "Hansen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1112 = {
 	name = "Johansen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1113 = {
 	name = "Olsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1114 = {
 	name = "Larsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1115 = {
 	name = "Andersen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1116 = {
 	name = "Nilsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1117 = {
 	name = "Pedersen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1118 = {
 	name = "Kristiansen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1119 = {
 	name = "Jensen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1120 = {
 	name = "Karlsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1121 = {
 	name = "Johnsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1122 = {
 	name = "Pettersen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1123 = {
 	name = "Eriksen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1124 = {
 	name = "Berg"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1125 = {
 	name = "Haugen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1126 = {
 	name = "Hagen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1127 = {
 	name = "Johannessen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1128 = {
 	name = "Andreassen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1129 = {
 	name = "Jacobsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1130 = {
 	name = "Halvorsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1131 = {
 	name = "Jørgensen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1132 = {
 	name = "Dahl"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1133 = {
 	name = "Henriksen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1134 = {
 	name = "Lund"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1135 = {
 	name = "Sørensen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1136 = {
 	name = "Gundersen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1137 = {
 	name = "Jakobsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1138 = {
 	name = "Moen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1139 = {
 	name = "Iversen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1140 = {
 	name = "Svendsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1141 = {
 	name = "Strand"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1142 = {
 	name = "Solberg"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1143 = {
 	name = "Martinsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1144 = {
 	name = "Knutsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1145 = {
 	name = "Paulsen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1146 = {
 	name = "Eide"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1147 = {
 	name = "Bakken"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1148 = {
 	name = "Kristoffersen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1149 = {
 	name = "Mathisen"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 1150 = {
 	name = "Lie"
-	culture = "norweigan"
+	culture = "norwegian"
 }
 
 # Swedish Dynasties

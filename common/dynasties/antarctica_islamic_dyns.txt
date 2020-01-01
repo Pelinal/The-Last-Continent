@@ -2,206 +2,206 @@
 #Islamic dyns: 1361-1550
 ###############################
 
-# Arabian Dynasties
+# bedouin_arabic Dynasties
 1361 = {
 	name = "Khan"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1362 = {
 	name = "Ali"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1363 = {
 	name = "Ahmed"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1364 = {
 	name = "Hassan"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1365 = {
 	name = "Abu"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1366 = {
 	name = "Mohamed"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1367 = {
 	name = "Saleh"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1368 = {
 	name = "Hussain"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1369 = {
 	name = "Abdullah"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1370 = {
 	name = "Alghamdi"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1371 = {
 	name = "Alharbi"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1372 = {
 	name = "Ahmad"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1373 = {
 	name = "Saad"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1374 = {
 	name = "Salim"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1375 = {
 	name = "Salem"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1376 = {
 	name = "Alotaibi"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1377 = {
 	name = "Khalil"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1378 = {
 	name = "Alzahrani"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1379 = {
 	name = "Alqahtani"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1380 = {
 	name = "Mahmoud"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1381 = {
 	name = "Omar"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1382 = {
 	name = "Shaikh"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1383 = {
 	name = "Ismail"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1384 = {
 	name = "Hussein"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1385 = {
 	name = "Kumar"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1386 = {
 	name = "Alam"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1387 = {
 	name = "Malik"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1388 = {
 	name = "Alshehri"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1389 = {
 	name = "Abo"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1390 = {
 	name = "Mansour"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1391 = {
 	name = "Awad"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1392 = {
 	name = "Taha"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1393 = {
 	name = "Siddiqui"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1394 = {
 	name = "Iqbal"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1395 = {
 	name = "Osman"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1396 = {
 	name = "Rahman"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1397 = {
 	name = "Al-Ghamdi"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1398 = {
 	name = "Abbas"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1399 = {
 	name = "Salah"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1400 = {
 	name = "Ansari"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1401 = {
 	name = "Kamal"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1402 = {
 	name = "Saeed"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1403 = {
 	name = "Othman"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1404 = {
 	name = "Nasser"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1405 = {
 	name = "Mohammad"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1406 = {
 	name = "Zain"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1407 = {
 	name = "Almalki"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1408 = {
 	name = "Shah"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1409 = {
 	name = "Hadi"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 1410 = {
 	name = "Alshammari"
-	culture = "arabian"
+	culture = "bedouin_arabic"
 }
 
 # Egyptian Dynasties

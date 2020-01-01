@@ -1,5 +1,5 @@
 6969 = {
 	name = "Tabner"
-	culture = "English"
+	culture = "english"
 	used_for_random = no
 }
