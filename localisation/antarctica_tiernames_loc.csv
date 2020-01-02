@@ -91,7 +91,7 @@ temple_king_female;Director;;;;;;;;;;;;x
 temple_kingdom_of;Directorate of;;;;;;;;;;;;x
 temple_duke;Head Scientist;;;;;;;;;;;;x
 temple_duke_female;Head Scientist;;;;;;;;;;;;x
-temple_duchy_of;ANSI of;;;;;;;;;;;;x
+temple_duchy_of;Survey Region of;;;;;;;;;;;;x
 temple_count;Researcher;;;;;;;;;;;;x
 temple_count_female;Researcher;;;;;;;;;;;;x
 temple_county_of;Facility of;;;;;;;;;;;;x
@@ -110,7 +110,7 @@ city_emperor_female;President;;;;;;;;;;;;x
 city_empire_of;Federal Republic of;;;;;;;;;;;;x
 city_king;President;;;;;;;;;;;;;x
 city_king_female;President;;;;;;;;;;;;x
-city_kingdom_of;Republic;;;;;;;;;;;;x
+city_kingdom_of;Republic of;;;;;;;;;;;;x
 city_duke;Governor;;;;;;;;;;;;x
 city_duke_female;Governess;;;;;;;;;;;;x
 city_duchy_of;Governate of;;;;;;;;;;;;x

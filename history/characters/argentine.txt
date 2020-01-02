@@ -177,10 +177,24 @@
 	
 	add_trait = proud
 	
-	1959.1.1 = {
+	2045.1.1 = {
 		birth = yes
 	}
-	2048.1.1 = {
+	2134.1.1 = {
+		death = yes
+	}
+}
+
+4013 = {
+	name = "Jesús"
+	dynasty = 242 # Romero
+	culture = argentine
+	religion = justcial
+	
+	2089.1.1 = {
+		birth = yes
+	}
+	2176.1.1 = {
 		death = yes
 	}
 }

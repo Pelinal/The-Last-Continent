@@ -1,0 +1,8 @@
+
+2024.9.12 = {
+	holder = 4011 # José Alarcón
+	liege = e_la_plata
+}
+2091.1.1. = {
+	holder = 4012 # José Alarcón II
+}
