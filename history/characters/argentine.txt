@@ -1,16 +1,186 @@
 # Argentine chars
 # IDS 4001-5000
 
-696969 = {
-	name = "Joshua"
-	dynasty = 6969 # Tabner
-	culture = english
-	religion = conservative
+4001 = {
+	name = "Salvador"
+	dynasty = 441 # Hernandez
+	culture = argentine
+	religion = justcial
 	
-	2100.1.1 = {
+	add_trait = wroth
+	add_trait = cruel
+	add_trait = just
+	
+	2074.1.1 = {
 		birth = yes
 	}
-	2190.1.1 = {
+	2110.1.1 = {
+		add_spouse = 4002
+	}
+	2175.1.1 = {
+		death = yes
+	}
+}
+4002 = {
+	name = "Maria"
+	dynasty = 442
+	culture = argentine
+	religion = justcial
+	
+	add_trait = fair
+	
+	2090.1.1 = {
+		birth = yes
+	}
+	2185.1.1 = {
+		death = yes
+	}
+}
+4003 = {
+	name = "Rodrigo"
+	dynasty = 441 # Hernandez
+	culture = argentine
+	religion = justcial
+	father = 4001
+	mother = 4002
+	
+	add_trait = curious
+	
+	2115.1.1 = {
+		birth = yes
+	}
+	2200.1.1 = {
+		death = yes
+	}
+}
+4004 = {
+	name = "Fernando"
+	dynasty = 442
+	culture = argentine
+	religion = social_democratic
+	
+	1937.1.1 = {
+		birth = yes
+	}
+	2019.1.1 = {
+		death = yes
+	}
+}
+4005 = {
+	name = "Eduardo"
+	dynasty = 443
+	culture = argentine
+	religion = justcial
+	
+	1941.1.1 = {
+		birth = yes
+	}
+	2032.1.1 = {
+		death = yes
+	}
+}
+4006 = {
+	name = "Adolfo"
+	dynasty = 444
+	culture = argentine
+	religion = justcial
+
+	1947.1.1 = {
+		birth = yes
+	}
+	2027.1.1 = {
+		death = yes
+	}
+}
+4007 = {
+	name = "Néstor"
+	dynasty = 445
+	culture = argentine
+	religion = justcial
+	
+	
+	1950.1.1 = {
+		birth = yes
+	}
+	1970.1.1 = {
+		add_spouse = 4008
+	}
+	2010.1.1 = {
+		death = yes
+	}
+}
+4008 = {
+	name = "Cristina"
+	dynasty = 446
+	culture = argentine
+	religion = justcial
+	female = yes
+	
+	add_trait = fair
+	
+	1953.1.1 = {
+		birth = yes
+	}
+	2049.1.1 = {
+		death = yes
+	}
+}
+4009 = {
+	name = "Mauricio"
+	dynasty = 447
+	culture = argentine
+	religion = conservative
+	
+	1959.1.1 = {
+		birth = yes
+	}
+	2037.1.1 = {
+		death = yes
+	}
+}
+4010 = {
+	name = "Alberto"
+	dynasty = 448
+	culture = argentine
+	religion = justcial
+	
+	1959.1.1 = {
+		birth = yes
+	}
+	2048.1.1 = {
+		death = yes
+	}
+}
+4011 = {
+	name = "José"
+	dynasty = 34
+	culture = argentine
+	religion = nationalist
+	
+	add_trait = strong
+	add_trait = stubborn
+	add_trait = zealous
+	
+	2003.1.1 = {
+		birth = yes
+	}
+	2092.1.1 = {
+		death = yes
+	}
+}
+
+4012 = {
+	name = "José"
+	dynasty = 34
+	culture = argentine
+	religion = nationalist
+	
+	add_trait = proud
+	
+	1959.1.1 = {
+		birth = yes
+	}
+	2048.1.1 = {
 		death = yes
 	}
 }

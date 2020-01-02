@@ -174,7 +174,7 @@ iberian_grp = {
 		}
 
 		male_names = {
-		 Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
+			Mateo Santiago Matías Sebastián Benjamín Martín Nicolás Alejandro Lucas Diego Leonardo Daniel Thiago Joaquín Samuel Gabriel Tomás Emiliano Dylan Felipe Gael David Maximiliano Ian Bruno Hugo Adrián Leo Iker Agustín Pablo
 			Emmanuel Julián Isaac Ignacio Lorenzo Francisco Liam Emilio Dante Aarón Valentino Bautista Jerónimo Rodrigo Manuel Simón Pedro Ángel Álvaro Alexander Vicente Franco Álex León Andrés Santino Alonso Noah Luca Juan José
 			Fernando Antonio Javier Rafael Carlos Juan Pablo Elías Benicio Enzo Oliver Marcos Damián Salvador Máximo Izan Facundo Sergio Eric Mario Luciano Miguel Matthew Alan Juan Martín Jacob Christopher Esteban Gonzalo Áxel
 			Ethan Christian Eduardo Jorge Juan Bastián Leonel Mauricio Tadeo Marco
@@ -1828,7 +1828,7 @@ eastern_grp = {
 		modifier = default_culture_modifier
 	}
 	korean = {
-		graphical_cultures = { chinesegfx}
+		graphical_cultures = { chinesegfx }
 		secondary_event_pictures = bedouin_arabic
 		
 		dynasty_name_first = yes

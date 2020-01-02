@@ -2212,3 +2212,45 @@
 	name = "Ortega"
 	culture = "mexican"
 }
+
+# Unique Dynasties
+441 = {
+	name = "Hernández"
+	culture = "argentine"
+	used_for_random = no
+}
+442 = {
+	name = "de la Rúa"
+	culture = argentine
+	used_for_random = no
+}
+443 = {
+	name = "Duhalde"
+	culture = argentine
+	used_for_random = no
+}
+444 = {
+	name = "Rodríguez Saá"
+	culture = argentine
+	used_for_random = no
+}
+445 = {
+	name = "Kirchner"
+	culture = argentine
+	used_for_random = no
+}
+446 = {
+	name = "Fernández de Kirchner"
+	culture = argentine
+	used_for_random = no
+}
+447 = {
+	name = "Macri"
+	culture = argentine
+	used_for_random = no
+}
+448 = {
+	name = "Fernández"
+	culture = argentine
+	used_for_random = no
+}

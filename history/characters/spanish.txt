@@ -1,16 +1,16 @@
 # Spanish chars
 # IDS 7001-8000
 
-696969 = {
-	name = "Joshua"
-	dynasty = 6969 # Tabner
-	culture = english
+7001 = {
+	name = "Juan"
+	dynasty = 41 # Casarez
+	culture = spanish
 	religion = conservative
 	
-	2100.1.1 = {
+	2073.1.1 = {
 		birth = yes
 	}
-	2190.1.1 = {
+	2146.1.1 = {
 		death = yes
 	}
 }

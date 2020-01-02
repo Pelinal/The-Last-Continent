@@ -1,6 +1,6 @@
 # 149 - Kiel
 title = c_kiel
-max_settlements = 4
+max_settlements = 7
 
 # Baronies
 	b_corinth = city

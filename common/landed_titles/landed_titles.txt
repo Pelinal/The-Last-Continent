@@ -36,6 +36,24 @@ e_antarctica = {
 	}
 }
 
+e_united_kingdom = {
+	color = { 153 0 0 }
+	color2 = { 255 255 255 }
+	
+	short_name = yes
+	title = prime_minister
+	title_female = prime_minister
+}
+
+e_la_plata = {
+	color = { 101 102 163 }
+	color2 = { 255 255 255 }
+	
+	short_name = yes
+	title = presidente
+	title_female = presidente
+}
+
 # Antarctic Peninsula
 e_antarctandes = {
 	color = { 204 122 0 }
@@ -297,7 +315,7 @@ e_antarctandes = {
 				b_greenwich = {}
 			}
 			c_george = {
-				color = { 51 89 204}
+				color = { 51 89 204 }
 				color2 = { 255 255 255 }
 				
 				brazilian = "Ferraz"
@@ -1511,6 +1529,19 @@ e_marie_byrd_land = {
 	egyptian = "Qaribiyya"
 	greek = "Nea Makedónia"
 	chinese = "Shénzhou"
+	
+	k_sinopec = {
+		color = { 238 255 72 }
+		color2 = { 255 255 255 }
+		capital = 107 # Shinua
+		
+		allow = {
+			culture = chinese
+			religion = corporate
+			completely_controls = d_sinopec
+			num_of_duke_titles = 3
+		}
+	}
 	
 	k_heavenly_kingdom = { # most coastal provinces are city-ruled due to sinopec corporation
 		color = { 110 101 194 } # 133 60 184 - old
@@ -3049,7 +3080,7 @@ e_marie_byrd_land = {
 				color2 = { 255 255 255 }
 				
 				b_korff = {}
-				b_melle = {}
+				b_bad_laapshe = {}
 				b_penzlin = {}
 				b_speicher = {}
 			}
@@ -3061,7 +3092,7 @@ e_marie_byrd_land = {
 				quebecois = "Henri"
 				
 				b_henry_2 = {}
-				b_bad_laapshe = {}
+				b_melle = {}
 				b_hettstedt = {}
 				b_kerpen = {}
 			}

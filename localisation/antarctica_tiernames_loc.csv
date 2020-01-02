@@ -7,7 +7,7 @@ king_female;Dictatress;;;;;;;;;;;;x
 kingdom_of;Junta of;;;;;;;;;;;;x
 duke;Governor;;;;;;;;;;;;x
 duke_female;Governess;;;;;;;;;;;;x
-duchy_of;Military Governate of;;;;;;;;;;;;x
+duchy_of;Province of;;;;;;;;;;;;x
 count;Overseer;;;;;;;;;;;;x
 count_female;Overseeress;;;;;;;;;;;;x
 county_of;Outpost of;;;;;;;;;;;;x
@@ -134,6 +134,8 @@ city_count_deed;Mayorship of;;;;;;;;;;;;;x
 city_baron_deed;Leadership of;;;;;;;;;;;;;x
 
 ### MISC ###
+prime_minister;Prime Minister;;;;;;;;;;;;x
+presidente;Presidente;;;;;;;;;;;;x
 empires;Empires;Empires;Reiche;;Imperios;;;;;;;;;x
 kingdoms;Kingdoms;Royaumes;Königreiche;;Reinos;;;;;;;;;x
 duchies;Duchies;Duchés;Herzogtümer;;Ducados;;;;;;;;;x

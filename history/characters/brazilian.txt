@@ -1,16 +1,16 @@
 # Brazilian chars
 # IDS 6101-7000
 
-696969 = {
-	name = "Joshua"
-	dynasty = 6969 # Tabner
-	culture = english
-	religion = conservative
+6101 = {
+	name = "Enzo"
+	dynasty = 368 # Azevedo
+	culture = brazilian
+	religion = socialist
 	
-	2100.1.1 = {
+	2089.1.1 = {
 		birth = yes
 	}
-	2190.1.1 = {
+	2167.1.1 = {
 		death = yes
 	}
 }
