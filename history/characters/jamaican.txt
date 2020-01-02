@@ -1,4 +1,5 @@
 # Jamaican chars
+# IDS 1-300
 
 1 = {
 	name = "Usain"

@@ -1,5 +1,5 @@
-# English chars
-# IDS 301-1000
+# Greek chars
+# IDS 8001-9000
 
 696969 = {
 	name = "Joshua"

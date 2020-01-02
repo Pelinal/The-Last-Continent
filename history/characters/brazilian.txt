@@ -1,5 +1,5 @@
-# English chars
-# IDS 301-1000
+# Brazilian chars
+# IDS 6101-7000
 
 696969 = {
 	name = "Joshua"
