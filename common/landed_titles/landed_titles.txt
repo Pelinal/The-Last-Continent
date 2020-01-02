@@ -1,3 +1,29 @@
+e_rebels = {
+	rebel = yes
+	landless = yes
+	primary = yes
+
+	culture = imperial
+	religion = sithis
+	tribe = yes
+
+	color={ 0 0 0 }
+	color2={ 0 0 0 }
+}
+
+e_pirates = {
+	pirate = yes
+	landless = yes
+	primary = yes
+
+	culture = imperial
+	religion = sithis
+	tribe = yes
+
+	color={ 0 0 0 }
+	color2={ 0 0 0 }
+}
+
 e_antarctica = {
 	color = { 220 220 220 }
 	color2 = { 255 255 255 }
@@ -461,9 +487,9 @@ e_antarctandes = {
 				color = { 198 57 92 }
 				color2 = { 255 255 255 }
 
-				chilean = "Cerra Negra"
-				argentine = "Cerra Negra"
-				spanish = "Cerra Negra"
+				chilean = "Cerranegra"
+				argentine = "Cerranegra"
+				spanish = "Cerranegra"
 				french = "Borbéliard"
 				quebecois = "Borbéliard"
 				
@@ -788,9 +814,9 @@ e_antarctandes = {
 			color = { 20 26 77 }
 			color2 = { 255 255 255 }
 			
-			argentine = "Alejandros"
-			chilean = "Alejandros"
-			spanish = "Alejandros"
+			argentine = "Isla Alejandro"
+			chilean = "Isla Alejandro"
+			spanish = "Isla Alejandro"
 			
 			c_soyuz = {
 				color = { 20 26 77 }
@@ -1387,8 +1413,6 @@ e_antarctandes = {
 		d_primiteva = {
 			color = { 221 231 99 }
 			color2 = { 255 255 255 }
-			
-			egyptian = "Kemet"
 			
 			capital = 94 # Walden
 			
@@ -2777,11 +2801,22 @@ e_marie_byrd_land = {
 		
 		capital = 169 # Byrd Surface Camp
 		
+		d_rastafaria = {
+			color = { 105 208 36 }
+			color2 = { 255 255 255 }
+			
+			capital = 194 # Hart
+			
+			allow = {
+				always = no
+			}
+		}
+		
 		d_pitcairnshire = {
 			color = { 169 65 113 }
 			color2 = { 255 255 255 }
 		
-			capital = 174 # Olympia
+			capital = 194 # Hart
 			
 			c_radlinski = {
 				color = { 169 65 113 }

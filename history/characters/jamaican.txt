@@ -1,0 +1,82 @@
+# Jamaican chars
+
+1 = {
+	name = "Usain"
+	dynasty = 1021 # Bolt
+	culture = jamaican
+	religion = social_democratic
+	
+	add_trait = strong
+	add_trait = diligent
+	add_trait = unyielding_leader
+	
+	1986.8.21 = {
+		birth = yes
+	}
+	2086.2.13 = {
+		death = yes
+	}
+}
+
+2 = {
+	name = "Tyreese"
+	dynasty = 1021 # Bolt
+	culture = jamaican
+	religion = nationalist
+	father = 1
+	
+	2022.1.1 = {
+		birth = yes
+	}
+	2109.1.1 = {
+		death = yes
+	}
+}
+
+3 = {
+	name = "Dennard"
+	dynasty = 1021 # Bolt
+	culture = jamaican
+	religion = nationalist
+	father = 2
+	
+	2068.1.1 = {
+		birth = yes
+	}
+	2090.1.1 = {
+		add_spouse = 4
+	}
+	2134.1.1 = {
+		death = yes
+	}
+}
+
+4 = {
+	name = "Tamecia"
+	dynasty = 916 # Phillips
+	culture = jamaican
+	religion = nationalist
+	female = yes
+	
+	2057.1.1 = {
+		birth = yes
+	}
+	2129.1.1 = {
+		death = yes
+	}
+}
+
+5 = {
+	name = "Guyton"
+	dynasty = 1021 # Bolt
+	culture = jamaican
+	religion = nationalist
+	father = 3
+	
+	2100.1.1 = {
+		birth = yes
+	}
+	2181.1.1 = {
+		death = yes
+	}
+}

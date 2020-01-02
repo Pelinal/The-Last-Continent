@@ -21,26 +21,33 @@ feudal_governments = {
 		potential = {
 			OR = {
 				controls_religion = no
-				religion = islamist
+				religion_group = muslim
 				has_religion_feature = religion_temporal_head
+				AND = {
+					religion = norse_pagan_reformed
+					has_religion_features = no # Old saves, and campaigns without HF, need the Fylkirate to continue working
+				}
 			}
-			NOT = {	religion = islamist	}
+			NOT = {	religion_group = muslim	}
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
-			#NAND = { 
-			#	culture_group = tibetan_group
-			#	OR = {
-			#		religion = bon
-			#		religion = bon_reformed
-			#		religion = buddhist
-			#	}
-			#	higher_tier_than = BARON
-			#}
+			NAND = { 
+				culture_group = tibetan_group
+				OR = {
+					religion = bon
+					religion = bon_reformed
+					religion = buddhist
+				}
+				higher_tier_than = BARON
+			}
 			NAND = { 
 				tier = EMPEROR
 				primary_title = { has_title_flag = pretender_chinese_empire }
 				OR = {
-					culture_group = eastern_grp
+					culture_group = chinese_group
+					culture = khitan
+					culture = tangut
+					culture = jurchen
 					has_character_flag = chinese_imperial_government_preserve
 				}
 			}
@@ -58,9 +65,6 @@ feudal_governments = {
 			tribal_government
 		}
 		capital_move_delay = 600
-
-		## Modifiers
-		court_size_modifier = 10
 	}
 	
 	muslim_government = {
@@ -89,17 +93,24 @@ feudal_governments = {
 		potential = {
 			OR = {
 				controls_religion = no
-				religion = islamist
+				religion_group = muslim
 				has_religion_feature = religion_temporal_head
+				AND = {
+					religion = norse_pagan_reformed
+					has_religion_features = no # Old saves, and campaigns without HF, need the Fylkirate to continue working
+				}
 			}
-			religion = islamist
+			religion_group = muslim
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
 			NAND = { 
 				tier = EMPEROR
 				primary_title = { has_title_flag = pretender_chinese_empire }
 				OR = {
-					culture_group = eastern_grp
+					culture_group = chinese_group
+					culture = khitan
+					culture = tangut
+					culture = jurchen
 					has_character_flag = chinese_imperial_government_preserve
 				}
 			}
@@ -125,79 +136,78 @@ feudal_governments = {
 			tribal_government
 		}
 		capital_move_delay = 600
-
-		## Modifiers
-		court_size_modifier = 10
 	}
 	
-	#theocratic_feudal_government = {
-	#	preferred_holdings = { CASTLE TEMPLE }
-	#	allowed_holdings = { 
-	#		CASTLE 
-	#		TEMPLE
-	#		FORT
-	#		HOSPITAL
-	#	}
-	#	allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
-	#		TRIBAL
-	#	}
-	#	accepts_liege_governments = { # Gets the wrong religion modifier instead
-	#		muslim_government
-	#		theocracy_government
-	#		feudal_government
-	#		chinese_imperial_government
-	#	}
-	#	free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
-	#		tribal_government
-	#	}
-	#	frame_suffix = "_theocraticfeudal"
-	#	potential = {
-	#		OR = {
-	#			controls_religion = no
-	#			religion = islamist
-	#			has_religion_feature = religion_temporal_head
-	#		}
-	#		NOT = {	religion = islamist	}
-	#		NOT = { is_government_potential = roman_imperial_government }
-	#		NOT = { is_government_potential = order_government }
-	#		AND = { 
-	#			culture_group = tibetan_group
-	#			OR = {
-	#				religion = bon
-	#				religion = bon_reformed
-	#				religion = buddhist
-	#			}
-	#			higher_tier_than = BARON
-	#		}
-	#		NAND = { 
-	#			tier = EMPEROR
-	#			primary_title = { has_title_flag = pretender_chinese_empire }
-	#			OR = {
-	#				culture_group = eastern_grp
-	#				culture = khitan
-	#				culture = tangut
-	#				culture = jurchen
-	#				has_character_flag = chinese_imperial_government_preserve
-	#			}
-	#		}
-	#		is_patrician = no
-	#	}
-	#	
-	#	color = { 207 145 90 }
-	#	
-	#	uses_piety_for_law_change = yes
-	#	dukes_called_kings = yes
-	#	barons_need_dynasty = yes
-	#
-	#	can_build_tribal = no
-	#	
-	#	ignore_in_vassal_limit_calculation = {
-	#		tribal_government
-	#	}
-	#	capital_move_delay = 600
-	#	## Modifiers
-	#	court_size_modifier = 10
-	#}
+	theocratic_feudal_government = {
+		preferred_holdings = { CASTLE TEMPLE }
+		allowed_holdings = { 
+			CASTLE 
+			TEMPLE
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			muslim_government
+			theocracy_government
+			feudal_government
+			chinese_imperial_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_theocraticfeudal"
+		potential = {
+			OR = {
+				controls_religion = no
+				religion_group = muslim
+				has_religion_feature = religion_temporal_head
+				AND = {
+					religion = norse_pagan_reformed
+					has_religion_features = no # Old saves, and campaigns without HF, need the Fylkirate to continue working
+				}
+			}
+			NOT = {	religion_group = muslim	}
+			NOT = { is_government_potential = roman_imperial_government }
+			NOT = { is_government_potential = order_government }
+			AND = { 
+				culture_group = tibetan_group
+				OR = {
+					religion = bon
+					religion = bon_reformed
+					religion = buddhist
+				}
+				higher_tier_than = BARON
+			}
+			NAND = { 
+				tier = EMPEROR
+				primary_title = { has_title_flag = pretender_chinese_empire }
+				OR = {
+					culture_group = chinese_group
+					culture = khitan
+					culture = tangut
+					culture = jurchen
+					has_character_flag = chinese_imperial_government_preserve
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 207 145 90 }
+		
+		uses_piety_for_law_change = yes
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+
+		can_build_tribal = no
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+		capital_move_delay = 600
+	}
 	
 	chinese_imperial_government = {
 		preferred_holdings = { CASTLE CITY }
@@ -226,7 +236,10 @@ feudal_governments = {
 			tier = EMPEROR
 			primary_title = { has_title_flag = pretender_chinese_empire }
 			OR = {
-				culture_group = eastern_grp
+				culture_group = chinese_group
+				culture = khitan
+				culture = tangut
+				culture = jurchen
 				has_character_flag = chinese_imperial_government_preserve #keeps government when player is given culture change opton
 			}
 			is_patrician = no
@@ -258,15 +271,12 @@ feudal_governments = {
 		character_modifier = {
 			monthly_character_piety = 1
 		}
-		## Modifiers
-		court_size_modifier = 15
 	}
 
 	order_government = {
 		preferred_holdings = { CASTLE }
 		allowed_holdings = {
 			CASTLE
-			TEMPLE
 			TRIBAL
 			FORT
 			HOSPITAL
@@ -406,8 +416,42 @@ feudal_governments = {
 		can_grant_kingdoms_and_empires_to_other_government_group = yes
 		can_be_granted_kingdoms_and_empires_by_other_government = no
 		free_retract_vassalage = yes
-		
-		## Modifiers
-		court_size_modifier = 15
-	}
 }
+
+republic_government = {
+		preferred_holdings = { CITY }
+		allowed_holdings = { 
+			CITY
+			CASTLE
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Accepts other republics
+			merchant_republic_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_republic"
+		title_prefix = "city_"
+		potential = {
+			NAND = {
+				controls_religion = yes
+				NOT = { religion_group = muslim }
+			}
+			NOT = { is_government_potential = merchant_republic_government }
+			holy_order = no
+		}
+		
+		color = { 209 125 130 }
+		
+		can_imprison_without_reason = no
+		can_revoke_without_reason = no
+		
+		can_build_tribal = no
+		
+		capital_move_delay = 600
+	}

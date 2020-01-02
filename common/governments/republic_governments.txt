@@ -24,9 +24,12 @@ republic_governments = {
 		potential = {
 			OR = {
 				controls_religion = no
-				religion = islamist
+				religion_group = muslim
 				has_religion_feature = religion_temporal_head
-				
+				AND = {
+					religion = norse_pagan_reformed
+					has_religion_features = no # Old saves, and campaigns without HF, need the Fylkirate to continue working
+				}
 			}
 			#is_female = no
 			OR = {
@@ -85,52 +88,9 @@ republic_governments = {
 		landed_inheritance = no
 		
 		capital_move_delay = 600
-
-		## Modifiers
-		court_size_modifier = 5
-		court_size_maintenance_cost_modifier = -0.05
 	}
 	
-	republic_government = {
-		preferred_holdings = { CITY }
-		allowed_holdings = { 
-			CITY
-			CASTLE
-			FORT
-			HOSPITAL
-		}
-		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
-			TRIBAL
-		}
-		accepts_liege_governments = { # Accepts other republics
-			merchant_republic_government
-		}
-		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
-			tribal_government
-		}
-		frame_suffix = "_republic"
-		title_prefix = "city_"
-		potential = {
-			NAND = {
-				controls_religion = yes
-				NOT = { religion = islamist }
-			}
-			NOT = { is_government_potential = merchant_republic_government }
-			holy_order = no
-		}
-		
-		color = { 209 125 130 }
-		
-		can_imprison_without_reason = no
-		can_revoke_without_reason = no
-		
-		can_build_tribal = no
-		
-		capital_move_delay = 600
-
-		## Modifiers
-		court_size_modifier = 5
-	}
+	
 	
 	confucian_bureaucracy = {
 		offmap_power = offmap_china
@@ -178,8 +138,5 @@ republic_governments = {
 		can_create_empires = no
 		can_demand_religious_conversion = no
 		can_inherit = no
-
-		## Modifiers
-		court_size_modifier = 10
 	}
 }

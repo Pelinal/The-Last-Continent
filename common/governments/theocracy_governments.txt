@@ -24,7 +24,7 @@ theocracy_governments = {
 			algocratic_government
 			corporate_government
 		}
-		frame_suffix = "_technocracy"
+		frame_suffix = "_theocracy"
 		title_prefix = "temple_"
 		potential = {
 			NOT = {	religion = islamist	}
@@ -50,5 +50,4 @@ theocracy_governments = {
 		
 		capital_move_delay = 600
 	}
-	
 }

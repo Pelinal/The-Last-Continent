@@ -1,0 +1,10 @@
+2100.1.1 = {
+	holder = 2 # Tyreese Bolt
+	liege = d_rastafaria
+}
+2109.1.1 = {
+	holder = 3 # Dennard Bolt
+}
+2134.1.1 = {
+	holder = 5 # Guyton Bolt
+}

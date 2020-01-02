@@ -1282,7 +1282,7 @@
 	culture = "jamaican"
 }
 918 = {
-	name = "Shepherd	"
+	name = "Shepherd"
 	culture = "jamaican"
 }
 919 = {
@@ -1698,4 +1698,10 @@
 1020 = {
 	name = "Coetzee"
 	culture = "south_african"
+}
+
+# Unique Dynasties
+1021 = {
+	name = "Bolt"
+	culture = "jamaican"
 }
