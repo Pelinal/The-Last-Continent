@@ -1,16 +1,146 @@
 # American chars
 # IDS 1001-2000
 
-696969 = {
-	name = "Joshua"
-	dynasty = 6969 # Tabner
+1001 = {
+	name = "Edmund"
+	dynasty = 820
+	culture = american
+	religion = conservative
+	
+	2084.1.1 = {
+		birth = yes
+	}
+	2152.1.1 = {
+		death = yes
+	}
+}
+
+1002 = {
+	name = "Freddie"
+	dynasty = 819
+	culture = american
+	religion = conservative
+	
+	2076.1.1 = {
+		birth = yes
+	}
+	2163.1.1 = {
+		death = yes
+	}
+}
+
+1003 = {
+	name = "Joe"
+	dynasty = 818
+	culture = american
+	religion = conservative
+	
+	2087.1.1 = {
+		birth = yes
+	}
+	2171.1.1 = {
+		death = yes
+	}
+}
+
+1004 = {
+	name = "Caroline"
+	dynasty = 817
+	culture = american
+	religion = conservative
+	female = yes
+	
+	2095.1.1 = {
+		birth = yes
+	}
+	2179.1.1 = {
+		death = yes
+	}
+}
+
+1005 = {
+	name = "Aubrey"
+	dynasty = 816
+	culture = american
+	religion = conservative
+	female = yes
+	
+	2064.1.1 = {
+		birth = yes
+	}
+	2137.1.1 = {
+		death = yes
+	}
+}
+
+1006 = {
+	name = "Shane"
+	dynasty = 815
+	culture = american
+	religion = conservative
+	
+	2080.1 = {
+		birth = yes
+	}
+	2157.1.1 = {
+		death = yes
+	}
+}
+
+1007 = {
+	name = "Eric"
+	dynasty = 814
+	culture = american
+	religion = conservative
+	
+	2079.1.1 = {
+		birth = yes
+	}
+	2155.1.1 = {
+		death = yes
+	}
+}
+
+1008 = {
+	name = "Sara"
+	dynasty = 813
+	culture = american
+	religion = conservative
+	female = yes
+	
+	2095.1.1 = {
+		birth = yes
+	}
+	2169.1.1 = {
+		death = yes
+	}
+}
+
+1009 = {
+	name = "Lucy"
+	dynasty = 812
+	culture = american
+	religion = conservative
+	female = yes
+	
+	2083.1.1 = {
+		birth = yes
+	}
+	2149.1.1 = {
+		death = yes
+	}
+}
+
+1010 = {
+	name = "Dustin"
+	dynasty = 811
 	culture = english
 	religion = conservative
 	
-	2100.1.1 = {
+	2099.1.1 = {
 		birth = yes
 	}
-	2190.1.1 = {
+	2170.1.1 = {
 		death = yes
 	}
 }

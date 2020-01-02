@@ -889,3 +889,9 @@
 	name = "Saetiao"
 	culture = "thai"
 }
+
+#unique dynasties
+1971 = {
+	name = "Yóushì"
+	culture = "chinese"
+}

@@ -203,3 +203,10 @@
 	name = "Petropoulos"
 	culture = "greek"
 }
+
+#unique dynasties
+1701 = {
+	name = "Metaxas"
+	culture = greek
+	used_for_random = no
+}

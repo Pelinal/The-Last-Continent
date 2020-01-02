@@ -1,0 +1,4 @@
+2120.1.1 = {
+	holder = 3256
+	liege = k_sovetskya
+}

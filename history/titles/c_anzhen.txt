@@ -1,0 +1,4 @@
+2120.1.1 = {
+	holder = 2004
+	liege = k_heavenly_kingdom
+}

@@ -1,16 +1,207 @@
 # Russian chars
 # IDS 3251-4000
 
-696969 = {
-	name = "Joshua"
-	dynasty = 6969 # Tabner
-	culture = english
-	religion = conservative
+3251 = {
+	name = "Anton"
+	dynasty = 2362 # Vasilievich
+	culture = russian
+	religion = communist
+	add_trait = thrifty_clerk
+	add_trait = cancer
+	add_trait = stressed
+	add_trait = is_fat
+	add_trait = dull
+	add_trait = patient
+	add_trait = gluttonous
+	add_trait = paranoid
+	add_trait = deceitful
 	
-	2100.1.1 = {
+	2101.6.7 = {
+		add_spouse = 3252
+	}
+	
+	2063.1.1 = {
 		birth = yes
 	}
-	2190.1.1 = {
+	2134.1.1 = {
+		death = yes
+	}
+}
+
+3252 = {
+	name = "Elena"
+	dynasty = 2362 # Vasilievich
+	culture = russian
+	religion = communist
+	female = yes
+	add_trait = seductress
+	add_trait = groomed
+	add_trait = lisp
+	add_trait = fair
+	add_trait = one_eyed
+	add_trait = flamboyant_schemer
+	add_trait = wroth
+	add_trait = envious
+	
+	2089.1.1 = {
+		birth = yes
+	}
+	2158.1.1 = {
+		death = yes
+	}
+}
+
+3253 = {
+	name = "Vasili"
+	dynasty = 2201
+	culture = russian
+	religion = communist
+	
+	2075.1.1 = {
+		birth = yes
+	}
+	2141.1.1 = {
+		death = yes
+	}
+}
+
+3254 = {
+	name = "Ivan"
+	dynasty = 2202
+	culture = russian
+	religion = communist
+	
+	2088.1.1 = {
+		birth = yes
+	}
+	2159.1.1 = {
+		death = yes
+	}
+}
+
+3255 = {
+	name = "Arkady"
+	dynasty = 2202
+	culture = russian
+	religion = communist
+	
+	2062.1.1 = {
+		birth = yes
+	}
+	2131.1.1 = {
+		death = yes
+	}
+}
+
+3256 = {
+	name = "Grigory"
+	dynasty = 2203
+	culture = russian
+	religion = communist
+	
+	2077.1.1 = {
+		birth = yes
+	}
+	2152.1.1 = {
+		death = yes
+	}
+}
+
+3257 = {
+	name = "Oleg"
+	dynasty = 2204
+	culture = russian
+	religion = communist
+	
+	2092.1.1 = {
+		birth = yes
+	}
+	2165.1.1 = {
+		death = yes
+	}
+}
+
+3258 = {
+	name = "Ilya"
+	dynasty = 2205
+	culture = russian
+	religion = communist
+	female = yes
+	
+	2084.1.1 = {
+		birth = yes
+	}
+	2159.1.1 = {
+		death = yes
+	}
+}
+
+3259 = {
+	name = "Viktor"
+	dynasty = 2206
+	culture = russian
+	religion = communist
+	
+	2051.1.1 = {
+		birth = yes
+	}
+	2125.1.1 = {
+		death = yes
+	}
+}
+
+3260 = {
+	name = "Anatoly"
+	dynasty = 2207
+	culture = russian
+	religion = communist
+	
+	2084.1.1 = {
+		birth = yes
+	}
+	2143.1.1 = {
+		death = yes
+	}
+}
+
+3261 = {
+	name = "Vladislav"
+	dynasty = 2208
+	culture = russian
+	religion = communist
+	
+	2073.1.1 = {
+		birth = yes
+	}
+	2134.1.1 = {
+		death = yes
+	}
+}
+
+3262 = {
+	name = "Mikhail"
+	dynasty = 2209
+	culture = russian
+	religion = communist
+	
+	2094.1.1 = {
+		birth = yes
+	}
+	2162.1.1 = {
+		death = yes
+	}
+}
+
+3263 = {
+	name = "Maksim"
+	dynasty = 2210
+	culture = russian
+	religion = communist
+	
+	2055.1.1 = {
+		birth = yes
+	}
+	2127.1.1 = {
 		death = yes
 	}
 }

@@ -1,16 +1,159 @@
 # Chinese chars
 # IDS 2001-3250
 
-696969 = {
-	name = "Joshua"
-	dynasty = 6969 # Tabner
-	culture = english
-	religion = conservative
+2001 = {
+	name = "Liang"
+	dynasty = 1971 # Yóushì
+	culture = chinese
+	religion = corporate
+	
+	2089.1.1 = {
+		birth = yes
+	}
+	2162.1.1 = {
+		death = yes
+	}
+}
+
+2002 = {
+	name = "Liu"
+	dynasty = 1751 
+	culture = chinese
+	religion = corporate
+	
+	2102.1.1 = {
+		birth = yes
+	}
+	2180.1.1 = {
+		death = yes
+	}
+}
+
+2003 = {
+	name = "Xian"
+	dynasty = 1752
+	culture = chinese
+	religion = corporate
+	
+	2095.1.1 = {
+		birth = yes
+	}
+	2171.1.1 = {
+		death = yes
+	}
+}
+
+2004 = {
+	name = "Li"
+	dynasty = 1753
+	culture = chinese
+	religion = corporate
+	
+	2089.1.1 = {
+		birth = yes
+	}
+	2168.1.1 = {
+		death = yes
+	}
+}
+
+2005 = {
+	name = "Zhao"
+	dynasty = 1754
+	culture = chinese
+	religion = corporate
+	
+	2092.1.1 = {
+		birth = yes
+	}
+	2174.1.1 = {
+		death = yes
+	}
+}
+
+2006 = {
+	name = "Qin"
+	dynasty = 1755
+	culture = chinese
+	religion = corporate
+	female = yes
 	
 	2100.1.1 = {
 		birth = yes
 	}
-	2190.1.1 = {
+	2174.1.1 = {
+		death = yes
+	}
+}
+
+2007 = {
+	name = "Huo"
+	dynasty = 1756
+	culture = chinese
+	religion = corporate
+	
+	2088.1.1 = {
+		birth = yes
+	}
+	2164.1.1 = {
+		death = yes
+	}
+}
+
+2008 = {
+	name = "Liao"
+	dynasty = 1757
+	culture = chinese
+	religion = corporate
+	
+	2101.1.1 = {
+		birth = yes
+	}
+	2179.1.1 = {
+		death = yes
+	}
+}
+
+2009 = {
+	name = "Wei"
+	dynasty = 1758
+	culture = chinese
+	religion = corporate
+	female = yes
+	
+	2091.1.1 = {
+		birth = yes
+	}
+	2180.1.1 = {
+		death = yes
+	}
+}
+
+2010 = {
+	name = "Xiao"
+	dynasty = 1759
+	culture = chinese
+	religion = corporate
+	female = yes
+	
+	2092.1.1 = {
+		birth = yes
+	}
+	2174.1.1 = {
+		death = yes
+	}
+}
+
+2011 = {
+	name = "He"
+	dynasty = 1760
+	culture = chinese
+	religion = corporate
+	
+	2083.1.1 = {
+		birth = yes
+	}
+	2161.1.1 = {
 		death = yes
 	}
 }

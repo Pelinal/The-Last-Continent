@@ -660,3 +660,9 @@
 	culture = polish
 	used_for_random = no
 }
+
+2362 = {
+	name = "Vasilievich"
+	culture = russian
+	used_for_random = no
+}
