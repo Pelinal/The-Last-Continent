@@ -841,22 +841,22 @@ PROV515;REPLACEME1;;;;;;;;;;;;;x
 PROV516;REPLACEME1;;;;;;;;;;;;;x
 
 #= Barony Spam =#
-b_falklands;Stanley
-b_stanley;Ross City
-b_port_howard;Port Howard
-b_fitzroy;Fitzroy
-b_bleaker;Bleaker
-b_chartres;Chartres
-b_mariqueta;Mariqueta
-b_coronation;Coronation
-b_signy;Signy
-b_laurie;Laurie
-b_orcadas;Orcadas
-b_powell;Powell
-b_esperanza;Esperanza
-b_duse;Duse
-b_elichiribehety;Elichiribehety
-b_cape_kjellman;Cape Kjellman
-b_charcot;Charcot
-b_boeckella;Boeckella
-b_fortin_sgto_cabral;For
+b_falklands;Stanley;;;;;;;;;;;;;x
+b_stanley;Chartres;;;;;;;;;;;;;x
+b_port_howard;Port Howard;;;;;;;;;;;;;x
+b_fitzroy;Fitzroy;;;;;;;;;;;;;x
+b_bleaker;Bleaker;;;;;;;;;;;;;x
+b_chartres;Ross City;;;;;;;;;;;;;x
+b_mariqueta;Mariqueta;;;;;;;;;;;;;x
+b_coronation;Coronation;;;;;;;;;;;;;x
+b_signy;Signy;;;;;;;;;;;;;x
+b_laurie;Laurie;;;;;;;;;;;;;x
+b_orcadas;Orcadas;;;;;;;;;;;;;x
+b_powell;Powell;;;;;;;;;;;;;x
+b_esperanza;Esperanza;;;;;;;;;;;;;x
+b_duse;Duse;;;;;;;;;;;;;x
+b_elichiribehety;Elichiribehety;;;;;;;;;;;;;x
+b_cape_kjellman;Cape Kjellman;;;;;;;;;;;;;x
+b_charcot;Charcot;;;;;;;;;;;;;x
+b_boeckella;Boeckella;;;;;;;;;;;;;x
+b_fortin_sgto_cabral;Sargento Cabral;;;;;;;;;;;;;x

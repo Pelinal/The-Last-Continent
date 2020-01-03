@@ -60,7 +60,8 @@ feudal_governments = {
 	autocracy_government = {
 		preferred_holdings = { CASTLE }
 		allowed_holdings = { 
-			CASTLE 
+			CASTLE
+			CITY
 			FORT
 			HOSPITAL
 		}
@@ -80,9 +81,18 @@ feudal_governments = {
 		title_prefix = "autocracy_"
 		
 		potential = {
-			NOT = { 
-				religion = monarchist
+			NOT = { religion = monarchist }
+			NOR = {
+				religion = communist
+				religion = stalinist
 			}
+			OR = {
+				AND = {
+					religion_group = democratic_grp
+					tier = BARON
+				}
+				NOT = { religion_group = democratic_grp }
+			}	
 			OR = {
 				controls_religion = no
 				religion = islamist
@@ -107,6 +117,76 @@ feudal_governments = {
 		}
 		
 		color = { 129 140 47 }
+		
+		dukes_called_kings = yes
+		barons_need_dynasty = yes
+
+		can_build_tribal = no
+		
+		ignore_in_vassal_limit_calculation = {
+			tribal_government
+		}
+		capital_move_delay = 500
+	}
+	
+	communist_government = {
+		preferred_holdings = { CASTLE }
+		allowed_holdings = { 
+			CASTLE
+			CITY
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Gets the wrong religion modifier instead
+			muslim_government
+			theocratic_feudal_government
+			chinese_imperial_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		
+		frame_suffix = "_communist"
+		title_prefix = "proletarian_"
+		
+		potential = {
+			NOT = { religion = monarchist }
+			NOT = { religion_group = democratic_grp }
+			OR = {
+				religion = communist
+				religion = stalinist
+				#AND = {
+				#	religion = socialist
+				#	has_title_flag = ant_social_radical_gov
+				#}
+			}
+			OR = {
+				controls_religion = no
+				religion = islamist
+				has_religion_feature = religion_temporal_head
+				AND = {
+					religion = primitive
+					has_religion_features = no # Old saves, and campaigns without HF, need the Fylkirate to continue working
+				}
+			}
+			NOT = {	religion = islamist	}
+			NOT = { is_government_potential = roman_imperial_government }
+			NOT = { is_government_potential = order_government }
+			NAND = { 
+				tier = EMPEROR
+				primary_title = { has_title_flag = pretender_chinese_empire }
+				OR = { 
+					culture_group = eastern_grp 
+					has_character_flag = chinese_imperial_government_preserve 
+				}
+			}
+			is_patrician = no
+		}
+		
+		color = { 200 20 20 }
 		
 		dukes_called_kings = yes
 		barons_need_dynasty = yes
@@ -458,9 +538,9 @@ feudal_governments = {
 		can_grant_kingdoms_and_empires_to_other_government_group = yes
 		can_be_granted_kingdoms_and_empires_by_other_government = no
 		free_retract_vassalage = yes
-}
+	}
 
-republic_government = {
+	republic_government = {
 		preferred_holdings = { CITY }
 		allowed_holdings = { 
 			CITY
@@ -480,6 +560,9 @@ republic_government = {
 		frame_suffix = "_republic"
 		title_prefix = "city_"
 		potential = {
+			NOT = { religion_group = authoritarian_grp }
+			NOT = { religion = stalinist }
+			NOT = { religion = anarchist }
 			NAND = {
 				controls_religion = yes
 				NOT = { religion = islamist }
@@ -492,8 +575,10 @@ republic_government = {
 		
 		can_imprison_without_reason = no
 		can_revoke_without_reason = no
+		dukes_called_kings = yes
 		
 		can_build_tribal = no
 		
 		capital_move_delay = 600
 	}
+}
