@@ -1704,4 +1704,46 @@
 1021 = {
 	name = "Bolt"
 	culture = "jamaican"
+	used_for_random = no
 }
+1022 = {
+	name = "Blair"
+	culture = "english"
+	used_for_random = no
+}
+1023 = {
+	name = "Brown"
+	culture = "english"
+	used_for_random = no
+}
+1024 = {
+	name = "Cameron"
+	culture = "english"
+	used_for_random = no
+}
+1025 = {
+	name = "May"
+	culture = "english"
+	used_for_random = no
+}
+1026 = {
+	name = "Johnson"
+	culture = "english"
+	used_for_random = no
+}
+1027 = {
+	name = "Hunt"
+	culture = "english"
+	used_for_random = no
+}
+1028 = {
+	name = "Starmer"
+	culture = "english"
+	used_for_random = no
+}
+1029 = {
+	name = "Smith"
+	culture = "english"
+	used_for_random = no
+}
+

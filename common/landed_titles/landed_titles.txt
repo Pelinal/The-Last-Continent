@@ -49,7 +49,6 @@ e_la_plata = {
 	color = { 101 102 163 }
 	color2 = { 255 255 255 }
 	
-	short_name = yes
 	title = presidente
 	title_female = presidente
 }
@@ -417,6 +416,15 @@ e_antarctandes = {
 				b_jason = {}
 				b_cape_dissapointment = {}
 				b_alexanera = {}
+			}
+			c_larsenislands = {
+				color = {115 134 140}
+				color2 = {255 255 255}
+				
+				b_frammes = {}
+				b_larsen = {}
+				b_itsunk = {}
+				b_alexander = {}
 			}
 			c_foyn = {
 				color = {27 44 50}

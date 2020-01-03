@@ -2,18 +2,18 @@
 emperor;Emperor;;;;;;;;;;;;x
 emperor_female;Emperor;;;;;;;;;;;;x
 empire_of;Empire of;;;;;;;;;;;;x
-king;Dictator;;;;;;;;;;;;x
-king_female;Dictatress;;;;;;;;;;;;x
-kingdom_of;Junta of;;;;;;;;;;;;x
+king;King;;;;;;;;;;;;x
+king_female;Queen;;;;;;;;;;;;x
+kingdom_of;Kingdom of;;;;;;;;;;;;x
 duke;Governor;;;;;;;;;;;;x
 duke_female;Governess;;;;;;;;;;;;x
-duchy_of;Province of;;;;;;;;;;;;x
-count;Overseer;;;;;;;;;;;;x
-count_female;Overseeress;;;;;;;;;;;;x
-county_of;Outpost of;;;;;;;;;;;;x
-baron;Commander;;;;;;;;;;;;x
-baron_female;Commander;;;;;;;;;;;;x
-barony_of;Fort;;;;;;;;;;;;x
+duchy_of;State of;;;;;;;;;;;;x
+count;Mayor;;;;;;;;;;;;x
+count_female;Mayoress;;;;;;;;;;;;x
+county_of;County of;;;;;;;;;;;;x
+baron;Headman;;;;;;;;;;;;x
+baron_female;Headwoman;;;;;;;;;;;;x
+barony_of;Township of;;;;;;;;;;;;x
 
 # Cultural/Religious
 emperor_monarchist;Emperor;Empereur;Kaiser;;Emperador;;;;;;;;;x
@@ -113,13 +113,13 @@ city_king_female;President;;;;;;;;;;;;x
 city_kingdom_of;Republic of;;;;;;;;;;;;x
 city_duke;Governor;;;;;;;;;;;;x
 city_duke_female;Governess;;;;;;;;;;;;x
-city_duchy_of;Governate of;;;;;;;;;;;;x
+city_duchy_of;State of;;;;;;;;;;;;x
 city_count;Mayor;;;;;;;;;;;;x
 city_count_female;Mayoress;;;;;;;;;;;;x
-city_county_of;Settlement of;;;;;;;;;;;;x
-city_baron;Leader;;;;;;;;;;;;x
-city_baron_female;Leader;;;;;;;;;;;;x
-city_barony_of;Camp;;;;;;;;;;;;x
+city_county_of;County of;;;;;;;;;;;;x
+city_baron;Headman;;;;;;;;;;;;x
+city_baron_female;Headman;;;;;;;;;;;;x
+city_barony_of;Township of;;;;;;;;;;;;x
 
 # Foas/Deeds
 city_emperor_foa;Mr President;;;;;;;;;;;;x
@@ -141,3 +141,20 @@ kingdoms;Kingdoms;Royaumes;Königreiche;;Reinos;;;;;;;;;x
 duchies;Duchies;Duchés;Herzogtümer;;Ducados;;;;;;;;;x
 counties;Counties;Comtés;Grafschaften;;Condados;;;;;;;;;x
 baronies;Baronies;Baronnies;Baronien;;Baronías;;;;;;;;;x
+
+### AUTOCRATIC ###
+autocracy_emperor;Emperor;;;;;;;;;;;;x
+autocracy_emperor_female;Emperor;;;;;;;;;;;;x
+autocracy_empire_of;Empire of;;;;;;;;;;;;x
+autocracy_king;Dictator;;;;;;;;;;;;x
+autocracy_king_female;Dictatress;;;;;;;;;;;;x
+autocracy_kingdom_of;Dictatorship of;;;;;;;;;;;;x
+autocracy_duke;Governor;;;;;;;;;;;;x
+autocracy_duke_female;Governess;;;;;;;;;;;;x
+autocracy_duchy_of;Province of;;;;;;;;;;;;x
+autocracy_count;Marshal;;;;;;;;;;;;x
+autocracy_count_female;Marshal;;;;;;;;;;;;x
+autocracy_county_of;Marshalcy of;;;;;;;;;;;;x
+autocracy_baron;Commander;;;;;;;;;;;;x
+autocracy_baron_female;Commander;;;;;;;;;;;;x
+autocracy_barony_of;Fort;;;;;;;;;;;;x

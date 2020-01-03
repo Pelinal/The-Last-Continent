@@ -134,13 +134,27 @@
 1010 = {
 	name = "Dustin"
 	dynasty = 811
-	culture = english
+	culture = american
 	religion = conservative
 	
 	2099.1.1 = {
 		birth = yes
 	}
 	2170.1.1 = {
+		death = yes
+	}
+}
+
+1011 = {
+	name = "Brad"
+	dynasty = 812
+	culture = american
+	religion = conservative
+	
+	2087.1.1 = {
+		birth = yes
+	}
+	2160.1.1 = {
 		death = yes
 	}
 }

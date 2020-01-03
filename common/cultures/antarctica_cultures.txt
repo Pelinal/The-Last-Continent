@@ -84,7 +84,7 @@
 iberian_grp = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { occitangfx }
-
+	
 	basque = {
 		graphical_cultures = { italiangfx trueoccitangfx occitangfx }
 		
@@ -118,6 +118,8 @@ iberian_grp = {
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	spanish = {
 		graphical_cultures = { southerngfx }
@@ -160,6 +162,8 @@ iberian_grp = {
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	argentine = {
 		graphical_cultures = { southerngfx }
@@ -202,6 +206,8 @@ iberian_grp = {
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	chilean = {
 		graphical_cultures = { southerngfx }
@@ -244,6 +250,8 @@ iberian_grp = {
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	portuguese = {
 		graphical_cultures = { southerngfx }
@@ -273,6 +281,8 @@ iberian_grp = {
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -314,6 +324,8 @@ iberian_grp = {
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -355,7 +367,9 @@ iberian_grp = {
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
-
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -396,6 +410,8 @@ iberian_grp = {
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -437,6 +453,8 @@ iberian_grp = {
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -478,6 +496,8 @@ iberian_grp = {
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -519,6 +539,8 @@ iberian_grp = {
 		grammar_transform = spanish
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -535,7 +557,7 @@ iberian_grp = {
 francophone_grp = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { westerngfx }
-
+	
 	french = {
 		graphical_cultures = { frankishgfx westerngfx }
 		alternate_start = {
@@ -562,6 +584,8 @@ francophone_grp = {
 		grammar_transform = french
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -600,6 +624,8 @@ francophone_grp = {
 		grammar_transform = french
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -647,6 +673,9 @@ francophone_grp = {
 		from_dynasty_prefix = "de "
 		grammar_transform = french
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -693,6 +722,8 @@ francophone_grp = {
 		grammar_transform = french
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -709,7 +740,7 @@ francophone_grp = {
 british_grp = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { westerngfx } 
-	
+
 	english = {
 		graphical_cultures = { englishgfx westerngfx }
 		
@@ -743,6 +774,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -789,6 +823,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -835,6 +872,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -881,6 +921,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -925,6 +968,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -991,6 +1037,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1037,6 +1086,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1083,6 +1135,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1119,6 +1174,9 @@ british_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1134,7 +1192,7 @@ british_grp = {
 uralic_grp = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { easterngfx }
-
+	
 	finnish = {
 		graphical_cultures = { ugricgfx }
 		
@@ -1154,6 +1212,9 @@ uralic_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1167,9 +1228,7 @@ uralic_grp = {
 	hungarian = {
 		graphical_cultures = {magyargfx}
 		
-		color = { 0.5 0.6 0.3 }	
-	
-		male_names = {
+		color = { 0.5 0.6 0.3 }	male_names = {
 			Ábel Ábrahám Ádám Adolf Adorján Adrián Ágoston Ákos Alajos Albert Alex Alexander Alfréd Álmos Ambrus Anasztáz Andor András Andris Antal Arisztid Árpád Attila Balázs
 			Bálint Bandi Barna Barta Béla Bence Bendegúz Benedek Benett Bernát Bertalan Botond Csongor Czanád Dávid Dénes Demeter Dominik Domonkos Donát Ede Éliás Emil Erik
 			Ervin Etele Fábián Ferdinánd Filip Gabi Gáspár Gusztáv Gyula Henrik Hunor Ignác Illés Jakab Jancsi Jani János Józsi Jószua Kálmán Károly Kázmér Kolos Konrád Konstantin
@@ -1191,6 +1250,8 @@ uralic_grp = {
 		prefix = no
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	
 	estonian = {
@@ -1212,6 +1273,9 @@ uralic_grp = {
 		##bastard_dynasty_prefix = "Fitz"
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1231,7 +1295,7 @@ scandinavian_grp = {
 	norwegian = {
 		graphical_cultures = { norsegfx }
 		
-		color = { 0.5 0.8 0.9 }
+		color = { 110 138 161 }
 		
 		male_names = {
 			William Mathias Oliver Jakob Lucas Filip Liam Aksel Emil Oskar Markus Theodor Elias Alexander Kasper Magnus Jonas Henrik Noah Isak Tobias
@@ -1248,7 +1312,9 @@ scandinavian_grp = {
 		female_patronym = "sdatter"
 		prefix = no
 		
-		modifier = default_culture_modifier		
+		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1269,7 +1335,7 @@ scandinavian_grp = {
 			}
 		}
 		
-		color = { 0.25 0.5 0.75 }
+		color = { 0 127 232 }
 		
 		male_names = {
 			Lucas William Oscar Oliver Liam Elias Hugo Vincent Charlie Alexander Axel Ludvig Elliot Noah Leo Viktor Filip Arvid Alfred Nils Isak Emil Theo Theodor Edvin Melvin Gustav
@@ -1301,13 +1367,14 @@ scandinavian_grp = {
 		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
-		modifier = default_culture_modifier		
+		modifier = default_culture_modifier	
+		dukes_called_kings = yes
 	}
 
 	danish = {
 		graphical_cultures = { norsegfx }
 
-		color = { 0.15 0.4 0.55 }
+		color = { 15 45 80 }
 		
 		male_names = {
 			William Noah Lucas Oscar Victor Malthe Emil Frederik Oliver Magnus Carl Villads Elias Alexander Anton Christian Alfred Valdemar Mikkel Liam August Mathias Felix Mads Benjamin Aksel Johan
@@ -1325,6 +1392,9 @@ scandinavian_grp = {
 		prefix = no
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1338,7 +1408,7 @@ scandinavian_grp = {
 	icelandic = {
 		graphical_cultures = { norsegfx }
 
-		color = { 0.15 0.4 0.55 }
+		color = { 88 155 164 }
 		
 		male_names = {
 			Jón Sigurður Guðmundur Gunnar Ólafur Olav Einar Kristján Kristian Christian Magnús Stefán Stefan Jóhann Björn Arnar Árni Bjarni Helgi Halldór Pétur Pjetur Daníel Kristinn
@@ -1361,6 +1431,9 @@ scandinavian_grp = {
 		prefix = no
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -1403,13 +1476,15 @@ latin_grp = {
 		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
-		modifier = default_culture_modifier		
+		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes		
 	}
 	
 	sardinian = {
 		graphical_cultures = { italiangfx }
 
-		color = { 235 216 92 }
+		color = { 164 156 206 }
 
 		male_names = {
 			Adàmu Adriànu Alessandru Alfonsu Ambròsu Antine Antòni Arrammundu Austinu Austu Basili Benedettu Bernardu Bustianu Crabiele Carlus Carule Clementi
@@ -1433,13 +1508,15 @@ latin_grp = {
 		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
-		modifier = default_culture_modifier		
+		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	
 	romanian = {
 		graphical_cultures = { serbsouthslavicgfx }
 
-		color = { 235 216 92 }
+		color = { 158 65 105 }
 
 		male_names = {
 			Adrian_Adrian Alexandru_Alexander Anghel_Angel Aron_Aaron Bajan Balc Barbat Basarab Bogdan_Bogdan Carol_Charles Ciprian_Cyprianus Ciubar Claudiu_Claudius
@@ -1473,6 +1550,8 @@ latin_grp = {
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 }
 
@@ -1502,10 +1581,10 @@ islamic_grp = {
 		female_patronym = "bint "
 		prefix = yes
 		
-		dynasty_title_names = yes
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
+		dukes_called_kings = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -1520,7 +1599,7 @@ islamic_grp = {
 	egyptian = {
 		graphical_cultures = { egyptiangfx levantinegfx arabicgfx muslimgfx }
 		
-		color = { 155 156 112 }
+		color = { 177 193 81 }
 
 		male_names = {
 			Aaron_Aaron Abanoub Abderahman_Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah_Abdullah
@@ -1543,11 +1622,11 @@ islamic_grp = {
 		male_patronym = "ibn "
 		female_patronym = "bint "
 		prefix = yes
-		
-		dynasty_title_names = yes
+
 		founder_named_dynasties = yes
 
 		modifier = default_culture_modifier
+		dukes_called_kings = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -1563,7 +1642,7 @@ islamic_grp = {
 	tunisian = {
 		graphical_cultures = { egyptiangfx levantinegfx arabicgfx muslimgfx }
 		
-		color = { 155 156 112 }
+		color = { 193 153 81 }
 
 		male_names = {
 			Aaron_Aaron Abanoub Abderahman_Abderrahman Abdul-Aziz Abdul-Haq Abdul-Madjid Abdul-Salaam Abdullah_Abdullah
@@ -1587,10 +1666,10 @@ islamic_grp = {
 		female_patronym = "bint "
 		prefix = yes
 		
-		dynasty_title_names = yes
 		founder_named_dynasties = yes
 
-		modifier = default_culture_modifier	
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -1606,7 +1685,7 @@ islamic_grp = {
 	turkish = {
 		graphical_cultures = { egyptiangfx levantinegfx arabicgfx muslimgfx }
 		
-		color = { 155 156 112 }
+		color = { 126 203 120 }
 
 		male_names = {
 			Abdullah Adalet Adem Adil Ahmet Alim Alp Anil Asim Ata Ayberk Aziz Azad Baha Bora Bulut Cafer Cem Jem Cenk Cumhur Ebrar Efe Egemen Emre Ensar Fuat Galip Haluk Hamza Hasip Ibrahim Kadri
@@ -1616,18 +1695,18 @@ islamic_grp = {
 		female_names = {
 			Adalet Ajda Aliye Arzu Asel Arzu Asena Asli Asuman Ayla Aylin Aysel Aysu Azra Bahar Beril Berna Berrak Beyza Beste Bihter Burcu Buse Canan Cemre Cennet Derin Didem Duru Duygu Ebru Ece Ela Erva
 			Esen Eser Esin Eslem Evren Ezgi Fatma Fehime Fidan Filin Firuze Gaye Gamze Gonca Hacer Halime Handan Hande Hazal Ikra Ilknur Kismet Medine Melek Melike Naz Necla Nejla Nil Nimet Nur Nuray
-			Rabia Pembe Mervin Pinar Ravza Reyhan Rukiye Sabah Samiye Sanem Seher Selma Semra Serpil Sevda Sila Simge Su Tahire Tuba Tuana Umut Yaren Yeter Yonca Zahide
+			Rabia Pembe Mervin Pinar Ravza Reyhan Rukiye Sabah Samiye Sanem Seher Selma Semra Serpil Sevda Sila Simge Su Tahire Tuba Tuana Umut Yaren Yeter Yonca Zahide Selin
 		}
 		from_dynasty_prefix = "mn "
 		
 		male_patronym = "ibn "
 		female_patronym = "bint "
 		prefix = yes
-		
-		dynasty_title_names = yes
+
 		founder_named_dynasties = yes
 
-		modifier = default_culture_modifier	
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -1642,11 +1721,13 @@ islamic_grp = {
 }
 
 indian_grp = {
-
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { indiangfx easterngfx }
+	
 	indian = {
 		graphical_cultures = { indiangfx }
 		
-		color = { 0.6 0.0 0.0 }
+		color = { 255 128 0 }
 	
 		male_names = {
 			Aamir Abbas Abhay Abhijeet Abhijit Abhilash Abhinav Abhishek Abrar Adil Aditya Adnan Agni Ahmad Ajay Ajeet Ajit Ajith Akash Bharat Bharath Bibek Bijay Bipin Bishal Bishan Brijesh Chand
@@ -1660,10 +1741,11 @@ indian_grp = {
 			Laila Laboni Lalita Madhur Manjeet Maya Meera Meena Mohini Mumtaz Nalini Nikita Nilima Padma Padmini Pratima Preethi Prema Priti Rachana Rajinder Rakhi Riya Rupa Sadia Sandhya Sarala
 			Saraswati Sarika Sarita Sashi Seeta Shabnam Shailaja Shanti Sheela Shikha Shila Shivani Simran Sitara Sneha Sridevi Suniti Swapna Uma Urvi Vasanti Yamuna Zeenat
 		}
-		dynasty_title_names = yes
+		
 		founder_named_dynasties = yes
 		
-		modifier = default_culture_modifier		
+		modifier = default_culture_modifier	
+		dukes_called_kings = yes		
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -1679,20 +1761,21 @@ indian_grp = {
 	pakistani = {
 		graphical_cultures = { southindiangfx }
 		
-		color = { 0.6 0.0 0.0 }
+		color = { 0 102 0 }
 	
 		male_names = {
 			Aamir Abdul Adil Adnan Ajeet Akbar Ali Amit Asad Ayaz Baber Babur Deep Deepak Dilshad Dinesh Dip Firdos Furqan Ghulam Gul Hassan Imran Imitiyaz Inayat Kumar Mahmud Manish Manoj
-			Naseem Nadim Noor Nur Pankaj Qasim Rahat Raj RAja Rakesh RAna Raza Sanjeev Shahid Shahnaz Sharif Simran Sumit Sumeet	Umar Vishal Yasin Younus Zaman Ziauddin Zaman Zawar		
+			Naseem Nadim Noor Nur Pankaj Qasim Rahat Raj RAja Rakesh RAna Raza Sanjeev Shahid Shahnaz Sharif Simran Sumit Sumeet Umar Vishal Yasin Younus Zaman Ziauddin Zaman Zawar		
 		}
 		female_names = {
 			Aisha Aiza Aizah Ayesha Deepa Dilshad Dipa Fahmida Fareeha Fariha Gul Gulbadan Gulbahar Gulzar Inaaya Hira Inaaya Inaya Iqra Jannat Khurshid Mumtaz Naseem Nasim Nida Pooja Rahat
 			Sabeen Sadia Saira Shabnam Swaran Syeda Yasmeen Zahida Zainab Zeenat
 		}
-		dynasty_title_names = yes
+		
 		founder_named_dynasties = yes
 		
-		modifier = default_culture_modifier			
+		modifier = default_culture_modifier
+		dukes_called_kings = yes
 	
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -1708,7 +1791,7 @@ indian_grp = {
 	bangladeshi = {
 		graphical_cultures = { indiangfx }
 		
-		color = { 0.6 0.0 0.0 }
+		color = { 218 41 28 }
 	
 		male_names = {
 			Aamir Abdul Adil Adnan Ajeet Akbar Ali Amit Asad Ayaz Baber Babur Deep Deepak Dilshad Dinesh Dip Firdos Furqan Ghulam Gul Hassan Imran Imitiyaz Inayat Kumar Mahmud Manish Manoj
@@ -1719,10 +1802,11 @@ indian_grp = {
 			Sabeen Sadia Saira Shabnam Swaran Syeda Yasmeen Zahida Zainab Zeenat
 		}
 		
-		dynasty_title_names = yes
+		
 		founder_named_dynasties = yes
 		
-		modifier = default_culture_modifier			
+		modifier = default_culture_modifier
+		dukes_called_kings = yes		
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -1778,6 +1862,8 @@ greek_grp = {
 		disinherit_from_blinding = yes
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 }
 
@@ -1826,12 +1912,14 @@ eastern_grp = {
 		from_dynasty_prefix = ""
 		
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	korean = {
 		graphical_cultures = { chinesegfx }
 		secondary_event_pictures = bedouin_arabic
 		
-		dynasty_name_first = yes
+		dynasty_name_first = no
 		
 		color = { 185 196 203 }
 
@@ -1868,15 +1956,17 @@ eastern_grp = {
 		from_dynasty_prefix = ""
 		
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	
 	japanese = {
 		graphical_cultures = {chinesegfx}
 		secondary_event_pictures = bedouin_arabic
 		
-		dynasty_name_first = yes
+		dynasty_name_first = no
 		
-		color = { 185 196 203 }
+		color = { 255 196 203 }
 
 		male_names = {
 			Akhiko Akihito Akimitsu Akio Akira Aoi Arata Asuka Atsushi Ayumu Chihiro Daichi Daiki Daisuke Goro Gorou Hachiro Hachirou Hanzou Haru Haruka Haruki Haruto Hayate Hayato 
@@ -1895,12 +1985,14 @@ eastern_grp = {
 		
 		from_dynasty_prefix = ""
 		
-		modifier = default_culture_modifier		
+		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	
 	thai = {
 		graphical_cultures = {bodpagfx}		
-		color = { 185 196 203 }
+		color = { 182 0 125 }
 
 		male_names = {
 			Adul Adulsak Akapol Akradech Amnak Anapan Anothai Anucha Anun Anurak Bancha Bank Banthoeng Bannthuaeng Bin Booncherd Boonchua Boonkuea Boonloes Boonrit Boonsong Boonthan Boonthep
@@ -1922,7 +2014,7 @@ eastern_grp = {
 		from_dynasty_prefix = ""
 		
 		modifier = default_culture_modifier	
-	
+		dukes_called_kings = yes
 	
 	}
 }
@@ -1933,7 +2025,7 @@ germanic_grp = {
 	
 	german = {
 		graphical_cultures = {germangfx}
-		color = {0.5 0.5 0.5}
+		color = { 111 111 111 }
 	
 		from_dynasty_prefix = "von "
 		male_names = {
@@ -1957,11 +2049,13 @@ germanic_grp = {
 		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
-		modifier = default_culture_modifier	
+		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	dutch = {
 		graphical_cultures = { saxongfx }
-		color = {0.5 0.5 0.5}	
+		color = { 255 64 0 }	
 		
 		male_names = {
 			Aart Abe Abraham Ad Adam Adelbert Adriaan Adrianus Albert Alexander Alfons Alfred Allard Alwin Ambroos Antoon Arno Arnoud Bas Bastiaan Ben Benjamin Bernard
@@ -1992,13 +2086,13 @@ germanic_grp = {
 		mat_grm_name_chance = 10
 		mother_name_chance = 5
 
-		modifier = default_culture_modifier		
+		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes		
 	}
 	austrian = {
 		graphical_cultures = {germangfx}	
-		color = {0.5 0.5 0.5}	
-	
-		from_dynasty_prefix = "von "
+		color = { 222 222 222 }	from_dynasty_prefix = "von "
 		male_names = {
 			Ben Jonas Leon Elias Finn Noah Paul Luis Lukas Luca Felix Maximilian Henry Max Emil Moritz Jakob Niklas Tim Julian Oskar Anton Philipp David Alexander Theo Tom Mats Jan Matteo Samuel Erik Fabian Milan Leo Jonathan Rafael Simon Vincent 
 			Lennard Carl Linus Hannes Jona Mika Jannik Nico Till Johannes Marlon Leonard Benjamin Johann Mattis Adrian Julius Florian Constantin Daniel Aaron Maxim Nick Valentin Ole Luke Levi Nils Jannis Sebastian Tobias Marvin Joshua Timo Phil Joel 
@@ -2021,7 +2115,7 @@ germanic_grp = {
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier	
-	
+		dukes_called_kings = yes
 	
 	}
 }
@@ -2029,7 +2123,7 @@ germanic_grp = {
 east_slavic_grp = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { easterngfx }
-
+	
 	russian = {
 		graphical_cultures = { easternslavicgfx }
 		
@@ -2072,11 +2166,13 @@ east_slavic_grp = {
 		mother_name_chance = 5
 		
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	ukrainian = {
 		graphical_cultures = { easternslavicgfx }
 		
-		color = { 95 95 255 }
+		color = { 255 255 0 }
 		alternate_start = {
 			OR = {
 				year >= 800
@@ -2115,6 +2211,8 @@ east_slavic_grp = {
 		mother_name_chance = 5
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 	}
 	polish = {
 		graphical_cultures = { westernslavicgfx }
@@ -2144,6 +2242,8 @@ east_slavic_grp = {
 		#prefix = no
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -2177,6 +2277,8 @@ east_slavic_grp = {
 		prefix = no
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -2191,10 +2293,13 @@ east_slavic_grp = {
 }	
 	
 west_slavic_grp = {
+	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+	graphical_cultures = { easterngfx }
+	
 	croatian = {
 		graphical_cultures = { croatsouthslavicgfx }
 		
-		color = { 0.4 0.2 0.2 }
+		color = { 255 0 128 }
 
 		male_names = {
 			Adam_Adam Andrija Bartol_Bartolomeus Besar Bojan Boris Branimir Castimir_Casimir Danail_Daniel Dmitar_Demetrius Dobromir Dragan Dragomir Drzislav Dujam Duym Filip_Philip Gaspar_Caspar Gheorghe_George Grigorii_Gregory
@@ -2211,6 +2316,9 @@ west_slavic_grp = {
 		from_dynasty_prefix = "od "
 
 		modifier = default_culture_modifier
+		feminist=yes
+		dukes_called_kings = yes
+		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -2225,7 +2333,7 @@ west_slavic_grp = {
 	serbian = {
 		graphical_cultures = { serbsouthslavicgfx }
 		
-		color = { 90 80 110 }
+		color = { 63 28 107 }
 
 		male_names = {
 			Aldimir Asen Berbat Blaz_Blaise Boleslav Borna Branimir Budimir Kosmin Danilo_Daniel Djordje_George Dmitar_Demetrius Dobroslav Dragija Dragos Dragutin Gavrilo_Gabriel Godimir Goran
@@ -2243,13 +2351,14 @@ west_slavic_grp = {
 		
 		male_patronym = "ic"
 		prefix = no
-
+		
+		dukes_called_kings = yes
 		modifier = default_culture_modifier
 	}
 	bosnian = {
 		graphical_cultures = { croatsouthslavicgfx }
 		
-		color = { 0.3 0.1 0.1 }
+		color = { 97 41 20 }
 
 		male_names = {
 			Boric Kulin Matej_Matthew Ninoslav "Matej Ninoslav" Prijezda Stjepan Tvrtko Vuk Vladislav Dabisa Sanko Vlatko Hrana Hran Sandalj Mihajlo_Michael Juraj_George Ostoja Hrvoje
@@ -2265,7 +2374,9 @@ west_slavic_grp = {
 
 		male_patronym = "ic"
 		
+		dukes_called_kings = yes
 		modifier = default_culture_modifier
+		feminist=yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
 		mat_grf_name_chance = 10
@@ -2297,8 +2408,10 @@ west_slavic_grp = {
 		}
 		
 		from_dynasty_prefix = "of "
-
+		
+		dukes_called_kings = yes
 		modifier = default_culture_modifier
+		feminist=yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -2315,7 +2428,7 @@ west_slavic_grp = {
 celtic_grp = {
 	alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 	graphical_cultures = { westerngfx }
-
+	
 	irish = {
 		graphical_cultures = { celticgfx }
 		
@@ -2355,6 +2468,7 @@ celtic_grp = {
 		}
 		
 		dukes_called_kings = yes
+		feminist=yes
 		
 		from_dynasty_prefix = "de "
 		male_patronym = "mac "
@@ -2386,8 +2500,9 @@ celtic_grp = {
 			Ya Keyne Kayna Mabyn Mabena Morwen Morwenna Newlyn Newlyna Wenn Gwen Wenna Caja Delen Elestren Elowen Enor Gwennol Kelynen Kensa Keresen Melyonen Metheven Morgelyn Morenwyn Morvoren 
 			Nessa Rosen Rozen Rosenwyn Sowena Sowenna Steren Tegan Tregereth Tressa 
 		}
-		dukes_called_kings = yes
 		
+		dukes_called_kings = yes
+		feminist=yes
 		modifier = default_culture_modifier
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
@@ -2452,6 +2567,7 @@ celtic_grp = {
 		prefix = yes
 
 		modifier = default_culture_modifier
+		feminist=yes
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -2488,6 +2604,7 @@ celtic_grp = {
 		prefix = yes
 
 		modifier = default_culture_modifier
+		feminist=yes
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 10
@@ -2502,20 +2619,23 @@ celtic_grp = {
 }
 
 unihabited_grp = {
-	alternate_start = { always = no }
+	alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
 	graphical_cultures = { westerngfx }
 	#playable = no
 	
 	uninhabited = {
 		graphical_cultures = { westerngfx }
+		alternate_start = { has_alternate_start_parameter = { key = culture value = full_random } }
+		
+		allow_in_ruler_designer = no
 		
 		color = { 0 0 0 }
 
 		male_names = {
-			nocharacter
+			" "
 		}
 		female_names = {
-			nocharacter
+			" "
 		}
 		dynasty_title_names = no
 		founder_named_dynasties = no

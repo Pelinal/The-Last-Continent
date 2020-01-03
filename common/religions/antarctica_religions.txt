@@ -1103,6 +1103,7 @@ neutral_grp = {
 }
 
 unalligned_grp = {
+	alternate_start = { has_alternate_start_parameter = { key = religion value = full_random } }
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
 	crusade_cb = crusade

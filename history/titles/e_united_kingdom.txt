@@ -1,0 +1,49 @@
+1997.5.2 = {
+	holder = 307 # Tony Blair
+}
+2007.6.27 = {
+	holder = 308 # Gordon Brown
+}
+2010.5.11 = {
+	holder = 309 # David Cameron
+}
+2016.9.12 = {
+	holder = 310 # Theresa May
+}
+2019.6.24 = {
+	holder = 311 # Boris Johnson
+}
+2019.12.12 = {
+	holder = 311 # Boris Johnson
+}
+2030.1.1 = {
+	holder = 312 # Jeremy Hunt
+}
+2034.1.1 = {
+	holder = 313 # Kier Starmer
+}
+# vvv Randomers
+2044.1.1 = {
+	holder = 314
+}
+2050.1.1 = {
+	holder = 315
+}
+2058.1.1 = {
+	holder = 316
+}
+2069.1.1 = {
+	holder = 315
+}
+2079.1.1 = {
+	holder = 317
+}
+2090.1.1 = {
+	holder = 318
+}
+2100.1.1 = {
+	holder = 319
+}
+2115.1.1 = {
+	holder = 320 # James Smith
+}

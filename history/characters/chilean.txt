@@ -28,3 +28,17 @@
         death = yes
     }
 }
+
+5003 = {
+    name = "Calisto"
+    dynasty = 253 
+    culture = chilean
+    religion = conservative
+    
+    2083.1.1 = {
+        birth = yes
+    }
+    2157.1.1 = {
+        death = yes
+    }
+}

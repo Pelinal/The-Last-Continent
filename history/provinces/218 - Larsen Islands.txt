@@ -1,0 +1,15 @@
+# 218 - Larsen Islands
+title = c_larsenislands
+max_settlements = 4
+
+# Baronies
+b_frammes = city
+b_larsen = castle
+#b_itsunk = castle
+#b_alexander = castle
+	
+# Misc
+culture = argentine
+religion = justicial
+	
+# History

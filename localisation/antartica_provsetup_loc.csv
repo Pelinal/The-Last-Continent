@@ -634,6 +634,9 @@ c_wagner_adj;Wagneroid;;;;;;;;;;;;x
 PROV211;Colina;;;;;;;;;;;;x
 c_colina;Colina;;;;;;;;;;;;x
 c_colina_adj;Colinan;;;;;;;;;;;;x
+PROV218;Frammes;;;;;;;;;;;;x
+c_larsenislands;Frammes;;;;;;;;;;;;x
+c_larsenislands_adj;Framsi;;;;;;;;;;;;x
 
 #= Sea Provinces =#
 PROV318;Ronne Basin;;;;;;;;;;;;;x
@@ -694,7 +697,7 @@ PROV373;Prydz Bay;;;;;;;;;;;;;x
 PROV374;Amery Inlet;;;;;;;;;;;;;x
 PROV375;Mawson Coast;;;;;;;;;;;;;x
 PROV376;Bight of Hannan;;;;;;;;;;;;;x
-PROV377;Casey Bay;;;;;;;;;;;;;x
+PROV377;Ronne Basin;;;;;;;;;;;;;x
 PROV378;Lützow-Holm Bay;;;;;;;;;;;;;x
 PROV379;Russell Bay;;;;;;;;;;;;;x
 PROV380;Princess Ragnhild Coast;;;;;;;;;;;;;x

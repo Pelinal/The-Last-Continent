@@ -1,0 +1,17 @@
+# Czech chars
+# IDS 8001-9000
+
+8001 = {
+	name = "Eliška"
+	dynasty = 2529
+	culture = czech
+	religion = social_democratic
+	female = yes
+	
+	2090.1.1 = {
+		birth = yes
+	}
+	2166.1.1 = {
+		death = yes
+	}
+}

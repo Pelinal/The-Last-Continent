@@ -5,7 +5,7 @@
 	name = "Salvador"
 	dynasty = 441 # Hernandez
 	culture = argentine
-	religion = justcial
+	religion = justicial
 	
 	add_trait = wroth
 	add_trait = cruel
@@ -25,7 +25,8 @@
 	name = "Maria"
 	dynasty = 442
 	culture = argentine
-	religion = justcial
+	religion = justicial
+	female = yes
 	
 	add_trait = fair
 	
@@ -40,7 +41,7 @@
 	name = "Rodrigo"
 	dynasty = 441 # Hernandez
 	culture = argentine
-	religion = justcial
+	religion = justicial
 	father = 4001
 	mother = 4002
 	
@@ -70,7 +71,7 @@
 	name = "Eduardo"
 	dynasty = 443
 	culture = argentine
-	religion = justcial
+	religion = justicial
 	
 	1941.1.1 = {
 		birth = yes
@@ -83,7 +84,7 @@
 	name = "Adolfo"
 	dynasty = 444
 	culture = argentine
-	religion = justcial
+	religion = justicial
 
 	1947.1.1 = {
 		birth = yes
@@ -93,10 +94,10 @@
 	}
 }
 4007 = {
-	name = "NÃ©stor"
+	name = "Néstor"
 	dynasty = 445
 	culture = argentine
-	religion = justcial
+	religion = justicial
 	
 	
 	1950.1.1 = {
@@ -113,7 +114,7 @@
 	name = "Cristina"
 	dynasty = 446
 	culture = argentine
-	religion = justcial
+	religion = justicial
 	female = yes
 	
 	add_trait = fair
@@ -142,7 +143,7 @@
 	name = "Alberto"
 	dynasty = 448
 	culture = argentine
-	religion = justcial
+	religion = justicial
 	
 	1959.1.1 = {
 		birth = yes
@@ -152,7 +153,7 @@
 	}
 }
 4011 = {
-	name = "JosÃ©"
+	name = "José"
 	dynasty = 34
 	culture = argentine
 	religion = nationalist
@@ -170,10 +171,11 @@
 }
 
 4012 = {
-	name = "JosÃ©"
+	name = "José"
 	dynasty = 34
 	culture = argentine
 	religion = nationalist
+	father = 4011
 	
 	add_trait = proud
 	
@@ -186,15 +188,71 @@
 }
 
 4013 = {
-	name = "JesÃºs"
+	name = "Ethan"
 	dynasty = 242 # Romero
 	culture = argentine
-	religion = justcial
+	religion = justicial
 	
 	2089.1.1 = {
 		birth = yes
 	}
 	2176.1.1 = {
+		death = yes
+	}
+}
+
+4014 = {
+	name = "Mateo"
+	dynasty = 243
+	culture = argentine
+	religion = justicial
+	
+	2091.1.1 = {
+		birth = yes
+	}
+	2180.1.1 = {
+		death = yes
+	}
+}
+
+4015 = {
+	name = "Guillermo"
+	dynasty = 244
+	culture = argentine
+	religion = justicial
+	
+	2100.1.1 = {
+		birth = yes
+	}
+	2180.1.1 = {
+		death = yes
+	}
+}
+
+4016 = {
+	name = "Manuel"
+	dynasty = 245
+	culture = argentine
+	religion = justicial
+	
+	2087.1.1 = {
+		birth = yes
+	}
+	2172.1.1 = {
+		death = yes
+	}
+}
+
+4016 = {
+	name = "Simón"
+	dynasty = 246
+	culture = argentine
+	religion = conservative
+	
+	2084.1.1 = {
+		birth = yes
+	}
+	2152.1.1 = {
 		death = yes
 	}
 }

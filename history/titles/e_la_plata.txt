@@ -1,27 +1,28 @@
-1999.10.12 = {
+1999.12.10 = {
 	holder = 4004 # Fernando de la Rúa
+	liege = e_la_plata
 }
-2001.20.12 = {
+2001.12.20 = {
 	holder = 4006 # Adolfo Rodríguez Saá
 }
-2001.30.12 = {
+2001.12.30 = {
 	holder = 4005 # Eduardo Duhalde
 }
-2003.25.5 = {
+2003.5.25 = {
 	holder = 4007 # Néstor Kirchner
 }
-2007.10.12 = {
+2007.12.10 = {
 	holder = 4008 # Cristina Fernández de Kirchner
 }
-2015.10.12 = {
+2015.12.10 = {
 	holder = 4009 # Mauricio Macri
 }
-2019.10.12 = {
+2019.12.10 = {
 	holder = 4010 # Alberto Fernández
 }
-2024.9.12 = {
+2024.12.9 = {
 	holder = 4011 # José Alarcón
 }
-2091.1.1. = {
+2091.1.1 = {
 	holder = 4001 # Salvador Hernandez
 }
