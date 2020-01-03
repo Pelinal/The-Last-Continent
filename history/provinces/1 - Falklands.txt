@@ -4,11 +4,11 @@ title = c_falklands
 max_settlements = 7
 
 # Baronies
-b_falklands = castle
+b_falklands = city
 b_stanley = castle
 b_port_howard = city
 b_fitzroy = temple
-#b_bleaker
+b_bleaker = city
 #b_chartres
 #b_mariqueta
 	

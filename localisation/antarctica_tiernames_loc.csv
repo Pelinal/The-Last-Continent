@@ -158,3 +158,21 @@ autocracy_county_of;Marshalcy of;;;;;;;;;;;;x
 autocracy_baron;Commander;;;;;;;;;;;;x
 autocracy_baron_female;Commander;;;;;;;;;;;;x
 autocracy_barony_of;Fort;;;;;;;;;;;;x
+
+### 
+proletarian_emperor;Premier;;;;;;;;;;;;x
+proletarian_emperor_female;Premier;;;;;;;;;;;;x
+proletarian_empire_of;People's Republic of;;;;;;;;;;;;x
+proletarian_king;Minister;;;;;;;;;;;;x
+proletarian_king_female;Ministress;;;;;;;;;;;;x
+proletarian_kingdom_of;Administration of;;;;;;;;;;;;x
+proletarian_duke;Commissar;;;;;;;;;;;;x
+proletarian_duke_female;Commissara;;;;;;;;;;;;x
+proletarian_duchy_of;Commissary of;;;;;;;;;;;;x
+proletarian_count;Procurator;;;;;;;;;;;;x
+proletarian_count_female;Procuratress;;;;;;;;;;;;x
+proletarian_county_of;Procurate of;;;;;;;;;;;;x
+proletarian_baron;Sovetnik;;;;;;;;;;;;x
+proletarian_baron_female;Sovetnikka;;;;;;;;;;;;x
+proletarian_barony_of;Soviet of;;;;;;;;;;;;x
+
