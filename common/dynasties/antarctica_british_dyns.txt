@@ -1747,3 +1747,27 @@
 	used_for_random = no
 }
 
+#Unique Dynasties
+1030 = {
+	name = "O'Brady"
+	culture = "american"
+	used_for_random = no
+}
+
+1031 = {
+	name = "Besaw"
+	culture = "american"
+	used_for_random = no
+}
+
+1032 = {
+	name = "Bezos"
+	culture = "american"
+	used_for_random = no
+}
+
+1033 = {
+	name = "Tuttle"
+	culture = "american"
+	used_for_random = no
+}

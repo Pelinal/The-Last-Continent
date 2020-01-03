@@ -1,4 +1,4 @@
 2120.1.1 =  {
-	holder = 8006
-	liege = k_hellas
+	holder = 1013
+	liege = d_obrady
 }

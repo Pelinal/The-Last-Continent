@@ -30,10 +30,11 @@
 }
 
 1003 = {
-	name = "Joe"
-	dynasty = 818
+	name = "Zach"
+	dynasty = 1030
 	culture = american
 	religion = conservative
+	father = 1015
 	
 	2087.1.1 = {
 		birth = yes
@@ -147,7 +148,7 @@
 
 1011 = {
 	name = "Brad"
-	dynasty = 812
+	dynasty = 810
 	culture = american
 	religion = conservative
 	
@@ -155,6 +156,451 @@
 		birth = yes
 	}
 	2160.1.1 = {
+		death = yes
+	}
+}
+
+1012 = {
+	name = "Kimberly"
+	dynasty = 809
+	culture = american
+	religion = conservative
+	female = yes
+	
+	2069.1.1 = {
+		birth = yes
+	}
+	2130.1.1 = {
+		death = yes
+	}
+}
+
+1013 = {
+	name = "Tom"
+	dynasty = 808
+	culture = american
+	religion = conservative
+	
+	2084.1.1 = {
+		birth = yes
+	}
+	2168.1.1 = {
+		death = yes
+	}
+}
+################## O'Brady Family
+1014 = {
+	name = "Scott"
+	dynasty = 1030
+	culture = american
+	religion = conservative
+	father = 1016
+	
+	2084.1.1 = {
+		birth = yes
+	}
+	2148.1.1 = {
+		death = yes
+	}
+}
+
+1015 = {
+	name = "Jeremy"
+	dynasty = 1030
+	culture = american
+	religion = conservative
+	father = 1016
+	add_trait = lunatic
+	add_trait = envious
+	add_trait = diligent
+	add_trait = hedonist
+	add_trait = uncouth
+	add_trait = strong
+	add_trait = one_legged
+	add_trait = one_eyed
+	add_trait = scarred_high
+	add_trait = pneumonic
+	
+	2046.1.1 = {
+		birth = yes
+	}
+	2103.1.1 = {
+		death = {death_reason = death_trait}
+	}
+}
+1016 = {
+	name = "Terry"
+	dynasty = 1030
+	culture = american
+	religion = conservative
+	father = 1018
+	
+	2028.1.1 = {
+		birth = yes
+	}
+	2084.1.1 = {
+		death = yes
+	}
+}
+
+1016 = {
+	name = "Carl"
+	dynasty = 1030
+	culture = american
+	religion = conservative
+	father = 1018
+	
+	2021.1.1 = {
+		birth = yes
+	}
+	2175.1.1 = {
+		death = yes
+	}
+}
+
+1018 = {
+	name = "Colin"
+	dynasty = 1030
+	culture = american
+	religion = conservative
+	add_trait = strong
+	add_trait = brilliant_strategist
+	add_trait = scarred
+	add_trait = sturdy
+	add_trait = groomed
+	add_trait = diligent
+	add_trait = proud
+	add_trait = ambitious
+	add_trait = unyielding_leader
+	
+	2014.10.27 = {
+		add_spouse = 1019
+	}
+	
+	1985.1.1 = {
+		birth = yes
+	}
+	2056.1.1 = {
+		death = yes
+	}
+}
+
+1019 = {
+	name = "Jenna"
+	dynasty = 1031
+	culture = american
+	religion = conservative
+	female = yes
+	
+	1990.1.1 = {
+		birth = yes
+	}
+	2068.1.1 = {
+		death = yes
+	}
+}
+
+####################### Bezos Family
+1020 = {
+	name = "Jeff"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	add_spouse = [MacKenzie]
+	add_trait = midas_touched
+	add_trait = diligent
+	add_trait = shrewd
+	add_trait = stressed
+	add_trait = quick
+	add_trait = wroth
+	add_trait = greedy
+	add_trait = deceitful
+	add_trait = erudite
+	1993.9.4 = {
+		add_spouse = 1021
+	}
+	2019.1.9 = {
+		remove_spouse = 1021
+	}
+	
+	1964.1.12 = {
+		birth = yes
+	}
+	2034.1.1 = {
+		death = {death_reason = death_trait}
+	}
+}
+
+1021 = {
+	name = "MacKenzie"
+	dynasty = 1033
+	culture = american
+	religion = corporate
+	female = yes
+	
+	1970.1.1 = {
+		birth = yes
+	}
+	2038.1.1 = {
+		death = yes
+	}
+}
+
+1022 = {
+	name = "Prezton"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1020
+	
+	2002.1.1 = {
+		birth = yes
+	}
+	2085.1.1 = {
+		death = yes
+	}
+}
+
+1023 = {
+	name = "Adam"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1020
+	
+	2007.1.1 = {
+		birth = yes
+	}
+	2077.1.1 = {
+		death = yes
+	}
+}
+
+1024 = {
+	name = "Alfie"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1020
+	
+	2012.1.1 = {
+		birth = yes
+	}
+	2094.1.1 = {
+		death = yes
+	}
+}
+
+1025 = {
+	name = "Ling"
+	dynasty = 1032
+	culture = american
+	race = chinese
+	religion = corporate
+	father = 1020
+	female = yes
+	
+	2016.1.1 = {
+		birth = yes
+	}
+	2086.1.1 = {
+		death = yes
+	}
+}
+
+1026 = {
+	name = "Anya"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1022
+	female = yes
+	
+	2042.1.1 = {
+		birth = yes
+	}
+	2105.1.1 = {
+		death = yes
+	}
+}
+
+1027 = {
+	name = "Alex"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1023
+	
+	2039.1.1 = {
+		birth = yes
+	}
+	2102.1.1 = {
+		death = yes
+	}
+}
+
+1028 = {
+	name = "Bailey"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1024
+	
+	2033.1.1 = {
+		birth = yes
+	}
+	2097.1.1 = {
+		death = yes
+	}
+}
+
+1029 = {
+	name = "Harry"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	mother = 1025
+	
+	2051.1.1 = {
+		birth = yes
+	}
+	2116.1.1 = {
+		death = yes
+	}
+}
+
+1030 = {
+	name = "Charlie"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1026
+	
+	2088.1.1 = {
+		birth = yes
+	}
+	2162.1.1 = {
+		death = yes
+	}
+}
+
+1031 = {
+	name = "Jamie"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1026
+	
+	2093.1.1 = {
+		birth = yes
+	}
+	2169.1.1 = {
+		death = yes
+	}
+}
+
+1032 = {
+	name = "Archie"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1027
+	
+	2088.1.1 = {
+		birth = yes
+	}
+	2162.1.1 = {
+		death = yes
+	}
+}
+
+1033 = {
+	name = "Tim"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1027
+	
+	2093.1.1 = {
+		birth = yes
+	}
+	2169.1.1 = {
+		death = yes
+	}
+}
+
+1034 = {
+	name = "Cole"
+	dynasty = 1032
+	culture = american
+	religion = corporate
+	father = 1028
+	
+	2094.1.1 = {
+		birth = yes
+	}
+	2187.1.1 = {
+		death = yes
+	}
+}
+
+1035 = {
+	name = "Lily"
+	dynasty = 1032
+	culture = american
+	race = chinese
+	religion = corporate
+	father = 1029
+	female = yes
+	
+	2074.1.1 = {
+		birth = yes
+	}
+	2138.1.1 = {
+		death = yes
+	}
+}
+1036 = {
+	name = "Cameron"
+	dynasty = 1033
+	culture = american
+	religion = corporate
+	mother = 1021
+	
+	2027.1.1 = {
+		birth = yes
+	}
+	2099.1.1 = {
+		death = yes
+	}
+}
+
+1037 = {
+	name = "Dave"
+	dynasty = 1033
+	culture = american
+	religion = corporate
+	father = 1036
+	
+	2053.1.1 = {
+		birth = yes
+	}
+	2114.1.1 = {
+		death = yes
+	}
+}
+
+1038 = {
+	name = "Ralph"
+	dynasty = 1033
+	culture = american
+	religion = corporate
+	father = 1037
+	
+	2082.1.1 = {
+		birth = yes
+	}
+	2133.1.1 = {
 		death = yes
 	}
 }

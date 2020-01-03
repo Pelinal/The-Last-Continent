@@ -1,0 +1,4 @@
+2120.1.1 = {
+	holder = 1033
+	liege = d_amazon
+}
