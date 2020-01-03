@@ -394,14 +394,15 @@
 1025 = {
 	name = "Ling"
 	dynasty = 1032
-	culture = american
-	race = chinese
+	culture = chinese
 	religion = corporate
 	father = 1020
 	female = yes
-	
 	2016.1.1 = {
 		birth = yes
+	}
+	2016.1.1 = {
+		culture = american
 	}
 	2086.1.1 = {
 		death = yes
@@ -457,12 +458,15 @@
 1029 = {
 	name = "Harry"
 	dynasty = 1032
-	culture = american
+	culture = chinese
 	religion = corporate
 	mother = 1025
 	
 	2051.1.1 = {
 		birth = yes
+	}
+	2051.1.1 = {
+		culture = american
 	}
 	2116.1.1 = {
 		death = yes
@@ -547,14 +551,16 @@
 1035 = {
 	name = "Lily"
 	dynasty = 1032
-	culture = american
-	race = chinese
+	culture = chinese
 	religion = corporate
 	father = 1029
 	female = yes
 	
 	2074.1.1 = {
 		birth = yes
+	}
+	2074.1.1 = {
+		culture = american
 	}
 	2138.1.1 = {
 		death = yes
