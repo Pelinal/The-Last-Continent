@@ -1,0 +1,15 @@
+# 219 - Ronnemouth
+title = c_ronnemouth
+max_settlements = 4
+
+# Baronies
+b_ronnemouth = city
+b_middle_wallop = temple
+b_derby = castle 
+#b_carlisle = {}
+	
+# Misc
+culture = english
+religion = conservative
+	
+# History

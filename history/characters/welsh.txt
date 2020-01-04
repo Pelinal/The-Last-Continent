@@ -1,0 +1,16 @@
+# Welsh chars
+# IDS 11501-12000
+
+11501 = {
+	name = "Ieuan"
+	dynasty = 860 # Scott
+	culture = welsh
+	religion = social_democratic
+	
+	2090.1.1 = {
+		birth = yes
+	}
+	2170.1.1 = {
+		death = yes
+	}
+}

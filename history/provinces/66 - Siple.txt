@@ -4,7 +4,7 @@ title = c_siple
 max_settlements = 6
 
 # Baronies
-    b_siple = temple
+    b_siple = castle
     b_wonderarch = city
     b_katsufrakis = city
     #b_utahing

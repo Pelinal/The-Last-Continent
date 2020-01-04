@@ -10,7 +10,7 @@ c_george;George;;;;;;;;;;;;x
 c_george_adj;Georgian;;;;;;;;;;;;x
 PROV4;Livingston;;;;;;;;;;;;x
 c_livingston;Livingston;;;;;;;;;;;;x
-c_livingston_adj;Livingstonic;;;;;;;;;;;;x
+c_livingston_adj;Livingstonian;;;;;;;;;;;;x
 PROV5;Nelson;;;;;;;;;;;;x
 c_nelson;Nelson;;;;;;;;;;;;x
 c_nelson_adj;Nelsonese;;;;;;;;;;;;x
@@ -637,6 +637,9 @@ c_colina_adj;Colinan;;;;;;;;;;;;x
 PROV218;Frammes;;;;;;;;;;;;x
 c_larsenislands;Frammes;;;;;;;;;;;;x
 c_larsenislands_adj;Framsi;;;;;;;;;;;;x
+PROV219;Ronnemouth;;;;;;;;;;;;x
+c_ronnemouth;Ronnemouth;;;;;;;;;;;;x
+c_ronnemouth_adj;Ronnemouth;;;;;;;;;;;;x
 
 #= Sea Provinces =#
 PROV318;Ronne Basin;;;;;;;;;;;;;x

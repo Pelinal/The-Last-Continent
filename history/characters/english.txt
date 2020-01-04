@@ -317,7 +317,7 @@
 	culture = english
 	religion = conservative
 	
-	2100 = {
+	2100.1.1 = {
 		birth = yes
 	}
 	2173.1.1 = {
@@ -344,6 +344,84 @@
 	religion = conservative
 	
 	2088.1.1 = {
+		birth = yes
+	}
+	2183.1.1 = {
+		death = yes
+	}
+}
+327 = {
+	name = "Callum"
+	dynasty = 658
+	culture = english
+	religion = conservative
+	
+	2066.1.1 = {
+		birth = yes
+	}
+	2143.1.1 = {
+		death = yes
+	}
+}
+328 = {
+	name = "Timothy"
+	dynasty = 657
+	culture = english
+	religion = conservative
+	
+	2086.1.1 = {
+		birth = yes
+	}
+	2168.1.1 = {
+		death = yes
+	}
+}
+329 = {
+	name = "Vincent"
+	dynasty = 656
+	culture = english
+	religion = conservative
+	
+	2100.1.1 = {
+		birth = yes
+	}
+	2173.1.1 = {
+		death = yes
+	}
+}
+330 = {
+	name = "Zachary"
+	dynasty = 655
+	culture = english
+	religion = conservative
+	
+	2097.1.1 = {
+		birth = yes
+	}
+	2175.1.1 = {
+		death = yes
+	}
+}
+331 = {
+	name = "Owen"
+	dynasty = 654
+	culture = english
+	religion = conservative
+	
+	2088.1.1 = {
+		birth = yes
+	}
+	2183.1.1 = {
+		death = yes
+	}
+}
+332 = {
+	name = "Philip"
+	dynasty = 653
+	culture = english
+	religion = conservative
+	
+	2100.1.1 = {
 		birth = yes
 	}
 	2183.1.1 = {

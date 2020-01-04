@@ -4,10 +4,10 @@ title = c_sky_hi
 max_settlements = 6
 
 # Baronies
-	b_sky_hi = temple
+	b_sky_hi = castle
 	b_cloudsedge = city
 	b_mcarthur = castle
-	b_albany = city
+	b_albany = temple
 	#b_hannover = {}
 	#b_sealand = {}
 	

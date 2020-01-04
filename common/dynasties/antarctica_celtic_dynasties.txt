@@ -112,15 +112,15 @@
 	culture = "irish"
 }
 2628 = {
-	name = "O�Beirne"
+	name = "O'Beirne"
 	culture = "irish"
 }
 2629 = {
-	name = "O�Berry"
+	name = "O'Berry"
 	culture = "irish"
 }
 2630 = {
-	name = "O�Boyle"
+	name = "O'Boyle"
 	culture = "irish"
 }
 
@@ -309,7 +309,7 @@
 	culture = "breton"
 }
 2676 = {
-	name = "Gu�gan"
+	name = "Gu'gan"
 	culture = "breton"
 }
 2677 = {

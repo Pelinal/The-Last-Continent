@@ -42,3 +42,44 @@
         death = yes
     }
 }
+
+5004 = {
+    name = "Rico"
+    dynasty = 254
+    culture = chilean
+    religion = conservative
+    
+    2067.1.1 = {
+        birth = yes
+    }
+    2176.1.1 = {
+        death = yes
+    }
+}
+
+5005 = {
+    name = "Johan"
+    dynasty = 255
+    culture = chilean
+    religion = conservative
+    
+    2087.1.1 = {
+        birth = yes
+    }
+    2179.1.1 = {
+        death = yes
+    }
+}
+5006 = {
+    name = "Xavier"
+    dynasty = 256
+    culture = chilean
+    religion = conservative
+    
+    2090.1.1 = {
+        birth = yes
+    }
+    2181.1.1 = {
+        death = yes
+    }
+}

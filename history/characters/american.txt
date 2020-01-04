@@ -80,7 +80,7 @@
 	culture = american
 	religion = conservative
 	
-	2080.1 = {
+	2080.1.1 = {
 		birth = yes
 	}
 	2157.1.1 = {
@@ -196,7 +196,7 @@
 	religion = conservative
 	father = 1016
 	
-	2084.1.1 = {
+	2051.1.1 = {
 		birth = yes
 	}
 	2148.1.1 = {
@@ -649,7 +649,7 @@
 
 1041 = {
 	name = "Kyle"
-	dynasty = 806
+	dynasty = 805
 	culture = american
 	religion = liberal_democratic
 	

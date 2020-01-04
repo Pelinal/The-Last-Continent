@@ -251,6 +251,8 @@ e_antarctandes = {
 				color = { 131 108 147 }
 				color2 = { 255 255 255 }
 				
+				english = "St. Nicolas"
+				
 				b_san_nicolas = {}
 				b_cape_longing = {}
 				b_earsen = {}
@@ -259,6 +261,8 @@ e_antarctandes = {
 			c_joinville = {
 				color = { 89 89 166 }
 				color2 = { 255 255 255 }
+				
+				argentine = "Petrel"
 				
 				b_petrel = {}
 				b_moody_point = {}
@@ -2989,9 +2993,9 @@ e_marie_byrd_land = {
 				color = { 114 44 111 }
 				color2 = { 255 255 255 }
 				
-				english = "Ninitz-upon-Ronne"
-				
-				b_ninitz = {}
+				b_ninitz = {
+					english = "Ninitz-upon-Ronne"
+				}
 				b_minnesota = {}
 				b_andersson = {}
 				b_dott = {} 
@@ -3133,11 +3137,19 @@ e_marie_byrd_land = {
 				color = { 50 27 37 }
 				color2 = { 255 255 255 }
 				
-				
 				b_rosstip = {}
 				b_zumberge = {}
 				b_henley = {} 
 				b_camble = {}
+			}
+			c_ronnemouth = {
+				color = { 50 27 37 }
+				color2 = { 255 255 255 }
+				
+				b_ronnemouth = {}
+				b_middle_wallop = {}
+				b_derby = {} 
+				b_carlisle = {}
 			}
 			c_heritage = {
 				color = { 177 123 54 }

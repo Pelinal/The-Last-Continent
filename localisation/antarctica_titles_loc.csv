@@ -1,13 +1,16 @@
 e_antarctica;Antarctica;;;;;;;;;;;;x
+e_antarctica_adj;Antarctic;;;;;;;;;;;;x
 e_antarctandes;Antarctandes;;;;;;;;;;;;x
 e_united_kingdom;United Kingdom;;;;;;;;;;;;x
+e_united_kingdom_adj;British;;;;;;;;;;;x
 e_la_plata;La Plata;;;;;;;;;;;;x
+e_la_plata_adj;La Platan;;;;;;;;;;;;x
 k_wales;Wales;;;;;;;;;;;;x
 k_kemet;Kemet;;;;;;;;;;;;x
 k_sinopec;Sinopec;;;;;;;;;;;;x
 k_graham;Graham;;;;;;;;;;;;x
 k_british_antarctic_territory;British Antarctic Territory;;;;;;;;;;;;x
-d_falklands;Falklands;;;;;;;;;;;;x
+k_british_antarctic_territory_adj;British Antarctic;;;;;;;;;;;;x
 d_south_orkney;South Orkney;;;;;;;;;;;;x
 d_trinity;Trinity;;;;;;;;;;;;x
 b_andersson_island;Andersson Island;;;;;;;;;;;;x
@@ -48,6 +51,10 @@ b_great_wall;Great Wall;;;;;;;;;;;;x
 b_maldonado;Maldonado;;;;;;;;;;;;x
 b_greenwich;Greenwich;;;;;;;;;;;;x
 b_george;George;;;;;;;;;;;;x
+b_ronnemouth;Ronnemouth;;;;;;;;;;;;x
+b_middle_wallop;Middle Wallop;;;;;;;;;;;;x
+b_derby;Derby;;;;;;;;;;;;x
+b_carlisle;Carlisle;;;;;;;;;;;;x
 b_comandante_ferraz;Comandante Ferraz;;;;;;;;;;;;x
 b_jubany;Jubany;;;;;;;;;;;;x
 b_arctowski;Arctowski;;;;;;;;;;;;x
@@ -231,7 +238,9 @@ b_sweeny;Sweeny;;;;;;;;;;;;x
 b_seward;Seward;;;;;;;;;;;;x
 b_jorge;Jorge;;;;;;;;;;;;x
 b_pretticold;Pretticold;;;;;;;;;;;;x
-d_alexander_island;Alejandero;;;;;;;;;;;;x
+d_alexander_island;Alexander Island;;;;;;;;;;;;x
+d_rastafaria;Rastafaria;;;;;;;;;;;;x
+d_rastafaria_adj;Rastafarian;;;;;;;;;;;;x
 b_soyuz;Soyuz;;;;;;;;;;;;x
 b_lazarev;Lazarev;;;;;;;;;;;;x
 b_rothschild;Rothschild;;;;;;;;;;;;x

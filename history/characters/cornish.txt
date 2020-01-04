@@ -1,0 +1,16 @@
+# Cornish chars
+# IDS 12001-12250
+
+12001 = {
+	name = "Cadwur"
+	dynasty = 2641
+	culture = cornish
+	religion = conservative
+	
+	2087.1.1 = {
+		birth = yes
+	}
+	2156.1.1 = {
+		death = yes
+	}
+}
