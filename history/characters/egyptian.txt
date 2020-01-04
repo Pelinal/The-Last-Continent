@@ -1,0 +1,128 @@
+#Egyptian - 10501 - 11000
+
+10501 = {
+	name = "Ishaq"
+	dynasty = 1411
+	culture = egyptian
+	religion = primitive
+	
+	2093.1.1 = {
+		birth = yes
+	}
+	2152.1.1 = {
+		death = yes
+	}
+}
+
+10502 = {
+	name = "Ufa"
+	dynasty = 1412
+	culture = egyptian
+	religion = primitive
+	
+	2086.1.1 = {
+		birth = yes
+	}
+	2142.1.1 = {
+		death = yes
+	}
+}
+
+10503 = {
+	name = "Samir"
+	dynasty = 1413
+	culture = egyptian
+	religion = primitive
+	
+	2101.1.1 = {
+		birth = yes
+	}
+	2167.1.1 = {
+		death = yes
+	}
+}
+
+
+10504 = {
+	name = "Muzaffaraddin"
+	dynasty = 1414
+	culture = egyptian
+	religion = primitive
+	
+	2120.1.1 = {
+		add_spouse = 10505
+	}
+	
+	2065.1.1 = {
+		birth = yes
+	}
+	2124.1.1 = {
+		death = yes
+	}
+}
+
+10505 = {
+	name = "Yasmin"
+	dynasty = 1414
+	culture = egyptian
+	religion = primitive
+	female = yes
+	add_trait = rabies
+	
+	
+	2099.1.1 = {
+		birth = yes
+	}
+	2119.9.21 = {
+		death = {death_reason = death_trait}
+	}
+}
+
+10506 = {
+	name = "Aaliyah"
+	dynasty = 1414
+	culture = egyptian
+	religion = primitive
+	female = yes
+	father = 10504
+	mother = 10505
+	
+	2118.1.1 = {
+		birth = yes
+	}
+	2167.1.1 = {
+		death = yes
+	}
+}
+
+10507 = {
+	name = "Mazen"
+	dynasty = 1414
+	culture = egyptian
+	religion = primitive
+	father = 10504
+	mother = 10505
+	
+	2119.1.1 = {
+		birth = yes
+	}
+	2172.1.1 = {
+		death = yes
+	}
+}
+
+10508 = {
+	name = "Mustafa"
+	dynasty = 1414
+	culture = egyptian
+	religion = primitive
+	father = 10504
+	mother = 10505
+	
+	2119.8.12 = {
+		birth = yes
+	}
+	2157.1.1 = {
+		death = yes
+	}
+}

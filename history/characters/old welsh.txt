@@ -1,0 +1,110 @@
+#Old Welsh - 10001 - 10500
+
+10001 = {
+	name = "Bleddyn"
+	dynasty = 2651
+	culture = old_welsh
+	religion = nationalist
+	2120.1.1 = {
+		add_spouse = 10002
+	}
+	
+	2073.1.1 = {
+		birth = yes
+	}
+	2137.1.1 = {
+		death = yes
+	}
+}
+
+10002 = {
+	name = "Olwenna"
+	dynasty = 2651
+	culture = old_welsh
+	religion = nationalist
+	female = yes
+	
+	2079.1.1 = {
+		birth = yes
+	}
+	2145.1.1 = {
+		death = yes
+	}
+}
+
+10003 = {
+	name = "Liliwen"
+	dynasty = 2651
+	culture = old_welsh
+	religion = nationalist
+	female = yes
+	father = 10001
+	mother = 10002
+	
+	2102.1.1 = {
+		birth = yes
+	}
+	2145.1.1 = {
+		death = yes
+	}
+}
+
+10004 = {
+	name = "Sioned"
+	dynasty = 2651
+	culture = old_welsh
+	religion = nationalist
+	female = yes
+	father = 10001
+	mother = 10002
+	
+	2104.1.1 = {
+		birth = yes
+	}
+	2145.1.1 = {
+		death = yes
+	}
+}
+
+10005 = {
+	name = "Morfudd"
+	dynasty = 2652
+	culture = old_welsh
+	religion = nationalist
+	female = yes
+	
+	2088.1.1 = {
+		birth = yes
+	}
+	2147.1.1 = {
+		death = yes
+	}
+}
+
+10006 = {
+	name = "Gwalchgwyn"
+	dynasty = 2653
+	culture = old_welsh
+	religion = nationalist
+	
+	2042.1.1 = {
+		birth = yes
+	}
+	2125.1.1 = {
+		death = yes
+	}
+}
+
+10007 = {
+	name = "Terrwyn"
+	dynasty = 2654
+	culture = old_welsh
+	religion = nationalist
+	
+	2056.1.1 = {
+		birth = yes
+	}
+	2131.1.1 = {
+		death = yes
+	}
+}

@@ -2,8 +2,8 @@
 title = c_palezoia
 max_settlements = 4
 # Baronies
-	b_palezoia = temple
-	b_oldtown = tribal
+	b_palezoia = tribal
+	b_oldtown = temple
 	#b_hutta = {}
 	#b_anchorock = {}
 	

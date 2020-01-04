@@ -1,0 +1,76 @@
+#Scottish - 11001 - 11500
+11001 = {
+	name = "Michael"
+	dynasty = 861
+	culture = scottish
+	religion = social_democratic
+	
+	2120.1.1 = {
+		add_spouse = 11004
+	}
+	2052.1.1 = {
+		birth = yes
+	}
+	2126.1.1 = {
+		death = yes
+	}
+}
+
+11002 = {
+	name = "Tracy"
+	dynasty = 862
+	culture = scottish
+	religion = social_democratic
+	female = yes
+	
+	2078.1.1 = {
+		birth = yes
+	}
+	2134.1.1 = {
+		death = yes
+	}
+}
+
+11003 = {
+	name = "Darren"
+	dynasty = 863
+	culture = scottish
+	religion = social_democratic
+	
+	2085.1.1 = {
+		birth = yes
+	}
+	2157.1.1 = {
+		death = yes
+	}
+}
+
+11004 = {
+	name = "Sally"
+	dynasty = 861
+	culture = scottish
+	religion = social_democratic
+	female = yes
+	
+	2058.1.1 = {
+		birth = yes
+	}
+	2131.1.1 = {
+		death = yes
+	}
+}
+11005 = {
+	name = "Jared"
+	dynasty = 861
+	culture = scottish
+	religion = social_democratic
+	father = 11001
+	mother = 11002
+	
+	2083.1.1 = {
+		birth = yes
+	}
+	2162.1.1 = {
+		death = yes
+	}
+}
