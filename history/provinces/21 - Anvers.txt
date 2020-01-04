@@ -4,10 +4,10 @@ title = c_anvers
 max_settlements = 6
 
 # Baronies
-	b_palmer_station = temple
+	b_palmer_station = city
 	b_anvers = temple
-	b_bismarck = city
-	b_mcdonald = castle
+	b_bismarck = castle
+	#b_mcdonald = castle
 	#b_phillidelphia
 	#b_sudbury
 	

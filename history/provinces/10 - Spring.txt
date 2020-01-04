@@ -3,8 +3,8 @@ title = c_spring
 max_settlements = 5
 
 # Baronies
-	b_spring = temple
-	b_hughes_bay = castle
+	b_spring = castle
+	b_hughes_bay = city
 	#b_gerlache = {}
 	#b_ciudad_phillipa = {}
 	#b_sevilla = {}

@@ -3,8 +3,8 @@ title = c_whirlwind
 max_settlements = 6
 
 # Baronies
-	b_whirlwind = temple
-	b_francis_island = castle
+	b_whirlwind = castle
+	b_francis_island = temple
 	b_mill = city
 	#b_joerg = {}
 	#b_freeman = {}

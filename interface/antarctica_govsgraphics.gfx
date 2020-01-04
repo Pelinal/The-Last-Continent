@@ -92,4 +92,45 @@ spriteTypes = {
 		allwaystransparent = yes
 	}
 	
+	# Constitutional Monarchy Government
+	spriteType = {
+		name = "GFX_icon_constitutional_monarchy_government"
+		texturefile = "gfx\\interface\\government_icon_constitutional_monarchy.dds"
+	}
+	spriteType = {
+		name = "GFX_hints_constitutional_monarchy_government"
+		texturefile = "gfx\\interface\\hints_splashscreen_image_feudal.dds"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_150_constitutionalmonarchy"
+		texturefile = "gfx\\interface\\charframe_150_constitutionalmonarchy.dds"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_constitutionalmonarchy"
+		texturefile = "gfx\\interface\\charframe_100_constitutionalmonarchy.dds"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_constitutionalmonarchy"
+		texturefile = "gfx\\interface\\charframe_75_constitutionalmonarchy.dds"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_constitutionalmonarchy"
+		texturefile = "gfx\\interface\\charframe_50_constitutionalmonarchy.dds"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_constitutionalmonarchy"
+		texturefile = "gfx\\interface\\charframe_34_constitutionalmonarchy.dds"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
 }

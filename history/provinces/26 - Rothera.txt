@@ -4,10 +4,10 @@ title = c_rothera
 max_settlements = 7 
 
 # Baronies
-	b_rothera = temple
+	b_rothera = city
 	b_chippy_shop = city
 	b_amiot = temple
-	b_new_bransfield =castle
+	b_new_bransfield = castle
 	#b_admiral
 	#b_bonner
 	#b_bingham

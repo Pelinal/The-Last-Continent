@@ -271,3 +271,82 @@
 		death = yes
 	}
 }
+
+321 = {
+	name = "Henry"
+	dynasty = 694
+	culture = english
+	religion = conservative
+	
+	2066.1.1 = {
+		birth = yes
+	}
+	2143.1.1 = {
+		death = yes
+	}
+}
+322 = {
+	name = "Noah"
+	dynasty = 693
+	culture = english
+	religion = conservative
+	
+	2066.1.1 = {
+		birth = yes
+	}
+	2143.1.1 = {
+		death = yes
+	}
+}
+323 = {
+	name = "Peter"
+	dynasty = 692
+	culture = english
+	religion = conservative
+	
+	2086.1.1 = {
+		birth = yes
+	}
+	2168.1.1 = {
+		death = yes
+	}
+}
+324 = {
+	name = "Barry"
+	dynasty = 691
+	culture = english
+	religion = conservative
+	
+	2100 = {
+		birth = yes
+	}
+	2173.1.1 = {
+		death = yes
+	}
+}
+325 = {
+	name = "Lloyd"
+	dynasty = 690
+	culture = english
+	religion = conservative
+	
+	2097.1.1 = {
+		birth = yes
+	}
+	2175.1.1 = {
+		death = yes
+	}
+}
+326 = {
+	name = "Winston"
+	dynasty = 659
+	culture = english
+	religion = conservative
+	
+	2088.1.1 = {
+		birth = yes
+	}
+	2183.1.1 = {
+		death = yes
+	}
+}

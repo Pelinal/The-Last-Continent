@@ -3,9 +3,9 @@ title = c_fairweather
 max_settlements = 5
 
 # Baronies
-	b_fairweather = temple
+	b_fairweather = city
 	b_evanston = castle
-	b_seal = city
+	b_seal = temple
 	#b_robertson = {}
 	#b_nordenskjold = {}
 	

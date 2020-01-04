@@ -68,14 +68,15 @@ e_antarctandes = {
 	english = "Grahamland"
 	
 	k_british_antarctic_territory = {
-		color = { 175 75 75 }
+		color = { 175 175 175 }
 		color2 = { 255 255 255 }
 		
-		capital = 26
+		capital = 26 # Rothera
+		dignity = 50
+		short_name = yes
 		
-		old_welsh = "Cymru"
-		
-		dignity = 25
+		title = governor_general
+		title_female = governess_general
 	}
 	
 	k_wales = { # like a more blueish teal colour por favor

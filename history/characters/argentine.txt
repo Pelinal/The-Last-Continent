@@ -247,12 +247,26 @@
 	name = "Simón"
 	dynasty = 246
 	culture = argentine
-	religion = conservative
+	religion = justicial
 	
 	2084.1.1 = {
 		birth = yes
 	}
 	2152.1.1 = {
+		death = yes
+	}
+}
+
+4017 = {
+	name = "André"
+	dynasty = 247
+	culture = argentine
+	religion = conservative
+	
+	2090.1.1 = {
+		birth = yes
+	}
+	2176.1.1 = {
 		death = yes
 	}
 }

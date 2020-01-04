@@ -2,12 +2,12 @@
 title = c_new_bedford
 max_settlements = 6
 # Baronies
-	b_new_bedford = temple
-	b_brooks = city
-	#b_swann = {}
-	#b_wright = {}
-	#b_kemp = {}
-	#b_mosby = {}
+b_new_bedford = castle
+b_brooks = city
+#b_swann = {}
+#b_wright = {}
+#b_kemp = {}
+#b_mosby = {}
 
 # Misc
 culture = english

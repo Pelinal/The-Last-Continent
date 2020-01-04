@@ -90,6 +90,19 @@ feudal_governments = {
 				AND = {
 					religion_group = democratic_grp
 					tier = BARON
+					independent = no
+				}
+				AND = {
+					religion_group = democratic_grp
+					tier = DUKE
+					independent = no
+				}
+				AND = {
+					religion_group = democratic_grp
+					tier = EMPEROR
+					primary_title = {
+						title = e_la_plata
+					}
 				}
 				NOT = { religion_group = democratic_grp }
 			}	
@@ -553,6 +566,7 @@ feudal_governments = {
 		}
 		accepts_liege_governments = { # Accepts other republics
 			merchant_republic_government
+			constitutional_monarchy_government
 		}
 		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
 			tribal_government
@@ -568,6 +582,7 @@ feudal_governments = {
 				NOT = { religion = islamist }
 			}
 			NOT = { is_government_potential = merchant_republic_government }
+			NOT = { is_government_potential = constitutional_monarchy_government }
 			holy_order = no
 		}
 		
@@ -577,6 +592,62 @@ feudal_governments = {
 		can_revoke_without_reason = no
 		dukes_called_kings = yes
 		
+		can_build_tribal = no
+		
+		capital_move_delay = 600
+	}
+	
+	constitutional_monarchy_government = {
+		preferred_holdings = { CITY }
+		allowed_holdings = { 
+			CITY
+			CASTLE
+			FORT
+			HOSPITAL
+		}
+		allowed_holdings_culture = { # Will not get the wrong government type penalty for tribes of the same culture
+			TRIBAL
+		}
+		accepts_liege_governments = { # Accepts other republics
+			republic_government
+		}
+		free_revoke_on_governments_religion = { # Tribal vassals of other religions can have their titles revoked for free
+			tribal_government
+		}
+		frame_suffix = "_constitutionalmonarchy"
+		title_prefix = "city_"
+		potential = {
+			NOT = { religion_group = authoritarian_grp }
+			NOT = { religion = stalinist }
+			NOT = { religion = anarchist }
+			NAND = {
+				controls_religion = yes
+				NOT = { religion = islamist }
+			}
+			NOT = { is_government_potential = merchant_republic_government }
+			holy_order = no
+			
+			OR = { 
+				AND = { 
+					is_save_game = no
+					has_game_started = no
+					primary_title = { 
+						title = e_united_kingdom
+					}
+				}
+				AND = { 
+					primary_title = { 
+						title = e_united_kingdom
+					}
+				}
+			}
+		}
+		
+		color = { 40 0 20 }
+		
+		can_imprison_without_reason = no
+		can_revoke_without_reason = no
+		dukes_called_kings = yes
 		can_build_tribal = no
 		
 		capital_move_delay = 600

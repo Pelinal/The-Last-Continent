@@ -2,8 +2,8 @@
 title = c_goodenough
 max_settlements = 5
 # Baronies
-	b_goodenough = temple
-	b_batterbee = city
+	b_goodenough = city
+	b_batterbee = temple
 	#b_saturn
 	#b_gutenko
 	#b_ward

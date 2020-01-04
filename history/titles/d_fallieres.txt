@@ -1,0 +1,4 @@
+2120.1.1 = {
+	holder = 303
+	liege = k_british_antarctic_territory
+}

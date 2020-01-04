@@ -1,4 +1,4 @@
 2120.1.1 = {
 	holder = 5003
-	liege = d_bowman
+	liege = k_british_antarctic_territory
 }

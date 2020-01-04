@@ -12,7 +12,7 @@ count;Mayor;;;;;;;;;;;;x
 count_female;Mayoress;;;;;;;;;;;;x
 county_of;County of;;;;;;;;;;;;x
 baron;Headman;;;;;;;;;;;;x
-baron_female;Headwoman;;;;;;;;;;;;x
+baron_female;Headman;;;;;;;;;;;;x
 barony_of;Township of;;;;;;;;;;;;x
 
 # Cultural/Religious
@@ -31,19 +31,6 @@ kingdom_of_monarchist;Kingdom of;Royaume de;Königreich;;Reino de;;;;;;;;;x
 duchy_of_monarchist;Duchy of;Duché de;Herzogtum;;Ducado de;;;;;;;;;x
 county_of_monarchist;County of;Comté de;Grafschaft;;Condado de;;;;;;;;;x
 barony_of_monarchist;Barony of;Baronnie de;Baronie;;Baronía de;;;;;;;;;x
-
-emperor_german;Führer;;;;;;;;;;;;x
-emperor_german_female;Führerin;;;;;;;;;;;;x
-empire_of;Greater Reich of;;;;;;;;;;;;x
-king_german;Führer;;;;;;;;;;;;x
-king_german_female;Führerin;;;;;;;;;;;;x
-kingdom_of;Reich of;;;;;;;;;;;;x
-duke_german;Reichskommissar;;;;;;;;;;;;x
-duke_german_female;Reichskommisarin;;;;;;;;;;;;x
-duchy_of;Reichskommissariat;;;;;;;;;;;;x
-count_german;Protektor;;;;;;;;;;;;x
-count_german_female;Protektor;;;;;;;;;;;;x
-county_of;Reichsprotektorat;;;;;;;;;;;;x
 
 emperor_english_monarchist;King-Emperor;;;;;;;;;;;;x
 emperor_female_english_monarchist;Queen-Empress;;;;;;;;;;;;x
@@ -136,11 +123,12 @@ city_baron_deed;Leadership of;;;;;;;;;;;;;x
 ### MISC ###
 prime_minister;Prime Minister;;;;;;;;;;;;x
 presidente;Presidente;;;;;;;;;;;;x
+governor_general;Commissioner;;;;;;;;;;;;x
 empires;Empires;Empires;Reiche;;Imperios;;;;;;;;;x
 kingdoms;Kingdoms;Royaumes;Königreiche;;Reinos;;;;;;;;;x
-duchies;Duchies;Duchés;Herzogtümer;;Ducados;;;;;;;;;x
+duchies;States;Duchés;Herzogtümer;;Ducados;;;;;;;;;x
 counties;Counties;Comtés;Grafschaften;;Condados;;;;;;;;;x
-baronies;Baronies;Baronnies;Baronien;;Baronías;;;;;;;;;x
+baronies;Townships;Baronnies;Baronien;;Baronías;;;;;;;;;x
 
 ### AUTOCRATIC ###
 autocracy_emperor;Emperor;;;;;;;;;;;;x
@@ -158,8 +146,23 @@ autocracy_county_of;Marshalcy of;;;;;;;;;;;;x
 autocracy_baron;Commander;;;;;;;;;;;;x
 autocracy_baron_female;Commander;;;;;;;;;;;;x
 autocracy_barony_of;Fort;;;;;;;;;;;;x
+autocracy_barony_of_democratic_grp;Fort;;;;;;;;;;;;x
 
-### 
+# Cultural/Religious
+autocracy_emperor_german;Führer;;;;;;;;;;;;x
+autocracy_emperor_german_female;Führerin;;;;;;;;;;;;x
+autocracy_empire_of;Greater Reich of;;;;;;;;;;;;x
+autocracy_king_german;Führer;;;;;;;;;;;;x
+autocracy_king_german_female;Führerin;;;;;;;;;;;;x
+autocracy_kingdom_of;Reich of;;;;;;;;;;;;x
+autocracy_duke_german;Reichskommissar;;;;;;;;;;;;x
+autocracy_duke_german_female;Reichskommisarin;;;;;;;;;;;;x
+autocracy_duchy_of;Reichskommissariat;;;;;;;;;;;;x
+autocracy_count_german;Reichsprotektor;;;;;;;;;;;;x
+autocracy_count_german_female;Reichsprotektor;;;;;;;;;;;;x
+autocracy_county_of;Reichsprotektorat;;;;;;;;;;;;x
+
+### COMMUNIST ###
 proletarian_emperor;Premier;;;;;;;;;;;;x
 proletarian_emperor_female;Premier;;;;;;;;;;;;x
 proletarian_empire_of;People's Republic of;;;;;;;;;;;;x

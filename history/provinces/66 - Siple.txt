@@ -13,6 +13,6 @@ max_settlements = 6
 	
 # Misc
 culture = american
-religion = conservative
+religion = liberal_democratic
 	
 # History

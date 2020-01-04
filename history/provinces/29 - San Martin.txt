@@ -3,7 +3,7 @@ title = c_san_martin
 max_settlements = 4
 
 # Baronies
-	b_plummervillo = temple
+	b_plummervillo = castle
 	b_yepeyu = castle
 	b_stanington = temple
 	b_casapujato = city

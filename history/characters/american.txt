@@ -249,6 +249,7 @@
 	culture = american
 	religion = conservative
 	father = 1018
+	mother = 1019
 	
 	2021.1.1 = {
 		birth = yes
@@ -607,6 +608,50 @@
 		birth = yes
 	}
 	2133.1.1 = {
+		death = yes
+	}
+}
+
+1039 = {
+	name = "Roger"
+	dynasty = 807
+	culture = american
+	religion = liberal_democratic
+	
+	2090.1.1 = {
+		birth = yes
+		set_graphical_culture = jamaican
+	}
+	2156.1.1 = {
+		death = yes
+	}
+}
+
+1040 = {
+	name = "Layla"
+	dynasty = 806
+	culture = american
+	religion = liberal_democratic
+	female = yes
+	
+	2099.1.1 = {
+		birth = yes
+	}
+	2167.1.1 = {
+		death = yes
+	}
+}
+
+1041 = {
+	name = "Kyle"
+	dynasty = 806
+	culture = american
+	religion = liberal_democratic
+	
+	2084.1.1 = {
+		birth = yes
+	}
+	2170.1.1 = {
 		death = yes
 	}
 }

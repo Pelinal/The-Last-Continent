@@ -3,8 +3,8 @@ title = c_jeremy
 max_settlements = 4
 
 # Baronies
-	b_jeremy = temple
-	b_bugge = city
+	b_jeremy = city
+	b_bugge = temple
 	#b_fleming = {}
 	#b_old_fossil_bluff = {}
 

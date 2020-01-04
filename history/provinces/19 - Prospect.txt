@@ -4,8 +4,8 @@ title = c_prospect
 max_settlements = 4
 
 # Baronies
-	b_prospect = temple
-	b_grandidier = city
+	b_prospect = city
+	b_grandidier = castle
 	#b_henryford = {}
 	#b_tunstead = {}
 	

@@ -2,7 +2,7 @@
 title = c_lehrke
 max_settlements = 4
 # Baronies
-	b_lehrke = temple
+	b_lehrke = city
 	b_boggs_2 = castle
 	#b_smith
 	#b_ewing

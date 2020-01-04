@@ -4,9 +4,9 @@ title = c_blacklock
 max_settlements = 6 
 
 # Baronies
-	b_blackrock = temple
-	b_arrowsmith = city
-	b_porquoi_pas = castle
+	b_blackrock = city
+	b_arrowsmith = castle
+	b_porquoi_pas = temple
 	#b_valet
 	#b_houimart
 	#b_champignane
