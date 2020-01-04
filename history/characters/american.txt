@@ -353,6 +353,7 @@
 	culture = american
 	religion = corporate
 	father = 1020
+	mother = 1021
 	
 	2002.1.1 = {
 		birth = yes
@@ -368,6 +369,7 @@
 	culture = american
 	religion = corporate
 	father = 1020
+	mother = 1021
 	
 	2007.1.1 = {
 		birth = yes
@@ -383,6 +385,7 @@
 	culture = american
 	religion = corporate
 	father = 1020
+	mother = 1021
 	
 	2012.1.1 = {
 		birth = yes
@@ -398,6 +401,8 @@
 	culture = chinese
 	religion = corporate
 	father = 1020
+	mother = 1021
+	
 	female = yes
 	2016.1.1 = {
 		birth = yes
