@@ -1,0 +1,77 @@
+#### Maintenance Events ####
+
+namespace = antmanage
+
+# Uncolonised Land Management (Characters)
+character_event = {
+	id = antmanage.01
+	hide_window = yes
+	
+	trigger = {
+		culture = uninhabited
+		NOT = { religion = none }
+	}
+	
+	mean_time_to_happen = {
+		months = 12
+	}
+	
+	immediate = {
+		religion = none
+	}
+}
+character_event = {
+	id = antmanage.02
+	hide_window = yes
+	
+	trigger = {
+		culture = uninhabited
+		NOT = { trait = ruler_of_nolands }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		add_trait = ruler_of_nolands
+		ROOT = {
+			occluded = yes
+		}
+	}
+}
+character_event = {
+	id = antmanage.02
+	hide_window = yes
+	
+	trigger = {
+		culture = uninhabited
+		NOT = { trait = ruler_of_nolands }
+	}
+	
+	mean_time_to_happen = {
+		months = 1
+	}
+	
+	immediate = {
+		add_trait = ruler_of_nolands
+		ROOT = {
+			occluded = yes
+		}
+	}
+}
+character_event = {
+	id = antmanage.03
+	hide_window = yes
+	is_triggered_only = yes
+	
+	trigger = {
+		culture = uninhabited
+	}
+	
+	immediate = {
+		ROOT = {
+			death = { death_reason = death_accident }
+		}
+	}
+}

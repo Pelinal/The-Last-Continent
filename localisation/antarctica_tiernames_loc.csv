@@ -13,7 +13,7 @@ count_female;Mayoress;;;;;;;;;;;;x
 county_of;County of;;;;;;;;;;;;x
 baron;Headman;;;;;;;;;;;;x
 baron_female;Headman;;;;;;;;;;;;x
-barony_of;Township of;;;;;;;;;;;;x
+barony_of;Fort ;;;;;;;;;;;;x
 
 # Cultural/Religious
 emperor_monarchist;Emperor;Empereur;Kaiser;;Emperador;;;;;;;;;x
@@ -118,12 +118,30 @@ city_emperor_deed;Presidency of;;;;;;;;;;;;x
 city_king_deed;Presidency of;;;;;;;;;;;;;x
 city_duke_deed;Governancy of;;;;;;;;;;;;;x
 city_count_deed;Mayorship of;;;;;;;;;;;;;x
-city_baron_deed;Leadership of;;;;;;;;;;;;;x
+city_baron_deed;Headmanship of;;;;;;;;;;;;;x
 
 ### MISC ###
 prime_minister;Prime Minister;;;;;;;;;;;;x
 presidente;Presidente;;;;;;;;;;;;x
 governor_general;Commissioner;;;;;;;;;;;;x
+no_title_title; ;;;;;;;;;;;;x
+
+emperor_none; ;;;;;;;;;;;;x
+emperor_female_none; ;;;;;;;;;;;;x
+king_none; ;;;;;;;;;;;;x
+king_female_none; ;;;;;;;;;;;;x
+duke_none; ;;;;;;;;;;;;x
+duke_female_none; ;;;;;;;;;;;;x
+count_none; ;;;;;;;;;;;;x
+count_female_none; ;;;;;;;;;;;;x
+baron_none; ;;;;;;;;;;;;x
+baron_female_none; ;;;;;;;;;;;;x
+empire_of_none;Uncolonised Territory;;;;;;;;;;;;x
+kingdom_of_none;Uncolonised Territory;;;;;;;;;;;;x
+duchy_of_none;Uncolonised Territory;;;;;;;;;;;;x
+county_of_none;Uncolonised Territory;;;;;;;;;;;;x
+barony_of_none;Uncolonised Territory;;;;;;;;;;;;x
+
 empires;Empires;Empires;Reiche;;Imperios;;;;;;;;;x
 kingdoms;Kingdoms;Royaumes;Königreiche;;Reinos;;;;;;;;;x
 duchies;States;Duchés;Herzogtümer;;Ducados;;;;;;;;;x

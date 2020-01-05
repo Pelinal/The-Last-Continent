@@ -2,7 +2,7 @@
 # IDS 9001-10001
 
 9001 = {
-	name = "Eli≈°ka"
+	name = "Eliöka"
 	dynasty = 2529
 	culture = czech
 	religion = social_democratic

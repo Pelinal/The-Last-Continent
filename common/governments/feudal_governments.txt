@@ -33,6 +33,7 @@ feudal_governments = {
 			NOT = {	religion = islamist	}
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
+			NOT = { is_government_potential = no_government }
 			NAND = { 
 				tier = EMPEROR
 				primary_title = { has_title_flag = pretender_chinese_empire }
@@ -118,6 +119,7 @@ feudal_governments = {
 			NOT = {	religion = islamist	}
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
+			NOT = { is_government_potential = no_government }
 			NAND = { 
 				tier = EMPEROR
 				primary_title = { has_title_flag = pretender_chinese_empire }
@@ -188,6 +190,7 @@ feudal_governments = {
 			NOT = {	religion = islamist	}
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
+			NOT = { is_government_potential = no_government }
 			NAND = { 
 				tier = EMPEROR
 				primary_title = { has_title_flag = pretender_chinese_empire }
@@ -249,6 +252,7 @@ feudal_governments = {
 			religion = islamist
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
+			NOT = { is_government_potential = no_government }
 			NAND = { 
 				tier = EMPEROR
 				primary_title = { has_title_flag = pretender_chinese_empire }
@@ -313,6 +317,7 @@ feudal_governments = {
 			NOT = {	religion = islamist	}
 			NOT = { is_government_potential = roman_imperial_government }
 			NOT = { is_government_potential = order_government }
+			NOT = { is_government_potential = no_government }
 			AND = { 
 				culture_group = tibetan_group
 				OR = {
@@ -378,6 +383,7 @@ feudal_governments = {
 				has_character_flag = chinese_imperial_government_preserve #keeps government when player is given culture change opton
 			}
 			is_patrician = no
+			NOT = { is_government_potential = no_government }
 		}
 		
 		color = { 118 255 163 }
@@ -438,6 +444,7 @@ feudal_governments = {
 		title_prefix = "order_"
 
 		potential = {
+			NOT = { is_government_potential = no_government }
 			OR = {
 				holy_order = yes
 				AND = {
@@ -509,6 +516,7 @@ feudal_governments = {
 		}
 		frame_suffix = "_romanimperial"
 		potential = {
+			NOT = { is_government_potential = no_government }
 			OR = { 
 				AND = { 
 					is_save_game = no
@@ -583,6 +591,7 @@ feudal_governments = {
 			}
 			NOT = { is_government_potential = merchant_republic_government }
 			NOT = { is_government_potential = constitutional_monarchy_government }
+			NOT = { is_government_potential = no_government }
 			holy_order = no
 		}
 		
@@ -625,6 +634,7 @@ feudal_governments = {
 				NOT = { religion = islamist }
 			}
 			NOT = { is_government_potential = merchant_republic_government }
+			NOT = { is_government_potential = no_government }
 			holy_order = no
 			
 			OR = { 
@@ -651,5 +661,100 @@ feudal_governments = {
 		can_build_tribal = no
 		
 		capital_move_delay = 600
+	}
+	
+	no_government = {
+		preferred_holdings = { TRIBAL }
+		allowed_holdings = {
+			TRIBAL
+		}
+		no_vassal_tax = {
+			tribal_government
+			no_government
+			feudal_government
+			autocracy_government
+			republic_government
+		}
+		builds_with_prestige = {
+			TRIBAL
+		}
+		frame_suffix = "_tribal"
+		title_prefix = "tribal_"
+		potential = {
+			OR = {
+				AND = { 
+					is_save_game = no
+					has_game_started = no
+					primary_title = { 
+						title = e_terra_incognetia
+					}
+				}
+				AND = { 
+					primary_title = { 
+						title = e_terra_incognetia
+					}
+				}
+			}
+		}
+		
+		color = { 0 0 0 }
+		
+		dukes_called_kings = no
+		uses_decadence = no
+		
+		allow_looting = no
+		ignores_de_jure_laws = yes
+		can_build_holdings = no
+		can_build_castle = no
+		can_build_city = no
+		can_build_temple = no
+		can_build_tribal = no
+		can_build_hospitals = no
+		can_build_forts = no
+		can_change_to_nomad_on_start = no
+		allow_title_revokation = no
+		can_create_empires = no
+		can_create_kingdoms = no
+		can_usurp_kingdoms_and_empires = no
+		can_grant_kingdoms_and_empires_to_other_government = no
+		can_grant_kingdoms_and_empires_to_other_government_group = no
+		can_be_granted_kingdoms_and_empires_by_other_government = no
+		can_be_granted_kingdoms_and_empires_by_other_government_group = no
+		free_levies_in_offensive_war = no
+		max_liege_levy = 0
+		max_liege_tax = 0
+		aggression = 0
+		
+		character_modifier = {
+			global_levy_size = -10
+			levy_reinforce_rate = -10
+			global_garrison_size = -10
+			fort_level = 0.1
+			land_morale = -10
+			land_organisation = -10
+			global_supply_limit = -10
+			max_attrition = 100
+			siege_speed = -10
+			siege_defence = 1000
+			galleys_perc = -10
+			retinuesize_perc = -10
+			global_movement_speed = -10
+			tech_growth_modifier = -10
+			commander_limit = 0
+			max_tradeposts = 0
+			build_cost_modifier = 100
+			build_time_modifier = 100
+			global_tax_modifier = 0
+			plot_power_modifier = -10
+			arrest_chance_modifier = -10
+			global_revolt_risk = -100
+		}
+		
+		demesne_size = 500
+		vassal_limit = 500
+		culture_flex = 100
+		religion_flex = 100
+		
+		capital_move_delay = 50000
 	}
 }

@@ -1,0 +1,26 @@
+# Uninhabited chars
+# IDS 690000-690001
+
+690000 = {
+	name = " "
+	dynasty = 0
+	culture = uninhabited
+	religion = none
+	
+	occluded = yes
+	
+	add_trait = ruler_of_nolands
+	
+	diplomacy = 0
+	martial = 0
+	stewardship = 0
+	intrigue = 0
+	learning = 0
+	
+	2120.1.1 = {
+		birth = yes
+	}
+	3000.1.1 = {
+		death = yes
+	}
+}

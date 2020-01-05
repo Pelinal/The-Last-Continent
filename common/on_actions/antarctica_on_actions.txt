@@ -1,0 +1,10 @@
+on_death = {
+	events = {
+		#infinity.1
+	}
+}
+on_birth = {
+	events = {
+		antmanage.03 # Kill 'uninhabited' babies
+	}
+}

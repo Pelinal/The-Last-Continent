@@ -245,7 +245,8 @@ reactionary_DESC;In political science, a reactionary can be defined as a person 
 REACTIONARISM;Reactionarism;;;;;;;;;;;;x
 unalligned_grp;Unalligned;;;;;;;;;;;;x
 none; ;;;;;;;;;;;;x
-NONE; ;;;;;;;;;;;;x
+none_DESC; ;;;;;;;;;;;;x
+NONE;---;;;;;;;;;;;;x
 NOONE;---;;;;;;;;;;;;x
 VAL_NOTHING;---;;;;;;;;;;;;x
 GOD_NONE;---;;;;;;;;;;;;x

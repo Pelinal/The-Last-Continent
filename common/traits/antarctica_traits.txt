@@ -1,0 +1,29 @@
+### Antarctica - New Traits ###
+
+ruler_of_nolands = {
+	leader = yes
+	infidel_opinion = -1000
+	fertility = -1000
+	customizer = no
+	random = no
+	
+	cannot_marry = yes
+	cannot_inherit = yes
+	blinding = yes
+	
+	monthly_character_prestige = -100
+	monthly_character_piety = -100
+	
+	combat_rating = -100
+	martial = -100
+	diplomacy = -100
+	intrigue = -100
+	learning = -100
+	stewardship = -100
+	
+	health = 1000
+	immortal = yes
+	agnatic = yes
+	incapacitating = yes
+	hidden = yes
+}

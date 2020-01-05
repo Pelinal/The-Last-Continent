@@ -3,21 +3,36 @@ e_rebels = {
 	landless = yes
 	primary = yes
 
-	culture = imperial
-	religion = sithis
+	culture = english
+	religion = algocratic
+	tribe = yes
+
+	color={ 0 0 0 }
+	color2={ 0 0 0 }
+}
+e_pirates = {
+	pirate = yes
+	landless = yes
+	primary = yes
+
+	culture = english
+	religion = algocratic
 	tribe = yes
 
 	color={ 0 0 0 }
 	color2={ 0 0 0 }
 }
 
-e_pirates = {
-	pirate = yes
-	landless = yes
+e_terra_incognetia = {
 	primary = yes
+	
+	title = no_title_title
+	title_female = no_title_title
+	
+	capital = 130
 
-	culture = imperial
-	religion = sithis
+	culture = uninhabited
+	religion = none
 	tribe = yes
 
 	color={ 0 0 0 }

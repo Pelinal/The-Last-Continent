@@ -45,6 +45,7 @@ tribal_governments = {
 			mercenary = no
 			holy_order = no
 			NOT = { is_government_potential = order_government }
+			NOT = { is_government_potential = no_government }
 		}
 		
 		color = { 92 31 23 }
@@ -68,5 +69,4 @@ tribal_governments = {
 		
 		capital_move_delay = 600
 	}
-	
 }

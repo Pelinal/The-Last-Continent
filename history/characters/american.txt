@@ -660,3 +660,17 @@
 		death = yes
 	}
 }
+
+1042 = {
+	name = "Norman"
+	dynasty = 804
+	culture = american
+	religion = conservative
+	
+	2084.1.1 = {
+		birth = yes
+	}
+	2170.1.1 = {
+		death = yes
+	}
+}

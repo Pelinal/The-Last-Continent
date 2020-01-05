@@ -6,3 +6,6 @@ communist_government;Proletarian Dictatorship;;;;;;;;;;;;x
 communist_government_desc;In Marxist philosophy, the dictatorship of the proletariat is the state of affairs in which the working class hold political power. The dictatorship of the proletariat is the intermediate stage between a capitalist economy and a communist economy, realised by the nationalisation of the means of production, from private ownership to collective ownership.;;;;;;;;;;;;x
 constitutional_monarchy_government;Constiutional Monarchy;;;;;;;;;;;;x
 constitutional_monarchy_government_desc;A constitutional monarchy is a form of government in which a non-elected monarch functions as the head of state within the limits of a constitution. Political power in a constitutional monarchy is shared between the monarch and an organized government such as the British Parliament.;;;;;;;;;;;;x
+
+no_government;No Government;;;;;;;;;;;;x
+no_government_desc;Due to a lack of an established nation or heirarchy, this region is ruled by noone and therefore has no government.;;;;;;;;;;;;x
