@@ -166,6 +166,16 @@ autocracy_baron_female;Commander;;;;;;;;;;;;x
 autocracy_barony_of;Fort;;;;;;;;;;;;x
 autocracy_barony_of_democratic_grp;Fort;;;;;;;;;;;;x
 
+autocracy_emperor_democratic_grp;Major;;;;;;;;;;;;x
+autocracy_emperor_female_democratic_grp;Major;;;;;;;;;;;;x
+autocracy_empire_of_democratic_grp;Majorate of;;;;;;;;;;;;x
+autocracy_king_democratic_grp;Colonel;;;;;;;;;;;;x
+autocracy_king_female_democratic_grp;Colonel;;;;;;;;;;;;x
+autocracy_kingdom_of_democratic_grp;Colonelcy of;;;;;;;;;;;;x
+autocracy_duke_democratic_grp;Lieutenant;;;;;;;;;;;;x
+autocracy_duke_female_democratic_grp;Lieutenant;;;;;;;;;;;;x
+autocracy_duchy_of_democratic_grp;Lieutenancy of;;;;;;;;;;;;x
+
 # Cultural/Religious
 autocracy_emperor_german;Führer;;;;;;;;;;;;x
 autocracy_emperor_german_female;Führerin;;;;;;;;;;;;x
