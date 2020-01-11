@@ -1,0 +1,11 @@
+### ANT - Trait icons gfx
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_banker"
+		texturefile = "gfx\\traits\\banker.tga"
+	}
+	spriteType = {
+		name = "GFX_trait_yakuza"
+		texturefile = "gfx\\traits\\yakuza.tga"
+	}
+}

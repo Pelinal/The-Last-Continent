@@ -1,0 +1,87 @@
+decisions = {	
+	ant_take_a_loan = {
+		is_high_prio = no
+		ai_check_interval = 60
+		only_playable = yes
+		
+		potential = {
+			NOT = { religion = none }
+			NOT = { culture = uninhabited }
+			NOT = { government = no_government }
+			NOT = { government = technocracy_government }
+
+			is_landed = yes
+			higher_tier_than = BARON
+			age = 16
+		}
+	
+		allow = {
+			custom_tooltip = {
+				text = hasnt_taken_loan_tt
+				NOT = { 
+					has_character_flag = loan_taken
+				}
+			}
+			war = no
+			is_incapable = no
+			NOT = { has_character_modifier = in_seclusion }
+		}
+		
+		effect = {
+			long_character_event = { id = antloans.01 }
+			set_character_flag = loan_taken
+		}
+		
+		ai_will_do = {
+			factor = 0.01
+		
+			modifier = {
+				factor = 50
+				war = yes
+			}
+			modifier = {
+				factor = 40
+				wealth < 0
+			}
+		}
+	}
+	
+	ant_repay_loan = {
+		is_high_prio = no
+		ai_check_interval = 12
+		only_playable = yes
+		
+		potential = {
+			NOT = { religion = none }
+			NOT = { culture = uninhabited }
+			NOT = { government = no_government }
+			NOT = { government = technocracy_government }
+
+			is_landed = yes
+			higher_tier_than = BARON
+			age = 16
+			has_character_flag = loan_taken
+		}
+	
+		allow = {
+			custom_tooltip = {
+				text = loan_being_repaid_tt
+				NOT = { 
+					has_character_flag = loan_being_repaid
+				}
+			}
+			war = no
+			is_incapable = no
+			NOT = { has_character_modifier = in_seclusion }
+		}
+		
+		effect = {
+			long_character_event = { id = antloans.07 } # Certain options and descs will appear depending on loan modifier
+			set_character_flag = loan_being_repaid
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

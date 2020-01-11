@@ -1,0 +1,7 @@
+### Antarctica - Misc Loc ###
+
+# Traits #
+yakuza;Yakuza;;;;;;;;;;;;x
+yakuza_desc;This character is a member of the Yakuza, an infamous Japanese crime syndicate that has only grown in membership after their exile to Antarctica. They are not to be trusted and are adept criminals.;;;;;;;;;;;;x
+banker;Banker;;;;;;;;;;;;x
+banker_desc;This character is a banker and spends a lot of their time counting and organising finances, hence, they are skilled when it comes to economic policy.;;;;;;;;;;;;x

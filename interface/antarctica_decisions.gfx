@@ -1,0 +1,11 @@
+### Antarctica Decisions gfx ###
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_ant_take_a_loan"
+		texturefile = "gfx\\interface\\icon_take_a_loan.dds"
+	}
+	spriteType = {
+		name = "GFX_ant_repay_loan"
+		texturefile = "gfx\\interface\\icon_take_a_loan.dds"
+	}
+}

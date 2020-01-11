@@ -1,0 +1,8 @@
+#### Event Window GFX - Antarctica ####
+
+spriteTypes = {
+	spriteType = {
+		name = "GFX_evt_businessmen"
+		texturefile = "gfx\\event_pictures\\business_meeting.tga"
+	}
+}

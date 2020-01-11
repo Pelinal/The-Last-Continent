@@ -1,0 +1,65 @@
+###################################################
+##		   Antarctica - Planned Flavour		     ##
+###################################################
+(Where requirements aren't mentioned is where I haven't thought of them yet)
+
+Decisions:
+- Form Antarctica 
+	REQS: Own an empire title + de jure two others
+- Restore the United Nations
+	REQS: EU has been dismantled, INTERPOL has been tamed, the IMF has been bought, and you are the leader of a democratic empire.
+	
+	#### explaination ####
+	To dismantle EU: either conquer all of them, destroy the title or use the 'Dismantle EU' decision.
+	To tame interpol: join INTERPOL society and become leader, advocate reform to the old ways.
+	To buy the IMF: join imf or yakuza, then become leader and buy or just remain leader of imf.
+	
+- De-Radicalise the Ranks; decision to tame interpol
+	REQS: be in democratic_grp and leader of interpol society.
+- Dismantle the EU
+	REQS: either own e_europe or be a democratic european empire bordering the EU, which is more powerful (in this case it will launch a war to finish them off and shatter e_europe).
+	
+- Research Immortality
+	REQS: Part of a science society, and it is the thing at the 100% bar thingy - use jellyfish to become immortal.
+- Consolidate Antarctic Claim - For nations that have claims on antarctica (can form unique nations for each).
+
+
+Events:
+- 'The Disunited Kingdom'
+	DESC:
+		"The once great nation that had defended their island for more than a millenia from outside invaders eventually fell, but not due to any natural enemy. Climate change affected all nations in different ways,
+		 and the UK was one of the few countries who managed to hold onto their old government after moving to Antarctica. This does not mean that there were not divisions.\nInitially united, the people of the British 
+		 Antarctic Territory slowly began to break off and forge nations of their own, such as the traitors in both Albion and Heritage... and now more restless people in the UK seek to do the same.\n Will the nation
+		 who once ruled the world be able to defend the status quo on this thawed continent? Or is this finally an end to the glorious legacy of British Empire?"
+	OPTS:
+		A) [only for vassals of UK] The old order is on it's last legs!
+		B) These are desprate times...
+		
+	EFXS:
+		- Fires 'Another Cromwell' event in 5 years
+		- Sets global flag uk_recieved_startup
+		- Randomly adds some unrest? Or maybe a modifier for the PM?
+		
+-	'Another Cromwell'
+	
+	(50% to just ignore and fire event in next 5 years) e.g. 50% every 5 years
+	
+	DESC: 
+		"It seems that a failure to subdue rebel sentiments in the United Kingdom has caused the people of the British Antarctic Territory to become resentful. They have taken the banner of rebellion and risen up against
+		 the central government, which is now based in the Falklands.\n[k_british_antarctic_territory.Holder.GetTitledFirstName], the leader of the revolt has officially declared the independence of British Antarctica from
+		 the UK with [e_united_kingdom.Holder.GetTitledFirstName] having no choice but to heed his cabinet and fight off the accursed rebels. There are fears that the Falklands themselves may be under threat."
+	OPTS:
+		A) [for uk only] We will defend our islands!
+		B) [for rebels only] Soon we will be free!
+		C) [for onlookers only] Interesting...
+	EFXS:
+		- Frees k_british_antarctic_territory
+		- Gives k_british_antarctic_territory any other vassals on mainland the choice to be a part of them
+		- Spawns 10K troops in Rothera
+		- Spawns 7K troops in Falklands
+		- Removes unrest modifiers from UK
+		- Sets global flag uk_rebellion_began
+		- Triggers 'International Crisis' event (Generic event for sending aid to wartorn or poor countries from former UN institution).
+		
+-	'The Sun Sets'
+	TEMP_BRIEF: Event for the victory of rebels, fall of uk, d_falklands and d_south_orkney become their own countries

@@ -1,0 +1,271 @@
+#############################################
+#
+# Antarctica - Loans events
+#
+#############################################
+
+namespace = antloans
+
+# Set up event for loan system
+long_character_event = {
+	id = antloans.01
+	desc = EVTDESC_ANTLOANS_01
+	picture = GFX_evt_businessmen
+	border = GFX_event_long_frame_economy
+	hide_from = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		random_independent_ruler = {
+			preferred_limit = { wealth = 300 }
+			save_event_target_as = wealthy_nation
+		}
+	}
+	
+	option = { # I will request an loan from the IMF
+		name = EVTOPTA_ANTLOANS_01
+		
+		custom_tooltip = {
+			text = ant_loan_imf_tt
+			create_random_steward = {
+				trait = banker
+			}
+			new_character = {
+				letter_event = { id = antloans.02 }
+				save_event_target_as = loan_representative
+			}
+		}
+		
+		hidden_tooltip = {
+			random_list = {
+				70 = {
+					set_character_flag = imf_loan_accepted
+					
+					modifier = {
+						factor = 0.75
+						monthly_income > 5
+					}	
+					modifier = {
+						factor = 0.5
+						wealth < -500
+					}
+				}
+				30 = { }
+			}
+		}
+	}
+	
+	option = { # Perhaps [wealthy_nation] is willing to share their wealth.
+		name = EVTOPTB_ANTLOANS_01
+		
+		custom_tooltip = {
+			text = ant_loan_indep_tt
+		}
+		
+		hidden_tooltip = {
+			event_target:wealthy_nation = {
+				if = {
+					limit = {
+						opinion = { who = ROOT value = 25 }
+					}
+					wealth = 200
+					ROOT = { set_character_flag = wealthy_nation_offer_small } # 200 Scotts (220 back - 10% interest)
+				}
+				else_if = {
+					limit = {
+						opinion = { who = ROOT value = 50 }
+					}
+					wealth = 400
+					ROOT = { set_character_flag = wealthy_nation_offer_med } # 400 Scotts (440 back - 10% interest)
+				}
+				else_if = {
+					limit = {
+						opinion = { who = ROOT value < 0 }
+					}
+				}
+				letter_event = { id = antloans.04 }
+			}
+		}
+	}
+	
+	option = { # Maybe I could procure funds from... alternative means?
+		name = EVTOPTC_ANTLOANS_01
+		
+		custom_tooltip = {
+			text = ant_loan_yakuza_tt
+			create_random_intriguer = {
+				add_trait = yakuza
+				add_trait = cruel
+			}
+			new_character = {
+				save_event_target_as = yakuza_member
+				letter_event = { id = antloans.06 }  # Always accept, but there's always a price...
+			}
+		}
+	}
+	
+	option = { # Actually, we can manage
+		name = EVTOPTD_ANTLOANS_01
+		clr_character_flag = loan_taken
+	}
+}
+
+# IMF Representative recieves request
+letter_event = {
+	id = antloans.02
+	hide_window = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		FROM = {
+			letter_event = { id = antloans.03 days = 10 }
+		}
+	}
+}
+
+# IMF Representative's letter returns to ruler
+letter_event = {
+	id = antloans.03
+	is_triggered_only = yes
+	border = GFX_event_letter_frame_economy
+	
+	desc = {
+		trigger = { has_character_flag = imf_loan_accepted }
+		text = EVTDESC_ANTLOANS_03_acceptance
+	}
+	desc = {
+		trigger = { NOT = { has_character_flag = imf_loan_accepted } }
+		text = EVTDESC_ANTLOANS_03_declined
+	}
+	
+	option = { # Get 300 Scotts (375 back - 25% interest)
+		trigger = {
+			has_character_flag = imf_loan_accepted
+		}
+		name = EVTOPTA_ANTLOANS_03
+		wealth = 300
+		add_character_modifier = {
+			name = imf_taken_loan
+			years = 5
+		}
+	}
+	option = {
+		trigger = {
+			NOT = { has_character_flag = imf_loan_accepted }
+		}
+		name = EVTOPTB_ANTLOANS_03
+		prestige = -50
+	}
+	
+	after = {
+		clr_character_flag = imf_loan_accepted
+	}
+}
+
+# Wealthy leader recieves request
+letter_event = {
+	id = antloans.04
+	hide_window = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		FROM = {
+			letter_event = { id = antloans.05 days = 10 }
+		}
+	}
+}
+
+
+# Wealthy leader's letter returns to ruler
+letter_event = {
+	id = antloans.05
+	is_triggered_only = yes
+	border = GFX_event_letter_frame_economy
+	
+	desc = {
+		trigger = { has_character_flag = wealthy_nation_offer_small }
+		text = EVTDESC_ANTLOANS_05_acceptance
+	}
+	desc = {
+		trigger = { has_character_flag = wealthy_nation_offer_med }
+		text = EVTDESC_ANTLOANS_05_acceptance_med
+	}
+	desc = {
+		trigger = {
+			NAND = { 
+				has_character_flag = wealthy_nation_offer_small
+				has_character_flag = wealthy_nation_offer_med
+			}
+		}
+		text = EVTDESC_ANTLOANS_05_declined
+	}
+	
+	option = {
+		trigger = {
+			has_character_flag = wealthy_nation_offer_small
+		}
+		name = EVTOPTA_ANTLOANS_03
+		wealth = 200
+		add_character_modifier = {
+			name = indep_taken_loan
+			years = 5
+		}
+	}
+	option = {
+		trigger = {
+			has_character_flag = wealthy_nation_offer_med
+		}
+		name = EVTOPTB_ANTLOANS_03
+		wealth = 400
+		add_character_modifier = {
+			name = indep_taken_loan
+			years = 7
+		}
+	}
+	option = {
+		trigger = {
+			NAND = { 
+				has_character_flag = wealthy_nation_offer_med
+				has_character_flag = wealthy_nation_offer_small
+			}
+		}
+		name = EVTOPTC_ANTLOANS_03
+		prestige = -75
+	}
+	
+	after = {
+		clr_character_flag = wealthy_nation_offer_med
+		clr_character_flag = wealthy_nation_offer_small
+	}
+}
+
+# Yakuza boss recieves request
+letter_event = {
+	id = antloans.06
+	hide_window = yes
+	is_triggered_only = yes
+	
+	immediate = {
+		FROM = {
+			letter_event = { id = antloans.07 days = 7 }
+		}
+	}
+}
+
+# Yakuza's letter returns to ruler
+letter_event = {
+	id = antloans.07
+	is_triggered_only = yes
+	desc = EVTDESC_ANTLOANS_07
+	border = GFX_event_letter_frame_intrigue
+	
+	option = {
+		name = EVTOPTA_ANTLOANS_07
+		wealth = 500
+		prestige = -25
+		add_character_modifier = {
+			name = gang_taken_loan
+			years = 5
+		}
+	}
+}

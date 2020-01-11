@@ -1,0 +1,23 @@
+### Events Loc - Antarctica ###
+EVTDESC_ANTLOANS_01;Before we take a loan, we must first consider where to borrow the money from and there are a number of choices... The International Monetary Fund, a former UN institution that now independantly profits from nation's debt has essentially become the World Bank of Antarctica.\nTaking from the IMF would be a safe bet, but incurr high interest rates. Alternatives may include chances of more money with little payback, such as other nations or the Yakuza. However, these two may have an agenda not suited to our own...;;;;;;;;;;;;x
+EVTOPTA_ANTLOANS_01;The IMF is trustworthy, ask them.;;;;;;;;;;;;x
+EVTOPTB_ANTLOANS_01;Perhaps [wealthy_nation.PrimaryTitle.GetName] will share their wealth?;;;;;;;;;;;;x
+EVTOPTC_ANTLOANS_01;Maybe I could ask the Yakuza...;;;;;;;;;;;;x
+EVTOPTD_ANTLOANS_01;Actually, we don't need a loan.;;;;;;;;;;;;x
+EVTDESC_ANTLOANS_03_acceptance;Dear [Root.GetTitledFirstName],\nAs a representative of the International Monetary Fund I am here to report to you that after our deliberations, myself and my colleagues have unanimously agreed to your request for a loan. You will recieve the 300 scotts shortly and we will expect repayment in 5 years time. A pleasure doing business.\nRegards, [loan_representative.GetFirstName] - IMF Consultant;;;;;;;;;;;;x
+EVTDESC_ANTLOANS_03_declined;Dear [Root.GetTitledFirstName],\nAs a representative of the International Monetary Fund I am here to report to you that after our deliberations, myself and my colleagues have decided to decline your request for a loan. This is because, we believe, that you are either not in desperate need of the money or you are highly unlikely to recover even if we offer our aid. Good luck.\nRegards, [loan_representative.GetFirstName] - IMF Consultant;;;;;;;;;;;;x
+EVTOPTA_ANTLOANS_03;Expect prompt payment, once we're recovered.;;;;;;;;;;;;x
+EVTOPTB_ANTLOANS_03;That is unfortunate.;;;;;;;;;;;;x
+EVTDESC_ANTLOANS_05_acceptance;Dear [Root.GetTitledFirstName],\nAfter some discussion with my trade ministers, it seems agreeable to accept your request for a loan. We can offer you 200 scotts in return for prompt payment with 10% interest, lower than the IMF you'll notice. May our two great nations work towards a brighter future!\nRegards, [wealthy_nation.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_ANTLOANS_05_acceptance_med;Dear [Root.GetTitledFirstName],\nAfter some discussion with my trade ministers, it seems agreeable to accept your request for a loan. And, as we're such good friends, I offer you 400 scotts in return for prompt payment with 10% interest, lower than the IMF you'll notice. May our two great nations work towards a brighter future!\nKind Regards, [wealthy_nation.GetTitledFirstName];;;;;;;;;;;;x
+EVTDESC_ANTLOANS_05_declined;Dear [Root.GetTitledFirstName],\nAfter some discussion with my trade ministers, it does not appear possible to accept your request for a loan. I am sorry, however it would not prove mutually beneficial to our nations at the current time.\nRegards, [wealthy_nation.GetTitledFirstName];;;;;;;;;;;;x
+EVTOPTA_ANTLOANS_05;I thank you, for your generosity..;;;;;;;;;;;;x
+EVTOPTB_ANTLOANS_05;What excellent news!;;;;;;;;;;;;x
+EVTOPTC_ANTLOANS_05;I understand.;;;;;;;;;;;;x
+EVTDESC_ANTLOANS_07;Dear [Root.GetTitledFirstName],\nSo you wanna borrow cash from us eh...? You must be pretty desperate! But, we have got you covered, heres 500 scotts. Don't ask where it came from and we'll expect payment in 5 years, or else.\nRegards, [wealthy_nation.GetTitledFirstName] - Yakuza Member;;;;;;;;;;;;x
+EVTOPTA_ANTLOANS_07;You'll have it back shortly.;;;;;;;;;;;;x
+
+# Tooltips for Events #
+ant_loan_imf_tt;You send a letter to the IMF with your loan request;;;;;;;;;;;;x
+ant_loan_indep_tt;You send a letter to the [wealthy_nation.GetTitledFirstName] [wealthy_nation.PrimaryTitle.GetName] with your loan request;;;;;;;;;;;;x
+ant_loan_yakuza_tt;You send someone to secretly meet the Yakuza with your request of money;;;;;;;;;;;;x

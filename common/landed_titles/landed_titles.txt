@@ -777,7 +777,7 @@ e_antarctandes = {
 				b_pullen = {}
 			}
 			c_new_bedford = {
-				color = { 38 0 153 }
+				color = { 57 0 153 }
 				color2 = { 255 255 255 }
 				
 				b_new_bedford = {}
@@ -1019,6 +1019,7 @@ e_antarctandes = {
 			color2 = { 255 255 255 }
 			
 			capital = 59 # Rydberg
+			scottish = "Albaland"
 			
 			c_rydberg = {
 				color = { 86 143 86 }
@@ -1026,8 +1027,9 @@ e_antarctandes = {
 				
 				english = "Ryandale"
 				american = "Ryandale"
+				scottish = "Cyledin"
 				
-				b_rydberg = {}
+				b_rydberg = { scottish = "Cyledin" }
 				b_wirth = {}
 				b_fladerer = {}
 				b_castlelick = {}
@@ -1037,7 +1039,7 @@ e_antarctandes = {
 			c_hill = {
 				color = { 129 143 86 }
 				color2 = { 255 255 255 }
-								
+	
 				b_hill = {}
 				b_stange = {}
 				b_ronnesholme = {}

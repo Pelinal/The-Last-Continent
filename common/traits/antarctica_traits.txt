@@ -27,3 +27,29 @@ ruler_of_nolands = {
 	incapacitating = yes
 	hidden = yes
 }
+
+banker = {
+	lifestyle = yes
+	
+	stewardship = 1
+	global_tax_modifier = 0.1
+	multiplicative_trade_post_income_modifier = 0.05
+	
+	customizer = no
+	random = no
+}
+
+yakuza = {
+	lifestyle = yes
+	
+	intrigue = 2
+	martial = 1
+	monthly_character_prestige = 0.025
+	plot_power_modifier = 0.15 # 15% more plot power, not bad :)
+	
+	ai_greed = 12
+	ai_ambition = 12
+	
+	customizer = no
+	random = no
+}

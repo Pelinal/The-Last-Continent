@@ -1,0 +1,8 @@
+### Decisions Loc - Antarctica ###
+ant_take_a_loan;Take a Loan;;;;;;;;;;;;x
+ant_take_a_loan_desc;In this new world, some major financial institutions still remain. We may seek aid from these organisations and from others to cure our debts or simply aquire addtional funds with the promise of repayment.;;;;;;;;;;;;x
+decision_name_desc_extra;Loans require repayment with varying levels of interest within 5 years.;;;;;;;;;;;;x
+
+# Tooltips for Decisions #
+hasnt_taken_loan_tt;Hasn't got a pending loan;;;;;;;;;;;;x
+loan_being_repaid_tt;Is not currently negotiating loan repayment;;;;;;;;;;;;x
